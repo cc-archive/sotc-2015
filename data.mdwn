@@ -1,0 +1,1959 @@
+[insert TOC - easy to navigate links for web version]
+
+brackets [ ] mean not part of final copy, just indicates link
+
+# <span id="h.v3evupji66c"></span>Data, Notes and Acknowledgments 
+
+## <span id="h.6lt5bddwy4ky"></span>Measuring CC’s slice of the Commons
+
+This is the second year that Creative Commons has published a State of the Commons report. CC doesn’t host or control the content in the commons, which is hosted on a myriad of platforms and is made up of every type of media and data. We see this as an iterative process, where each year we improve our process and get better results. As with any large-scale global movement, it is impossible to quantify the full impact of our work. For example, how do we capture content that is insufficiently marked, or content that is in the public domain in some jurisdictions and not in others? When CC licensed work is remixed, how do we know when one work ends and another begins?
+
+That said, we do have a handful of valuable tools that we’ve put to good use to tell the story of the CC licensed Commons and its massive growth. Building on the baseline we established with the 2014 State of the Commons reporting format[link to 2014 report], we continue to track size, scope, content, and diversity of the Commons. We added new stats from our servers, including widespread use[link to [section below](#h.ac9uxyewspov)] of our CC license buttons and views[link to [section below](#h.rtk23nbutn5)] of license deeds in different languages. We also added new usage data from more platforms[link to [section below](#h.qupr84nuu1pp)] hosting the majority of CC licensed content on the web. We aimed for variety in representation, both by media type and domain of content, and we focused on highly trafficked platforms with CC integrations up to the technical standard that would allow us to track this data over time. We also added sections on CC’s broader impact as a steward of our global Commons. We dug a bit deeper into open education, policy, and our shared cultural heritage in an aim to measure not just the quantity of the Commons, but the incredible impact that a robust Commons can have on different regions of world.
+
+Still, given the breadth and reach of CC’s global diversity, this year’s report can’t fully capture the true scope of CC’s international impact. Our aim is to continue to refine our process each year, including a more in-depth, collaborative process that reflects the geographical breadth of CC content in different languages (see [CC license use on the Polish web](https://www.google.com/url?q=http://ngoteka.pl/bitstream/handle/item/318/exec%2520summary%2520crawl.pdf?sequence%3D1&sa=D&usg=AFQjCNHxFCvR4uP22LzkxmqFn9NOnxDd_w), for example). We also hope to collaborate with domain experts and content partners in [open data](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Data&sa=D&usg=AFQjCNElgJws-0jS7O_pfutQ2fb5WE0sHw) and cultural heritage (what we like to call the [GLAM](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/GLAM&sa=D&usg=AFQjCNEVsh5I-bskV9dYXr97CvexiIK1_Q) sector) to include those stats, and eventually track commons growth in those fields over time. With regard to the open policy landscape, we are already collaborating with our partners in the [Open Policy Network](https://www.google.com/url?q=http://openpolicynetwork.org&sa=D&usg=AFQjCNGAMLlAbTrAqj4j7PnYyGzmhmMGIA) who are leading a State of Open Policy report for publication in early 2016.
+
+Another huge undertaking on our wish list would be an effort to measure the public domain, not just the portion marked with our tools, but the entire public domain as it exists and as it is defined differently across jurisdictions. We may find that the topic merits a separate academic study and report, and look forward to outlining a best process for achieving and sharing comprehensive public domain data.
+
+Ultimately, we want to be able to measure not just growth, but usability and vibrancy of the commons. The size of the Commons and its continued growth is most interesting when shared next to incredible stories of how the content is used by creators around the world to achieve CC’s [vision and mission](https://www.google.com/url?q=https://creativecommons.org/about&sa=D&usg=AFQjCNFcAE5RL5MwCJAlNRz7MOiKzFy3Tg). This is why we have begun to ask for new metrics from platforms on how CC works are used, including data points like number of downloads, users, and site trends.
+
+## <span id="h.c8jrucmsqix"></span>“More than 1 billion CC licensed works in the Commons as of 2015”
+
+Google provided us with the raw data, counting all of the web pages in its cache that link to Creative Commons license deeds, which we used to make the estimates in this report. While pages may link to Creative Commons license deeds for reasons other than to license or attribute works under them, we reason that those are vastly outnumbered by pages that indicate a CC license choice without linking to the deed. We’ve supplemented Google’s data with that of several websites that each have over a million CC-licensed works but aren’t reflected in Google’s data.
+
+Google data
+
+* Total web pages that link to current CC tools: 306,870,000
+* Total web pages that link to retired CC tools: 10,030,000
+* Grand total: 316,900,000
+
+Source: Google query, available at [link to https://github.com/creativecommons/stateofthe/blob/master/data/google-data2015.csv]
+
+Platforms not included in Google’s data
+
+* Total works across platforms listed below: 802 million
+
+[](#)[](#)
+
+<table class="table"><colgroup><col width="25%"> <col width="25%"> <col width="25%"> <col width="25%"></colgroup> 
+
+<tbody>
+
+<tr class="odd">
+
+<td align="left">
+
+Platform name
+
+</td>
+
+<td align="left">
+
+Number of works (rounded down by millions)
+
+</td>
+
+<td align="left">
+
+Number by license
+
+</td>
+
+<td align="left">
+
+Source
+
+</td>
+
+</tr>
+
+<tr class="even">
+
+<td align="left">
+
+Flickr
+
+</td>
+
+<td align="left">
+
+356 million
+
+</td>
+
+<td align="left">
+
+CC BY: 67,354,310  
+CC BY-ND: 19,215,096  
+CC BY-NC-ND: 90,361,041  
+CC BY-NC: 45,793,028  
+CC BY-NC-SA: 99,330,609  
+CC BY-SA: 32,756,937  
+CC0: 372,095  
+PDM: 1,220,335
+
+</td>
+
+<td align="left">
+
+[https://www.flickr.com/creativecommons](https://www.google.com/url?q=https://www.flickr.com/creativecommons/&sa=D&usg=AFQjCNFhHxgtRZT9E49EXnjJFr-_zgYAsA)/ (6 November 2015)
+
+</td>
+
+</tr>
+
+<tr class="odd">
+
+<td align="left">
+
+Wikipedia (all pages in all languages)
+
+</td>
+
+<td align="left">
+
+140 million
+
+</td>
+
+<td align="left">
+
+all CC BY-SA
+
+</td>
+
+<td align="left">
+
+[http://meta.wikimedia.org/wiki/List_of_Wikipedias](https://www.google.com/url?q=http://meta.wikimedia.org/wiki/List_of_Wikipedias&sa=D&usg=AFQjCNEKD0PVs41K7z3P1DOK43lAU51KtA)
+
+</td>
+
+</tr>
+
+<tr class="even">
+
+<td align="left">
+
+Scribd
+
+</td>
+
+<td align="left">
+
+50 million
+
+</td>
+
+<td align="left">
+
+unknown
+
+</td>
+
+<td align="left">
+
+Source at Scribd (same as 2014)
+
+</td>
+
+</tr>
+
+<tr class="odd">
+
+<td align="left">
+
+MusicBrainz
+
+</td>
+
+<td align="left">
+
+43 million
+
+</td>
+
+<td align="left">
+
+unknown combination of CC0, CC BY-NC-SA
+
+</td>
+
+<td align="left">
+
+[https://musicbrainz.org/statistics](https://www.google.com/url?q=https://musicbrainz.org/statistics&sa=D&usg=AFQjCNEiabl7evM3hjphs2ZeVvvOekArJQ)
+
+</td>
+
+</tr>
+
+<tr class="even">
+
+<td align="left">
+
+Freebase
+
+</td>
+
+<td align="left">
+
+39 million
+
+</td>
+
+<td align="left">
+
+all CC BY
+
+</td>
+
+<td align="left">
+
+[https://developers.google.com/freebase/faq#how_big_is_freebase](https://www.google.com/url?q=https://developers.google.com/freebase/faq%23how_big_is_freebase&sa=D&usg=AFQjCNG8BhVcCScHFu4yzklQtBKyJChkXg) (same as 2014)
+
+</td>
+
+</tr>
+
+<tr class="odd">
+
+<td align="left">
+
+DeviantArt
+
+</td>
+
+<td align="left">
+
+18 million
+
+</td>
+
+<td align="left">
+
+CC BY: 1,128,465
+
+CC BY-SA: 840,407
+
+CC BY-ND: 1,417,293
+
+CC BY-NC: 619,170
+
+CC BY-NC-SA: 1,817,106
+
+CC BY-NC-ND: 12,270,444
+
+Note: Due to late submission of data, these numbers are not included in the license breakdown bar graph.
+
+</td>
+
+<td align="left">
+
+Source at DeviantArt
+
+</td>
+
+</tr>
+
+<tr class="even">
+
+<td align="left">
+
+Geonames
+
+</td>
+
+<td align="left">
+
+10 million
+
+</td>
+
+<td align="left">
+
+all CC BY
+
+</td>
+
+<td align="left">
+
+[http://www.geonames.org/about.html](https://www.google.com/url?q=http://www.geonames.org/about.html&sa=D&usg=AFQjCNE6eOvJThMm8v8uwfjpYek_jn28OA) (same as 2014)
+
+</td>
+
+</tr>
+
+<tr class="odd">
+
+<td align="left">
+
+YouTube
+
+</td>
+
+<td align="left">
+
+13 million
+
+</td>
+
+<td align="left">
+
+all CC BY
+
+</td>
+
+<td align="left">
+
+Source at YouTube
+
+</td>
+
+</tr>
+
+<tr class="even">
+
+<td align="left">
+
+Libre.fm
+
+</td>
+
+<td align="left">
+
+133 million
+
+</td>
+
+<td align="left">
+
+all CC BY-SA
+
+</td>
+
+<td align="left">
+
+https://librefm.wordpress.com/2015/11/13/133-million-songs-and-counting/
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+Google grand total 316,900,000 + total works across platforms (802 million) = 1,118,900,000 works (1.1 billion)
+
+We cross-referenced data with sample size data from Bing which also put the total CC licensed or public domain works at just over 1 billion. This is still a low bound estimate, as we can’t know the total universe of platforms not included in Google’s data.
+
+## <span id="h.gardfma85otn"></span>“More people are choosing to share openly!”
+
+The bar graph showing breakdown by CC license and PD tool correspond to the following numbers which include Google data (web pages linking to current tools plus retired PD tool) and data from platforms not cached by Google (where we know the breakdown of works by license).
+
+Total # of works reflected in bar graph: 1,008,283,451 (minus ~111 million works where the license was unspecified)
+
+Breakdown by license: Google + Platforms not cached by Google = Total estimated works under that license
+
+* CC BY: 114,660,000 + 129,354,310 = 244,014,310
+* CC BY-SA: 67,800,000 + 305,756,937 = 373,556,937
+* CC BY-ND: 5,350,000 + 19,215,096  = 24,565,096
+* CC BY-NC: 11,130,000 + 45,793,028 = 56,923,028
+* CC BY-NC-SA: 37,230,000 + 99,330,609 = 136,560,609
+* CC BY-NC-ND: 47,340,000 + 90,361,041 = 137,701,041
+* Public domain total: 33,370,000 + 1,592,430 = 34,962,430
+
+* CC0: 21,950,000 + 372,095 = 22,322,095
+* PDM: 1,410,000 + 1,220,335 = 2,630,335
+* Retired PD tool: 10,010,000
+
+Total Free Culture works (CC BY + CC BY-SA + Public domain): 652,533,677\. CC uses the definition of free cultural works at Freedom Defined to categorize the CC licenses. “Free Culture” licenses allow for both commercial use and adaptations. Learn more at [http://creativecommons.org/freeworks](https://www.google.com/url?q=http://creativecommons.org/freeworks&sa=D&usg=AFQjCNHwqZIs4cPqmwaOeagXyVjAhFbw1g).
+
+## <span id="h.edcwvxerta7m"></span>“The public domain is growing!”
+
+The bar graph reflects the following data by year:
+
+* Total public domain works marked with CC tools in 2006: 3,276,000 (no breakdown by tool)
+* Total public domain works marked with CC tools in 2014: 17,557,500
+
+* CC0: 10,310,000
+* PDM: 1,510,000
+* Retired PD tool: 5,737,500
+
+* Total public domain works marked with CC tools in 2015: 34,962,430
+
+* CC0: 22,322,095
+* PDM: 2,630,335
+* Retired PD tool: 10,010,000
+
+Sources:
+
+* 2006: 2.34% of 140 million from [http://creativecommons.org/weblog/entry/5936](https://www.google.com/url?q=http://creativecommons.org/weblog/entry/5936&sa=D&usg=AFQjCNEPeqAD5wMB3q1q65CVBlDJ6PGhSg); marked under now [retired PD tool](https://www.google.com/url?q=http://creativecommons.org/retiredlicenses&sa=D&usg=AFQjCNEtNUH-SzroZ5dEcpqfR3fdrqhOvg) 
+* 2014: [Google data files](https://www.google.com/url?q=https://github.com/creativecommons/stateofthe/blob/master/data/notes.md%23google-data-files&sa=D&usg=AFQjCNHWUJS11k3ae7Yk_BOOJx4ECwzDww)
+* 2015: Google data files[link to https://github.com/creativecommons/stateofthe/blob/master/data/google-data2015.csv] + Flickr (above)
+
+Just as in 2014, we did not include PD totals from platforms other than Flickr, which we were able to confirm were not included in Google’s data. As such, the total public domain works marked by our tools is a low estimate. For example, Europeana alone reports over 10 million works under PDM or CC0.
+
+## <span id="h.ac9uxyewspov"></span>“In 2015, CC licensed works were viewed online 136 billion times”
+
+Views of CC works were calculated by combining two sets of data: the number of times CC license buttons were downloaded by a browser as part of viewing a web page, and the number of Wikipedia page views. [CC license buttons](https://www.google.com/url?q=https://creativecommons.org/about/downloads%23Buttons&sa=D&usg=AFQjCNHD-2-bPSZuUUBWOv0d5guWHUL0PA) are hosted by the CC server; web pages that display our machine-readable code, as that from our [CC license chooser](https://www.google.com/url?q=http://creativecommons.org/choose&sa=D&usg=AFQjCNHALeX4BHAI3gOzdW_y34ty5mDZGg), reference the CC license buttons hosted by our servers, which allow us to track each time a browser downloads the button image as part of someone viewing that page. In September 2015, CC license buttons were downloaded 552,015,520 times. We multiplied this number by 11.5 to achieve the approximate number of 6 billion views in 2015\. We combined 6 billion with the total number of page views of Wikipedia in 2015 ([130 billion](https://www.google.com/url?q=https://stats.wikimedia.org/EN/TablesPageViewsMonthly.htm&sa=D&usg=AFQjCNFUryk4MCFiuOYfhdGVTz8cGT7V-w)) to reach 136 billion views. Wikipedia pages do not use the machine-readable code referencing the CC license buttons and therefore are not included in our server data. Since we have not accounted for the many CC licensed works that do not reference the CC license buttons hosted on our servers and that are not Wikipedia, 136 billion is a low bound estimate.
+
+## <span id="h.thiwln9a27at"></span>“To date, the 4.0 license suite has been officially translated into 7 languages, with 3 more to be published before the new year.”
+
+Starting with the 4.0 license suite, CC instituted its first [Legal Code Translation Policy](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Legal_Code_Translation_Policy&sa=D&usg=AFQjCNFsBE2iL6z-tkVOgeR48M6K4y9qbA). Official translations of the 4.0 suite and CC0 are tracked at [https://wiki.creativecommons.org/wiki/Legal_Tools_Translation](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Legal_Tools_Translation&sa=D&usg=AFQjCNEUo2G3aAkVggcvliAixDoUxeI2nQ).
+
+## <span id="h.rtk23nbutn5"></span>“People are sharing with CC licenses in as many as 34 languages with more than 90 million views of CC’s deeds in the last ten years”
+
+Prior to CC’s first official translation policy, CC affiliates unofficially translated license deeds for understanding around the world. Since CC launched the first version of its license suite in 2002, CC deed pages have been unofficially translated into at least 34 languages. 90 million views reflects the total number of views of these deed pages from January 1, 2005 through November 3, 2015, with 2005 marking the earliest period where tracking with Google Analytics is available for our servers. For those interested in a specific breakdown of deed pageviews by language, we have included that data here. Language categories with an asterisk may include variations on that language for simplicity, eg. Chinese includes simplified and traditional Chinese.
+
+Views of deed pages grouped by language (unofficial translations):
+
+1.  Arabic: 28,438 views
+2.  Belarusian: 7,686 views
+3.  Catalan: 12,298 views
+4.  Chinese*: 1,070,159 views
+5.  Croatian: 331,111 views
+6.  Czech: 333,413 views
+7.  Danish: 30,735 views
+8.  Dutch: 315,019 views
+9.  English*: 67,155,975 views
+10.  Esperanto: 19,984 views
+11.  Finnish: 115,246 views
+12.  French*: 2,204,878 views
+13.  Galician: 10,760 views
+14.  German*: 1,700,918 views
+15.  Greek: 201,277 views
+16.  Hungarian:170,549 views
+17.  Indonesian: 14,604 views
+18.  Italian: 1,411,242 views
+19.  Japanese: 1,143,936 views
+20.  Korean: 6,337,118 views
+21.  Latvian: 4,611 views
+22.  Lithuanian: 6,918 views
+23.  Malay: 67,611 views
+24.  Maori: 769 views
+25.  Norwegian: 93,737 views
+26.  Persian (Farsi): 6,917 views
+27.  Polish: 351,859 views
+28.  Portuguese: 2,148,746 views
+29.  Romanian: 63,000 views
+30.  Russian: 42,274 views
+31.  Spanish*: 4,163,811 views
+32.  Swedish: 129,838 views
+33.  Turkish: 5,381 views
+34.  Ukrainian: 15,372 views
+
+Breakdown of works by media type includes data from 16 platforms plus the Directory of Open Access Journals (DOAJ). Specific totals by platform below.
+
+### <span id="h.6d6jok7std6q"></span>“Audio tracks: 4 million”
+
+* Jamendo: 496,289 / Source: Jamendo staff
+* Bandcamp: 1,950,000 / Source: Bandcamp staff
+* Free Music Archive: 86,394 / Source: Free Music Archive staff
+* Tribe of Noise: 29,000 / Source: Tribe of Noise staff
+
+### <span id="h.ihra12cur47x"></span>“Images (Photos, Artworks): 391 million”
+
+* 500px: 661,307 / 500px staff
+* Flickr: 356,403,451 / Source: [https://www.flickr.com/creativecommons/](https://www.google.com/url?q=https://www.flickr.com/creativecommons/&sa=D&usg=AFQjCNFhHxgtRZT9E49EXnjJFr-_zgYAsA) verified by Flickr staff and accessed on 11/6/15
+* Wikimedia Commons: 23,124,319 (bitmaps + drawings) / Source: [https://meta.wikimedia.org/wiki/State_of_the_Commons/2015](https://www.google.com/url?q=https://meta.wikimedia.org/wiki/State_of_the_Commons/2015&sa=D&usg=AFQjCNE2srg3Kq96UQnTWJCVpqxP5JhNug) verfied by WMF staff
+* Internet Archive: 42,122 / Source: Internet Archive staff
+* Europeana: 10,865,086 / Source: Europeana staff
+
+### <span id="h.kqsi3yryhxtm"></span>“Videos: 18.4 million”
+
+* Vimeo: 5,000,000 / Source: Vimeo API ([1](https://www.google.com/url?q=https://developer.vimeo.com/api/playground/creativecommons&sa=D&usg=AFQjCNGz9FjrkzEiUbQa-05_NAAuPIalHg), [2](https://www.google.com/url?q=https://developer.vimeo.com/api/playground/videos&sa=D&usg=AFQjCNHmhW5q4CKQ2hTdelzuOU1rXd65EQ))
+* YouTube: 13,000,000 / Source: YouTube staff
+* Wikimedia Commons: 58,599 / Source: [https://meta.wikimedia.org/wiki/State_of_the_Commons/2015](https://www.google.com/url?q=https://meta.wikimedia.org/wiki/State_of_the_Commons/2015&sa=D&usg=AFQjCNE2srg3Kq96UQnTWJCVpqxP5JhNug) verfied by WMF staff
+* MIT OpenCourseWare: 83 / Source: [http://ocw.mit.edu/about/site-statistics/monthly-reports/](https://www.google.com/url?q=http://ocw.mit.edu/about/site-statistics/monthly-reports/&sa=D&usg=AFQjCNED5o7MNvUe-MDzDtF7SmmBIQSZMg) verified by MIT OCW staff
+* Internet Archive: 320,983 / Source: Internet Archive staff
+* Europeana: 25,369 / Source: Europeana staff
+
+### <span id="h.x9p1m1ffhf26"></span>“Texts (Articles, Stories, Documents): 46.9 million”
+
+* Wikimedia Commons: 179,733 / Source: [https://meta.wikimedia.org/wiki/State_of_the_Commons/2015](https://www.google.com/url?q=https://meta.wikimedia.org/wiki/State_of_the_Commons/2015&sa=D&usg=AFQjCNE2srg3Kq96UQnTWJCVpqxP5JhNug) verifed by WMF staff
+* Wikipedia: 35,900,000 / Source: [https://meta.wikimedia.org/wiki/State_of_the_Commons/2015](https://www.google.com/url?q=https://meta.wikimedia.org/wiki/State_of_the_Commons/2015&sa=D&usg=AFQjCNE2srg3Kq96UQnTWJCVpqxP5JhNug) verifed by WMF staff
+* Internet Archive: 905,388 (texts + web) / Source: Internet Archive staff
+* Europeana: 9,989,925 / Source: Europeana staff
+
+### <span id="h.63gy666wz22q"></span>“Open Educational Resources: 76,000”
+
+* Boundless: 49,000 / Source: Boundless staff
+* Skills Commons: 24,609 / Source: Skills Commons staff
+* MIT OpenCourseWare: 2,304 / Source: [http://ocw.mit.edu/about/site-statistics/monthly-reports/](https://www.google.com/url?q=http://ocw.mit.edu/about/site-statistics/monthly-reports/&sa=D&usg=AFQjCNED5o7MNvUe-MDzDtF7SmmBIQSZMg) verified by MIT OCW staff
+* Internet Archive: 530 / Source: Internet Archive staff
+
+### <span id="h.4gzzw798ysqk"></span>“Research (Journal Articles): 1.4 million”
+
+* PLOS: 140,000 / Source: [https://www.plos.org/](https://www.google.com/url?q=https://www.plos.org/&sa=D&usg=AFQjCNFexA9D4WYD4_oSP2ltkxcWfgr58Q) verified by PLOS staff
+* DOAJ: 1,323,304 / Source: [https://doaj.org/](https://www.google.com/url?q=https://doaj.org/&sa=D&usg=AFQjCNHGg0oHY0qQgKxrv33yquP1LXjASw) accessed 10/26/15
+
+### <span id="h.wqo5t5agncqj"></span>“Other (Multimedia, 3D): 23,000”
+
+* Wikimedia Commons: 23 (multimedia) / Source: [https://meta.wikimedia.org/wiki/State_of_the_Commons/2015](https://www.google.com/url?q=https://meta.wikimedia.org/wiki/State_of_the_Commons/2015&sa=D&usg=AFQjCNE2srg3Kq96UQnTWJCVpqxP5JhNug) verifed by WMF staff
+* Internet Archive: 5,931 (data, software, collection, undefined) / Source: Internet Archive staff
+* Europeana: 17,646 (3D) / Source: Europeana staff
+
+Breakdown of works by platform includes data from 16 platforms and the Directory of Open Access Journals (DOAJ). Specific totals by platform below, with additional usage data from some platforms.
+
+### <span id="h.qupr84nuu1pp"></span>“Flickr: 356 million photos”
+
+* Exact total: 356,403,451
+
+* CC BY: 67,354,310
+* CC BY-ND: 19,215,096
+* CC BY-NC-ND: 90,361,041
+* CC BY-NC: 45,793,028
+* CC BY-NC-SA: 99,330,609
+* CC BY-SA: 32,756,937
+* CC0: 372,095
+* PDM: 1,220,335
+
+* Source: [https://www.flickr.com/creativecommons/](https://www.google.com/url?q=https://www.flickr.com/creativecommons/&sa=D&usg=AFQjCNFhHxgtRZT9E49EXnjJFr-_zgYAsA) verified by Flickr staff and accessed on 11/6/15
+
+### <span id="h.lzaw45332axf"></span>“Wikipedia: 35.9 million articles”
+
+* 100% of articles under CC BY-SA
+* Total # of views of CC content: 199.7 billion from Nov 2014–Oct 2015
+* \# of registered users: 42,116,280
+* \# of users registered in the past 3 months: 1,087,269
+* \# of registered users that are active: 69,419 (defined as registered users who contributed 5 times or more in the past month)
+* Source: [https://meta.wikimedia.org/wiki/State_of_the_Commons/2015](https://www.google.com/url?q=https://meta.wikimedia.org/wiki/State_of_the_Commons/2015&sa=D&usg=AFQjCNE2srg3Kq96UQnTWJCVpqxP5JhNug) verfied by WMF staff
+
+### <span id="h.v42szqwch34v"></span>“Wikimedia Commons: 21.6 million media files”
+
+* Exact total: 21,650,962
+
+* CC0: 832,515
+* CC-BY: 3,427,781
+* CC-BY-NC: 4,839
+* CC-BY-SA: 17,385,701
+* CC-BY-ND: 0
+* CC-BY-NC-SA: 123
+* CC-BY-NC-ND: 3
+* PDM: 0
+
+* \# of works under Version 4.0: 2,902,825
+* percentage of works under CC or public domain out of ALL works on platform: 83.2%
+* \# of registered users: 5,254,013
+* \# of users registered in the past 3 months: 283,890
+* \# of registered users that are active: 8,047 (defined as registered users who contributed 5 times or more in the past month)
+* \# of users that use CC licenses, CC0 or PDM for their content: 649,886
+
+* Source: [https://meta.wikimedia.org/wiki/State_of_the_Commons/2015](https://www.google.com/url?q=https://meta.wikimedia.org/wiki/State_of_the_Commons/2015&sa=D&usg=AFQjCNE2srg3Kq96UQnTWJCVpqxP5JhNug) verfied by WMF staff
+
+### <span id="h.ek9v7mypm10f"></span>“Europeana: 20.9 million digital objects”
+
+* Exact total: 20,953,772
+
+* PDM: 10,300,806
+* CC0: 517,675
+* CC-BY-SA: 2,953,210
+* CC-BY-NC-ND: 3,311,299
+* CC-BY-NC-SA: 1,836,195
+* CC-BY: 1,398,867
+* CC-BY-NC: 551,597  
+* CC-BY-ND: 84,123  
+
+* Source: Europeana staff
+
+### <span id="h.f4d70kebr0vd"></span>“YouTube: 13 million videos”
+
+* 100% of videos under CC BY
+* Source: YouTube staff
+
+### <span id="h.8cg4x0708t1v"></span>“Vimeo: 5 million videos”
+
+* Exact total: 4,918,817 (Excludes CC0, so rounding up to 5 million)
+
+* CC: 55,583,807 videos
+* CC BY: 1,213,461
+* CC BY-SA: 408,614
+* CC BY-ND: 298,931
+* CC BY-NC: 790,365
+* CC BY-NC-SA: 587,729
+* CC BY-NC-ND: 1,619,817
+* CC0: Unknown
+
+* Source: Vimeo API ([1](https://www.google.com/url?q=https://developer.vimeo.com/api/playground/creativecommons&sa=D&usg=AFQjCNGz9FjrkzEiUbQa-05_NAAuPIalHg), [2](https://www.google.com/url?q=https://developer.vimeo.com/api/playground/videos&sa=D&usg=AFQjCNHmhW5q4CKQ2hTdelzuOU1rXd65EQ))
+
+### <span id="h.gu5uqzu9xua7"></span>“Internet Archive: 2 million files”
+
+* Exact total: 2,006,490
+
+* CC BY-NC-ND: 479,181
+* PDM: 391,930
+* CC BY-SA:  320,436
+* CC BY-NC-SA:  248,785
+* CC0: 223,036
+* CC BY: 220,781
+* CC BY-ND: 65,126
+* CC BY-NC: 57,215
+
+* \# of works under Version 4.0: 102,900
+* percentage of works under CC or public domain out of ALL works on platform: 8%
+* \# of registered users: 2,335,606
+* \# of users registered in the past 3 months: 106,965
+* \# of registered users that are active: 3,000,000 (defined as the number of unique IPs seen a day)
+* \# of users that use CC licenses, CC0 or PDM for their content: 107,383
+* Source: Internet Archive staff
+
+### <span id="h.l23ajzpx7sbz"></span>“Bandcamp: 1.95 million tracks”
+
+* Approximately half are under CC BY-NC-ND or CC BY-NC-SA
+* percentage of works under CC or public domain out of ALL works on platform: 11%
+* \# of registered users: 660,000 users signed up for fan accounts
+* Source: Bandcamp staff
+
+### <span id="h.8v6974stsfic"></span>“500px: 661,000 photos”
+
+* Exact total: 661,307
+
+* CC BY-NC: 114,024
+* CC BY-NC-ND: 227,233
+* CC BY-NC-SA: 148,951  
+* CC BY: 14,064
+* CC BY-ND: 34,831  
+* CC BY-SA:  52,717
+
+* percentage of works under CC or public domain out of ALL works on platform: 1.46% of total public photos
+* \# of registered users: 6,000,000
+* \# of registered users that are active: 1,000,000
+* \# of users that use CC licenses, CC0 or PDM for their content: 56,837
+* Geographic breakdown of users (top 15 countries; # of distinct users):
+
+* United States: 4,390
+* Germany: 3,139
+* France: 2,484
+* Spain: 2,082
+* India: 1,242
+* Canada: 1,186
+* United Kingdom: 1,137
+* Brasil: 1,126
+* Italy: 943
+* Russia: 836
+* China: 821
+* México: 656
+* Australia: 651
+* Switzerland: 429
+* Argentina: 413
+
+* Source: 500px staff
+
+### <span id="h.a2mlxub8sfwc"></span>“Jamendo: 496,000 tracks”
+
+* Exact total: 496,289
+
+* CC BY: 26,305
+* CC BY-SA: 107,117
+* CC BY-NC: 6,301
+* CC BY-ND: 19,210
+* CC BY-NC-SA: 228,977
+* CC BY-NC-ND: 106,258
+* CC NC-Sampling+ (retired tool): 1,505
+* CC Sampling+ (retired tool): 616
+* Free Art License: 1,050 ([compatible with but not equivalent](https://www.google.com/url?q=http://creativecommons.org/weblog/entry/44030&sa=D&usg=AFQjCNHnWNl2SFy9OjAh-DQdauqoyPZcBQ) to CC BY-SA)
+
+* percentage of works under CC or public domain out of ALL works on platform: 99.8%
+* \# of registered users: 2,453,719
+* Source: Jamendo staff
+
+### <span id="h.kmcoz9d36f6b"></span>“PLOS: 140,000 articles”
+
+* Aside from occasional one-offs, all articles are licensed CC BY.
+* \# of works under Version 4.0: No exact number, but PLOS has used CC BY 4.0 from 2014 onwards. 33,000 articles were published in 2014, and 135,000+ articles were published between 2003-2014.
+* Total # of downloads of CC content: ~22.8 million in 2014 (1.9 million monthly article downloads in 2014)
+* Total # of views of CC content: ~139.2 million in 2014 (11.6 million monthly article views in 2014)
+* Geographic breakdown of users (Regions of corresponding authors of research articles published in 2014):
+
+* Americas: 32%
+* UK and Europe: 33%
+* Asia-Pacific: 33%
+* Rest of the world: 3%
+
+* Source: PLOS staff
+
+### <span id="h.ba75xbtciil9"></span>“Total Open Access articles under CC BY: 675,000; under any CC license: 1.3 million”
+
+* Exact total (any CC license): 1,323,304
+
+* CC BY: 675,686  
+
+* Source: Directory of Open Access Journals ([DOAJ](https://www.google.com/url?q=https://doaj.org/&sa=D&usg=AFQjCNHGg0oHY0qQgKxrv33yquP1LXjASw)) on October 26, 2015
+
+### <span id="h.2ceczmwp6m1h"></span>“Free Music Archive: 86,000 tracks”
+
+* Exact total: 86,394
+
+* CC BY: 3,615
+* CC BY-NC: 7,093
+* CC BY-ND: 802
+* CC BY-SA: 2,265
+* CC BY-NC-SA: 37,814
+* CC BY-NC-ND: 33,801
+* CC0: 774
+* PDM: 197
+
+* \# of works under Version 4.0: 12,319
+* percentage of works under CC or public domain out of ALL works on platform: 96%
+* Total # of downloads of CC content: 90,694,768
+* Total # of listens of CC content: 152,894,792
+* \# of registered users: 235,060
+* \# of users registered in the past 3 months: 9,851
+* \# of registered users that are active: 11,785 (defined as registered users who have logged in in the past 3 months)
+* \# of users that use CC licenses, CC0 or PDM for their content: 13,485 distinct artists (users not included are individual curators and netlabels)
+* Source: Free Music Archive staff
+
+### <span id="h.mmcsne7qzpgg"></span>“Boundless: 49,000 open educational resources”
+
+* 100% of OER under CC BY-SA
+* \# of works under Version 4.0: 49,000
+* Total # of views of CC content: ~60 million visits in 2015 (5 million unique visitors a month)
+* \# of registered users: 300,000+
+* Geographic breakdown of users (top 10 countries):
+
+* United States: 50.8%
+* India: 7.4%
+* United Kingdom: 6.4%
+* Australia: 4.5%
+* Philippines: 4.3%
+* Canada: 3.6%
+* Kenya: 2.4%
+* Malaysia: 1.9%
+* Pakistan: 1.6%
+* South Africa: 1.3%
+
+* Breakdown by type of user:
+
+* Students: 85%
+* Educators, Admin or Faculty: 10%
+* Other (experts, self-learner): 5%
+
+* Source: Boundless staff
+
+### <span id="h.so15a7cg9tog"></span>“Tribe of Noise: 29,000 tracks”
+
+* 100% of tracks are CC BY-SA
+* \# of works under Version 4.0: 3,800
+* percentage of works under CC or public domain out of ALL works on platform: 100% on [www.tribeofnoise.com](https://www.google.com/url?q=http://www.tribeofnoise.com&sa=D&usg=AFQjCNFMj6Fi_SVCUofnCjecSO8P6FAXww); 0% on pro.tribeofnoise.com
+* Total # of downloads of CC content: 500,000
+* Total # of listens of CC content: ~1.2 billion listens in 2015 (100 million unique listeners a month for CC-based music channels in-store)
+* \# of registered users: 31,000 (90% are independent musicians)
+* \# of users registered in the past 3 months: 640
+* \# of registered users that are active: 26,700
+* \# of users that use CC licenses, CC0 or PDM for their content: ~27,900 (90%)
+* Geographic breakdown of users (top 5 countries):
+
+* United States: 9,000
+* Netherlands: 4,000
+* UK: 3,000
+* South Africa: 2,000
+* Canada: 1,000
+* Australia: 10,000
+
+* Age breakdown of users:
+
+* <16 years: 2%
+* 16-25 years: 21%
+* 26-35 years: 27%
+* 36-45 years: 21%
+* 46-55 years: 16%
+* 56-65 years: 10%
+* >65 years: 3%
+
+* Source: Tribe of Noise staff
+
+### <span id="h.6sv43jv9oez1"></span>“Skills Commons: 24,000 career training materials”
+
+* Exact total: 24,069
+
+* CC BY: 3,402
+* CC BY-SA: 3,429
+* CC BY-ND: 3,464
+* CC BY-NC: 3,430
+* CC BY-NC-SA: 3,430
+* CC BY-NC-ND: 3,465
+* Public Domain: 45
+* CC0: 3,402
+* Other: 2
+
+* percentage of works under CC or public domain out of ALL works on platform: 100%
+* Total # of downloads of CC content: 24,254
+* Total # of listens of CC content: 37,903
+* \# of registered users: 595
+* \#of users registered in the past 3 months: 108
+* \# of users that use CC licenses, CC0 or PDM for their content: 100%
+* Geographic breakdown of users: 100% North America
+* Source: Skills Commons staff
+
+### <span id="h.eyag9vjv7po"></span>“MIT OpenCourseWare: 2,300 courses”
+
+* Exact total: 2,304
+* 100% of content created by MIT faculty and staff is CC BY-NC-SA
+* \# of works under Version 4.0: 2,304
+* Total # of downloads of CC content: 75,795,556 (zip + iTunesU downloads)
+* Total # of views of CC content: 1,214,440,794 (web + YouTube views)
+* \# of registered users: n/a (121,589,875 unique visitors)
+* Geographic breakdown of users (top 15 countries; # of distinct users):
+
+* North America: 44%
+* South America: 4%
+* Africa: 6%
+* Europe and Russia: 17%
+* Asia-Pacific: 29%
+
+* Breakdown by type of user:
+
+* Learners: 43%
+* Students: 42%
+* Educators: 9%
+* Other: 6%
+
+* Source: MIT OCW staff; October 2015 report ([http://ocw.mit.edu/about/site-statistics/monthly-reports/](https://www.google.com/url?q=http://ocw.mit.edu/about/site-statistics/monthly-reports/&sa=D&usg=AFQjCNED5o7MNvUe-MDzDtF7SmmBIQSZMg)); [http://ocw.mit.edu/about/site-statistics/](https://www.google.com/url?q=http://ocw.mit.edu/about/site-statistics/&sa=D&usg=AFQjCNFcPZYhm-BvDv95L9pEjN0e9pZIOQ) 
+
+## <span id="h.hbeh8yiab37k"></span>Countries with Open Education policies
+
+Countries listed have legislation, policies, or funder mandates at the national, provincial/state, or institutional level that lead to the creation, increased use, or support for improving OER. CC relied on our international open education partners to notify us of existing open education policies in their countries. For specific policy information, see the OER Policy Registry[link to [https://wiki.creativecommons.org/wiki/OER_Policy_Registry](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/OER_Policy_Registry&sa=D&usg=AFQjCNGZIpVXNQiBms8MDsASfyk-C3zwBg)].
+
+Total $ dispersed via policies to date:
+
+* United States: 2,249,843,557 USD; 2,802,750,000 USD projected for 2015/16
+* Canada: 16,040,000 CAD; 850,000 CAD projected for 2015/16
+* Poland: 45 million Polish złoty (approximately 11 million Euro or 13 million USD)
+
+## <span id="h.a2a43fg4mpcv"></span>“Open Textbooks have saved students $174 million to date, with an additional $53 million projected through academic year 2015/16”
+
+Our open education partners collectively reported cost savings of $174,448,941 USD after replacing proprietary textbooks and materials with open textbooks licensed under CC. These savings are to date, inclusive of the 2015 fall term. These same partners projected collective cost savings of $53,427,667 USD for the 2015-2016 academic year.
+
+Data was collected via an open call to the global open education community. All respondents were from North America. All respondents, projects, reported savings, and sources are listed below. Due to the diversity of the open education space, savings were calculated per individual project. We only included a project’s cost savings in the total if a methodology was provided. We also avoided duplication by verifying each project’s savings by year.
+
+Reported savings to date in 2015
+
+* All numbers are USD; savings reported in CAD have been converted using www.oanda.com
+
+* If a project reports $0, it is because the project has just started; it has not tracked savings to date; or the number was not verified by the source.
+* Not all projects were able to provide projected savings, so the total is a low estimate.
+
+[](#)[](#)
+
+<table><colgroup><col width="25%"> <col width="25%"> <col width="25%"> <col width="25%"></colgroup> 
+
+<tbody>
+
+<tr class="odd">
+
+<td align="left">
+
+Project
+
+</td>
+
+<td align="left">
+
+Reported savings (to date unless specified)
+
+</td>
+
+<td align="left">
+
+Projected savings for AY 2015/16
+
+</td>
+
+<td align="left">
+
+Method used to calculate savings
+
+Source
+
+</td>
+
+</tr>
+
+<tr class="even">
+
+<td align="left">
+
+Georgia Affordable Learning Initiative - Georgia Highlands College
+
+</td>
+
+<td align="left">
+
+$1,970,000
+
+</td>
+
+<td align="left">
+
+$1,000,000
+
+</td>
+
+<td align="left">
+
+Textbook savings calculated by looking at the actual number of students enrolled in each class, and then using the cost for the non-OER textbooks from the previous semester. Example: for ARTS 113, the previous non-OER text cost was $117.50\. Had the 315 students enrolled in the class this fall had to purchase the previous text, the total cost would have been $37,012.50\. The OER used in this class this semester is free, so we consider $37,012.50 to be the savings to our students. In total over the last three years 21,536 students have not had to purchase a textbook for a savings of $1.97 million.
+
+Source: College staff obtained data from faculty using OER; [https://campustechnology.com/articles/2015/11/20/u-georgia-nears-2-million-mark-in-oer-savings.aspx](https://www.google.com/url?q=https://campustechnology.com/articles/2015/11/20/u-georgia-nears-2-million-mark-in-oer-savings.aspx&sa=D&usg=AFQjCNGZs9yZJbUH4i3vOfJg3HBfSW1QLg) 
+
+</td>
+
+</tr>
+
+<tr class="odd">
+
+<td align="left">
+
+California Affordable Learning Solutions Initiative
+
+</td>
+
+<td align="left">
+
+$0
+
+</td>
+
+<td align="left">
+
+$1,000,000
+
+</td>
+
+<td align="left">
+
+No reported savings to date. Projected savings will be captured by an online reporting tool used by CSU campuses.
+
+Source: California State University, Office of the Chancellor.
+
+</td>
+
+</tr>
+
+<tr class="even">
+
+<td align="left">
+
+Alberta OER Project
+
+</td>
+
+<td align="left">
+
+$0
+
+</td>
+
+<td align="left">
+
+$11,512
+
+</td>
+
+<td align="left">
+
+Rough estimate: 10 courses @ 30 students @ $50 CAD per student = $15 000 CAD
+
+Source: Rory McGreal, Athabasca University
+
+</td>
+
+</tr>
+
+<tr class="odd">
+
+<td align="left">
+
+B.C. Open Textbook Project
+
+</td>
+
+<td align="left">
+
+$703,648
+
+</td>
+
+<td align="left">
+
+$538,192
+
+</td>
+
+<td align="left">
+
+Method described in detail at [http://open.bccampus.ca/2015/09/10/more-bc-open-textbook-stats/](https://www.google.com/url?q=http://open.bccampus.ca/2015/09/10/more-bc-open-textbook-stats/&sa=D&usg=AFQjCNEjlfjc5dfIFbNTqnA3_M0hZRlSXw)
+
+Source: BCcampus
+
+</td>
+
+</tr>
+
+<tr class="even">
+
+<td align="left">
+
+CK-12: District El Paso ISD, TX
+
+</td>
+
+<td align="left">
+
+$200,000
+
+</td>
+
+<td align="left">
+
+-
+
+</td>
+
+<td align="left">
+
+No method described, but reported by news source.
+
+Source: [http://archive.elpasotimes.com/news/ci_26690335/episd-switches-e-books-high-school-science/](https://www.google.com/url?q=http://archive.elpasotimes.com/news/ci_26690335/episd-switches-e-books-high-school-science/&sa=D&usg=AFQjCNHvFfdwrU1-T2JczRApE8EDoBSR3A)
+
+</td>
+
+</tr>
+
+<tr class="odd">
+
+<td align="left">
+
+CK-12: District Tullahoma City Schools
+
+</td>
+
+<td align="left">
+
+$490,000
+
+</td>
+
+<td align="left">
+
+$215,000
+
+</td>
+
+<td align="left">
+
+Average social studies text price was approximately $80 per text. In accomplishing the transition to CK-12 flexbooks we were able to save the cost of $80 per text and reallocate those funds to support our teachers who served as flexbook curators and to purchase chromebooks. So for students these textbooks, formerly $80 per text, are now $0 per text.
+
+Source: CK-12 Foundation
+
+</td>
+
+</tr>
+
+<tr class="even">
+
+<td align="left">
+
+College of the Canyons: OER Degree Pathway
+
+</td>
+
+<td align="left">
+
+$750,000 for academic year 2014/15
+
+</td>
+
+<td align="left">
+
+$800,000
+
+</td>
+
+<td align="left">
+
+Total sections using OER in lieu of commercial textbook X average enrollment per section X cost of new textbook. in years past we used $100 as an average cost. The amount saved is now based on the actual retail cost of the new textbook for each specific course in our local college bookstore.
+
+Source: College of the Canyons
+
+</td>
+
+</tr>
+
+<tr class="odd">
+
+<td align="left">
+
+Introductory Statistics/Collaborative Statistics: by Openstax College/Illowsky & Dean
+
+</td>
+
+<td align="left">
+
+$3,000,000 (for De Anza College only)
+
+</td>
+
+<td align="left">
+
+-
+
+</td>
+
+<td align="left">
+
+95+ sections/year using text → 95 * 40 = 3800 students/year minimum. 3800 students * 8.5 years = 32,300 students. 32,300 * average cost (new, used, self-selling) of $100 for another text = $3,230,000 if ALL students have a text. Some years, 100-105 sections used the text (110 sections per year). The 5 distance learning sections/ year have 60 students per section.
+
+Source: Barbara Illowsky, PhD, Dean of Basic Skills & Open Educational Resources, CCC Online Ed Initiative (OEI). Savings are professor’s personal conservative estimate for De Anza College.
+
+</td>
+
+</tr>
+
+<tr class="even">
+
+<td align="left">
+
+Lumen Learning
+
+</td>
+
+<td align="left">
+
+$1,614,335 for Fall 2015
+
+</td>
+
+<td align="left">
+
+-
+
+</td>
+
+<td align="left">
+
+We have assumed the textbook cost was $100 per course, and have calculated savings at $95 per course after our $5 support fee.
+
+Source: Lumen Learning
+
+</td>
+
+</tr>
+
+<tr class="odd">
+
+<td align="left">
+
+Maricopa Millions: OER Project
+
+</td>
+
+<td align="left">
+
+$4,584,000
+
+</td>
+
+<td align="left">
+
+-
+
+</td>
+
+<td align="left">
+
+Savings calculated using class size of 20 and textbook cost of $100 for the "No Cost/Low Cost" sections of the 50 highest enrollment courses and all developmental education courses. We use the following to calculate the savings: Top 50 enrollment courses identified as "Low cost/No cost - less than $40" (mostly OER). 20 students per section. $100 savings per student (books, online homework, etc)
+
+Source: Maricopa Community Colleges funds; [https://www2.maricopa.edu/welcome-to-the-maricopa-millions-oer-project](https://www.google.com/url?q=https://www2.maricopa.edu/welcome-to-the-maricopa-millions-oer-project&sa=D&usg=AFQjCNFdFv8k2bXdafl4Y0-thmRxMbwtjQ), [https://maricopa.instructure.com/courses/811971](https://www.google.com/url?q=https://maricopa.instructure.com/courses/811971&sa=D&usg=AFQjCNEspeeZQoaw7emF2u8_1FfgUZUVuw) 
+
+</td>
+
+</tr>
+
+<tr class="even">
+
+<td align="left">
+
+Montgomery College: OER Project
+
+</td>
+
+<td align="left">
+
+$0
+
+</td>
+
+<td align="left">
+
+$78,640
+
+</td>
+
+<td align="left">
+
+Track using fields: instructor, course, OER type, reference, students FY2106, cost of former resource, cost savings (# of students times former resource cost)
+
+Source: Montgomery College
+
+</td>
+
+</tr>
+
+<tr class="odd">
+
+<td align="left">
+
+Open Learning Initiative
+
+</td>
+
+<td align="left">
+
+$15,264,110 for academic year 2014/15
+
+</td>
+
+<td align="left">
+
+$4,000,000
+
+</td>
+
+<td align="left">
+
+Calculated using SPARC methodologies (100 dollars per enrollment average price), less cumulative service fees. In the 2014-2015 year we saw 48k enrollments academically (this does not count independent OLI use). However some portion of those enrollments did pay a service fee (always less than the textbook, totaling 232,190\. So using 100 dollars, 4,800,000 - 232,190 = 4,567,810
+
+Source: OLI
+
+</td>
+
+</tr>
+
+<tr class="even">
+
+<td align="left">
+
+Open Oregon
+
+</td>
+
+<td align="left">
+
+$0
+
+</td>
+
+<td align="left">
+
+$227,175
+
+</td>
+
+<td align="left">
+
+Open Oregon calculated these numbers by asking grantees to estimate max/min cost of previous textbooks, as well as estimated # of students enrolled per year.
+
+Source: Open Oregon; [http://openoregon.org/2015-oer-special-project-grants-awarded/](https://www.google.com/url?q=http://openoregon.org/2015-oer-special-project-grants-awarded/&sa=D&usg=AFQjCNGrxWy2LFed4ePqqsMib-FssU-qAA)
+
+</td>
+
+</tr>
+
+<tr class="odd">
+
+<td align="left">
+
+Open Textbook Network (University of Minnesota)
+
+</td>
+
+<td align="left">
+
+$1,500,000
+
+</td>
+
+<td align="left">
+
+-
+
+</td>
+
+<td align="left">
+
+We are using an average per student savings estimate based on research done by national experts (David Wiley and Nicole Allen). They examined several research studies on open textbook savings and determined that $100 student savings was a reliable average. It takes several variables into consideration, including how many student buy used, rent, don't buy, etc.  As a network, we agreed on the $100/student method. Our members verified adoption of the book by faculty and then verified enrollments.  We then apply the $100/student.
+
+Source: OTN obtained the $1.5 million in student savings reports from nine early members.
+
+</td>
+
+</tr>
+
+<tr class="even">
+
+<td align="left">
+
+OpenIntro
+
+</td>
+
+<td align="left">
+
+$2,000,000
+
+</td>
+
+<td align="left">
+
+$1,000,000
+
+</td>
+
+<td align="left">
+
+Based on feedback from students, about half of college students buy the paperback version of the textbook while the other half exclusively use the free PDF. The paperbacks are about $10, so we estimate savings per student to average about $100\. Through Oct 7th, 2015, we sold 14,838\. Subtracting out about 500 as books we've directly purchased for teachers and a couple thousand that are associated with one of the co-author's Coursera courses, we think $2 million is a conservative estimate. We also average around 15,000 to 20,000 textbook PDF downloads per month, though we don't know all the groups that are making use of the textbook. We don't include Coursera savings / value in our current estimates. We also do not estimate savings from our other free and open-source resources, e.g. in time savings for instructors who then do not need to develop their own resources from scratch.
+
+Source: OpenIntro; with paperback figures from sales through CreateSpace
+
+</td>
+
+</tr>
+
+<tr class="odd">
+
+<td align="left">
+
+OpenStax College
+
+</td>
+
+<td align="left">
+
+$53,600,000
+
+</td>
+
+<td align="left">
+
+$25,800,000
+
+</td>
+
+<td align="left">
+
+We use a composite number of $98.57 to estimate student savings (our number discounts for used books, rentals, e-books etc). Current number of students 261,000, number of schools 2,000
+
+Source: OpenStax College manually verifies every faculty adoption
+
+</td>
+
+</tr>
+
+<tr class="even">
+
+<td align="left">
+
+Tacoma Community College: OER Project
+
+</td>
+
+<td align="left">
+
+$1,000,000
+
+</td>
+
+<td align="left">
+
+-
+
+</td>
+
+<td align="left">
+
+To date, we have been meticulously calculating the exact savings by keeping track of the price of the book that was replaced, but we are contemplating moving to a revised methodology that takes into account other factors, such as a new course that uses OER from the beginning.  
+
+Source: Tacoma Community College OER Project
+
+</td>
+
+</tr>
+
+<tr class="odd">
+
+<td align="left">
+
+Virginia Tech: University Libraries Open Education Initiative
+
+</td>
+
+<td align="left">
+
+$0
+
+</td>
+
+<td align="left">
+
+$72,000
+
+</td>
+
+<td align="left">
+
+Savings are calculated for zero-cost textbook replacement for 900 students given the conservative assumptions regarding what students otherwise would pay (where 10% go without textbook access, 10% buy the old (2011) edition used, 50% rent ($56.93), 10% buy a new paperback ($72.78) and 20% buy a used hardcover textbook from the campus bookstore ($215.60).
+
+Source: University Libraries, Virginia Tech
+
+</td>
+
+</tr>
+
+<tr class="even">
+
+<td align="left">
+
+University of Maryland University College
+
+</td>
+
+<td align="left">
+
+$5,167,748
+
+</td>
+
+<td align="left">
+
+$15,000,000
+
+</td>
+
+<td align="left">
+
+UMUC's department of Learning Design and Solutions compiled the list of courses and the type of resource(s) used in each, as well as the previous price for textbooks in those courses. Using Fall, Spring, and Summer 2014 enrollment data, which I disaggregated by course, I estimated the cost-savings based on the price of each course's previous textbook times that course's enrollment for the aforementioned term. The estimated cost-savings thus assumes that all UMUC students' would have purchased the textbook.
+
+Source: Dr. Katrice Hawthorne, Professor at University of Maryland University College
+
+</td>
+
+</tr>
+
+<tr class="odd">
+
+<td align="left">
+
+Virginia Community Colleges: Zx23 Project
+
+</td>
+
+<td align="left">
+
+$1,454,100
+
+</td>
+
+<td align="left">
+
+$3,685,148
+
+</td>
+
+<td align="left">
+
+We count adoptions of OER through direct communication with Zx23 Project grantees (# of course sections taught X student enrolled in each section X $100 avg textbook cost). We combine data on these adoptions with data from tangential NVCC projects.
+
+Source: Virginia Community College System & Lumen Learning, Inc.
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+Reported savings included from the 2014 State of the Commons report
+
+* Savings in the 2014 report were pulled from a 2013 survey by Nicole Allen of SPARC: [https://github.com/creativecommons/stateofthe/blob/master/data/notes.md#savings-from-open-textbooks](https://www.google.com/url?q=https://github.com/creativecommons/stateofthe/blob/master/data/notes.md%23savings-from-open-textbooks&sa=D&usg=AFQjCNHCxpbfaEJohg9gk9zEDhLdTkrEvQ).  
+* We cross-checked this list with responses we received this year and removed duplicates. We erred on the side of underreporting.
+
+[](#)[](#)
+
+<table><colgroup><col width="50%"> <col width="50%"></colgroup> 
+
+<tbody>
+
+<tr class="odd">
+
+<td align="left">
+
+Project
+
+</td>
+
+<td align="left">
+
+Reported savings in 2013
+
+</td>
+
+</tr>
+
+<tr class="even">
+
+<td align="left">
+
+College of the Canyons
+
+</td>
+
+<td align="left">
+
+$556,000
+
+</td>
+
+</tr>
+
+<tr class="odd">
+
+<td align="left">
+
+Flat World Knowledge
+
+</td>
+
+<td align="left">
+
+$47,947,100
+
+</td>
+
+</tr>
+
+<tr class="even">
+
+<td align="left">
+
+Lumen Learning
+
+</td>
+
+<td align="left">
+
+$1,300,000
+
+</td>
+
+</tr>
+
+<tr class="odd">
+
+<td align="left">
+
+OER-Based General Education Certificate Program at NOVA
+
+</td>
+
+<td align="left">
+
+$122,000
+
+</td>
+
+</tr>
+
+<tr class="even">
+
+<td align="left">
+
+Open Course Library
+
+</td>
+
+<td align="left">
+
+$5,711,400
+
+</td>
+
+</tr>
+
+<tr class="odd">
+
+<td align="left">
+
+Orange Grove Texts Plus
+
+</td>
+
+<td align="left">
+
+$530,000
+
+</td>
+
+</tr>
+
+<tr class="even">
+
+<td align="left">
+
+Precalculus by Carl Stitz & Jeff Zeager
+
+</td>
+
+<td align="left">
+
+$1,235,400
+
+</td>
+
+</tr>
+
+<tr class="odd">
+
+<td align="left">
+
+Siyavula
+
+</td>
+
+<td align="left">
+
+$23,500,000
+
+</td>
+
+</tr>
+
+<tr class="even">
+
+<td align="left">
+
+Center for Computer- Assisted Legal Instruction: eLangdell Press
+
+</td>
+
+<td align="left">
+
+$67,500
+
+</td>
+
+</tr>
+
+<tr class="odd">
+
+<td align="left">
+
+The Virginia Community College System
+
+</td>
+
+<td align="left">
+
+$52,000
+
+</td>
+
+</tr>
+
+<tr class="even">
+
+<td align="left">
+
+Utah State Office of Education
+
+</td>
+
+<td align="left">
+
+$87,500
+
+</td>
+
+</tr>
+
+<tr class="odd">
+
+<td align="left">
+
+“Z Degree” Tidewater Community College
+
+</td>
+
+<td align="left">
+
+$42,100
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+## <span id="h.dip9dbt79n1"></span>“The Ford Foundation, Bill & Melinda Gates Foundation, Vancouver Foundation, and Wikimedia Foundation”
+
+* The Ford Foundation requires CC BY for all grant-funded projects and research: [https://creativecommons.org/weblog/entry/44865](https://www.google.com/url?q=https://creativecommons.org/weblog/entry/44865&sa=D&usg=AFQjCNFAkdKcoU2UXPZkaHxT8u1fEibmwg).
+* The Bill & Melinda Gates Foundation requires the CC BY license for research and data: [https://creativecommons.org/weblog/entry/44365](https://www.google.com/url?q=https://creativecommons.org/weblog/entry/44365&sa=D&usg=AFQjCNHedfwg4eZgK43pGGh6wJ5j4B11eA).
+* The Vancouver Foundation will require CC BY beginning 2017 for all projects and research funded through community advised grant programs: [https://creativecommons.org/weblog/entry/45510](https://www.google.com/url?q=https://creativecommons.org/weblog/entry/45510&sa=D&usg=AFQjCNGO_a5lQxXTcvDMsZQsHdGUCVFPHA).
+* The Wikimedia Foundation requires CC BY or another free license for media files and recommends CC0 for data: [https://creativecommons.org/weblog/entry/45190](https://www.google.com/url?q=https://creativecommons.org/weblog/entry/45190&sa=D&usg=AFQjCNFlZrllqJoc2wDneEE-czWrkjV6Kw).
+
+* The William and Flora Hewlett Foundation requires CC BY for all digital outputs of its grantmaking: [https://creativecommons.org/weblog/entry/43768](https://www.google.com/url?q=https://creativecommons.org/weblog/entry/43768&sa=D&usg=AFQjCNFnblNpAY7_hjVJoqFBNDi6VFqWOQ).
+
+## <span id="h.do3odxeld3ki"></span>“Together with The William and Flora Hewlett Foundation, a longstanding open policy leader,  these foundations collectively made grants of approximately $1.9 billion in 2015”
+
+To arrive at this figure, we added the annual grantmaking figures from the most recent year available (2013) as listed on [http://foundationcenter.org/](https://www.google.com/url?q=http://foundationcenter.org/&sa=D&usg=AFQjCNG2x5KYfMGDX9Vi3P-SQVNB-v_MQw). We assume those foundations will continue to make similar amounts of grants in the near future. The Gates Foundation policy applies only to research funding—it is not foundation-wide like the others. So we used the estimate of $900M/year quoted by [Science](https://www.google.com/url?q=http://news.sciencemag.org/funding/2014/11/gates-foundation-require-immediate-free-access-journal-articles&sa=D&usg=AFQjCNEduPfGVnxKz1vl5172rRtNk14GGA). 
+
+Hewlett Foundation
+
+* Total: $434 million
+* Source: [Foundation Center](https://www.google.com/url?q=https://fdo.foundationcenter.org/grantmaker-profile/?collection%3Dgrantmakers%26name%3Dhewlett%26state%3D%26zip_code%3D%26Submit%3DSearch%26_ga%3D1.59046821.989595035.1443637576%26key%3DHEWL001%26from_search%3D1%26activity%3Dresult&sa=D&usg=AFQjCNGEKwEywAz1dLQ82sGEv_s8V9c-9g)
+
+Ford Foundation
+
+* Total: $560 million
+* Source: [Foundation Center](https://www.google.com/url?q=https://fdo.foundationcenter.org/grantmaker-profile/?collection%3Dgrantmakers%26name%3Dford%26state%3D%26zip_code%3D%26Submit%3DSearch%26_ga%3D1.55441443.989595035.1443637576%26key%3DFORD010%26from_search%3D1%26activity%3Dresult&sa=D&usg=AFQjCNEi9IDpTMQ1ueBOet7CQhOYu5kklg)
+
+Gates Foundation
+
+* Total: $900 million
+* Source: [Science magazine](https://www.google.com/url?q=http://news.sciencemag.org/funding/2014/11/gates-foundation-require-immediate-free-access-journal-articles&sa=D&usg=AFQjCNEduPfGVnxKz1vl5172rRtNk14GGA)
+
+Vancouver Foundation
+
+* Total: $1.13 million
+* Source: Vancouver Foundation ([financial statements](https://www.google.com/url?q=https://www.vancouverfoundation.ca/sites/default/files/documents/2014-12-31%2520Vancouver%2520Foundation%2520FS-NCAR.pdf&sa=D&usg=AFQjCNHzLNohfxW1y3Laglkd46BOx8Z6Qw))
+
+## <span id="h.3ea7rlk4igew"></span>Acknowledgments
+
+Thank you to Google for providing us with the foundational data upon which this report was built. Thanks especially to:
+
+Agnes Toth, Google
+
+Brendan Hickey, Google
+
+Paul Haahr, Google
+
+Erin Simon, Google
+
+We would also like to acknowledge the following individuals and organizations for their contributions. This report would not be possible without them.
+
+Platform data
+
+Alexis Rossi, Internet Archive
+
+Ariel Diaz, Boundless
+
+Benjamin Glatstein, Microsoft
+
+Brandon Muramatsu, MIT Office of Digital Learning
+
+Cheyenne Hohman, Free Music Archive
+
+Danielle Ward, DeviantArt
+
+David Knutson, PLOS
+
+Donna Okubo, PLOS
+
+Ed Harrison, Boundless
+
+Guillaume Paumier, Wikimedia Foundation
+
+Hessel van Oorschot, Tribe of Noise
+
+Jake Johnson, Internet Archive
+
+Jennifer Elias , Bandcamp
+
+Juliet Barbara, Wikimedia Foundation
+
+Kimberly Potvin, Flickr
+
+Leo Lipsztein, YouTube
+
+Martin Guerber, Jamendo
+
+Matt Lee, Libre.fm
+
+Matt McLernon, YouTube
+
+Neil P. Quinn, Wikimedia Foundation
+
+Nuno Silva, 500px
+
+Paul Keller, Kennisland
+
+Richard Lumadue, Skills Commons/California State University, Office of the Chancellor
+
+Sarah Agudo, Medium
+
+Tilman Bayer, Wikimedia Foundation
+
+Yvonne Ng, MIT Office of Digital Learning
+
+Open education data
+
+Amanda Coolidge, B.C. Open Textbook Project
+
+Amy Hofer, OpenOregon
+
+Andrew Christopher, Institute of Museum and Library Services
+
+Anita Walz, University Libraries, Virginia Tech
+
+Barbara Illowsky, CCC Online Ed Initiative (OEI)
+
+Buddy Muse, Montgomery College “Open Educational Resources”
+
+Christie Fierro, Tacoma Community College OER Project
+
+David Diez, OpenIntro
+
+David Harris, OpenStax College
+
+David Wiley, Lumen Learning
+
+Elijah Scott, Affordable Learning Georgia Initiative, Georgia Highlands College
+
+Gerry Hanley, California State University, Office of the Chancellor
+
+Hetav Sanghavi, CK-12 Foundation
+
+James Glapa-Grossklag, College of the Canyons
+
+Jennryn Wetzler, US. Department of State
+
+Kamil Śliwowski, CC Poland
+
+Karen Vignare, University of Maryland University College
+
+Katrice Hawthorne, University of Maryland University College
+
+Kelsey Wiens, CC South Africa
+
+Kim Thanos, Lumen Learning
+
+Konstantin D. A. SCHELLER , European Commission
+
+Lorna Campbell , University of Edinburgh
+
+Marion Kelt, Glasgow Caledonian University
+
+Nate Angell, Lumen Learning
+
+Neeru Khosla, CK-12 Foundation
+
+Norman Bier, Open Learning Initiative
+
+Ovidiu Voicu, Foundation for an Open Society Romania
+
+Paul Golisch, Maricopa Millions OER Project
+
+Renva Watterson, Affordable Learning Georgia Initiative, Georgia Highlands College
+
+Ricardo FERREIRA, European Commission
+
+Richard Sebastian, Virginia Community College System
+
+Rory McGreal, Athabasca University
+
+Sara Trettin, U.S. Department of State
+
+Sarah Cohen, Open Textbook Network at University of Minnesota
+
+## <span id="h.jst3ophcsi10"></span>Attributions                                        
+
+Bassel Khartabil drawing from http://freebassel.org/ and in the public domain, thanks to CC0.
+
+Icons used with permission via subscription from the Noun Project. Courtesy these creators: Picture By Hoang Loi, VN; Book By Creative Stall, PK; Document By Melvin Salas, CR; Atomic By Geoffrey Joe, GB; Headphones By Molly Bramlet, US; Video-Player By Cédric Villain, FR; Book By Bryn Taylor, GB; 3D Glasses By Luis Rodrigues, PT; Cat By Rajha Surya, IN; Cat By Richard Zeid, US; Grandmother By Alberto Miranda, ES; Heart Bills By Till Teenck, DE; Public Domain; Book By Mike Ashley, AU; Gift By Stefan Parnarov, BG; Frame By Kari Svangstu, NO; Share By AJ Annunziata; Polaroid By Joe Mortell, GB; Waxing Crescent By hunotika. Icons originally licensed CC BY ([http://creativecommons.org/licenses/by/3.0/](https://www.google.com/url?q=http://creativecommons.org/licenses/by/3.0/&sa=D&usg=AFQjCNG87ENYt7Tm2fu1Cyx9OA5ASUTY8A)).
+
+* * *
+
+Planning notes
+
+* * *
+
+References:
+
+* Public [doc](https://www.google.com/url?q=https://docs.google.com/document/d/1S903Mvxgo2Jni5463R3LG1UBc9YHtCTkhpaW-QS3F_Y/edit&sa=D&usg=AFQjCNE5emSmeote4SoEMBifgYDxONqGlw) - SOTC MVR elements w/affiliate feedback
+* Staff internal updated [doc](https://www.google.com/url?q=https://docs.google.com/document/d/1hGwg_WO3iA7NTH-SzWmubjdOxWT5z7YU9B6Q5qII1hQ/edit%23bookmark%3Did.1hrca29oiu18&sa=D&usg=AFQjCNFX_9Vv1UeaMt9IFYwon2TjMRlnDA) - SOTC MVR elements + planning
+* Note: Let’s keep data collection docs I’ve linked to throughout internal to staff. We’ll pull out relevant numbers and add here for designer.
+
+Outreach to Affiliates (Jane):
+
+* Given feedback at summit, we’ll execute on what we have the time/resources for now, will approach anew in 2016 if we have additional resources
+* Intro para input
+* Outra para input (challenges to the commons, copyright reform)
+* Major highlights by region
+
+Platform data ask - [doc](https://www.google.com/url?q=https://docs.google.com/document/d/1UMOHU2t5Rfu4bt3r3ORiPoyqSqMXySq9yp53NP8gCpQ/edit&sa=D&usg=AFQjCNHYBGVNbi-PPrWB1dakrEaRpUlf1A)
+
+Platform data stats - [doc](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/193KNf4SIwKBbaoC1ZXtJnPHhYY59i4zEV86uHPoQSzw/edit%23gid%3D0&sa=D&usg=AFQjCNG0ulJnk3JR9ww1ABCX_vBO9eJ1Sg)
+
+Impact data ask - [doc](https://www.google.com/url?q=https://docs.google.com/document/d/1ZhH3Pc-wENOrka4yar-HIrFyfjFZYUfNVHfwgUgnnm8/edit&sa=D&usg=AFQjCNHw6WxDHXUI44NEqX_zVPOnJLTx2Q)
+
+Impact data stats - [doc](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1Lh3yMiuXxvORBb4QbdTuVZCY3ojnB1sG9DP9zayl8Jc/edit%23gid%3D0&sa=D&usg=AFQjCNGw9DR5K1qU6iBqyoE8sKBQTpEe4A)
+
+4.0 License Data
+
+Tim text drafted at bottom of this [doc](https://www.google.com/url?q=https://docs.google.com/document/d/1ZhH3Pc-wENOrka4yar-HIrFyfjFZYUfNVHfwgUgnnm8/edit%23bookmark%3Did.9k7h7co7s9z9&sa=D&usg=AFQjCNFBmQqkbbOOfZkwsmGwZkBeUi8jQw)
+
+Adapting SOTC for Year End campaign
+
+[What couldn’t we accomplish this year because of resources/What would we do if we could]
+
+Tuesday 12/8
+
+* Public push: STATE OF THE COMMONS REPORT 2015!
+
+Thursday 12/10
+
+* YE campaign: email #1
+* The Commons: section from above
+* Enemy / Biggest challenge / Greatest need / Ask and urgency
+
+Thursday 12/17
+
+* YE campaign: email #2
+* The Commons: section from above
+* Enemy / Biggest challenge / Greatest need / Ask and urgency
+
+Tuesday 12/22
+
+* YE campaign: email #3
+* The Commons: section from above
+* Enemy / Biggest challenge / Greatest need / Ask and urgency
+
+Saturday - Thursday 12/26, 12/28, 12/30, 12/31
+
+* YE campaign: email #4 - ask, now is the time
+* YE campaign: email #5 - ask, almost there
+* YE campaign: email #6 - ask, time is running out
+* YE campaign: email #7 - ask, push us over the finish line
+
+Friday 1/1
+
+* Happy New Year and Thank You!
+
+Not including:
+
+* Various cooperations between CC Affiliates are underway or already completed to achieve unified translations of CC Tools for those languages that are spoken in more than one country. For Europe that means not only trans-national efforts, for example between the CC Affiliates in Germany, Austria and Switzerland, but also even cross-regional efforts between our Teams in Spain and Portugal with CC Affiliates in Latin America.
+* Europeana.eu, the European cultural heritage platform this year reaches 20 million (more than 50% of its 45 million items content) reusable digital cultural heritage objects that are available under a CC license or marked with the Public Domain Mark.
+* Established CC US at American University (July 2013 established)
+
+* Taking over Termination of Transfer tool, originally developed when CC HQ was more focused on US copyright (no longer the case);
+
+* The Conversation - Africa Launched May 2015  - [https://theconversation.com/africa](https://www.google.com/url?q=https://theconversation.com/africa&sa=D&usg=AFQjCNH1BTEnXVAYFxUR9ir5YjlM0z5woA)  all stories writted under CC-BY
+* 4.0 translation  -- fairly unprecedented involvement to develop this translation across 3 or more continents
+* Statistics of Rwanda CC BY - 2015 infographic competition to be released under CC-BY        http://statistics.gov.rw/about-us/competition/nisr-infographic-competition-2015
+* Spanish and Portuguese translations of CC 4.0 connecting affiliates and volunteers between different continents.  -- not completed yet
+* older than 2015 - Canada (2012) Quebec government adopting CC BY 4.0 for new data portal to be launched Dec 1, relying on 4.0 and the french translation
+
+Reworded and included above in Regional Highlights: Creative Commons’ Affiliate Network has been a massive international effort in collaboration in support of the Commons. Thanks to our network of Affiliates, CC licenses became a global tool, as they became "ported" adapted by lawyers to local legal conditions. Even more importantly, local teams have been promoting CC licenses, explaining their uses and helping others implement them. This effort of 80 teams and around 500 activists has been multiplied into thousands of people and organisations using free licenses to share their content across the world.
+
+There is no single type of a CC Affiliate Team. In some countries, the effort is led by lawyers - in other it's artists that take the lead. Some of us work at nongovernmental institutions, others build their teams within universities or even public administration. Within each country, we focus on different fields where the Commons can be build: education, science and research, culture and heritage, public data, design and hardware. What unites us is a belief in the Commons, and the potential that can be unlocked through CC licenses. And everywhere around the world, we show that a different approach to copyright and intellectual property is possible.

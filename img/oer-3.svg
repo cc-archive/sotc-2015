@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg20460"
+   viewBox="0 0 359.13301 160.93204"
+   height="45.418598mm"
+   width="101.35532mm">
+  <defs
+     id="defs20462" />
+  <metadata
+     id="metadata20465">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(569.05349,-406.1819)"
+     id="layer1">
+    <g
+       id="g16864"
+       transform="translate(-603.92149,-491.9031)">
+      <path
+         id="path16866"
+         d="m 394.001,965.265 -239.309,0 0,-6.291 239.309,0 0,6.291 z m 0,12.588 -239.309,0 0,-6.301 239.309,0 0,6.301 z m 0,12.582 -239.309,0 0,-6.287 239.309,0 0,6.287 z m 0,12.597 -239.309,0 0,-6.293 239.309,0 0,6.293 z m -239.309,-56.646 239.309,0 0,6.295 -239.309,0 0,-6.295 z m -28.246,-29.367 0,130.473 c 0,0 -11.047,-6.098 -25.953,-6.098 -3.656,0 -55.137,0 -55.137,0 l 0,-133.66 c 0,0 51.48,0 55.137,0 28.842,-0.001 25.953,9.285 25.953,9.285 z m 101.989,-18.934 -60.203,0 c -19.686,0 -29.312,4.635 -33.992,9.438 -4.674,-4.803 -14.299,-9.438 -33.988,-9.438 l -60.204,0 c -2.869,0 -5.18,2.35 -5.18,5.225 l 0,142.498 c 0,2.875 2.311,5.213 5.18,5.213 l 60.191,0 c 12.703,0 25.391,5.438 25.518,6.098 l 0.072,0 c 2.582,1.926 2.602,1.898 5.174,1.898 l 6.893,0 c 2.623,0 2.75,0.041 5.084,-2.418 0.42,-0.713 13.545,-5.578 25.223,-5.578 l 60.195,0 c 2.877,0 5.188,-2.35 5.188,-5.213 l 0,-142.498 c 0.038,-2.875 -2.282,-5.225 -5.151,-5.225 z" />
+      <rect
+         id="rect16868"
+         height="6.2909999"
+         width="45.931999"
+         y="971.552"
+         x="62.375999" />
+      <rect
+         id="rect16870"
+         height="6.2950001"
+         width="25.84"
+         y="946.38599"
+         x="82.468002" />
+      <rect
+         id="rect16872"
+         height="6.2909999"
+         width="45.931999"
+         y="958.974"
+         x="62.375999" />
+      <rect
+         id="rect16874"
+         height="6.2870002"
+         width="45.931999"
+         y="984.14697"
+         x="62.375999" />
+      <rect
+         id="rect16876"
+         height="6.2930002"
+         width="45.931999"
+         y="996.73901"
+         x="62.375999" />
+    </g>
+    <rect
+       id="rect16878"
+       height="26.5"
+       width="239.06799"
+       y="422.49588"
+       x="-448.98849"
+       style="fill:#ffff00" />
+    <rect
+       id="rect16880"
+       height="26.5"
+       width="239.06799"
+       y="516.86194"
+       x="-448.98849"
+       style="fill:#ffff00" />
+    <text
+       id="text16884"
+       font-size="24"
+       style="font-size:24px;font-family:Lato;fill:#000100"
+       x="-370.44879"
+       y="444.59009">$174 MILLION</text>
+    <text
+       id="text16888"
+       font-size="24"
+       style="font-size:24px;font-family:Lato;fill:#000100"
+       x="-310.6149"
+       y="537.71802">TO DATE</text>
+  </g>
+</svg>
