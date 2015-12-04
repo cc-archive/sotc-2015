@@ -427,7 +427,7 @@ education community. Dig into our data sources.
 
 -----
 
-## 2015 Impact: CC + Foundation Open Policy {.impact .img-policy}
+## 2015 Impact:<br /> CC + Foundation Open Policy {.impact .img-policy}
 
 CC continues to lead the way in advocating for major philanthropic
 foundations to adopt open licensing policies. Foundations can
