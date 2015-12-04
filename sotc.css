@@ -313,6 +313,12 @@ blockquote * {
 
 }
 
+#invest-circle ul, #social-circle ul {
+
+    list-style: none !important;
+    
+}
+
 #invest-circle h5, #social-circle h5 {
 
     font-size: 140%;
