@@ -229,7 +229,7 @@ translation policy for internationalizing the license suite. To date,
 the 4.0 license suite has been officially translated into 7 languages,
 with 3 more to be published in 2015.
 
-### People are sharing with CC licenses in 34 languages with more than 90 million views of CC's deeds in the last 10 years.
+## People are sharing with CC licenses in 34 languages with more than 90 million views of CC's deeds in the last 10 years.
 
 <div class="col-md-6 col-sm-12">
 <table class="table table-bordered table-striped">
