@@ -1,7 +1,7 @@
 
 ## State<br /> of<br /> the<br /> Commons {.bb}
 
-<img src="img/sotc-header.png" alt="State of the Commons" class="sotc-image" />
+<img src="img/sotc-header.png" alt="State of the Commons" class="sotc-image sotc-fakeheader" />
 
 Collaboration, sharing, and cooperation are a driving force for human
 evolution. Creative Commoners have known this fact all along, and
