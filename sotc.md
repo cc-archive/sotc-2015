@@ -255,8 +255,8 @@ with 3 more to be published in 2015.
 </table>
 </div>
 
-<div class="col-md-6 col-sm-12">**
-<table class="table table-bordered table-striped">**
+<div class="col-md-6 col-sm-12">
+<table class="table table-bordered table-striped">
 <tbody>
 <tr><td class="even">**italiano** (Italian)</td></tr>
 <tr><td class="odd">**日本語** (Japanese)</td></tr>
