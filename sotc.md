@@ -278,6 +278,8 @@ with 3 more to be published in 2015.
 </table>
 </div>
 
+<div class="clearfix"></div>
+
 ---
 
 Note: Data reflects total views of CC deed pages from Jan 1, 2005
