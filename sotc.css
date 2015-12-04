@@ -1,6 +1,11 @@
+html {background-color: #eee;}
+
 body { font-size: 180%;
 
       padding-top: 5%;
+
+      max-width: 780px !important;
+      
       
      }
 
