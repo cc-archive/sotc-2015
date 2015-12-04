@@ -595,7 +595,8 @@ implement open policies.
 
 -----
 
-## Thank<br /> You<br /> For<br /> Sharing! {.bb}
+## Thank You For Sharing! {.bb}
+<div><img src="img/sotc-footer.png" alt="Thank You For Sharing" class="sotc-image sotc-fakeheader" /></div>
 
 It's been a remarkable year, most notably for the more than 1.1 billion
 works under one of the CC licenses, CC0, or the public domain mark.
