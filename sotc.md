@@ -205,7 +205,8 @@ domain. Dig into our data sources.
 
 -----
 
-## In 2015, CC licensed works were viewed 136 billion times
+## In 2015, CC licensed works were viewed
+## 136 billion times
 
 <img src="img/hits.svg" alt="" style="width: 100%; overflow: hidden;" />
 
