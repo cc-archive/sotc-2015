@@ -84,6 +84,8 @@ sharing, embedded in major content platforms from Wikimedia to
 Europeana, and adopted by foundations and governments from the Bill
 and Melinda Gates Foundation to the White House.
 
+---
+
 Note: Data includes content licensed with the full CC license suite,
 along with content marked with CC public domain tools. This is a low
 bound estimate based on what we could count. Dig into our data
@@ -148,6 +150,8 @@ sources.
 (From more open to more restrictive -- less restrictive Free Culture
 licenses allow for both commercial use and adaptations.
 
+---
+
 Note: Data includes content licensed with the full CC license suite
 and marked with our public domain tools. Dig into our data sources.
 
@@ -191,6 +195,8 @@ and marked with our public domain tools. Dig into our data sources.
 </tr>
 </table>
 
+---
+
 Note: Data includes content under the CC0 public domain dedication and
 Public Domain Mark, but not unmarked material in the public
 domain. Dig into our data sources.
@@ -202,6 +208,8 @@ domain. Dig into our data sources.
 <img src="img/hits.svg" class="large-bg-image" />
 
 #### CC licensed work is retained, reused, revised, remixed, and redistributed in infinite ways. We captured just a slice of this massively distributed collaboration by measuring the number of times CC licensed work gets accessed from the global pool of content.
+
+---
 
 Note: Data tracks downloads on CC license buttons, or the number of
 times CC licensed content was viewed on a web page. Dig into our data
@@ -255,6 +263,8 @@ with 3 more to be published in 2015.
 * Turkish (Türk)
 * Ukrainian (Український)
 
+---
+
 Note: Data reflects total views of CC deed pages from Jan 1, 2005
 through Nov 3, 2015. * Category includes variations on that language
 for simplicity, eg. Chinese includes simplified and traditional
@@ -304,6 +314,8 @@ Chinese. Dig into our data sources.
 </tr>
 </table>
 
+---
+
 Note: Data only reflects media on 16 platforms + Directory of Open
 Access Journals, just a slice of all available CC media on the
 web. Dig into our data sources.
@@ -350,6 +362,8 @@ web. Dig into our data sources.
 
 ## ...and many more!
 
+---
+
 Note: Data reflects total CC licensed works on each platform, only 16 websites out of millions. Dig into our data sources.
 
 -----
@@ -385,6 +399,8 @@ support for improving OER." />
 <img src="img/oer-3.svg" class="sotc-image" alt="$174 Million to date" />
 
 ### with an additional $53 million projected through academic year 2015/16 {.by .by-r}
+
+---
 
 Note: *European Union is a collection of member states but included in
 this country list for reporting purposes; Data reflects savings for

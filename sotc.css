@@ -111,7 +111,7 @@ h3 {
     background-color: transparent !important;
     background-image: url(img/yellow.svg);
     background-repeat: no-repeat;
-    background-position: left center !important;
+    background-position: left top !important;
     padding: 0;
     margin-left: 5%;
     padding-left: 2%;
@@ -125,9 +125,9 @@ h3 {
 
     text-align: right;
     background-position: right top !important;
-    padding-right: 80px !important;
+    padding-right: 30px !important;
     margin-right: 5% !important;
-    margin-left: 30% !important;
+    margin-left: 5% !important;
     
 }
 
@@ -151,9 +151,9 @@ h6 {font-size: 140%; font-weight: 300 !important; line-height: 150% !important; 
 p, ul, table, ol {padding-left: 5%; padding-right: 5%; margin-top: 1em; font-size: 110%; }
 
 
-table {width: 100% !important; max-width: 800px !important; height: auto !important; margin-left: 5%; margin-bottom: 1.5em !important;}
+table {width: 90% !important; max-width: 760px !important; height: auto !important; margin-left: 5%; margin-bottom: 1.5em !important;}
 
-.sotc-image {width: 80%;}
+.sotc-image {width: 100%; max-width: 760px; height: auto !important;}
 
 .img-policy {
     background-image: url(img/policy.svg);
@@ -203,7 +203,8 @@ blockquote {
     line-height: 1.5em;
     background: #dff0d8;
     text-align: center;
-    width: 40%;
+    width: 90%;
+    
     
 }
 
@@ -284,20 +285,19 @@ blockquote * {
 
 #foundations img {
 
-    margin: 10px;
-    border: 1px solid #eee;
+
     padding: 10px;
-    display: block;
-    float: left;
+    display: inline;
+
 
 }
 
 #foundations {
 
     width: 70%;
-    max-width: 880px;
     margin: 0 auto;
     padding-bottom: 20px;
+    text-align: center;
 
 }
 
