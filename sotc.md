@@ -506,7 +506,7 @@ licenses or public domain tools, including:
 
 -----
 
-## 2015 Impact: Regional Highlights {.impact}
+## 2015 Impact:<br />Regional Highlights {.impact}
 
 <img src="img/map.svg" alt="" class="sotc-image" />
 
