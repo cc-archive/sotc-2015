@@ -375,3 +375,5 @@ blockquote * {
 
 .odd {background-color: rgba(0,204,204,0.2) !important;}
 .even {background-color: white !important;}
+
+footer ul {list-style: none;}
