@@ -236,7 +236,7 @@ with 3 more to be published in 2015.
 <tr><td class="odd">Arabic (missing)</td></tr>
 <tr><td class="even">Belarusian (беларускі)</td></tr>
 <tr><td class="odd">Catalan (Català)</td></tr>
-<tr><td class="even">Chinese<tr><td class="odd">(中国)</td></tr>
+<tr><td class="even">Chinese (中国)</td></tr>
 <tr><td class="odd">Croatian (hrvatski)</td></tr>
 <tr><td class="even">Czech (čeština)</td></tr>
 <tr><td class="odd">Danish (danske)</td></tr>
@@ -244,9 +244,9 @@ with 3 more to be published in 2015.
 <tr><td class="odd">English*</td></tr>
 <tr><td class="even">Esperanto (Esperanton)</td></tr>
 <tr><td class="odd">Finnish (suomi)</td></tr>
-<tr><td class="even">French<tr><td class="odd">(français)</td></tr>
+<tr><td class="even">French (français)</td></tr>
 <tr><td class="odd">Galician (galego)</td></tr>
-<tr><td class="even">German<tr><td class="odd">(Deutsche)</td></tr>
+<tr><td class="even">German (Deutsche)</td></tr>
 <tr><td class="odd">Greek (ελληνικά)</td></tr>
 <tr><td class="even">Hungarian (Magyar)</td></tr>
 </tbody>
@@ -270,7 +270,7 @@ with 3 more to be published in 2015.
 <tr><td class="even">Portuguese (português)</td></tr>
 <tr><td class="odd">Romanian (Română)</td></tr>
 <tr><td class="even">Russian (Русский)</td></tr>
-<tr><td class="odd">Spanish<tr><td class="odd">(Español)</td></tr>
+<tr><td class="odd">Spanish (Español)</td></tr>
 <tr><td class="even">Swedish (svenska)</td></tr>
 <tr><td class="odd">Turkish (Türk)</td></tr>
 <tr><td class="even">Ukrainian (Український)</td></tr>
