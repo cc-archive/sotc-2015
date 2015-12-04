@@ -285,6 +285,7 @@ blockquote * {
     background-color: #00cccc;
     text-transform: uppercase;
     margin-top: 5%;
+    display: none;
 }
 
 
