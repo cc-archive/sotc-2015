@@ -1,4 +1,7 @@
 #!/bin/bash
+git clone https://github.com/creativecommons/sotc-215.git
+mv sotc-215/data.mdwn .
+rm -rf sotc-215
 rm xx*
 rm cc*.html
 csplit sotc.md '/-----/' {*}
