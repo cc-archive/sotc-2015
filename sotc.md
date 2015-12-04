@@ -498,7 +498,7 @@ come.
 
 ###### SpaceX, a private corporation, dedicates its photos to the public domain using CC0. {.by}
 
-#### **#FREEBASSEL: Lead of Creative Commons Syria, Bassel Khartabil is a key contributor to projects that digitize, preserve, and share cultural heritage. He has been illegally imprisoned in Syria since March 2012. CC and its Board of Directors continue to call for Bassel's immediate and safe release.** {.img-bk}
+#### #FREEBASSEL: Lead of Creative Commons Syria, Bassel Khartabil is a key contributor to projects that digitize, preserve, and share cultural heritage. He has been illegally imprisoned in Syria since March 2012. CC and its Board of Directors continue to call for Bassel's immediate and safe release. {.img-bk}
 
 ###### Building on his invaluable contributions to the commons, Bassel's #NEWPALMYRA project features the 3D models of the ancient ruins of Palmyra, one of Syria's greatest archaeological treasures. The online community platform and data repository is dedicated to the preservation and creative reuse of data about Palmyra. {.by}
 
