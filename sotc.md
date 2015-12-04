@@ -149,7 +149,7 @@ sources.
 
 <img src="img/free-scale.svg" alt="" class="sotc-image" />
 
-(From more open to more restrictive -- less restrictive FREE CULTURE
+From more open to more restrictive -- less restrictive FREE CULTURE
 licenses allow for both commercial use and adaptations.
 
 ---
