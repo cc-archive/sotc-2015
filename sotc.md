@@ -426,17 +426,17 @@ tremendous ripple effect.
 
 <div id="foundations" class="clearfix">
 
-<img src="img/ford.png" alt="Ford Foundation" class="pull-left foundation-logo" />
+<img src="img/ford.png" alt="Ford Foundation" class="foundation-logo" />
 
-<img src="img/gates.png" alt="Bill and Melinda Gates Foundation" class="pull-left foundation-logo" />
+<img src="img/gates.png" alt="Bill and Melinda Gates Foundation" class="foundation-logo" />
 
 <div class="clearfix"></div>
 
-<img src="img/hewlett.png" alt="The William and Flora Hewlett Foundation" class="pull-left foundation-logo" />
+<img src="img/hewlett.png" alt="The William and Flora Hewlett Foundation" class="foundation-logo" />
 
-<img src="img/wikimedia.png" alt="Wikimedia Foundation" class="pull-left foundation-logo" />
+<img src="img/wikimedia.png" alt="Wikimedia Foundation" class="foundation-logo" />
 
-<img src="img/vancouver.png" alt="Vancouver Foundation" class="pull-left foundation-logo"/>
+<img src="img/vancouver.png" alt="Vancouver Foundation" class="foundation-logo"/>
 
 </div>
 
