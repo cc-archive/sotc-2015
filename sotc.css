@@ -187,11 +187,11 @@ table {width: 90% !important; max-width: 760px !important; height: auto !importa
 
 .img-bk {
     background-image: url(img/bk.svg);
-    background-position: top right;
+    background-position: right center;
     background-repeat: no-repeat;
-    background-size: 240px 240px;
-    min-height: 240px;
-    padding-right: 280px;
+    background-size: 180px 297px;
+    min-height: 180px;
+    padding-right: 200px;
     padding-top: 30px;
 
 }
@@ -294,7 +294,8 @@ blockquote * {
 
     padding: 10px;
     display: inline;
-
+    max-width: 80%;
+    height: auto;
 
 }
 
@@ -351,5 +352,13 @@ blockquote * {
     background-repeat: no-repeat;
     background-size: cover;
     border: 1px solid red;
+
+}
+
+@media only screen 
+  and (max-device-width: 480px) {
+
+    h2, h3, h4, h5, h6 {font-size: 110%; line-height: 130%;}
+
 
 }
