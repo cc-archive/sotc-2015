@@ -253,7 +253,7 @@ with 3 more to be published in 2015.
 </table>
 </div>
 
-<div class="col-md-12 col-sm-12">
+<div class="col-md-6 col-sm-12">
 <table class="table table-bordered table-striped">
 <tbody>
 <tr><td class="odd">Indonesian (bahasa Indones)</td></tr>
