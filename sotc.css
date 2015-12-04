@@ -119,7 +119,7 @@ h3 {
 .by-r {
 
     text-align: right;
-    background-position: right top;
+    background-position: right top !important;
     padding-right: 80px !important;
     margin-right: 5% !important;
     margin-left: 30% !important;
