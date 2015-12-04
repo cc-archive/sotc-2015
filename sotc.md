@@ -176,24 +176,24 @@ and marked with our public domain tools. Dig into our data sources.
 <tbody>
 <tr class="odd">
 <td style="text-align: left;">2006</td>
-<td style="text-align: left;">4 million</td>
+<td style="text-align: left;">3.2 million</td>
 <td style="text-align: left;">-</td>
 <td style="text-align: left;">-</td>
-<td style="text-align: left;">4 million</td>
+<td style="text-align: left;">3.2 million</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">2014</td>
-<td style="text-align: left;">6 million</td>
-<td style="text-align: left;">1 million</td>
-<td style="text-align: left;">11 million</td>
-<td style="text-align: left;">18 million</td>
+<td style="text-align: left;">5.7 million</td>
+<td style="text-align: left;">1.5 million</td>
+<td style="text-align: left;">10.3 million</td>
+<td style="text-align: left;">17.5 million</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">2015</td>
 <td style="text-align: left;">10 million</td>
-<td style="text-align: left;">3 million</td>
-<td style="text-align: left;">22 million</td>
-<td style="text-align: left;">35 million</td>
+<td style="text-align: left;">2.6 million</td>
+<td style="text-align: left;">22.3 million</td>
+<td style="text-align: left;">34.9 million</td>
 </tr>
 </table>
 
