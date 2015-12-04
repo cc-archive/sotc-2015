@@ -81,7 +81,7 @@ h2 {
 	padding-right: 15%;
 }
 
-h2.impact {background-color: cyan;}
+h2.impact {background-color: rgba(0, 204, 204, 0.75)}
 
 h2:first-of-type {
 
@@ -93,7 +93,7 @@ h2:first-of-type {
 h3 {    
 	font-weight: 300 !important;
 	font-size: 230%;
-	background-color: cyan;
+	background-color: rgba(0, 204, 204, 0.75)
 	padding-left: 5%;
 	padding-top: 5%;
 	padding-bottom: 5%;
