@@ -207,7 +207,7 @@ domain. Dig into our data sources.
 
 ## In 2015, CC licensed works were viewed 136 billion times
 
-<img src="img/hits.svg" class="large-bg-image" />
+<div id="hits-bg"></div>
 
 #### CC licensed work is retained, reused, revised, remixed, and redistributed in infinite ways. We captured just a slice of this massively distributed collaboration by measuring the number of times CC licensed work gets accessed from the global pool of content.
 

@@ -342,3 +342,12 @@ blockquote * {
 
     
 }
+
+#hits-bg {
+
+    max-width: 100%;
+    overflow: hidden;
+    background-image: url(img/hits.svg);
+    background-repeat: no-repeat;
+
+}
