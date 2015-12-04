@@ -333,3 +333,12 @@ blockquote * {
     padding: 30px;
     min-height: 14em;
 }
+
+
+.sotc-fakeheader {
+    border: 1px solid red;
+    margin: 0 !important;
+    padding: 0 !important;
+
+    
+}
