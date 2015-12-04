@@ -233,7 +233,7 @@ with 3 more to be published in 2015.
 <div class="col-md-6 col-sm-12">
 <table class="table table-bordered table-striped">
 <tbody>
-<tr><td class="odd">(missing) (Arabic)</td></tr>
+<tr><td class="odd">**(missing)** (Arabic)</td></tr>
 <tr><td class="even">беларускі (Belarusian)</td></tr>
 <tr><td class="odd">Català (Catalan)</td></tr>
 <tr><td class="even">中国 (Chinese)</td></tr>
