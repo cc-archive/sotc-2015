@@ -460,7 +460,7 @@ tremendous ripple effect.
 
 -----
 
-## 2015 Impact: CC + Cultural Heritage {.impact}
+## 2015 Impact:<br />CC + Cultural Heritage {.impact}
 
 Creative Commons has fundamentally changed the way the world can
 share, use, and preserve our cultural heritage now and generations to
