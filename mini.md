@@ -1,5 +1,5 @@
 
-## State of the Commons {.bb}
+## State of the Commons {.bbs}
 
 -----
 
@@ -463,7 +463,7 @@ implement open policies.
 
 -----
 
-## Thank You For Sharing!
+## Thank You For Sharing! {.bbs}
 
 <div class="col-md-6" id="invest-circle">
 

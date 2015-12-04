@@ -293,6 +293,13 @@ blockquote * {
     display: none;
 }
 
+.bbs {
+
+    background-color: #00cccc;
+    text-transform: uppercase;
+    margin-top: 5%;
+}
+
 
 #foundations img {
 
