@@ -230,50 +230,50 @@ with 3 more to be published in 2015.
 
 ### People are sharing with CC licenses in 34 languages with more than 90 million views of CC's deeds in the last 10 years.
 
-<div class="col-md-6 col-sm-12">
-<table class="table table-bordered table-striped">
+<div class="col-md-6 col-sm-12">**
+<table class="table table-bordered table-striped">**
 <tbody>
 <tr><td class="odd">**(missing)** (Arabic)</td></tr>
-<tr><td class="even">беларускі (Belarusian)</td></tr>
-<tr><td class="odd">Català (Catalan)</td></tr>
-<tr><td class="even">中国 (Chinese)</td></tr>
-<tr><td class="odd">hrvatski (Croatian)</td></tr>
-<tr><td class="even">čeština (Czech)</td></tr>
-<tr><td class="odd">danske (Danish)</td></tr>
-<tr><td class="even">Nederlands (Dutch)</td></tr>
-<tr><td class="odd">English*</td></tr>
-<tr><td class="even">Esperanton (Esperanto)</td></tr>
-<tr><td class="odd">suomi (Finnish)</td></tr>
-<tr><td class="even">français (French)</td></tr>
-<tr><td class="odd">galego (Galician)</td></tr>
-<tr><td class="even">Deutsche (German)</td></tr>
-<tr><td class="odd">ελληνικά (Greek)</td></tr>
-<tr><td class="even">Magyar (Hungarian)</td></tr>
-<tr><td class="odd">bahasa Indones (Indonesian)</td></tr>
+<tr><td class="even">**беларускі** (Belarusian)</td></tr>
+<tr><td class="odd">**Català** (Catalan)</td></tr>
+<tr><td class="even">**中国** (Chinese)</td></tr>
+<tr><td class="odd">**hrvatski** (Croatian)</td></tr>
+<tr><td class="even">**čeština** (Czech)</td></tr>
+<tr><td class="odd">**danske** (Danish)</td></tr>
+<tr><td class="even">**Nederlands** (Dutch)</td></tr>
+<tr><td class="odd">**English*</td></tr>
+<tr><td class="even">**Esperanton** (Esperanto)</td></tr>
+<tr><td class="odd">**suomi** (Finnish)</td></tr>
+<tr><td class="even">**français** (French)</td></tr>
+<tr><td class="odd">**galego** (Galician)</td></tr>
+<tr><td class="even">**Deutsche** (German)</td></tr>
+<tr><td class="odd">**ελληνικά** (Greek)</td></tr>
+<tr><td class="even">**Magyar** (Hungarian)</td></tr>
+<tr><td class="odd">**bahasa Indones** (Indonesian)</td></tr>
 </tbody>
 </table>
 </div>
 
-<div class="col-md-6 col-sm-12">
-<table class="table table-bordered table-striped">
+<div class="col-md-6 col-sm-12">**
+<table class="table table-bordered table-striped">**
 <tbody>
-<tr><td class="even">italiano (Italian)</td></tr>
-<tr><td class="odd">日本語 (Japanese)</td></tr>
-<tr><td class="even">한국어 (Korean)</td></tr>
-<tr><td class="odd">Latvijā (Latvian)</td></tr>
-<tr><td class="even">Lietuvos (Lithuanian)</td></tr>
-<tr><td class="odd">Melayu (Malay)</td></tr>
-<tr><td class="even">te reo Maori (Maori)</td></tr>
-<tr><td class="odd">norsk (Norwegian)</td></tr>
-<tr><td class="even">missing (Persian/Farsi)</td></tr>
-<tr><td class="odd">polski (Polish)</td></tr>
-<tr><td class="even">português (Portuguese)</td></tr>
-<tr><td class="odd">Română (Romanian)</td></tr>
-<tr><td class="even">Русский (Russian)</td></tr>
-<tr><td class="odd">Español (Spanish)</td></tr>
-<tr><td class="even">svenska (Swedish)</td></tr>
-<tr><td class="odd">Türk (Turkish)</td></tr>
-<tr><td class="even">Український (Ukrainian)</td></tr>
+<tr><td class="even">**italiano** (Italian)</td></tr>
+<tr><td class="odd">**日本語** (Japanese)</td></tr>
+<tr><td class="even">**한국어** (Korean)</td></tr>
+<tr><td class="odd">**Latvijā** (Latvian)</td></tr>
+<tr><td class="even">**Lietuvos** (Lithuanian)</td></tr>
+<tr><td class="odd">**Melayu** (Malay)</td></tr>
+<tr><td class="even">**te reo Maori** (Maori)</td></tr>
+<tr><td class="odd">**norsk** (Norwegian)</td></tr>
+<tr><td class="even">**missing** (Persian/Farsi)</td></tr>
+<tr><td class="odd">**polski** (Polish)</td></tr>
+<tr><td class="even">**português** (Portuguese)</td></tr>
+<tr><td class="odd">**Română** (Romanian)</td></tr>
+<tr><td class="even">**Русский** (Russian)</td></tr>
+<tr><td class="odd">**Español** (Spanish)</td></tr>
+<tr><td class="even">**svenska** (Swedish)</td></tr>
+<tr><td class="odd">**Türk** (Turkish)</td></tr>
+<tr><td class="even">**Український** (Ukrainian)</td></tr>
 </tbody>
 </table>
 </div>
