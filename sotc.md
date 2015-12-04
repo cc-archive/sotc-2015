@@ -44,7 +44,7 @@ Ryan Merkley
 CEO, Creative Commons  
 @ryanmerkley
 
------ {.pb}
+-----
 
 ## Wow! Over 1 billion CC licensed works in the Commons in 2015
 
