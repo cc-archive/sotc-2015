@@ -249,6 +249,7 @@ with 3 more to be published in 2015.
 <tr><td class="even">German (Deutsche)</td></tr>
 <tr><td class="odd">Greek (ελληνικά)</td></tr>
 <tr><td class="even">Hungarian (Magyar)</td></tr>
+<tr><td class="odd">Indonesian (bahasa Indones)</td></tr>
 </tbody>
 </table>
 </div>
@@ -256,7 +257,6 @@ with 3 more to be published in 2015.
 <div class="col-md-6 col-sm-12">
 <table class="table table-bordered table-striped">
 <tbody>
-<tr><td class="odd">Indonesian (bahasa Indones)</td></tr>
 <tr><td class="even">Italian (italiano)</td></tr>
 <tr><td class="odd">Japanese (日本語)</td></tr>
 <tr><td class="even">Korean (한국어)</td></tr>
