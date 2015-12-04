@@ -468,7 +468,7 @@ come.
 
 #### Museums and cultural institutions are choosing to share every day. {.img-frame}
 
-#### Over 50 cultural institutions have made their permanent collections or records available for unrestricted use around the world under CC licenses or public domain tools, including: {.by}
+###### Over 50 cultural institutions have made their permanent collections or records available for unrestricted use around the world under CC licenses or public domain tools, including: {.by}
 
 <div id="foundations" class="clearfix">
 
