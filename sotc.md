@@ -241,7 +241,7 @@ with 3 more to be published in 2015.
 <tr><td class="even">**čeština** (Czech)</td></tr>
 <tr><td class="odd">**danske** (Danish)</td></tr>
 <tr><td class="even">**Nederlands** (Dutch)</td></tr>
-<tr><td class="odd">**English*</td></tr>
+<tr><td class="odd">**English**</td></tr>
 <tr><td class="even">**Esperanton** (Esperanto)</td></tr>
 <tr><td class="odd">**suomi** (Finnish)</td></tr>
 <tr><td class="even">**français** (French)</td></tr>
