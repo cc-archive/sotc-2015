@@ -156,7 +156,7 @@ h6 {font-size: 140%; font-weight: 300 !important; line-height: 150% !important; 
 p, ul, ol {padding-left: 5%; padding-right: 5%; margin-top: 1em; font-size: 110%; }
 
 
-table {width: 90% !important; max-width: 760px !important; height: auto !important; margin-left: 5%; margin-bottom: 1.5em !important; margin-top: 1em;}
+table {width: 90% !important; max-width: 760px !important; height: auto !important; margin-left: 5%; margin-right: 5%; margin-bottom: 1.5em !important; margin-top: 1em;}
 
 .sotc-image {width: 100%; max-width: 760px; height: auto !important;}
 
