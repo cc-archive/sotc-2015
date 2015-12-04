@@ -340,7 +340,7 @@ web. Dig into our data sources.
 
 -----
 
-## CC is everywhere: Millions of websites use CC licenses, including major platforms like Wikipedia and Flickr and smaller websites like your grandma's blog.
+## CC is everywhere:<br />Millions of websites use CC licenses, including major platforms like Wikipedia and Flickr and smaller websites like your grandma's blog.
 
 <img src="img/platforms.png" class="sotc-image" />
 
