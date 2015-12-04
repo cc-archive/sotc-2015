@@ -1,50 +1,5 @@
 
-## State<br /> of<br /> the<br /> Commons {.bb}
-
-<div><img src="img/sotc-header.png" alt="State of the Commons" class="sotc-image sotc-fakeheader" /></div>
-
-Collaboration, sharing, and cooperation are a driving force for human
-evolution. Creative Commoners have known this fact all along, and
-recently there has been a flurry of new research to explain why. We
-are hardwired for sharing. Harvard professor on evolutionary dynamics
-Martin Nowak calls it the essential "snuggle for survival" -- evidence
-that sharing is not just a selfless act. Sharing has concurrent and
-lasting benefits, multiplied for the giver, the receiver, and
-communities at large.
-
-The online communities that we've created together are a global
-platform for sharing. If we want to live in a digital world that is
-fair, diverse, vibrant, serendipitous, and safe for everyone, we will
-have to choose to make it that way. If that world is going to be
-accessible, equitable, and full of innovation and opportunity, it will
-require our leadership to foster and defend these ideals. Founded in
-2001, Creative Commons has created legal and technical infrastructure
-that is fundamental to the Web we know and love. Today, our work goes
-beyond the ubiquitous CC licenses to foster cooperation and sharing,
-support collaborative communities, and drive engagement across the
-spectrum of open knowledge and free culture.
-
-Creative Commons is a global charity, with an powerful affiliate
-network of researchers, activists, legal, education and policy
-advocates, and volunteers who serve as CC representatives in over 85
-countries.  Together, we lead this ever-growing global
-movement. Whether it's open education, open data, science, research,
-music, video, photography, or public policy, we are putting sharing
-and collaboration at the heart of the Web. In doing so, we are much
-closer to realizing our vision: unlocking the full potential of the
-Internet to drive a new era of development, growth, and productivity.
-
-I am proud to share with you our 2015 State of the Commons report, our
-best effort to measure the immeasurable scope of the commons by
-looking at the CC licensed content, along with content marked as
-public domain, that comprise the slice of the commons powered by CC
-tools.  We are proud to be a leader in the commons movement, and we
-hope you will join us as we celebrate all we have accomplished
-together this year.
-
-Ryan Merkley  
-CEO, Creative Commons  
-@ryanmerkley
+## State of the Commons {.bb}
 
 -----
 
@@ -81,24 +36,11 @@ CEO, Creative Commons
 </tbody>
 </table>
 
-CC and its suite of licenses are the global standard for legal
-sharing, embedded in major content platforms from Wikimedia to
-Europeana, and adopted by foundations and governments from the Bill
-and Melinda Gates Foundation to the White House.
-
----
-
-Note: Data includes content licensed with the full CC license suite,
-along with content marked with CC public domain tools. This is a low
-bound estimate based on what we could count. Dig into our data
-sources.
-
 -----
 
 ## More people are choosing to share with "Free Culture" licenses
 
 <img src="img/free-culture-wins.svg" alt="" class="sotc-image" />
-
 
 <table class="table table-bordered table-striped">
 <thead>
@@ -151,11 +93,6 @@ sources.
 
 From more open to more restrictive -- less restrictive FREE CULTURE
 licenses allow for both commercial use and adaptations.
-
----
-
-Note: Data includes content licensed with the full CC license suite
-and marked with our public domain tools. Dig into our data sources.
 
 -----
 
@@ -281,13 +218,6 @@ with 3 more to be published in 2015.
 
 <div class="clearfix"></div>
 
----
-
-Note: Data reflects total views of CC deed pages from Jan 1, 2005
-through Nov 3, 2015. * Category includes variations on that language
-for simplicity, eg. Chinese includes simplified and traditional
-Chinese. Dig into our data sources.
-
 -----
 
 ## From research to cute cat photos, the Commons offers a treasure trove of content.
@@ -331,12 +261,6 @@ Chinese. Dig into our data sources.
 <td style="text-align: left;">23,000</td>
 </tr>
 </table>
-
----
-
-Note: Data only reflects media on 16 platforms + Directory of Open
-Access Journals, just a slice of all available CC media on the
-web. Dig into our data sources.
 
 -----
 
@@ -390,27 +314,9 @@ Note: Data reflects total CC licensed works on each platform, only 16 websites o
 
 <img src="img/oer-1.svg" class="sotc-image" />
 
-CC is at the very heart of the open education movement; our licenses
-put the "open" in Open Educational Resources (OER). CC and our open
-education partners are leading an international OER campaign to make
-it easy for educators and students around the world to freely share
-curriculum, textbooks and research at near zero cost. CC is also
-helping governments add open licensing requirements on publicly funded
-educational resources.
-
 ### Countries with Open Education Policies {.by}
 
-Countries with legislation, policies, or funder mandates at the
-national, provincial/state, or institutional level that lead to the
-creation, increased use, or support for improving OER.
-
-<img src="img/oer-2.svg" class="sotc-image" alt="Argentina, Australia, Canada, European
-Union, India, Indonesia, Slovenia, Mauritius, Slovak Republic,
-Netherlands South Africa, New Zealand, United Kingdom, Poland,
-Romania, Scotland, United States, Uruguay and Wales have legislation,
-policies, or funder mandates at the national, provincial/state, or
-institutional level that lead to the creation, increased use, or
-support for improving OER." />
+<img src="img/oer-2.svg" class="sotc-image" alt="" />
 
 ### Open Textbooks have saved students {.by}
 
@@ -418,23 +324,9 @@ support for improving OER." />
 
 ### with an additional $53 million projected through academic year 2015/16 {.by .by-r}
 
----
-
-Note: *European Union is a collection of member states but included in
-this country list for reporting purposes; Data reflects savings for
-students in Canada and the United States; Data provided by the open
-education community. Dig into our data sources.
-
 -----
 
 ## 2015 Impact:<br /> CC + Foundation Open Policy {.impact .img-policy}
-
-CC continues to lead the way in advocating for major philanthropic
-foundations to adopt open licensing policies. Foundations can
-exponentially expand the impact and reach of their grantmaking through
-a "default open" policy that ensures that all grantees openly license
-any digital outputs of their work, an important shift that has a
-tremendous ripple effect.
 
 <div class="clearfix"></div>
 
@@ -462,13 +354,7 @@ tremendous ripple effect.
 
 ## 2015 Impact:<br />CC + Cultural Heritage {.impact}
 
-Creative Commons has fundamentally changed the way the world can
-share, use, and preserve our cultural heritage now and generations to
-come.
-
 #### Museums and cultural institutions are choosing to share every day. {.img-frame}
-
-###### Over 50 cultural institutions have made their permanent collections or records available for unrestricted use around the world under CC licenses or public domain tools, including: {.by}
 
 <div id="foundations" class="clearfix">
 
@@ -494,29 +380,13 @@ come.
 
 #### Thanks to CC's public domain tools, digital images of outer space are made freely accessible and more broadly available to the public than ever before. {.img-pdmoon}
 
-###### A collaboration with NASA, the Project Apollo Archive makes available thousands of images of the iconic Apollo moon missions of the late 1960s and early 1970s under the Public Domain Mark. {.by}
-
-###### SpaceX, a private corporation, dedicates its photos to the public domain using CC0. {.by}
-
 #### #FREEBASSEL: Lead of Creative Commons Syria, Bassel Khartabil is a key contributor to projects that digitize, preserve, and share cultural heritage. He has been illegally imprisoned in Syria since March 2012. CC and its Board of Directors continue to call for Bassel's immediate and safe release. {.img-bk}
-
-###### Building on his invaluable contributions to the commons, Bassel's #NEWPALMYRA project features the 3D models of the ancient ruins of Palmyra, one of Syria's greatest archaeological treasures. The online community platform and data repository is dedicated to the preservation and creative reuse of data about Palmyra. {.by}
 
 -----
 
 ## 2015 Impact:<br />Regional Highlights {.impact}
 
 <img src="img/map.svg" alt="" class="sotc-image" />
-
-
-Creative Commons Affiliate Network includes over 500 researchers,
-activists, legal, education and policy advocates, and volunteers who
-serve as CC representatives in over 85 countries. Working alongside
-non-governmental institutions, universities, and public agencies, CC
-affiliates employ region-specific approaches to copyright and intellectual
-property that help solve local and global challenges. CC affiliates impact
-the growth and quality of the commons across all sectors from education,
-science, and research, to cultural heritage, data, design, and hardware.
 
 <div id="regional-highlights">
 
@@ -593,40 +463,7 @@ implement open policies.
 
 -----
 
-## Thank You For Sharing! {.bb}
-<div><img src="img/sotc-footer.png" alt="Thank You For Sharing" class="sotc-image sotc-fakeheader" /></div>
-
-It's been a remarkable year, most notably for the more than 1.1 billion
-works under one of the CC licenses, CC0, or the public domain mark.
-CC licenses offer an elegant solution; a release valve to the constraints
-of copyright. But it's much bigger than that: Creative Commons has
-become a steward of our global commons, a universe of openly-licensed
-content that has the power to spark everyday ideas and solve global
-challenges. We've unlocked the door to an alternate reality of free and
-open content, powered by millions of creators who share our values.
-
-But the key challenge facing the commons today isn't quantity -- it's
-usability, vibrancy, and collaboration. Today's web is social and
-interconnected, and it has completely changed the way we share, tell
-stories, and build communities. While integral to many kinds of creativity
-and sharing, Creative Commons has yet to fully activate the content and
-creators in our movement. We need our contributors to be able to talk
-to each other, find new content, give feedback, offer gratitude, get
-analytics, and build networks around the content they are creating. We
-need to light up the global commons.
-
-We hope you'll join us and help build a more creative, free, and open
-commons. Together we'll be much closer to realizing our vision:
-unlocking the full potential of the Internet to drive a new era of
-development, growth, and productivity.
-
-Thank you to our Creative Commons Affiliate Network who work
-tirelessly everyday to protect and enrich the commons. We also owe
-our thanks to Google and the many CC platforms, partners, institutions,
-and individuals from the broader open web community who contributed
-the essential data and information for this report. Simply put, our 2015
-State of the commons report would not be possible without your
-valuable contributions. Thank you!
+## Thank You For Sharing!
 
 <div class="col-md-6" id="invest-circle">
 
@@ -666,5 +503,7 @@ valuable contributions. Thank you!
 * Design: Eva Rogers
 
 * HTML version: Matt Lee
+
+* $LANGUAGE translation: 
 
 </footer>
