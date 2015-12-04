@@ -134,12 +134,6 @@ licenses allow for both commercial use and adaptations.
 </tr>
 </table>
 
----
-
-Note: Data includes content under the CC0 public domain dedication and
-Public Domain Mark, but not unmarked material in the public
-domain. Dig into our data sources.
-
 -----
 
 ## In 2015, CC licensed works were viewed online
@@ -148,12 +142,6 @@ domain. Dig into our data sources.
 <img src="img/hits.svg" alt="" style="width: 100%; overflow: hidden;" />
 
 #### CC licensed work is retained, reused, revised, remixed, and redistributed in infinite ways. We captured just a slice of this massively distributed collaboration by measuring the number of times CC licensed work gets accessed from the global pool of content.
-
----
-
-Note: Data tracks downloads on CC license buttons, or the number of
-times CC licensed content was viewed on a web page. Dig into our data
-sources.
 
 -----
 
@@ -303,10 +291,6 @@ with 3 more to be published in 2015.
 > Public Domain Mark. Expect growth on these platforms in 2016.
 
 ## ...and many more!
-
----
-
-Note: Data reflects total CC licensed works on each platform, only 16 websites out of millions. Dig into our data sources.
 
 -----
 
