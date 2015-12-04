@@ -386,7 +386,7 @@ Note: Data reflects total CC licensed works on each platform, only 16 websites o
 
 -----
 
-### 2015 Impact:<br />CC + Open Education {.impact}
+## 2015 Impact:<br />CC + Open Education {.impact}
 
 <img src="img/oer-1.svg" class="sotc-image" />
 
@@ -460,7 +460,7 @@ tremendous ripple effect.
 
 -----
 
-## 2015 Impact: CC + Cultural Heritage
+## 2015 Impact: CC + Cultural Heritage {.impact}
 
 Creative Commons has fundamentally changed the way the world can
 share, use, and preserve our cultural heritage now and generations to
