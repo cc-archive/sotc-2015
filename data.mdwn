@@ -4,7 +4,7 @@
 
 This is the second year that Creative Commons has published a State of the Commons report. CC doesn’t host or control the content in the commons, which is hosted on a myriad of platforms and is made up of every type of media and data. We see this as an iterative process, where each year we improve our process and get better results. As with any large-scale global movement, it is impossible to quantify the full impact of our work. For example, how do we capture content that is insufficiently marked, or content that is in the public domain in some jurisdictions and not in others? When CC licensed work is remixed, how do we know when one work ends and another begins?
 
-That said, we do have a handful of valuable tools that we’ve put to good use to tell the story of the CC licensed Commons and its massive growth. Building on the baseline we established with the [2014 State of the Commons reporting format](https://github.com/creativecommons/stateofthe/blob/master/data/notes.md), we continue to track size, scope, content, and diversity of the Commons. We added new stats from our servers, including [widespread use](#in-2015-cc-licensed-works-were-viewed-online-136-billion-times) of our CC license buttons and [views](#people-are-sharing-with-cc-licenses-in-as-many-as34-languageswith-more-than-90-million-views-of-ccs-deeds-in-the-last-ten-years) of license deeds in different languages. We also added [new usage data from more platforms](#flickr-356-million-photos) hosting the majority of CC licensed content on the web. We aimed for variety in representation, both by media type and domain of content, and we focused on highly trafficked platforms with CC integrations up to the technical standard that would allow us to track this data over time. We also added sections on CC’s broader impact as a steward of our global Commons. We dug a bit deeper into open education, policy, and our shared cultural heritage in an aim to measure not just the quantity of the Commons, but the incredible impact that a robust Commons can have on different regions of world.
+That said, we do have a handful of valuable tools that we’ve put to good use to tell the story of the CC licensed Commons and its massive growth. Building on the baseline we established with the [2014 State of the Commons reporting format](https://github.com/creativecommons/stateofthe/blob/master/data/notes.md), we continue to track size, scope, content, and diversity of the Commons. We added new stats from our servers, including [widespread use](#in-2015-cc-licensed-works-were-viewed-online-136-billion-times) of our CC license buttons and [views](#people-are-sharing-with-cc-licenses-in-as-many-as34-languageswith-more-than-90-million-views-of-ccs-deeds-in-the-last-ten-years) of license deeds in different languages. We also added [new usage data from more platforms](#cc-is-everywhere-millions-of-websites-use-cc-licenses-including-major-platforms-like-wikipedia-and-flickr-and-smaller-websites-like-your-grandmas-blog.) hosting the majority of CC licensed content on the web. We aimed for variety in representation, both by media type and domain of content, and we focused on highly trafficked platforms with CC integrations up to the technical standard that would allow us to track this data over time. We also added sections on CC’s broader impact as a steward of our global Commons. We dug a bit deeper into open education, policy, and our shared cultural heritage in an aim to measure not just the quantity of the Commons, but the incredible impact that a robust Commons can have on different regions of world.
 
 Still, given the breadth and reach of CC’s global diversity, this year’s report can’t fully capture the true scope of CC’s international impact. Our aim is to continue to refine our process each year, including a more in-depth, collaborative process that reflects the geographical breadth of CC content in different languages (see [CC license use on the Polish web](http://ngoteka.pl/bitstream/handle/item/318/exec%2520summary%2520crawl.pdf?sequence%3D1&sa=D&usg=AFQjCNHxFCvR4uP22LzkxmqFn9NOnxDd_w), for example). We also hope to collaborate with domain experts and content partners in [open data](https://wiki.creativecommons.org/wiki/Data) and cultural heritage (what we like to call the [GLAM](https://wiki.creativecommons.org/wiki/GLAM) sector) to include those stats, and eventually track commons growth in those fields over time. With regard to the open policy landscape, we are already collaborating with our partners in the [Open Policy Network](http://openpolicynetwork.org) who are leading a State of Open Policy report for publication in early 2016.
 
@@ -372,7 +372,7 @@ The bar graph reflects the following data by year:
 Sources:
 
 * 2006: 2.34% of 140 million from http://creativecommons.org/weblog/entry/5936; marked under now [retired PD tool](http://creativecommons.org/retiredlicenses) 
-* 2014: [Google data files](https://github.com/creativecommons/stateofthe/blob/master/data/notes.md)
+* 2014: [Google data files](https://github.com/creativecommons/stateofthe/blob/master/data/notes.md#google-data-files)
 * 2015: [Google data files](https://github.com/creativecommons/sotc-215/blob/master/googledata.csv) + Flickr (above)
 
 Just as in 2014, we did not include PD totals from platforms other than Flickr, which we were able to confirm were not included in Google’s data. As such, the total public domain works marked by our tools is a low estimate. For example, Europeana alone reports over 10 million works under PDM or CC0.
@@ -443,7 +443,7 @@ Breakdown of works by media type includes data from 16 platforms plus the Direct
 * Flickr: 356,403,451 / Source: [https://www.flickr.com/creativecommons](https://www.flickr.com/creativecommons/) verified by Flickr staff and accessed on 11/6/15
 * Wikimedia Commons: 23,124,319 (bitmaps + drawings) / Source: [https://meta.wikimedia.org/wiki/State_of_the_Commons/2015](https://meta.wikimedia.org/wiki/State_of_the_Commons/2015) verfied by WMF staff
 * Internet Archive: 42,122 / Source: Internet Archive staff
-* Europeana: 10,865,086 / Source: Europeana staff
+* : 10,865,086 / Source:  staff
 
 ### <span id="h.kqsi3yryhxtm"></span>“Videos: 18.4 million”
 
@@ -452,7 +452,7 @@ Breakdown of works by media type includes data from 16 platforms plus the Direct
 * Wikimedia Commons: 58,599 / Source: [https://meta.wikimedia.org/wiki/State_of_the_Commons/2015](https://meta.wikimedia.org/wiki/State_of_the_Commons/2015) verfied by WMF staff
 * MIT OpenCourseWare: 83 / Source: [http://ocw.mit.edu/about/site-statistics/monthly-reports](http://ocw.mit.edu/about/site-statistics/monthly-reports/) verified by MIT OCW staff
 * Internet Archive: 320,983 / Source: Internet Archive staff
-* Europeana: 25,369 / Source: Europeana staff
+* : 25,369 / Source:  staff
 
 ### <span id="h.x9p1m1ffhf26"></span>“Texts (Articles, Stories, Documents): 46.9 million”
 
@@ -526,7 +526,7 @@ Breakdown of works by platform includes data from 16 platforms and the Directory
 
 ### <span id="h.ek9v7mypm10f"></span>“Europeana: 20.9 million digital objects”
 
-Exact total: 20,953,772
+* Exact total: 20,953,772
   * PDM: 10,300,806
   * CC0: 517,675
   * CC BY-SA: 2,953,210
@@ -535,7 +535,7 @@ Exact total: 20,953,772
   * CC BY: 1,398,867
   * CC BY-NC: 551,597  
   * CC BY-ND: 84,123  
-Source: Europeana staff
+* Source: Europeana staff
 
 ### <span id="h.f4d70kebr0vd"></span>“YouTube: 13 million videos”
 
@@ -793,27 +793,27 @@ Data was collected via an open call to the global open education community. All 
 
 <td align="left">
 
-Project
+**Project**
 
 </td>
 
 <td align="left">
 
-Reported savings (to date unless specified)
+**Reported savings (to date unless specified)**
 
 </td>
 
 <td align="left">
 
-Projected savings for AY 2015/16
+**Projected savings for AY 2015/16**
 
 </td>
 
 <td align="left">
 
-Method used to calculate savings
+**Method used to calculate savings**
 
-Source
+**Source**
 
 </td>
 
@@ -1425,7 +1425,7 @@ Source: Virginia Community College System & Lumen Learning, Inc.
 
 **Reported savings included from the 2014 State of the Commons report**
 
-* Savings in the 2014 report were pulled from a 2013 survey by Nicole Allen of SPARC: https://github.com/creativecommons/stateofthe/blob/master/data/notes.md#savings-from-open-textbooks
+* Savings in the 2014 report were pulled from a 2013 survey by Nicole Allen of SPARC: [https://github.com/creativecommons/stateofthe/blob/master/data/notes.md#savings-from-open-textbooks](https://github.com/creativecommons/stateofthe/blob/master/data/notes.md#savings-from-open-textbooks)
 * We cross-checked this list with responses we received this year and removed duplicates. We erred on the side of underreporting.
 
 [](#)[](#)
@@ -1438,13 +1438,13 @@ Source: Virginia Community College System & Lumen Learning, Inc.
 
 <td align="left">
 
-Project
+**Project**
 
 </td>
 
 <td align="left">
 
-Reported savings in 2013
+**Reported savings in 2013**
 
 </td>
 
@@ -1648,11 +1648,11 @@ $42,100
 
 ## <span id="h.dip9dbt79n1"></span>“The Ford Foundation, Bill & Melinda Gates Foundation, Vancouver Foundation, and Wikimedia Foundation”
 
-* The Ford Foundation requires CC BY for all grant-funded projects and research: https://creativecommons.org/weblog/entry/44865.
-* The Bill & Melinda Gates Foundation requires the CC BY license for research and data: https://creativecommons.org/weblog/entry/44365.
-* The Vancouver Foundation will require CC BY beginning 2017 for all projects and research funded through community advised grant programs: https://creativecommons.org/weblog/entry/45510.
-* The Wikimedia Foundation requires CC BY or another free license for media files and recommends CC0 for data: https://creativecommons.org/weblog/entry/45190.
-* The William and Flora Hewlett Foundation requires CC BY for all digital outputs of its grantmaking: [https://creativecommons.org/weblog/entry/43768](https://www.google.com/url?q=https://creativecommons.org/weblog/entry/43768&sa=D&usg=AFQjCNFnblNpAY7_hjVJoqFBNDi6VFqWOQ).
+* The Ford Foundation requires CC BY for all grant-funded projects and research: [https://creativecommons.org/weblog/entry/44865](https://creativecommons.org/weblog/entry/44865).
+* The Bill & Melinda Gates Foundation requires the CC BY license for research and data: [https://creativecommons.org/weblog/entry/44365](https://creativecommons.org/weblog/entry/44365).
+* The Vancouver Foundation will require CC BY beginning 2017 for all projects and research funded through community advised grant programs: [https://creativecommons.org/weblog/entry/45510](https://creativecommons.org/weblog/entry/45510).
+* The Wikimedia Foundation requires CC BY or another free license for media files and recommends CC0 for data: [https://creativecommons.org/weblog/entry/45190](https://creativecommons.org/weblog/entry/45190).
+* The William and Flora Hewlett Foundation requires CC BY for all digital outputs of its grantmaking: [https://creativecommons.org/weblog/entry/43768](https://creativecommons.org/weblog/entry/43768).
 
 ## <span id="h.do3odxeld3ki"></span>“Together with The William and Flora Hewlett Foundation, a longstanding open policy leader,  these foundations collectively made grants of approximately $1.9 billion in 2015”
 
