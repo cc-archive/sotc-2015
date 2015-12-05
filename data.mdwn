@@ -351,20 +351,20 @@ The bar graph showing breakdown by CC license and PD tool correspond to the foll
 
 Total # of works reflected in bar graph: 1,008,283,451 (minus ~111 million works where the license was unspecified)
 
-Breakdown by license: Google + Platforms not cached by Google = Total estimated works under that license
+Breakdown by license: Google + *Platforms not cached by Google* = Total estimated works under that license
 
-* CC BY: 114,660,000 + 129,354,310 = 244,014,310
-* CC BY-SA: 67,800,000 + 305,756,937 = 373,556,937
-* CC BY-ND: 5,350,000 + 19,215,096  = 24,565,096
-* CC BY-NC: 11,130,000 + 45,793,028 = 56,923,028
-* CC BY-NC-SA: 37,230,000 + 99,330,609 = 136,560,609
-* CC BY-NC-ND: 47,340,000 + 90,361,041 = 137,701,041
-* Public domain total: 33,370,000 + 1,592,430 = 34,962,430
-  * CC0: 21,950,000 + 372,095 = 22,322,095
-  * PDM: 1,410,000 + 1,220,335 = 2,630,335
+* CC BY: 114,660,000 + *129,354,310* = 244,014,310
+* CC BY-SA: 67,800,000 + *305,756,937* = 373,556,937
+* CC BY-ND: 5,350,000 + *19,215,096* = 24,565,096
+* CC BY-NC: 11,130,000 + *45,793,028* = 56,923,028
+* CC BY-NC-SA: 37,230,000 + *99,330,609* = 136,560,609
+* CC BY-NC-ND: 47,340,000 + *90,361,041* = 137,701,041
+* Public domain total: 33,370,000 + *1,592,430* = 34,962,430
+  * CC0: 21,950,000 + *372,095* = 22,322,095
+  * PDM: 1,410,000 + *1,220,335* = 2,630,335
   * Retired PD tool: 10,010,000
 
-Total Free Culture works (CC BY + CC BY-SA + Public domain): 652,533,677\. CC uses the definition of free cultural works at Freedom Defined to categorize the CC licenses. “Free Culture” licenses allow for both commercial use and adaptations. Learn more at [http://creativecommons.org/freeworks](https://www.google.com/url?q=http://creativecommons.org/freeworks&sa=D&usg=AFQjCNHwqZIs4cPqmwaOeagXyVjAhFbw1g).
+Total Free Culture works (CC BY + CC BY-SA + Public domain): 652,533,677. CC uses the definition of free cultural works at Freedom Defined to categorize the CC licenses. “Free Culture” licenses allow for both commercial use and adaptations. Learn more at [http://creativecommons.org/freeworks](https://www.google.com/url?q=http://creativecommons.org/freeworks&sa=D&usg=AFQjCNHwqZIs4cPqmwaOeagXyVjAhFbw1g).
 
 ## <span id="h.edcwvxerta7m"></span>“The public domain is growing!”
 
@@ -372,19 +372,15 @@ The bar graph reflects the following data by year:
 
 * Total public domain works marked with CC tools in 2006: 3,276,000 (no breakdown by tool)
 * Total public domain works marked with CC tools in 2014: 17,557,500
-
-* CC0: 10,310,000
-* PDM: 1,510,000
-* Retired PD tool: 5,737,500
-
+  * CC0: 10,310,000
+  * PDM: 1,510,000
+  * Retired PD tool: 5,737,500
 * Total public domain works marked with CC tools in 2015: 34,962,430
-
-* CC0: 22,322,095
-* PDM: 2,630,335
-* Retired PD tool: 10,010,000
+  * CC0: 22,322,095
+  * PDM: 2,630,335
+  * Retired PD tool: 10,010,000
 
 Sources:
-
 * 2006: 2.34% of 140 million from [http://creativecommons.org/weblog/entry/5936](https://www.google.com/url?q=http://creativecommons.org/weblog/entry/5936&sa=D&usg=AFQjCNEPeqAD5wMB3q1q65CVBlDJ6PGhSg); marked under now [retired PD tool](https://www.google.com/url?q=http://creativecommons.org/retiredlicenses&sa=D&usg=AFQjCNEtNUH-SzroZ5dEcpqfR3fdrqhOvg) 
 * 2014: [Google data files](https://www.google.com/url?q=https://github.com/creativecommons/stateofthe/blob/master/data/notes.md%23google-data-files&sa=D&usg=AFQjCNHWUJS11k3ae7Yk_BOOJx4ECwzDww)
 * 2015: Google data files[link to https://github.com/creativecommons/stateofthe/blob/master/data/google-data2015.csv] + Flickr (above)
@@ -393,11 +389,11 @@ Just as in 2014, we did not include PD totals from platforms other than Flickr, 
 
 ## <span id="h.ac9uxyewspov"></span>“In 2015, CC licensed works were viewed online 136 billion times”
 
-Views of CC works were calculated by combining two sets of data: the number of times CC license buttons were downloaded by a browser as part of viewing a web page, and the number of Wikipedia page views. [CC license buttons](https://www.google.com/url?q=https://creativecommons.org/about/downloads%23Buttons&sa=D&usg=AFQjCNHD-2-bPSZuUUBWOv0d5guWHUL0PA) are hosted by the CC server; web pages that display our machine-readable code, as that from our [CC license chooser](https://www.google.com/url?q=http://creativecommons.org/choose&sa=D&usg=AFQjCNHALeX4BHAI3gOzdW_y34ty5mDZGg), reference the CC license buttons hosted by our servers, which allow us to track each time a browser downloads the button image as part of someone viewing that page. In September 2015, CC license buttons were downloaded 552,015,520 times. We multiplied this number by 11.5 to achieve the approximate number of 6 billion views in 2015\. We combined 6 billion with the total number of page views of Wikipedia in 2015 ([130 billion](https://www.google.com/url?q=https://stats.wikimedia.org/EN/TablesPageViewsMonthly.htm&sa=D&usg=AFQjCNFUryk4MCFiuOYfhdGVTz8cGT7V-w)) to reach 136 billion views. Wikipedia pages do not use the machine-readable code referencing the CC license buttons and therefore are not included in our server data. Since we have not accounted for the many CC licensed works that do not reference the CC license buttons hosted on our servers and that are not Wikipedia, 136 billion is a low bound estimate.
+Views of CC works were calculated by combining two sets of data: the number of times CC license buttons were downloaded by a browser as part of viewing a web page, and the number of Wikipedia page views. [CC license buttons](https://creativecommons.org/about/downloads#Buttons) are hosted by the CC server; web pages that display our machine-readable code, as that from our [CC license chooser](http://creativecommons.org/choose), reference the CC license buttons hosted by our servers, which allow us to track each time a browser downloads the button image as part of someone viewing that page. In September 2015, CC license buttons were downloaded 552,015,520 times. We multiplied this number by 11.5 to achieve the approximate number of 6 billion views in 2015\. We combined 6 billion with the total number of page views of Wikipedia in 2015 ([130 billion](https://stats.wikimedia.org/EN/TablesPageViewsMonthly.htm)) to reach 136 billion views. Wikipedia pages do not use the machine-readable code referencing the CC license buttons and therefore are not included in our server data. Since we have not accounted for the many CC licensed works that do not reference the CC license buttons hosted on our servers and that are not Wikipedia, 136 billion is a low bound estimate.
 
-## <span id="h.thiwln9a27at"></span>“To date, the 4.0 license suite has been officially translated into 7 languages, with 3 more to be published before the new year.”
+## <span id="h.thiwln9a27at"></span>“To date, the 4.0 license suite has been officially translated into 7 languages, with 3 more to be published before the new year.”
 
-Starting with the 4.0 license suite, CC instituted its first [Legal Code Translation Policy](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Legal_Code_Translation_Policy&sa=D&usg=AFQjCNFsBE2iL6z-tkVOgeR48M6K4y9qbA). Official translations of the 4.0 suite and CC0 are tracked at [https://wiki.creativecommons.org/wiki/Legal_Tools_Translation](https://www.google.com/url?q=https://wiki.creativecommons.org/wiki/Legal_Tools_Translation&sa=D&usg=AFQjCNEUo2G3aAkVggcvliAixDoUxeI2nQ).
+Starting with the 4.0 license suite, CC instituted its first [Legal Code Translation Policy](https://wiki.creativecommons.org/wiki/Legal_Code_Translation_Policy). Official translations of the 4.0 suite and CC0 are tracked at [https://wiki.creativecommons.org/wiki/Legal_Tools_Translation](https://wiki.creativecommons.org/wiki/Legal_Tools_Translation).
 
 ## <span id="h.rtk23nbutn5"></span>“People are sharing with CC licenses in as many as 34 languages with more than 90 million views of CC’s deeds in the last ten years”
 
