@@ -24,7 +24,7 @@ Google provided us with the raw data, counting all of the web pages in its cache
 
 Source: Google query, available at [Github](https://github.com/creativecommons/sotc-215/blob/master/googledata.csv).
 
-**Platforms not included in Google’s data**
+**Platforms not included in Google’s data**
 
 * Total works across platforms listed below: 802 million
 
@@ -785,7 +785,7 @@ Data was collected via an open call to the global open education community. All 
 
 [](#)[](#)
 
-<table><colgroup><col width="25%"> <col width="25%"> <col width="25%"> <col width="25%"></colgroup> 
+<table class="table"><colgroup><col width="25%"> <col width="25%"> <col width="25%"> <col width="25%"></colgroup> 
 
 <tbody>
 
@@ -1430,7 +1430,7 @@ Source: Virginia Community College System & Lumen Learning, Inc.
 
 [](#)[](#)
 
-<table><colgroup><col width="50%"> <col width="50%"></colgroup> 
+<table class="table"><colgroup><col width="50%"> <col width="50%"></colgroup> 
 
 <tbody>
 
