@@ -25,6 +25,19 @@ pandoc --smart "mini.md" -T $PREFIX -V "pagetitle: $TITLE" -V "title: $TITLE" -w
 
 pandoc --smart "data.mdwn" --toc -V "pagetitle: Data" -V "title: Data" -w html5 -o "data.html" --template data-template.html
 
+cd translations
+for langfile in *.csv
+do
+    perl ../translate.pl $langfile ../translation.md > $langfile.md
+    TITLE=$(echo $(head -n 2 $langfile.md) | perl -pe 's/## //g' | perl -pe 's/{.bb}//g' | perl -pe 's/{.impact}//g'|  perl -pe 's/{.by}//g' | perl -pe 's/{.bbs}//g' | sed -e 's/<[^>]*>//g')
+
+    pandoc --smart "$langfile.md" -T $langfile -V "pagetitle: $TITLE" -V "title: $TITLE" -w html5 -o "../translation-$langfile.html" --template ../template.html
+
+done
+
+cd ..
+
+
 
 rsync -arR *.css *.md *.html img/ mattl@labs.creativecommons.org:~/public_html/sotc-2015-mattl/
 
