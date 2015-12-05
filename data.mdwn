@@ -777,7 +777,8 @@ Our open education partners collectively reported cost savings of $174,448,941 U
 
 Data was collected via an open call to the global open education community. All respondents were from North America. All respondents, projects, reported savings, and sources are listed below. Due to the diversity of the open education space, savings were calculated per individual project. We only included a project’s cost savings in the total if a methodology was provided. We also avoided duplication by verifying each project’s savings by year.
 
-Reported savings to date in 2015
+**Reported savings to date in 2015**
+
 * All numbers are USD; savings reported in CAD have been converted using www.oanda.com
 * If a project reports $0, it is because the project has just started; it has not tracked savings to date; or the number was not verified by the source.
 * Not all projects were able to provide projected savings, so the total is a low estimate.
@@ -1422,7 +1423,7 @@ Source: Virginia Community College System & Lumen Learning, Inc.
 
 </table>
 
-Reported savings included from the 2014 State of the Commons report
+**Reported savings included from the 2014 State of the Commons report**
 
 * Savings in the 2014 report were pulled from a 2013 survey by Nicole Allen of SPARC: https://github.com/creativecommons/stateofthe/blob/master/data/notes.md#savings-from-open-textbooks
 * We cross-checked this list with responses we received this year and removed duplicates. We erred on the side of underreporting.
