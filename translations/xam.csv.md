@@ -1,36 +1,36 @@
 
-## {{10}} {.bbs}
+## CELKOVÝ POČET LICENCOVANÝCH DĚL {.bbs}
 
 -----
 
-## {{7}} {{6}}
+## V roce 2015 je pod CC k dispozici přes jednu miliardu děl zveřejněných v Commons. Wow!
 
-> {{11}}
+> Počet děl pod CC se během posledních 5 let téměř ztrojnásobil
 
 <img src="img/total-licensed-works.svg" class="sotc-image" />
 
 <table class="table table-bordered table-striped">
 <thead>
 <tr>
-<th>{{8}}</th>
+<th>MILIARDY</th>
 <th>&nbsp;</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">180 {{7}}</td>
+<td style="text-align: left;">180 V roce 2015 je pod CC k dispozici přes jednu miliardu děl zveřejněných v Commons.</td>
 <td style="text-align: left;">2006</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">400 {{7}}</td>
+<td style="text-align: left;">400 V roce 2015 je pod CC k dispozici přes jednu miliardu děl zveřejněných v Commons.</td>
 <td style="text-align: left;">2010</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">850 {{7}}</td>
+<td style="text-align: left;">850 V roce 2015 je pod CC k dispozici přes jednu miliardu děl zveřejněných v Commons.</td>
 <td style="text-align: left;">2014</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">1.1 {{6}}</td>
+<td style="text-align: left;">1.1 Wow!</td>
 <td style="text-align: left;">2015</td>
 </tr>
 </tbody>
@@ -38,7 +38,7 @@
 
 -----
 
-## {{13}}
+## Více lidí volí sdílení pod licencemi “Svobodné kultury”
 
 <img src="img/free-culture-wins.svg" alt="" class="sotc-image" />
 
@@ -52,37 +52,37 @@
 </thead> -->
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">CC0, Public Domain Mark + retired PD tool</td>
+<td style="text-align: left;">CC0, PDM + Již nepoužívaný nástroj pro označování volných děl</td>
 <td style="text-align: left;">3%</td>
 <td>Yes</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">CC Attribution (CC BY)</td>
+<td style="text-align: left;">CC BY</td>
 <td style="text-align: left;">24%</td>
 <td>Yes</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">CC Attribution ShareAlike (CC BY SA)</td>
+<td style="text-align: left;">CC BY SA</td>
 <td style="text-align: left;">37%</td>
 <td>Yes</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">CC Attributon NoDerivs (CC BY ND)</td>
+<td style="text-align: left;">CC BY ND</td>
 <td style="text-align: left;">2%</td>
 <td>No</style>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">CC Attribution NonCommercial (CC BY NC)</td>
+<td style="text-align: left;">CC BY NC</td>
 <td style="text-align: left;">6%</td>
 <td>No</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">CC Attribution NonCommercial ShareAlike (CC BY-NC-SA)</td>
+<td style="text-align: left;">CC BY-NC-SA</td>
 <td style="text-align: left;">14%</td>
 <td>No</style>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">CC Attribution NonCommercial NoDerivs (CC BY NC ND)</td>
+<td style="text-align: left;">CC BY NC ND</td>
 <td style="text-align: left;">14%</td>
 <td>No</td>
 </tr>
@@ -91,11 +91,11 @@
 
 <img src="img/free-scale.svg" alt="" class="sotc-image" />
 
-{{14}} &mdash; {{15}}. {{17}}
+LIBERÁLNĚJŠÍ &mdash; RESTRIKTIVNĚJŠÍ. Liberálnější licence SVOBODNÉ KULTURY dovolují jak komerční užití, tak i zpracování
 
 -----
 
-## {{19}}
+## Počet děl označených jako dílo volné se za uplynulých 12 měsíců zdvojnásobil
 
 <img src="img/pdm.svg" class="sotc-image" />
 
@@ -103,77 +103,68 @@
 <thead>
 <tr class="header">
 <th style="text-align: left;">Year</th>
-<th style="text-align: left;">Retired PD tool</th>
-<th style="text-align: left;">Public Domain Mark</th>
+<th style="text-align: left;">+ Již nepoužívaný nástroj pro označování volných děl</th>
+<th style="text-align: left;">PDM</th>
 <th style="text-align: left;">CC0</th>
-<th style="text-align: left;">Total</th>
+<th style="text-align: left;">CELKOVÝ POČET LICENCOVANÝCH DĚL</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td style="text-align: left;">2006</td>
-<td style="text-align: left;">3.2 {{22}}</td>
+<td style="text-align: left;">3.2 MILIONŮ</td>
 <td style="text-align: left;">-</td>
 <td style="text-align: left;">-</td>
-<td style="text-align: left;">3.2 {{22}}</td>
+<td style="text-align: left;">3.2 MILIONŮ</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">2014</td>
-<td style="text-align: left;">5.7 {{22}}</td>
-<td style="text-align: left;">1.5 {{22}}</td>
-<td style="text-align: left;">10.3 {{22}}</td>
-<td style="text-align: left;">17.5 {{22}}</td>
+<td style="text-align: left;">5.7 MILIONŮ</td>
+<td style="text-align: left;">1.5 MILIONŮ</td>
+<td style="text-align: left;">10.3 MILIONŮ</td>
+<td style="text-align: left;">17.5 MILIONŮ</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">2015</td>
-<td style="text-align: left;">10 {{22}}</td>
-<td style="text-align: left;">2.6 {{22}}</td>
-<td style="text-align: left;">22.3 {{22}}</td>
-<td style="text-align: left;">34.9 {{22}}</td>
+<td style="text-align: left;">10 MILIONŮ</td>
+<td style="text-align: left;">2.6 MILIONŮ</td>
+<td style="text-align: left;">22.3 MILIONŮ</td>
+<td style="text-align: left;">34.9 MILIONŮ</td>
 </tr>
 </table>
 
 -----
 
-## {{28}}
+## V roce 2015 byla díla licencovaná pod CC zobrazena 136 000 000 000x.
 
 <img src="img/hits.svg" alt="" style="width: 100%; overflow: hidden;" />
 
-#### CC licensed work is retained, reused, revised, remixed, and redistributed in infinite ways. We captured just a slice of this massively distributed collaboration by measuring the number of times CC licensed work gets accessed from the global pool of content.
-
 -----
 
-## {{37}}
+## Rozmanitost a celosvětová viditelnost
 
-Creative Commons is a truly international movement with active
-communities on every continent (yes, even Antarctica). A significant
-milestone was the 2013 launch of Version 4.0 and CC's first official
-translation policy for internationalizing the license suite. To date,
-the 4.0 license suite has been officially translated into 7 languages,
-with 3 more to be published in 2015.
-
-## People are sharing with CC licenses in 34 languages with more than 90 million views of CC's deeds in the last 10 years.
+## Lidé sdílejí díla pod CC licencemi ve 34 jazycích; v posledních 10 letech byla stránka “CC’s deeds” zobrazena více než 90 000 000x.
 
 <div class="col-md-6 col-sm-12">
 <table class="table table-bordered table-striped">
 <tbody>
-<tr><td class="odd">**(missing)** (Arabic)</td></tr>
-<tr><td class="even">**беларускі** (Belarusian)</td></tr>
-<tr><td class="odd">**Català** (Catalan)</td></tr>
-<tr><td class="even">**中国** (Chinese*)</td></tr>
-<tr><td class="odd">**hrvatski** (Croatian)</td></tr>
-<tr><td class="even">**čeština** (Czech)</td></tr>
-<tr><td class="odd">**danske** (Danish)</td></tr>
-<tr><td class="even">**Nederlands** (Dutch)</td></tr>
-<tr><td class="odd">**English** (English*)</td></tr>
-<tr><td class="even">**Esperanton** (Esperanto)</td></tr>
-<tr><td class="odd">**suomi** (Finnish)</td></tr>
-<tr><td class="even">**français** (French*)</td></tr>
-<tr><td class="odd">**galego** (Galician)</td></tr>
-<tr><td class="even">**Deutsche** (German*)</td></tr>
-<tr><td class="odd">**ελληνικά** (Greek)</td></tr>
-<tr><td class="even">**Magyar** (Hungarian)</td></tr>
-<tr><td class="odd">**bahasa Indones** (Indonesian)</td></tr>
+<tr><td class="odd">**(missing)** (arabština)</td></tr>
+<tr><td class="even">**беларускі** (běloruština)</td></tr>
+<tr><td class="odd">**Català** (katalánština)</td></tr>
+<tr><td class="even">**中国** (čínština**)</td></tr>
+<tr><td class="odd">**hrvatski** (chorvatština)</td></tr>
+<tr><td class="even">**čeština** (čeština)</td></tr>
+<tr><td class="odd">**danske** (dánština)</td></tr>
+<tr><td class="even">**Nederlands** (nizozemština)</td></tr>
+<tr><td class="odd">**English** (angličtina**)</td></tr>
+<tr><td class="even">**Esperanton** (esperanto)</td></tr>
+<tr><td class="odd">**suomi** (finština)</td></tr>
+<tr><td class="even">**français** (francouzština**)</td></tr>
+<tr><td class="odd">**galego** (galicijština)</td></tr>
+<tr><td class="even">**Deutsche** (němčina**)</td></tr>
+<tr><td class="odd">**ελληνικά** (řečtina)</td></tr>
+<tr><td class="even">**Magyar** (maďarština)</td></tr>
+<tr><td class="odd">**bahasa Indones** (indonéština)</td></tr>
 </tbody>
 </table>
 </div>
@@ -181,23 +172,23 @@ with 3 more to be published in 2015.
 <div class="col-md-6 col-sm-12">
 <table class="table table-bordered table-striped">
 <tbody>
-<tr><td class="even">**italiano** (Italian)</td></tr>
-<tr><td class="odd">**日本語** (Japanese)</td></tr>
-<tr><td class="even">**한국어** (Korean)</td></tr>
-<tr><td class="odd">**Latvijā** (Latvian)</td></tr>
-<tr><td class="even">**Lietuvos** (Lithuanian)</td></tr>
-<tr><td class="odd">**Melayu** (Malay)</td></tr>
-<tr><td class="even">**te reo Maori** (Maori)</td></tr>
-<tr><td class="odd">**norsk** (Norwegian)</td></tr>
-<tr><td class="even">**missing** (Persian/Farsi)</td></tr>
-<tr><td class="odd">**polski** (Polish)</td></tr>
-<tr><td class="even">**português** (Portuguese)</td></tr>
-<tr><td class="odd">**Română** (Romanian)</td></tr>
-<tr><td class="even">**Русский** (Russian)</td></tr>
-<tr><td class="odd">**Español** (Spanish*)</td></tr>
-<tr><td class="even">**svenska** (Swedish)</td></tr>
-<tr><td class="odd">**Türk** (Turkish)</td></tr>
-<tr><td class="even">**Український** (Ukrainian)</td></tr>
+<tr><td class="even">**italiano** (italština)</td></tr>
+<tr><td class="odd">**日本語** (japonština)</td></tr>
+<tr><td class="even">**한국어** (korejština)</td></tr>
+<tr><td class="odd">**Latvijā** (lotyština)</td></tr>
+<tr><td class="even">**Lietuvos** (litevština)</td></tr>
+<tr><td class="odd">**Melayu** (malajština)</td></tr>
+<tr><td class="even">**te reo Maori** (maorština)</td></tr>
+<tr><td class="odd">**norsk** (norština)</td></tr>
+<tr><td class="even">**missing** (perština)</td></tr>
+<tr><td class="odd">**polski** (polština)</td></tr>
+<tr><td class="even">**português** (portugalština)</td></tr>
+<tr><td class="odd">**Română** (rumunština)</td></tr>
+<tr><td class="even">**Русский** (ruština)</td></tr>
+<tr><td class="odd">**Español** (španělština**)</td></tr>
+<tr><td class="even">**svenska** (švédština)</td></tr>
+<tr><td class="odd">**Türk** (turečtina)</td></tr>
+<tr><td class="even">**Український** (ukrajinština)</td></tr>
 </tbody>
 </table>
 </div>
@@ -206,80 +197,81 @@ with 3 more to be published in 2015.
 
 -----
 
-## {{29}}
+## Od výzkumu po obrázky roztomilých kočiček, Commons nabízí opravdovou studnici obsahu.
 
 <img src="img/content-bubbles.svg" class="sotc-image" />
 
-* {{30}}
-* {{31}}
-* {{32}}
-* {{33}}
-* {{34}}
-* {{35}}
-* {{36}}
+* OBRÁZKY (FOTKY, UMĚLECKÁ DÍLA):  391 MILIONŮ
+* OTEVŘENÉ VZDĚLÁVACÍ ZDROJE: 76,000
+* VÝZKUM (VĚDECKÉ ČLÁNKY): 1.4 MILLIONU
+* VIDEA: 18.4 MILLIONŮ
+* ZVUKOVÉ NAHRÁVKY: 4 MILLIONY
+* OSTATNÍ (MULTIMÉDIA, 3D): 23,000
+* TEXTY (ČLÁNKY, PŘÍBĚHY, DOKUMENTY): 46.9 MILLIONŮ
 
 -----
 
-## {{38}}<br />{{157}}
+## CC jsou všude:<br />miliony webových stránek využívá licencí CC, a to včetně významných platforem jako jsou Wikipedie či Flickr, ale i menších webů jako je blog vaší babičky.
+
 
 <img src="img/platforms.png" class="sotc-image" />
 
 <table class="table table-bordered table-striped">
 <thead>
 <tr class="header">
-<th>Platform</th>
-<th>Number of works in the commons</th>
+<th>-</th>
+<th>CELKOVÝ POČET LICENCOVANÝCH DĚL</th>
 </tr>
 </thead>
 <tbody>
-<tr class="odd"><td>Flickr</td><td>{{43}}</td></tr>
+<tr class="odd"><td>Flickr</td><td>356 milionů fotek</td></tr>
 <tr class="even"><td>Bandcamp</td><td>{{44}</td></tr>
-<tr class="odd"><td>Wikipedia</td><td>{{46}}</td></tr>
+<tr class="odd"><td>Wikipedia</td><td>35,9 milionů článků</td></tr>
 <tr class="even"><td>YouTube</td><td></td></tr>
-<tr class="odd"><td>Jamendo</td><td>496,000 {{41}}</td></tr>
+<tr class="odd"><td>Jamendo</td><td>496,000 nahrávky</td></tr>
 <tr class="even"><td>500px</td><td>661,000 photos</td></tr>
-<tr class="odd"><td>Vimeo</td><td>5 {{51}}</td></tr>
-<tr class="even"><td>Internet Archive</td><td>2 {{51}}</td></tr>
-<tr class="odd"><td>FMA</td><td>86,000 {{41}}</td></tr>
+<tr class="odd"><td>Vimeo</td><td>5 miliony videí</td></tr>
+<tr class="even"><td>Internet Archive</td><td>2 miliony videí</td></tr>
+<tr class="odd"><td>FMA</td><td>86,000 nahrávky</td></tr>
 <tr class="even"><td>Wikimedia Commons</td><td>21.6 million media files</td></tr>
-<tr class="odd"><td>Tribe of Noise</td><td>29,000 {{41}}</td></tr>
-<tr class="even"><td>PLOS</td><td>{{42}}</td></tr>
-<tr class="odd"><td>Europeana</td><td>{{40}}</td></tr>
-<tr class="even"><td>Skills Commons</td><td>{{53}}</td></tr>
+<tr class="odd"><td>Tribe of Noise</td><td>29,000 nahrávky</td></tr>
+<tr class="even"><td>PLOS</td><td>140,000 článků</td></tr>
+<tr class="odd"><td>Europeana</td><td>20,9 milionů digitálních objektů</td></tr>
+<tr class="even"><td>Skills Commons</td><td>24,000 školících materiálů</td></tr>
 <tr class="odd"><td>Boundless</td><td>49,000 open educational resources</td></tr>
-<tr class="even"><td>MIT opencourseware</td><td>{{52}}</td></tr>
+<tr class="even"><td>MIT opencourseware</td><td>2,300 kurzů</td></tr>
 </tbody>
 </table>
 
-(* {{45}})
+(* (celkem článků na webu pod CC BY: 675 000; pod všemi CC licencemi: 1 300 000))
 
-> {{54}}
+> V roce 2015 začaly další platformy nabízet uživatelům možnost licencovat pod CC, například Medium a edX, zatímco Flickr přidal podporu pro CC0 a označení díla veřejné sféry.
 
-## {{49}}
+## ...a mnoho dalších!
 
 -----
 
-## {{50}}
+## Dopad v roce 2015: CC + otevřené vzdělávání
 
 <img src="img/oer-1.svg" class="sotc-image" />
 
-### {{59}} {.by}
+### Země s politikami pro otevřené vzdělávání {.by}
 
 <img src="img/oer-2.svg" class="sotc-image" alt="" />
 
-### {{63}} {.by}
+### Otevřené učebnice již ušetřily studentům {.by}
 
-<img src="img/oer-3.svg" class="sotc-image" alt="${{84}} {{85}}" />
+<img src="img/oer-3.svg" class="sotc-image" alt="$174 milionů doladů K DNEŠNÍMU DNI" />
 
-### {{86}} {.by .by-r}
+### a dalších 53 milionů dolarů očekávaných v akademickém roce 2015/16 {.by .by-r}
 
 -----
 
-## {{56}} {.impact .img-policy}
+## Vliv v roce 2015: CC + Otevřené politiky nadací {.impact .img-policy}
 
 <div class="clearfix"></div>
 
-### {{57}} {.by}
+### V roce 2015 si osvojily otevřenou politiku tyto významné nadace: {.by}
 
 <div id="foundations" class="clearfix">
 
@@ -297,7 +289,7 @@ with 3 more to be published in 2015.
 
 </div>
 
-## {{58}}
+## Tyto nadace přešly z uzavřené na otevřenou politiku a kolektivně darovaly v roce 2015 přibližně 1,9 miliardy dolarů.
 
 -----
 
@@ -325,84 +317,84 @@ with 3 more to be published in 2015.
 
 </div>
 
-#### {{89}} {.img-pdmoon}
+#### Díky nástrojům pro označení volných děl jsou obrázky vesmíru volně přístupné a a dostupné  veřejnosti více než kdy předtím.  {.img-pdmoon}
 
-#### {{90}} {{141}} {{142}}. {.img-bk}
+#### #FREEBASSEL: Vedoucí CC týmu Sýrie, Bassel Khartabil, je hlavním přispěvatelem do projektů zabývajících se digitalizováním, zachováním a sdílením kulturního dědictví.  Od března 2012 je nelegálně vězněn v Sýrii. CC a jeho představenstvo neustále volají po Basselově okamžitém a bezpečném propuštění.. {.img-bk}
 
 -----
 
-## {{91}} {.impact}
+## Vliv v roce 2015: Největší regionální úspěchy {.impact}
 
 <img src="img/map.svg" alt="" class="sotc-image" />
 
 <div id="regional-highlights">
 
-### {{92}} {#regional-mideast}
+### STŘEDNÍ VÝCHOD A SEVERNÍ AFIKA {#regional-mideast}
 
-* {{143}} to restructure, build capacity, share best
+* CC týmy ze Středního východu a severní Afriky se sešly již na dvou společných zasedáních. to restructure, build capacity, share best
 practices, and officially translate the latest version of the CC
 license suite into Arabic.
 
-* {{144}}, including an Arabic translation of
+* Anglická verze stanice Al-Džazíra zveřejnila pod licencemi CC interaktivní materiály a infografiky z dílny Al-Džazíra., including an Arabic translation of
 the The Data Journalism Handbook.
 
-### {{93}}  {#regional-africa}
+### AFRIKA  {#regional-africa}
 
-* {{145}}, including bills, documents, and audio recordings.
+* Jihoafrická republika zveřejnila parlamentní záznamy za sedmnáct let pod CC BY., including bills, documents, and audio recordings.
 
-* {{146}} successfully crowdsourcing more than 9,000 CC
+* Africké týmy CC a WikiAfrica spustily druhou výroční kampaň “Wiki Loves Africa”. successfully crowdsourcing more than 9,000 CC
 licensed images covering African fashion and design.
 
-* {{147}} in 62 African languages across Kenya, Uganda, Lesotho and South Africa.
+* CC týmy se spojily s místními organizacemi African Storybook Project a Book Dash, aby mohly poskytovat dětské knihy licencované pod CC. in 62 African languages across Kenya, Uganda, Lesotho and South Africa.
 
-### {{94}} {#regional-europe}
+### EVROPA {#regional-europe}
 
-* {{148}} outlining 6
+* CC Portugalsko spouští “Sadu nástrojů CC pro podnikání”. outlining 6
 economic benefits of using CC licenses.
 
-* {{149}} The directive requires collecting societies to allow their
+* CC týmy napříč Evropou spolupracují s národními zákonodárci na implementaci směrnice Evropské unie o kolektivní správě práv. The directive requires collecting societies to allow their
 members to self-license their works under noncommercial terms,
 providing CC musicians with more control over how to share and manage
 their music.
 
-### {{95}} {#regional-asia}
+### ASIE A TICHOMOŘÍ {#regional-asia}
 
-* {{150}},
+* CC Korea pořádá Celosvětový summit Creative Commons 2015 v Soulu.,
 featuring workshops, panels, and special keynotes by Kilnam Chon, Julia
 Reda, Lawrence Lessig, and more.
 
-* {{151}}
+* Čínsky hovořící partneři v týmech spolupracují napříč kulturami a časovými pásmy na přípravě oficiálního překladu souboru licencí verze 4.0.
 
-### {{96}} {#regional-northamerica}
+### SEVERNÍ AMERIKA {#regional-northamerica}
 
-* {{152}}, featuring it alongside the @ symbol
+* Muzeum moderního umění v New Yorku (MoMA) zařadilo logo CC do svých sbírek jako stálou součást., featuring it alongside the @ symbol
 and the International Symbol for Recycling in the exhibit, "This Is for
 Everyone: Design Experiments for the Common Good."
 
-* {{153}} to the Skills Commons
+* Příjemci prostředků z dvoumiliardového programu Ministerstva práce Spojených států na podporu kariéry přispívají první várkou otevřených vzdělávacích zdrojů. to the Skills Commons
 platform under CC BY.
 
-### {{97}} {#regional-latinamerica}
+### LATINSKÁ AMERIKA {#regional-latinamerica}
 
-* {{154}}, including a digital scanner for educational
+* Mini-grantový program Týmu CC Latinská Amerika, který běží již druhým rokem, získal prostředky ke spuštění partnerských projektů v El Salvadoru, Kostarice a Paraguayi., including a digital scanner for educational
 institutions to provide online access to resources; a free digital
 newsletter covering CC topics for Central America; and a mobile
 application featuring basic information about CC licenses.
 
-* {{98}} to encourage Latin American governments to create, adopt and
+* Tým CC Uruguay překládá Open Licensing Policy Toolkit do španělštiny. to encourage Latin American governments to create, adopt and
 implement open policies.
 
 </div>
 
 -----
 
-## {{99}} {.bbs}
+## DĚKUJEME VÁM ZA SDÍLENÍ! {.bbs}
 
 <div class="col-md-6" id="invest-circle">
 
 <div class="content">
 
-##### {{100}}
+##### 
 * [donate.creativecommons.org](https://donate.creativecommons.org)
 
 </div>
@@ -413,7 +405,7 @@ implement open policies.
 
 <div class="content">
 
-##### {{101}}
+##### Nalaďte se na vlnu Creative Commons. Sledujte nás na Twitteru & Facebooku.
 
 * [Twitter](https://twitter.com/creativecommons)
 
@@ -429,14 +421,14 @@ implement open policies.
 
 <footer>
 
-* <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />{{103}} <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. 
+* <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Tato Zpráva je licencována pod licencí CC BY 4.0 (Plné znění licenčních podmínek je dostupné na: www. creativecommons.org/licenses/by/4.0). <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. 
 
 * For the complete list of acknowledgments and data sources, see Data, Notes and Acknowledgments.
 
-* {{104}}
+* Design: Eva Rogers
 
 * HTML version: Matt Lee
 
-* {{5}} translation: <a href="mailto:{{4}}">{{3}}</a>
+* cs translation: <a href="mailto:jkb.misek@mail.muni.cz">Jakub Míšek</a>
 
 </footer>

@@ -1,36 +1,36 @@
 
-## {{10}} {.bbs}
+## Total ciptaan berlisensi {.bbs}
 
 -----
 
-## {{7}} {{6}}
+## Lebih dari 1 miliar ciptaan berlisensi CC di dalam Commons pada tahun 2015 Wah!
 
-> {{11}}
+> Jumlah ciptaan berlisensi CC melonjak hampir tiga kali lipat dalam 5 tahun terakhir
 
 <img src="img/total-licensed-works.svg" class="sotc-image" />
 
 <table class="table table-bordered table-striped">
 <thead>
 <tr>
-<th>{{8}}</th>
+<th>miliar</th>
 <th>&nbsp;</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">180 {{7}}</td>
+<td style="text-align: left;">180 Lebih dari 1 miliar ciptaan berlisensi CC di dalam Commons pada tahun 2015</td>
 <td style="text-align: left;">2006</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">400 {{7}}</td>
+<td style="text-align: left;">400 Lebih dari 1 miliar ciptaan berlisensi CC di dalam Commons pada tahun 2015</td>
 <td style="text-align: left;">2010</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">850 {{7}}</td>
+<td style="text-align: left;">850 Lebih dari 1 miliar ciptaan berlisensi CC di dalam Commons pada tahun 2015</td>
 <td style="text-align: left;">2014</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">1.1 {{6}}</td>
+<td style="text-align: left;">1.1 Wah!</td>
 <td style="text-align: left;">2015</td>
 </tr>
 </tbody>
@@ -38,7 +38,7 @@
 
 -----
 
-## {{13}}
+## Banyak orang yang memilih untuk berbagi dengan lisensi “Budaya Bebas”
 
 <img src="img/free-culture-wins.svg" alt="" class="sotc-image" />
 
@@ -52,37 +52,37 @@
 </thead> -->
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">CC0, Public Domain Mark + retired PD tool</td>
+<td style="text-align: left;">CC0, PDM + Alat Domain Publik yang sebelumnya</td>
 <td style="text-align: left;">3%</td>
 <td>Yes</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">CC Attribution (CC BY)</td>
+<td style="text-align: left;">CC BY</td>
 <td style="text-align: left;">24%</td>
 <td>Yes</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">CC Attribution ShareAlike (CC BY SA)</td>
+<td style="text-align: left;">CC BY SA</td>
 <td style="text-align: left;">37%</td>
 <td>Yes</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">CC Attributon NoDerivs (CC BY ND)</td>
+<td style="text-align: left;">CC BY ND</td>
 <td style="text-align: left;">2%</td>
 <td>No</style>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">CC Attribution NonCommercial (CC BY NC)</td>
+<td style="text-align: left;">CC BY NC</td>
 <td style="text-align: left;">6%</td>
 <td>No</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">CC Attribution NonCommercial ShareAlike (CC BY-NC-SA)</td>
+<td style="text-align: left;">CC BY-NC-SA</td>
 <td style="text-align: left;">14%</td>
 <td>No</style>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">CC Attribution NonCommercial NoDerivs (CC BY NC ND)</td>
+<td style="text-align: left;">CC BY NC ND</td>
 <td style="text-align: left;">14%</td>
 <td>No</td>
 </tr>
@@ -91,11 +91,11 @@
 
 <img src="img/free-scale.svg" alt="" class="sotc-image" />
 
-{{14}} &mdash; {{15}}. {{17}}
+Lebih terbuka &mdash; Lebih terbatas. Lisensi BUDAYA BEBAS yang lebih terbuka memungkinkan penggunaan untuk kepentingan komersial dan adaptasi
 
 -----
 
-## {{19}}
+## Jumlah domain publik yang ditandai dengan CC meningkat hampir dua kali lipat dalam 12 bulan terakhir
 
 <img src="img/pdm.svg" class="sotc-image" />
 
@@ -103,77 +103,68 @@
 <thead>
 <tr class="header">
 <th style="text-align: left;">Year</th>
-<th style="text-align: left;">Retired PD tool</th>
-<th style="text-align: left;">Public Domain Mark</th>
+<th style="text-align: left;">+ Alat Domain Publik yang sebelumnya</th>
+<th style="text-align: left;">PDM</th>
 <th style="text-align: left;">CC0</th>
-<th style="text-align: left;">Total</th>
+<th style="text-align: left;">Total ciptaan berlisensi</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td style="text-align: left;">2006</td>
-<td style="text-align: left;">3.2 {{22}}</td>
+<td style="text-align: left;">3.2 juta</td>
 <td style="text-align: left;">-</td>
 <td style="text-align: left;">-</td>
-<td style="text-align: left;">3.2 {{22}}</td>
+<td style="text-align: left;">3.2 juta</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">2014</td>
-<td style="text-align: left;">5.7 {{22}}</td>
-<td style="text-align: left;">1.5 {{22}}</td>
-<td style="text-align: left;">10.3 {{22}}</td>
-<td style="text-align: left;">17.5 {{22}}</td>
+<td style="text-align: left;">5.7 juta</td>
+<td style="text-align: left;">1.5 juta</td>
+<td style="text-align: left;">10.3 juta</td>
+<td style="text-align: left;">17.5 juta</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">2015</td>
-<td style="text-align: left;">10 {{22}}</td>
-<td style="text-align: left;">2.6 {{22}}</td>
-<td style="text-align: left;">22.3 {{22}}</td>
-<td style="text-align: left;">34.9 {{22}}</td>
+<td style="text-align: left;">10 juta</td>
+<td style="text-align: left;">2.6 juta</td>
+<td style="text-align: left;">22.3 juta</td>
+<td style="text-align: left;">34.9 juta</td>
 </tr>
 </table>
 
 -----
 
-## {{28}}
+## Pada tahun 2015, ciptaan berlisensi CC dilihat dalam jaringan sebanyak 136 miliar kali
 
 <img src="img/hits.svg" alt="" style="width: 100%; overflow: hidden;" />
 
-#### CC licensed work is retained, reused, revised, remixed, and redistributed in infinite ways. We captured just a slice of this massively distributed collaboration by measuring the number of times CC licensed work gets accessed from the global pool of content.
-
 -----
 
-## {{37}}
+## Keanekaragaman dan visibilitas global
 
-Creative Commons is a truly international movement with active
-communities on every continent (yes, even Antarctica). A significant
-milestone was the 2013 launch of Version 4.0 and CC's first official
-translation policy for internationalizing the license suite. To date,
-the 4.0 license suite has been officially translated into 7 languages,
-with 3 more to be published in 2015.
-
-## People are sharing with CC licenses in 34 languages with more than 90 million views of CC's deeds in the last 10 years.
+## Publik berbagi dengan lisensi CC dalam 34 bahasa dengan lebih dari 90 juta pembaca teks lisensi CC dalam 10 tahun terakhir.
 
 <div class="col-md-6 col-sm-12">
 <table class="table table-bordered table-striped">
 <tbody>
-<tr><td class="odd">**(missing)** (Arabic)</td></tr>
-<tr><td class="even">**беларускі** (Belarusian)</td></tr>
-<tr><td class="odd">**Català** (Catalan)</td></tr>
-<tr><td class="even">**中国** (Chinese*)</td></tr>
-<tr><td class="odd">**hrvatski** (Croatian)</td></tr>
-<tr><td class="even">**čeština** (Czech)</td></tr>
-<tr><td class="odd">**danske** (Danish)</td></tr>
-<tr><td class="even">**Nederlands** (Dutch)</td></tr>
-<tr><td class="odd">**English** (English*)</td></tr>
+<tr><td class="odd">**(missing)** (Arab)</td></tr>
+<tr><td class="even">**беларускі** (Belarusia)</td></tr>
+<tr><td class="odd">**Català** (Katala)</td></tr>
+<tr><td class="even">**中国** (Mandarin*)</td></tr>
+<tr><td class="odd">**hrvatski** (Kroasia)</td></tr>
+<tr><td class="even">**čeština** (Ceko)</td></tr>
+<tr><td class="odd">**danske** (Denmark)</td></tr>
+<tr><td class="even">**Nederlands** (Belanda)</td></tr>
+<tr><td class="odd">**English** (Inggris*)</td></tr>
 <tr><td class="even">**Esperanton** (Esperanto)</td></tr>
-<tr><td class="odd">**suomi** (Finnish)</td></tr>
-<tr><td class="even">**français** (French*)</td></tr>
-<tr><td class="odd">**galego** (Galician)</td></tr>
-<tr><td class="even">**Deutsche** (German*)</td></tr>
-<tr><td class="odd">**ελληνικά** (Greek)</td></tr>
-<tr><td class="even">**Magyar** (Hungarian)</td></tr>
-<tr><td class="odd">**bahasa Indones** (Indonesian)</td></tr>
+<tr><td class="odd">**suomi** (Finlandia)</td></tr>
+<tr><td class="even">**français** (Perancis*)</td></tr>
+<tr><td class="odd">**galego** (Galisian)</td></tr>
+<tr><td class="even">**Deutsche** (Jerman*)</td></tr>
+<tr><td class="odd">**ελληνικά** (Yunani)</td></tr>
+<tr><td class="even">**Magyar** (Hongaria)</td></tr>
+<tr><td class="odd">**bahasa Indones** (Bahasa Indonesia)</td></tr>
 </tbody>
 </table>
 </div>
@@ -181,23 +172,23 @@ with 3 more to be published in 2015.
 <div class="col-md-6 col-sm-12">
 <table class="table table-bordered table-striped">
 <tbody>
-<tr><td class="even">**italiano** (Italian)</td></tr>
-<tr><td class="odd">**日本語** (Japanese)</td></tr>
-<tr><td class="even">**한국어** (Korean)</td></tr>
-<tr><td class="odd">**Latvijā** (Latvian)</td></tr>
-<tr><td class="even">**Lietuvos** (Lithuanian)</td></tr>
-<tr><td class="odd">**Melayu** (Malay)</td></tr>
+<tr><td class="even">**italiano** (Italia)</td></tr>
+<tr><td class="odd">**日本語** (Jepang)</td></tr>
+<tr><td class="even">**한국어** (Korea)</td></tr>
+<tr><td class="odd">**Latvijā** (Latvia)</td></tr>
+<tr><td class="even">**Lietuvos** (Lituania)</td></tr>
+<tr><td class="odd">**Melayu** (Melayu Malaysia)</td></tr>
 <tr><td class="even">**te reo Maori** (Maori)</td></tr>
-<tr><td class="odd">**norsk** (Norwegian)</td></tr>
-<tr><td class="even">**missing** (Persian/Farsi)</td></tr>
-<tr><td class="odd">**polski** (Polish)</td></tr>
-<tr><td class="even">**português** (Portuguese)</td></tr>
-<tr><td class="odd">**Română** (Romanian)</td></tr>
-<tr><td class="even">**Русский** (Russian)</td></tr>
-<tr><td class="odd">**Español** (Spanish*)</td></tr>
-<tr><td class="even">**svenska** (Swedish)</td></tr>
-<tr><td class="odd">**Türk** (Turkish)</td></tr>
-<tr><td class="even">**Український** (Ukrainian)</td></tr>
+<tr><td class="odd">**norsk** (Norwegia)</td></tr>
+<tr><td class="even">**missing** (Persia (Farsi))</td></tr>
+<tr><td class="odd">**polski** (Polandia)</td></tr>
+<tr><td class="even">**português** (Portugis)</td></tr>
+<tr><td class="odd">**Română** (Rumania)</td></tr>
+<tr><td class="even">**Русский** (Rusia)</td></tr>
+<tr><td class="odd">**Español** (Spanyol*)</td></tr>
+<tr><td class="even">**svenska** (Swedia)</td></tr>
+<tr><td class="odd">**Türk** (Turki)</td></tr>
+<tr><td class="even">**Український** (Ukraina)</td></tr>
 </tbody>
 </table>
 </div>
@@ -206,80 +197,81 @@ with 3 more to be published in 2015.
 
 -----
 
-## {{29}}
+## Dari hasil penelitian sampai dengan foto kucing yang lucu, Commons menawarkan harta terpendam berupa konten.
 
 <img src="img/content-bubbles.svg" class="sotc-image" />
 
-* {{30}}
-* {{31}}
-* {{32}}
-* {{33}}
-* {{34}}
-* {{35}}
-* {{36}}
+* GAMBAR (FOTO, KARYA SENI): 391 JUTA
+* MATERI PENDIDIKAN TERBUKA: 76.000
+* PENELITIAN (ARTIKEL JURNAL): 1,4 JUTA
+* VIDEO: 18,4 JUTA
+* BERKAS AUDIO: 4 JUTA
+* LAINNYA (MULTIMEDIA, 3D): 23.000
+* TEKS (ARTIKEL, CERITA, DOKUMEN): 46,9 JUTA
 
 -----
 
-## {{38}}<br />{{157}}
+## CC ada dimana-mana:<br />Jutaan situs web menggunakan lisensi CC, termasuk platform utama seperti Wikipedia dan Flickr dan situs web yang lebih sederhana seperti blog yang dibuat oleh nenek Anda.
+
 
 <img src="img/platforms.png" class="sotc-image" />
 
 <table class="table table-bordered table-striped">
 <thead>
 <tr class="header">
-<th>Platform</th>
-<th>Number of works in the commons</th>
+<th>-</th>
+<th>Total ciptaan berlisensi</th>
 </tr>
 </thead>
 <tbody>
-<tr class="odd"><td>Flickr</td><td>{{43}}</td></tr>
+<tr class="odd"><td>Flickr</td><td>356 juta foto</td></tr>
 <tr class="even"><td>Bandcamp</td><td>{{44}</td></tr>
-<tr class="odd"><td>Wikipedia</td><td>{{46}}</td></tr>
+<tr class="odd"><td>Wikipedia</td><td>35,9 juta artikel</td></tr>
 <tr class="even"><td>YouTube</td><td></td></tr>
-<tr class="odd"><td>Jamendo</td><td>496,000 {{41}}</td></tr>
+<tr class="odd"><td>Jamendo</td><td>496,000 lagu</td></tr>
 <tr class="even"><td>500px</td><td>661,000 photos</td></tr>
-<tr class="odd"><td>Vimeo</td><td>5 {{51}}</td></tr>
-<tr class="even"><td>Internet Archive</td><td>2 {{51}}</td></tr>
-<tr class="odd"><td>FMA</td><td>86,000 {{41}}</td></tr>
+<tr class="odd"><td>Vimeo</td><td>5 juta video </td></tr>
+<tr class="even"><td>Internet Archive</td><td>2 juta video </td></tr>
+<tr class="odd"><td>FMA</td><td>86,000 lagu</td></tr>
 <tr class="even"><td>Wikimedia Commons</td><td>21.6 million media files</td></tr>
-<tr class="odd"><td>Tribe of Noise</td><td>29,000 {{41}}</td></tr>
-<tr class="even"><td>PLOS</td><td>{{42}}</td></tr>
-<tr class="odd"><td>Europeana</td><td>{{40}}</td></tr>
-<tr class="even"><td>Skills Commons</td><td>{{53}}</td></tr>
+<tr class="odd"><td>Tribe of Noise</td><td>29,000 lagu</td></tr>
+<tr class="even"><td>PLOS</td><td>140.000 artikel</td></tr>
+<tr class="odd"><td>Europeana</td><td>20,9 juta benda digital</td></tr>
+<tr class="even"><td>Skills Commons</td><td>24.000 materi pengembangan karir</td></tr>
 <tr class="odd"><td>Boundless</td><td>49,000 open educational resources</td></tr>
-<tr class="even"><td>MIT opencourseware</td><td>{{52}}</td></tr>
+<tr class="even"><td>MIT opencourseware</td><td>2.300 materi pendidikan</td></tr>
 </tbody>
 </table>
 
-(* {{45}})
+(* (Total artikel Akses Terbuka pada situs web di bawah lisensi CC BY: 675.000; di bawah seluruh lisensi CC: 1,3 juta))
 
-> {{54}}
+> Pada tahun 2015, lebih banyak platform yang menambahkan pilihan lisensi CC bagi pengguna mereka, termasuk Medium dan edX, dengan Flickr menambahkan pilihan CC0 dan Tanda Domain Publik. 
 
-## {{49}}
+## ...dan masih banyak lagi!
 
 -----
 
-## {{50}}
+## Dampak pada tahun 2015: CC + Pendidikan Terbuka
 
 <img src="img/oer-1.svg" class="sotc-image" />
 
-### {{59}} {.by}
+### Negara-negara dengan Kebijakan Pendidikan Terbuka {.by}
 
 <img src="img/oer-2.svg" class="sotc-image" alt="" />
 
-### {{63}} {.by}
+### Buku Sekolah Terbuka telah membuat para pelajar menghemat {.by}
 
-<img src="img/oer-3.svg" class="sotc-image" alt="${{84}} {{85}}" />
+<img src="img/oer-3.svg" class="sotc-image" alt="$174 JUTA DOLAR HINGGA SAAT INI" />
 
-### {{86}} {.by .by-r}
+### dengan tambahan penghematan 53 juta dolar diproyeksikan pada tahun ajaran 2015/16 {.by .by-r}
 
 -----
 
-## {{56}} {.impact .img-policy}
+## Dampak pada tahun 2015: CC + Kebijakan Terbuka Pada Yayasan {.impact .img-policy}
 
 <div class="clearfix"></div>
 
-### {{57}} {.by}
+### Pada tahun 2015, yayasan-yayasan besar berikut mengadopsi kebijakan terbuka: {.by}
 
 <div id="foundations" class="clearfix">
 
@@ -297,7 +289,7 @@ with 3 more to be published in 2015.
 
 </div>
 
-## {{58}}
+## Yayasan-yayasan tersebut menetapkan standar kebijakan mereka menjadi terbuka dari tertutup, secara kolektif memberikan sekitar 1,9 miliar dolar pada tahun 2015.
 
 -----
 
@@ -325,84 +317,84 @@ with 3 more to be published in 2015.
 
 </div>
 
-#### {{89}} {.img-pdmoon}
+#### Berkat alat domain publik CC, gambar digital dari luar angkasa dapat diakses secara bebas dan tersedia secara lebih luas untuk semua orang. {.img-pdmoon}
 
-#### {{90}} {{141}} {{142}}. {.img-bk}
+#### #FREEBASSEL: Ketua Creative Commons Suriah, Bassel Khartabil adalah kontributor kunci untuk proyek-proyek yang mendigitalisasi, melestarikan, dan membagikan warisan budaya. Ia telah dipenjarakan secara ilegal di Suriah sejak Maret 2012. CC dan Dewan Direksi CC terus menyerukan agar Bassel segera dibebaskan secara aman.. {.img-bk}
 
 -----
 
-## {{91}} {.impact}
+## Dampak pada tahun 2015: Kegiatan Regional {.impact}
 
 <img src="img/map.svg" alt="" class="sotc-image" />
 
 <div id="regional-highlights">
 
-### {{92}} {#regional-mideast}
+### TIMUR TENGAH DAN AFRIKA UTARA {#regional-mideast}
 
-* {{143}} to restructure, build capacity, share best
+* Afiliasi CC dari Timur Tengah dan Afrika Utara berkumpul pada dua pertemuan bersejarah to restructure, build capacity, share best
 practices, and officially translate the latest version of the CC
 license suite into Arabic.
 
-* {{144}}, including an Arabic translation of
+* Saluran Berita Berbahasa Inggris Al Jazeera mengintegrasikan materi interaktif berlisensi CC dan Infografis dari Al Jazeera Labs, including an Arabic translation of
 the The Data Journalism Handbook.
 
-### {{93}}  {#regional-africa}
+### AFRIKA  {#regional-africa}
 
-* {{145}}, including bills, documents, and audio recordings.
+* Afrika Selatan secara terbuka melepaskan berkas parlemen selama 17 tahun dengan lisensi CC BY, including bills, documents, and audio recordings.
 
-* {{146}} successfully crowdsourcing more than 9,000 CC
+* Afiliasi-afiliasi CC Afrika dan WikiAfrica meluncurkan kampanye tahunan Wiki Loves Africa kedua successfully crowdsourcing more than 9,000 CC
 licensed images covering African fashion and design.
 
-* {{147}} in 62 African languages across Kenya, Uganda, Lesotho and South Africa.
+* Afiliasi-afiliasi ini bergabung dengan dengan mitra lokal, African Storybook Project, dan Book Dash untuk memberikan buku anak-anak berlisensi CC in 62 African languages across Kenya, Uganda, Lesotho and South Africa.
 
-### {{94}} {#regional-europe}
+### EROPA {#regional-europe}
 
-* {{148}} outlining 6
+* CC Portugal meluncurkan “Alat Bantu CC untuk Bisnis” outlining 6
 economic benefits of using CC licenses.
 
-* {{149}} The directive requires collecting societies to allow their
+* Afiliasi-afiliasi CC seluruh Eropa berkolaborasi dengan anggota parlemen nasional untuk menerapkan Direktif Uni Eropa tentang Hak Pengelolaan Kolektif The directive requires collecting societies to allow their
 members to self-license their works under noncommercial terms,
 providing CC musicians with more control over how to share and manage
 their music.
 
-### {{95}} {#regional-asia}
+### ASIA-PASIFIK {#regional-asia}
 
-* {{150}},
+* CC Korea menjadi tuan rumah Konferensi Tingkat Tinggi Creative Commons 2015,
 featuring workshops, panels, and special keynotes by Kilnam Chon, Julia
 Reda, Lawrence Lessig, and more.
 
-* {{151}}
+* Afiliasi CC yang berbahasa Mandarin berkolaborasi lintas budaya dan zona waktu untuk mempersiapkan terjemahan resmi dari paket lisensi 4.0
 
-### {{96}} {#regional-northamerica}
+### AMERIKA UTARA {#regional-northamerica}
 
-* {{152}}, featuring it alongside the @ symbol
+* Museum of Modern Art (MoMA) di New York memasukkan logo CC ke dalam koleksi tetapnya, featuring it alongside the @ symbol
 and the International Symbol for Recycling in the exhibit, "This Is for
 Everyone: Design Experiments for the Common Good."
 
-* {{153}} to the Skills Commons
+* Penerima Hibah Departemen Ketenagakerjaan Amerika Serikat dengan jumlah total 2 miliar dolar untuk program pelatihan karir memberikan kontribusi putaran pertama terkait OER to the Skills Commons
 platform under CC BY.
 
-### {{97}} {#regional-latinamerica}
+### AMERIKA LATIN {#regional-latinamerica}
 
-* {{154}}, including a digital scanner for educational
+* Program hibah-singkat CC Amerika Latin, saat ini di tahun kedua, mendapatkan dana untuk memulai proyek afiliasi baru di El Salvador, Kosta Rika, dan Paraguay, including a digital scanner for educational
 institutions to provide online access to resources; a free digital
 newsletter covering CC topics for Central America; and a mobile
 application featuring basic information about CC licenses.
 
-* {{98}} to encourage Latin American governments to create, adopt and
+* CC Uruguay menerjemahkan Alat Bantu Kebijakan Kebijakan Lisensi Terbuka ke dalam bahasa Spanyol to encourage Latin American governments to create, adopt and
 implement open policies.
 
 </div>
 
 -----
 
-## {{99}} {.bbs}
+## TERIMA KASIH TELAH BERBAGI! {.bbs}
 
 <div class="col-md-6" id="invest-circle">
 
 <div class="content">
 
-##### {{100}}
+##### 
 * [donate.creativecommons.org](https://donate.creativecommons.org)
 
 </div>
@@ -413,7 +405,7 @@ implement open policies.
 
 <div class="content">
 
-##### {{101}}
+##### Ikuti perkembangan Creative Commons. Ikuti kami di Twitter & Facebook.
 
 * [Twitter](https://twitter.com/creativecommons)
 
@@ -429,14 +421,14 @@ implement open policies.
 
 <footer>
 
-* <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />{{103}} <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. 
+* <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Laporan ini dilisensikan di bawah ____ oleh Creative Commons. <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. 
 
 * For the complete list of acknowledgments and data sources, see Data, Notes and Acknowledgments.
 
-* {{104}}
+* Desain: Eva Rogers
 
 * HTML version: Matt Lee
 
-* {{5}} translation: <a href="mailto:{{4}}">{{3}}</a>
+* id translation: <a href="mailto:alifia.qonita@gmail.com">Nita Sudharto</a>
 
 </footer>

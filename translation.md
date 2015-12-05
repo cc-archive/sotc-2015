@@ -52,37 +52,37 @@
 </thead> -->
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">CC0, Public Domain Mark + retired PD tool</td>
+<td style="text-align: left;">CC0, PDM {{16}}</td>
 <td style="text-align: left;">3%</td>
 <td>Yes</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">CC Attribution (CC BY)</td>
+<td style="text-align: left;">CC BY</td>
 <td style="text-align: left;">24%</td>
 <td>Yes</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">CC Attribution ShareAlike (CC BY SA)</td>
+<td style="text-align: left;">CC BY SA</td>
 <td style="text-align: left;">37%</td>
 <td>Yes</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">CC Attributon NoDerivs (CC BY ND)</td>
+<td style="text-align: left;">CC BY ND</td>
 <td style="text-align: left;">2%</td>
 <td>No</style>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">CC Attribution NonCommercial (CC BY NC)</td>
+<td style="text-align: left;">CC BY NC</td>
 <td style="text-align: left;">6%</td>
 <td>No</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">CC Attribution NonCommercial ShareAlike (CC BY-NC-SA)</td>
+<td style="text-align: left;">CC BY-NC-SA</td>
 <td style="text-align: left;">14%</td>
 <td>No</style>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">CC Attribution NonCommercial NoDerivs (CC BY NC ND)</td>
+<td style="text-align: left;">CC BY NC ND</td>
 <td style="text-align: left;">14%</td>
 <td>No</td>
 </tr>
@@ -103,10 +103,10 @@
 <thead>
 <tr class="header">
 <th style="text-align: left;">Year</th>
-<th style="text-align: left;">Retired PD tool</th>
-<th style="text-align: left;">Public Domain Mark</th>
+<th style="text-align: left;">{{16}}</th>
+<th style="text-align: left;">PDM</th>
 <th style="text-align: left;">CC0</th>
-<th style="text-align: left;">Total</th>
+<th style="text-align: left;">{{10}}</th>
 </tr>
 </thead>
 <tbody>
@@ -139,41 +139,32 @@
 
 <img src="img/hits.svg" alt="" style="width: 100%; overflow: hidden;" />
 
-#### CC licensed work is retained, reused, revised, remixed, and redistributed in infinite ways. We captured just a slice of this massively distributed collaboration by measuring the number of times CC licensed work gets accessed from the global pool of content.
-
 -----
 
 ## {{37}}
 
-Creative Commons is a truly international movement with active
-communities on every continent (yes, even Antarctica). A significant
-milestone was the 2013 launch of Version 4.0 and CC's first official
-translation policy for internationalizing the license suite. To date,
-the 4.0 license suite has been officially translated into 7 languages,
-with 3 more to be published in 2015.
-
-## People are sharing with CC licenses in 34 languages with more than 90 million views of CC's deeds in the last 10 years.
+## {{69}}
 
 <div class="col-md-6 col-sm-12">
 <table class="table table-bordered table-striped">
 <tbody>
-<tr><td class="odd">**(missing)** (Arabic)</td></tr>
-<tr><td class="even">**беларускі** (Belarusian)</td></tr>
-<tr><td class="odd">**Català** (Catalan)</td></tr>
-<tr><td class="even">**中国** (Chinese*)</td></tr>
-<tr><td class="odd">**hrvatski** (Croatian)</td></tr>
-<tr><td class="even">**čeština** (Czech)</td></tr>
-<tr><td class="odd">**danske** (Danish)</td></tr>
-<tr><td class="even">**Nederlands** (Dutch)</td></tr>
-<tr><td class="odd">**English** (English*)</td></tr>
-<tr><td class="even">**Esperanton** (Esperanto)</td></tr>
-<tr><td class="odd">**suomi** (Finnish)</td></tr>
-<tr><td class="even">**français** (French*)</td></tr>
-<tr><td class="odd">**galego** (Galician)</td></tr>
-<tr><td class="even">**Deutsche** (German*)</td></tr>
-<tr><td class="odd">**ελληνικά** (Greek)</td></tr>
-<tr><td class="even">**Magyar** (Hungarian)</td></tr>
-<tr><td class="odd">**bahasa Indones** (Indonesian)</td></tr>
+<tr><td class="odd">**(missing)** ({{107}})</td></tr>
+<tr><td class="even">**беларускі** ({{108}})</td></tr>
+<tr><td class="odd">**Català** ({{109}})</td></tr>
+<tr><td class="even">**中国** ({{110}}*)</td></tr>
+<tr><td class="odd">**hrvatski** ({{111}})</td></tr>
+<tr><td class="even">**čeština** ({{112}})</td></tr>
+<tr><td class="odd">**danske** ({{113}})</td></tr>
+<tr><td class="even">**Nederlands** ({{114}})</td></tr>
+<tr><td class="odd">**English** ({{115}}*)</td></tr>
+<tr><td class="even">**Esperanton** ({{116}})</td></tr>
+<tr><td class="odd">**suomi** ({{117}})</td></tr>
+<tr><td class="even">**français** ({{118}}*)</td></tr>
+<tr><td class="odd">**galego** ({{119}})</td></tr>
+<tr><td class="even">**Deutsche** ({{120}}*)</td></tr>
+<tr><td class="odd">**ελληνικά** ({{121}})</td></tr>
+<tr><td class="even">**Magyar** ({{122}})</td></tr>
+<tr><td class="odd">**bahasa Indones** ({{123}})</td></tr>
 </tbody>
 </table>
 </div>
@@ -181,23 +172,23 @@ with 3 more to be published in 2015.
 <div class="col-md-6 col-sm-12">
 <table class="table table-bordered table-striped">
 <tbody>
-<tr><td class="even">**italiano** (Italian)</td></tr>
-<tr><td class="odd">**日本語** (Japanese)</td></tr>
-<tr><td class="even">**한국어** (Korean)</td></tr>
-<tr><td class="odd">**Latvijā** (Latvian)</td></tr>
-<tr><td class="even">**Lietuvos** (Lithuanian)</td></tr>
-<tr><td class="odd">**Melayu** (Malay)</td></tr>
-<tr><td class="even">**te reo Maori** (Maori)</td></tr>
-<tr><td class="odd">**norsk** (Norwegian)</td></tr>
-<tr><td class="even">**missing** (Persian/Farsi)</td></tr>
-<tr><td class="odd">**polski** (Polish)</td></tr>
-<tr><td class="even">**português** (Portuguese)</td></tr>
-<tr><td class="odd">**Română** (Romanian)</td></tr>
-<tr><td class="even">**Русский** (Russian)</td></tr>
-<tr><td class="odd">**Español** (Spanish*)</td></tr>
-<tr><td class="even">**svenska** (Swedish)</td></tr>
-<tr><td class="odd">**Türk** (Turkish)</td></tr>
-<tr><td class="even">**Український** (Ukrainian)</td></tr>
+<tr><td class="even">**italiano** ({{124}})</td></tr>
+<tr><td class="odd">**日本語** ({{125}})</td></tr>
+<tr><td class="even">**한국어** ({{126}})</td></tr>
+<tr><td class="odd">**Latvijā** ({{127}})</td></tr>
+<tr><td class="even">**Lietuvos** ({{128}})</td></tr>
+<tr><td class="odd">**Melayu** ({{129}})</td></tr>
+<tr><td class="even">**te reo Maori** ({{130}})</td></tr>
+<tr><td class="odd">**norsk** ({{131}})</td></tr>
+<tr><td class="even">**missing** ({{132}})</td></tr>
+<tr><td class="odd">**polski** ({{133}})</td></tr>
+<tr><td class="even">**português** ({{134}})</td></tr>
+<tr><td class="odd">**Română** ({{135}})</td></tr>
+<tr><td class="even">**Русский** ({{136}})</td></tr>
+<tr><td class="odd">**Español** ({{137}}*)</td></tr>
+<tr><td class="even">**svenska** ({{138}})</td></tr>
+<tr><td class="odd">**Türk** ({{139}})</td></tr>
+<tr><td class="even">**Український** ({{140}})</td></tr>
 </tbody>
 </table>
 </div>
@@ -227,8 +218,8 @@ with 3 more to be published in 2015.
 <table class="table table-bordered table-striped">
 <thead>
 <tr class="header">
-<th>Platform</th>
-<th>Number of works in the commons</th>
+<th>-</th>
+<th>{{10}}</th>
 </tr>
 </thead>
 <tbody>
