@@ -433,6 +433,8 @@ Views of deed pages grouped by language (unofficial translations):
 33.  Turkish: 5,381 views
 34.  Ukrainian: 15,372 views
 
+## "From research to cute cat photos, the Commons offers a treasure trove of content."
+
 Breakdown of works by media type includes data from 16 platforms plus the Directory of Open Access Journals (DOAJ). Specific totals by platform below.
 
 ### <span id="h.6d6jok7std6q"></span>“Audio tracks: 4 million”
@@ -483,6 +485,8 @@ Breakdown of works by media type includes data from 16 platforms plus the Direct
 * Wikimedia Commons: 23 (multimedia) / Source: https://meta.wikimedia.org/wiki/State_of_the_Commons/2015 verifed by WMF staff
 * Internet Archive: 5,931 (data, software, collection, undefined) / Source: Internet Archive staff
 * Europeana: 17,646 (3D) / Source: Europeana staff
+
+##CC is everywhere: ￼Millions of websites use CC licenses, ￼￼￼￼￼￼￼including major platforms like ￼￼￼￼Wikipedia and Flickr and smaller ￼￼￼￼￼￼websites like your grandma’s blog.
 
 Breakdown of works by platform includes data from 16 platforms and the Directory of Open Access Journals (DOAJ). Specific totals by platform below, with additional usage data from some platforms.
 
