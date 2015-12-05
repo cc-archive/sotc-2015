@@ -38,25 +38,25 @@ Source: Google query, available at [Github](https://github.com/creativecommons/s
 
 <td align="left">
 
-Platform name
+**Platform name**
 
 </td>
 
 <td align="left">
 
-Number of works (rounded down by millions)
+**Number of works (rounded down by millions)**
 
 </td>
 
 <td align="left">
 
-Number by license
+**Number by license**
 
 </td>
 
 <td align="left">
 
-Source
+**Source**
 
 </td>
 
@@ -91,7 +91,7 @@ PDM: 1,220,335
 
 <td align="left">
 
-https://www.flickr.com/creativecommons/ (6 November 2015)
+[https://www.flickr.com/creativecommons](https://www.flickr.com/creativecommons/) (6 November 2015)
 
 </td>
 
@@ -119,7 +119,7 @@ all CC BY-SA
 
 <td align="left">
 
-http://meta.wikimedia.org/wiki/List_of_Wikipedias
+[http://meta.wikimedia.org/wiki/List_of_Wikipedias](http://meta.wikimedia.org/wiki/List_of_Wikipedias)
 
 </td>
 
@@ -175,7 +175,7 @@ unknown combination of CC0, CC BY-NC-SA
 
 <td align="left">
 
-https://musicbrainz.org/statistics
+[https://musicbrainz.org/statistics](https://musicbrainz.org/statistics)
 
 </td>
 
@@ -203,7 +203,7 @@ all CC BY
 
 <td align="left">
 
-https://developers.google.com/freebase/faq#how_big_is_freebase (same as 2014)
+[https://developers.google.com/freebase/faq#how_big_is_freebase](https://developers.google.com/freebase/faq#how_big_is_freebase) (same as 2014)
 
 </td>
 
@@ -271,7 +271,7 @@ all CC BY
 
 <td align="left">
 
-http://www.geonames.org/about.html (same as 2014)
+[http://www.geonames.org/about.html](http://www.geonames.org/about.html) (same as 2014)
 
 </td>
 
@@ -327,7 +327,7 @@ all CC BY-SA
 
 <td align="left">
 
-https://librefm.wordpress.com/2015/11/13/133-million-songs-and-counting/
+[https://librefm.wordpress.com/2015/11/13/133-million-songs-and-counting](https://librefm.wordpress.com/2015/11/13/133-million-songs-and-counting/)
 
 </td>
 
@@ -355,10 +355,9 @@ Breakdown by license: Google + *Platforms not cached by Google* = Total estimate
 * CC BY-NC: 11,130,000 + *45,793,028* = 56,923,028
 * CC BY-NC-SA: 37,230,000 + *99,330,609* = 136,560,609
 * CC BY-NC-ND: 47,340,000 + *90,361,041* = 137,701,041
-* Public domain total: 33,370,000 + *1,592,430* = 34,962,430
-  * CC0: 21,950,000 + *372,095* = 22,322,095
-  * PDM: 1,410,000 + *1,220,335* = 2,630,335
-  * Retired PD tool: 10,010,000
+* CC0: 21,950,000 + *372,095* = 22,322,095
+* PDM: 1,410,000 + *1,220,335* = 2,630,335
+* Retired PD tool: 10,010,000
 
 Total Free Culture works (CC BY + CC BY-SA + Public domain): 652,533,677. CC uses the definition of free cultural works at Freedom Defined to categorize the CC licenses. “Free Culture” licenses allow for both commercial use and adaptations. Learn more at http://creativecommons.org/freeworks.
 
@@ -367,14 +366,8 @@ Total Free Culture works (CC BY + CC BY-SA + Public domain): 652,533,677. CC use
 The bar graph reflects the following data by year:
 
 * Total public domain works marked with CC tools in 2006: 3,276,000 (no breakdown by tool)
-* Total public domain works marked with CC tools in 2014: 17,557,500
-  * CC0: 10,310,000
-  * PDM: 1,510,000
-  * Retired PD tool: 5,737,500
-* Total public domain works marked with CC tools in 2015: 34,962,430
-  * CC0: 22,322,095
-  * PDM: 2,630,335
-  * Retired PD tool: 10,010,000
+* Total public domain works marked with CC tools in 2014: 17,557,500 (CC0: 10,310,000; PDM: 1,510,000; Retired PD tool: 5,737,500)
+* Total public domain works marked with CC tools in 2015: 34,962,430 (CC0: 22,322,095; PDM: 2,630,335; Retired PD tool: 10,010,000)
 
 Sources:
 
@@ -447,8 +440,8 @@ Breakdown of works by media type includes data from 16 platforms plus the Direct
 ### <span id="h.ihra12cur47x"></span>“Images (Photos, Artworks): 391 million”
 
 * 500px: 661,307 / 500px staff
-* Flickr: 356,403,451 / Source: https://www.flickr.com/creativecommons/ verified by Flickr staff and accessed on 11/6/15
-* Wikimedia Commons: 23,124,319 (bitmaps + drawings) / Source: https://meta.wikimedia.org/wiki/State_of_the_Commons/2015 verfied by WMF staff
+* Flickr: 356,403,451 / Source: [https://www.flickr.com/creativecommons](https://www.flickr.com/creativecommons/) verified by Flickr staff and accessed on 11/6/15
+* Wikimedia Commons: 23,124,319 (bitmaps + drawings) / Source: [https://meta.wikimedia.org/wiki/State_of_the_Commons/2015](https://meta.wikimedia.org/wiki/State_of_the_Commons/2015) verfied by WMF staff
 * Internet Archive: 42,122 / Source: Internet Archive staff
 * Europeana: 10,865,086 / Source: Europeana staff
 
@@ -456,15 +449,15 @@ Breakdown of works by media type includes data from 16 platforms plus the Direct
 
 * Vimeo: 5,000,000 / Source: Vimeo API ([1](https://developer.vimeo.com/api/playground/creativecommons), [2](https://developer.vimeo.com/api/playground/videos))
 * YouTube: 13,000,000 / Source: YouTube staff
-* Wikimedia Commons: 58,599 / Source: https://meta.wikimedia.org/wiki/State_of_the_Commons/2015 verfied by WMF staff
-* MIT OpenCourseWare: 83 / Source: http://ocw.mit.edu/about/site-statistics/monthly-reports/ verified by MIT OCW staff
+* Wikimedia Commons: 58,599 / Source: [https://meta.wikimedia.org/wiki/State_of_the_Commons/2015](https://meta.wikimedia.org/wiki/State_of_the_Commons/2015) verfied by WMF staff
+* MIT OpenCourseWare: 83 / Source: [http://ocw.mit.edu/about/site-statistics/monthly-reports](http://ocw.mit.edu/about/site-statistics/monthly-reports/) verified by MIT OCW staff
 * Internet Archive: 320,983 / Source: Internet Archive staff
 * Europeana: 25,369 / Source: Europeana staff
 
 ### <span id="h.x9p1m1ffhf26"></span>“Texts (Articles, Stories, Documents): 46.9 million”
 
-* Wikimedia Commons: 179,733 / Source: https://meta.wikimedia.org/wiki/State_of_the_Commons/2015 verifed by WMF staff
-* Wikipedia: 35,900,000 / Source: https://meta.wikimedia.org/wiki/State_of_the_Commons/2015 verifed by WMF staff
+* Wikimedia Commons: 179,733 / Source: [https://meta.wikimedia.org/wiki/State_of_the_Commons/2015](https://meta.wikimedia.org/wiki/State_of_the_Commons/2015) verifed by WMF staff
+* Wikipedia: 35,900,000 / Source: [https://meta.wikimedia.org/wiki/State_of_the_Commons/2015](https://meta.wikimedia.org/wiki/State_of_the_Commons/2015) verifed by WMF staff
 * Internet Archive: 905,388 (texts + web) / Source: Internet Archive staff
 * Europeana: 9,989,925 / Source: Europeana staff
 
@@ -472,17 +465,17 @@ Breakdown of works by media type includes data from 16 platforms plus the Direct
 
 * Boundless: 49,000 / Source: Boundless staff
 * Skills Commons: 24,609 / Source: Skills Commons staff
-* MIT OpenCourseWare: 2,304 / Source: http://ocw.mit.edu/about/site-statistics/monthly-reports/ verified by MIT OCW staff
+* MIT OpenCourseWare: 2,304 / Source: [http://ocw.mit.edu/about/site-statistics/monthly-reports](http://ocw.mit.edu/about/site-statistics/monthly-reports/) verified by MIT OCW staff
 * Internet Archive: 530 / Source: Internet Archive staff
 
 ### <span id="h.4gzzw798ysqk"></span>“Research (Journal Articles): 1.4 million”
 
-* PLOS: 140,000 / Source: https://www.plos.org/ verified by PLOS staff
-* DOAJ: 1,323,304 / Source: https://doaj.org/ accessed 10/26/15
+* PLOS: 140,000 / Source: [https://www.plos.org](https://www.plos.org/) verified by PLOS staff
+* DOAJ: 1,323,304 / Source: [https://doaj.org](https://doaj.org/) accessed 10/26/15
 
 ### <span id="h.wqo5t5agncqj"></span>“Other (Multimedia, 3D): 23,000”
 
-* Wikimedia Commons: 23 (multimedia) / Source: https://meta.wikimedia.org/wiki/State_of_the_Commons/2015 verifed by WMF staff
+* Wikimedia Commons: 23 (multimedia) / Source: [https://meta.wikimedia.org/wiki/State_of_the_Commons/2015](https://meta.wikimedia.org/wiki/State_of_the_Commons/2015) verifed by WMF staff
 * Internet Archive: 5,931 (data, software, collection, undefined) / Source: Internet Archive staff
 * Europeana: 17,646 (3D) / Source: Europeana staff
 
@@ -501,7 +494,7 @@ Breakdown of works by platform includes data from 16 platforms and the Directory
   * CC BY-SA: 32,756,937
   * CC0: 372,095
   * PDM: 1,220,335
-* Source: https://www.flickr.com/creativecommons verified by Flickr staff and accessed on 11/6/15
+ * Source: [https://www.flickr.com/creativecommons](https://www.flickr.com/creativecommons) verified by Flickr staff and accessed on 11/6/15
 
 ### <span id="h.lzaw45332axf"></span>“Wikipedia: 35.9 million articles”
 
@@ -510,7 +503,7 @@ Breakdown of works by platform includes data from 16 platforms and the Directory
 * \# of registered users: 42,116,280
 * \# of users registered in the past 3 months: 1,087,269
 * \# of registered users that are active: 69,419 (defined as registered users who contributed 5 times or more in the past month)
-* Source: https://meta.wikimedia.org/wiki/State_of_the_Commons/2015 verfied by WMF staff
+* Source: [https://meta.wikimedia.org/wiki/State_of_the_Commons/2015](https://meta.wikimedia.org/wiki/State_of_the_Commons/2015) verfied by WMF staff
 
 ### <span id="h.v42szqwch34v"></span>“Wikimedia Commons: 21.6 million media files”
 
@@ -529,20 +522,20 @@ Breakdown of works by platform includes data from 16 platforms and the Directory
 * \# of users registered in the past 3 months: 283,890
 * \# of registered users that are active: 8,047 (defined as registered users who contributed 5 times or more in the past month)
 * \# of users that use CC licenses, CC0 or PDM for their content: 649,886
-* Source: https://meta.wikimedia.org/wiki/State_of_the_Commons/2015 verfied by WMF staff
+* Source: [https://meta.wikimedia.org/wiki/State_of_the_Commons/2015](https://meta.wikimedia.org/wiki/State_of_the_Commons/2015) verfied by WMF staff
 
 ### <span id="h.ek9v7mypm10f"></span>“Europeana: 20.9 million digital objects”
 
-* Exact total: 20,953,772
+Exact total: 20,953,772
   * PDM: 10,300,806
   * CC0: 517,675
-  * CC-BY-SA: 2,953,210
-  * CC-BY-NC-ND: 3,311,299
-  * CC-BY-NC-SA: 1,836,195
-  * CC-BY: 1,398,867
-  * CC-BY-NC: 551,597  
-  * CC-BY-ND: 84,123  
-* Source: Europeana staff
+  * CC BY-SA: 2,953,210
+  * CC BY-NC-ND: 3,311,299
+  * CC BY-NC-SA: 1,836,195
+  * CC BY: 1,398,867
+  * CC BY-NC: 551,597  
+  * CC BY-ND: 84,123  
+Source: Europeana staff
 
 ### <span id="h.f4d70kebr0vd"></span>“YouTube: 13 million videos”
 
