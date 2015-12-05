@@ -360,10 +360,9 @@ Breakdown by license: Google + Platforms not cached by Google = Total estimated
 * CC BY-NC-SA: 37,230,000 + 99,330,609 = 136,560,609
 * CC BY-NC-ND: 47,340,000 + 90,361,041 = 137,701,041
 * Public domain total: 33,370,000 + 1,592,430 = 34,962,430
-
-* CC0: 21,950,000 + 372,095 = 22,322,095
-* PDM: 1,410,000 + 1,220,335 = 2,630,335
-* Retired PD tool: 10,010,000
+  * CC0: 21,950,000 + 372,095 = 22,322,095
+  * PDM: 1,410,000 + 1,220,335 = 2,630,335
+  * Retired PD tool: 10,010,000
 
 Total Free Culture works (CC BY + CC BY-SA + Public domain): 652,533,677\. CC uses the definition of free cultural works at Freedom Defined to categorize the CC licenses. “Free Culture” licenses allow for both commercial use and adaptations. Learn more at [http://creativecommons.org/freeworks](https://www.google.com/url?q=http://creativecommons.org/freeworks&sa=D&usg=AFQjCNHwqZIs4cPqmwaOeagXyVjAhFbw1g).
 
