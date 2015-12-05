@@ -21,7 +21,7 @@ my $text = read_file($template);
 
 my $i = 1;
 foreach my $field (@values) {
-    $text =~ s/\{\{$i\}\}/$field/g;
+    $text =~ "s/\{\{$i\}\}/<span class=hl>$field<\/span>/g";
     $i += 1;
 }
 
