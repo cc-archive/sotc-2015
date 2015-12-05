@@ -716,7 +716,7 @@ Source: Europeana staff
   * 36-45 years: 21%
   * 46-55 years: 16%
   * 56-65 years: 10%
-  * >65 years: 3%
+  * 65+ years: 3%
 * Source: Tribe of Noise staff
 
 ### <span id="h.6sv43jv9oez1"></span>“Skills Commons: 24,000 career training materials”
