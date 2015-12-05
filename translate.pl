@@ -7,7 +7,7 @@ use warnings;
 
 use File::Slurp;
 
-my $separator = ";";
+my $separator = "^";
 
 my $language_column = 3;
 

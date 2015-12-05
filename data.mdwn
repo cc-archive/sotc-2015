@@ -4,7 +4,7 @@
 
 This is the second year that Creative Commons has published a State of the Commons report. CC doesn’t host or control the content in the commons, which is hosted on a myriad of platforms and is made up of every type of media and data. We see this as an iterative process, where each year we improve our process and get better results. As with any large-scale global movement, it is impossible to quantify the full impact of our work. For example, how do we capture content that is insufficiently marked, or content that is in the public domain in some jurisdictions and not in others? When CC licensed work is remixed, how do we know when one work ends and another begins?
 
-That said, we do have a handful of valuable tools that we’ve put to good use to tell the story of the CC licensed Commons and its massive growth. Building on the baseline we established with the [2014 State of the Commons reporting format](https://github.com/creativecommons/stateofthe/blob/master/data/notes.md), we continue to track size, scope, content, and diversity of the Commons. We added new stats from our servers, including [widespread use](#h.ac9uxyewspov) of our CC license buttons and [views](#h.rtk23nbutn5) of license deeds in different languages. We also added [new usage data from more platforms](#h.qupr84nuu1pp) hosting the majority of CC licensed content on the web. We aimed for variety in representation, both by media type and domain of content, and we focused on highly trafficked platforms with CC integrations up to the technical standard that would allow us to track this data over time. We also added sections on CC’s broader impact as a steward of our global Commons. We dug a bit deeper into open education, policy, and our shared cultural heritage in an aim to measure not just the quantity of the Commons, but the incredible impact that a robust Commons can have on different regions of world.
+That said, we do have a handful of valuable tools that we’ve put to good use to tell the story of the CC licensed Commons and its massive growth. Building on the baseline we established with the [2014 State of the Commons reporting format](https://github.com/creativecommons/stateofthe/blob/master/data/notes.md), we continue to track size, scope, content, and diversity of the Commons. We added new stats from our servers, including [widespread use](#in-2015-cc-licensed-works-were-viewed-online-136-billion-times) of our CC license buttons and [views](#people-are-sharing-with-cc-licenses-in-as-many-as34-languageswith-more-than-90-million-views-of-ccs-deeds-in-the-last-ten-years) of license deeds in different languages. We also added [new usage data from more platforms](#flickr-356-million-photos) hosting the majority of CC licensed content on the web. We aimed for variety in representation, both by media type and domain of content, and we focused on highly trafficked platforms with CC integrations up to the technical standard that would allow us to track this data over time. We also added sections on CC’s broader impact as a steward of our global Commons. We dug a bit deeper into open education, policy, and our shared cultural heritage in an aim to measure not just the quantity of the Commons, but the incredible impact that a robust Commons can have on different regions of world.
 
 Still, given the breadth and reach of CC’s global diversity, this year’s report can’t fully capture the true scope of CC’s international impact. Our aim is to continue to refine our process each year, including a more in-depth, collaborative process that reflects the geographical breadth of CC content in different languages (see [CC license use on the Polish web](http://ngoteka.pl/bitstream/handle/item/318/exec%2520summary%2520crawl.pdf?sequence%3D1&sa=D&usg=AFQjCNHxFCvR4uP22LzkxmqFn9NOnxDd_w), for example). We also hope to collaborate with domain experts and content partners in [open data](https://wiki.creativecommons.org/wiki/Data) and cultural heritage (what we like to call the [GLAM](https://wiki.creativecommons.org/wiki/GLAM) sector) to include those stats, and eventually track commons growth in those fields over time. With regard to the open policy landscape, we are already collaborating with our partners in the [Open Policy Network](http://openpolicynetwork.org) who are leading a State of Open Policy report for publication in early 2016.
 
@@ -24,7 +24,7 @@ Google provided us with the raw data, counting all of the web pages in its cache
 
 Source: Google query, available at [Github](https://github.com/creativecommons/sotc-215/blob/master/googledata.csv).
 
-**Platforms not included in Google’s data**
+**Platforms not included in Google’s data**
 
 * Total works across platforms listed below: 802 million
 
@@ -38,25 +38,25 @@ Source: Google query, available at [Github](https://github.com/creativecommons/s
 
 <td align="left">
 
-Platform name
+**Platform name**
 
 </td>
 
 <td align="left">
 
-Number of works (rounded down by millions)
+**Number of works (rounded down by millions)**
 
 </td>
 
 <td align="left">
 
-Number by license
+**Number by license**
 
 </td>
 
 <td align="left">
 
-Source
+**Source**
 
 </td>
 
@@ -91,7 +91,7 @@ PDM: 1,220,335
 
 <td align="left">
 
-https://www.flickr.com/creativecommons/ (6 November 2015)
+[https://www.flickr.com/creativecommons](https://www.flickr.com/creativecommons/) (6 November 2015)
 
 </td>
 
@@ -119,7 +119,7 @@ all CC BY-SA
 
 <td align="left">
 
-http://meta.wikimedia.org/wiki/List_of_Wikipedias
+[http://meta.wikimedia.org/wiki/List_of_Wikipedias](http://meta.wikimedia.org/wiki/List_of_Wikipedias)
 
 </td>
 
@@ -175,7 +175,7 @@ unknown combination of CC0, CC BY-NC-SA
 
 <td align="left">
 
-https://musicbrainz.org/statistics
+[https://musicbrainz.org/statistics](https://musicbrainz.org/statistics)
 
 </td>
 
@@ -203,7 +203,7 @@ all CC BY
 
 <td align="left">
 
-https://developers.google.com/freebase/faq#how_big_is_freebase (same as 2014)
+[https://developers.google.com/freebase/faq#how_big_is_freebase](https://developers.google.com/freebase/faq#how_big_is_freebase) (same as 2014)
 
 </td>
 
@@ -271,7 +271,7 @@ all CC BY
 
 <td align="left">
 
-http://www.geonames.org/about.html (same as 2014)
+[http://www.geonames.org/about.html](http://www.geonames.org/about.html) (same as 2014)
 
 </td>
 
@@ -327,7 +327,7 @@ all CC BY-SA
 
 <td align="left">
 
-https://librefm.wordpress.com/2015/11/13/133-million-songs-and-counting/
+[https://librefm.wordpress.com/2015/11/13/133-million-songs-and-counting](https://librefm.wordpress.com/2015/11/13/133-million-songs-and-counting/)
 
 </td>
 
@@ -355,10 +355,9 @@ Breakdown by license: Google + *Platforms not cached by Google* = Total estimate
 * CC BY-NC: 11,130,000 + *45,793,028* = 56,923,028
 * CC BY-NC-SA: 37,230,000 + *99,330,609* = 136,560,609
 * CC BY-NC-ND: 47,340,000 + *90,361,041* = 137,701,041
-* Public domain total: 33,370,000 + *1,592,430* = 34,962,430
-  * CC0: 21,950,000 + *372,095* = 22,322,095
-  * PDM: 1,410,000 + *1,220,335* = 2,630,335
-  * Retired PD tool: 10,010,000
+* CC0: 21,950,000 + *372,095* = 22,322,095
+* PDM: 1,410,000 + *1,220,335* = 2,630,335
+* Retired PD tool: 10,010,000
 
 Total Free Culture works (CC BY + CC BY-SA + Public domain): 652,533,677. CC uses the definition of free cultural works at Freedom Defined to categorize the CC licenses. “Free Culture” licenses allow for both commercial use and adaptations. Learn more at http://creativecommons.org/freeworks.
 
@@ -367,16 +366,11 @@ Total Free Culture works (CC BY + CC BY-SA + Public domain): 652,533,677. CC use
 The bar graph reflects the following data by year:
 
 * Total public domain works marked with CC tools in 2006: 3,276,000 (no breakdown by tool)
-* Total public domain works marked with CC tools in 2014: 17,557,500
-  * CC0: 10,310,000
-  * PDM: 1,510,000
-  * Retired PD tool: 5,737,500
-* Total public domain works marked with CC tools in 2015: 34,962,430
-  * CC0: 22,322,095
-  * PDM: 2,630,335
-  * Retired PD tool: 10,010,000
+* Total public domain works marked with CC tools in 2014: 17,557,500 (CC0: 10,310,000; PDM: 1,510,000; Retired PD tool: 5,737,500)
+* Total public domain works marked with CC tools in 2015: 34,962,430 (CC0: 22,322,095; PDM: 2,630,335; Retired PD tool: 10,010,000)
 
 Sources:
+
 * 2006: 2.34% of 140 million from http://creativecommons.org/weblog/entry/5936; marked under now [retired PD tool](http://creativecommons.org/retiredlicenses) 
 * 2014: [Google data files](https://github.com/creativecommons/stateofthe/blob/master/data/notes.md)
 * 2015: [Google data files](https://github.com/creativecommons/sotc-215/blob/master/googledata.csv) + Flickr (above)
@@ -432,6 +426,8 @@ Views of deed pages grouped by language (unofficial translations):
 33.  Turkish: 5,381 views
 34.  Ukrainian: 15,372 views
 
+## "From research to cute cat photos, the Commons offers a treasure trove of content."
+
 Breakdown of works by media type includes data from 16 platforms plus the Directory of Open Access Journals (DOAJ). Specific totals by platform below.
 
 ### <span id="h.6d6jok7std6q"></span>“Audio tracks: 4 million”
@@ -444,8 +440,8 @@ Breakdown of works by media type includes data from 16 platforms plus the Direct
 ### <span id="h.ihra12cur47x"></span>“Images (Photos, Artworks): 391 million”
 
 * 500px: 661,307 / 500px staff
-* Flickr: 356,403,451 / Source: https://www.flickr.com/creativecommons/ verified by Flickr staff and accessed on 11/6/15
-* Wikimedia Commons: 23,124,319 (bitmaps + drawings) / Source: https://meta.wikimedia.org/wiki/State_of_the_Commons/2015 verfied by WMF staff
+* Flickr: 356,403,451 / Source: [https://www.flickr.com/creativecommons](https://www.flickr.com/creativecommons/) verified by Flickr staff and accessed on 11/6/15
+* Wikimedia Commons: 23,124,319 (bitmaps + drawings) / Source: [https://meta.wikimedia.org/wiki/State_of_the_Commons/2015](https://meta.wikimedia.org/wiki/State_of_the_Commons/2015) verfied by WMF staff
 * Internet Archive: 42,122 / Source: Internet Archive staff
 * Europeana: 10,865,086 / Source: Europeana staff
 
@@ -453,15 +449,15 @@ Breakdown of works by media type includes data from 16 platforms plus the Direct
 
 * Vimeo: 5,000,000 / Source: Vimeo API ([1](https://developer.vimeo.com/api/playground/creativecommons), [2](https://developer.vimeo.com/api/playground/videos))
 * YouTube: 13,000,000 / Source: YouTube staff
-* Wikimedia Commons: 58,599 / Source: https://meta.wikimedia.org/wiki/State_of_the_Commons/2015 verfied by WMF staff
-* MIT OpenCourseWare: 83 / Source: http://ocw.mit.edu/about/site-statistics/monthly-reports/ verified by MIT OCW staff
+* Wikimedia Commons: 58,599 / Source: [https://meta.wikimedia.org/wiki/State_of_the_Commons/2015](https://meta.wikimedia.org/wiki/State_of_the_Commons/2015) verfied by WMF staff
+* MIT OpenCourseWare: 83 / Source: [http://ocw.mit.edu/about/site-statistics/monthly-reports](http://ocw.mit.edu/about/site-statistics/monthly-reports/) verified by MIT OCW staff
 * Internet Archive: 320,983 / Source: Internet Archive staff
 * Europeana: 25,369 / Source: Europeana staff
 
 ### <span id="h.x9p1m1ffhf26"></span>“Texts (Articles, Stories, Documents): 46.9 million”
 
-* Wikimedia Commons: 179,733 / Source: https://meta.wikimedia.org/wiki/State_of_the_Commons/2015 verifed by WMF staff
-* Wikipedia: 35,900,000 / Source: https://meta.wikimedia.org/wiki/State_of_the_Commons/2015 verifed by WMF staff
+* Wikimedia Commons: 179,733 / Source: [https://meta.wikimedia.org/wiki/State_of_the_Commons/2015](https://meta.wikimedia.org/wiki/State_of_the_Commons/2015) verifed by WMF staff
+* Wikipedia: 35,900,000 / Source: [https://meta.wikimedia.org/wiki/State_of_the_Commons/2015](https://meta.wikimedia.org/wiki/State_of_the_Commons/2015) verifed by WMF staff
 * Internet Archive: 905,388 (texts + web) / Source: Internet Archive staff
 * Europeana: 9,989,925 / Source: Europeana staff
 
@@ -469,19 +465,21 @@ Breakdown of works by media type includes data from 16 platforms plus the Direct
 
 * Boundless: 49,000 / Source: Boundless staff
 * Skills Commons: 24,609 / Source: Skills Commons staff
-* MIT OpenCourseWare: 2,304 / Source: http://ocw.mit.edu/about/site-statistics/monthly-reports/ verified by MIT OCW staff
+* MIT OpenCourseWare: 2,304 / Source: [http://ocw.mit.edu/about/site-statistics/monthly-reports](http://ocw.mit.edu/about/site-statistics/monthly-reports/) verified by MIT OCW staff
 * Internet Archive: 530 / Source: Internet Archive staff
 
 ### <span id="h.4gzzw798ysqk"></span>“Research (Journal Articles): 1.4 million”
 
-* PLOS: 140,000 / Source: https://www.plos.org/ verified by PLOS staff
-* DOAJ: 1,323,304 / Source: https://doaj.org/ accessed 10/26/15
+* PLOS: 140,000 / Source: [https://www.plos.org](https://www.plos.org/) verified by PLOS staff
+* DOAJ: 1,323,304 / Source: [https://doaj.org](https://doaj.org/) accessed 10/26/15
 
 ### <span id="h.wqo5t5agncqj"></span>“Other (Multimedia, 3D): 23,000”
 
-* Wikimedia Commons: 23 (multimedia) / Source: https://meta.wikimedia.org/wiki/State_of_the_Commons/2015 verifed by WMF staff
+* Wikimedia Commons: 23 (multimedia) / Source: [https://meta.wikimedia.org/wiki/State_of_the_Commons/2015](https://meta.wikimedia.org/wiki/State_of_the_Commons/2015) verifed by WMF staff
 * Internet Archive: 5,931 (data, software, collection, undefined) / Source: Internet Archive staff
 * Europeana: 17,646 (3D) / Source: Europeana staff
+
+##CC is everywhere: ￼Millions of websites use CC licenses, ￼￼￼￼￼￼￼including major platforms like ￼￼￼￼Wikipedia and Flickr and smaller ￼￼￼￼￼￼websites like your grandma’s blog.
 
 Breakdown of works by platform includes data from 16 platforms and the Directory of Open Access Journals (DOAJ). Specific totals by platform below, with additional usage data from some platforms.
 
@@ -496,7 +494,7 @@ Breakdown of works by platform includes data from 16 platforms and the Directory
   * CC BY-SA: 32,756,937
   * CC0: 372,095
   * PDM: 1,220,335
-* Source: https://www.flickr.com/creativecommons verified by Flickr staff and accessed on 11/6/15
+ * Source: [https://www.flickr.com/creativecommons](https://www.flickr.com/creativecommons) verified by Flickr staff and accessed on 11/6/15
 
 ### <span id="h.lzaw45332axf"></span>“Wikipedia: 35.9 million articles”
 
@@ -505,7 +503,7 @@ Breakdown of works by platform includes data from 16 platforms and the Directory
 * \# of registered users: 42,116,280
 * \# of users registered in the past 3 months: 1,087,269
 * \# of registered users that are active: 69,419 (defined as registered users who contributed 5 times or more in the past month)
-* Source: https://meta.wikimedia.org/wiki/State_of_the_Commons/2015 verfied by WMF staff
+* Source: [https://meta.wikimedia.org/wiki/State_of_the_Commons/2015](https://meta.wikimedia.org/wiki/State_of_the_Commons/2015) verfied by WMF staff
 
 ### <span id="h.v42szqwch34v"></span>“Wikimedia Commons: 21.6 million media files”
 
@@ -524,20 +522,20 @@ Breakdown of works by platform includes data from 16 platforms and the Directory
 * \# of users registered in the past 3 months: 283,890
 * \# of registered users that are active: 8,047 (defined as registered users who contributed 5 times or more in the past month)
 * \# of users that use CC licenses, CC0 or PDM for their content: 649,886
-* Source: https://meta.wikimedia.org/wiki/State_of_the_Commons/2015 verfied by WMF staff
+* Source: [https://meta.wikimedia.org/wiki/State_of_the_Commons/2015](https://meta.wikimedia.org/wiki/State_of_the_Commons/2015) verfied by WMF staff
 
 ### <span id="h.ek9v7mypm10f"></span>“Europeana: 20.9 million digital objects”
 
-* Exact total: 20,953,772
+Exact total: 20,953,772
   * PDM: 10,300,806
   * CC0: 517,675
-  * CC-BY-SA: 2,953,210
-  * CC-BY-NC-ND: 3,311,299
-  * CC-BY-NC-SA: 1,836,195
-  * CC-BY: 1,398,867
-  * CC-BY-NC: 551,597  
-  * CC-BY-ND: 84,123  
-* Source: Europeana staff
+  * CC BY-SA: 2,953,210
+  * CC BY-NC-ND: 3,311,299
+  * CC BY-NC-SA: 1,836,195
+  * CC BY: 1,398,867
+  * CC BY-NC: 551,597  
+  * CC BY-ND: 84,123  
+Source: Europeana staff
 
 ### <span id="h.f4d70kebr0vd"></span>“YouTube: 13 million videos”
 
@@ -718,7 +716,7 @@ Breakdown of works by platform includes data from 16 platforms and the Directory
   * 36-45 years: 21%
   * 46-55 years: 16%
   * 56-65 years: 10%
-  * >65 years: 3%
+  * 65+ years: 3%
 * Source: Tribe of Noise staff
 
 ### <span id="h.6sv43jv9oez1"></span>“Skills Commons: 24,000 career training materials”
@@ -779,14 +777,15 @@ Our open education partners collectively reported cost savings of $174,448,941 U
 
 Data was collected via an open call to the global open education community. All respondents were from North America. All respondents, projects, reported savings, and sources are listed below. Due to the diversity of the open education space, savings were calculated per individual project. We only included a project’s cost savings in the total if a methodology was provided. We also avoided duplication by verifying each project’s savings by year.
 
-Reported savings to date in 2015
+**Reported savings to date in 2015**
+
 * All numbers are USD; savings reported in CAD have been converted using www.oanda.com
 * If a project reports $0, it is because the project has just started; it has not tracked savings to date; or the number was not verified by the source.
 * Not all projects were able to provide projected savings, so the total is a low estimate.
 
 [](#)[](#)
 
-<table><colgroup><col width="25%"> <col width="25%"> <col width="25%"> <col width="25%"></colgroup> 
+<table class="table"><colgroup><col width="25%"> <col width="25%"> <col width="25%"> <col width="25%"></colgroup> 
 
 <tbody>
 
@@ -1424,14 +1423,14 @@ Source: Virginia Community College System & Lumen Learning, Inc.
 
 </table>
 
-Reported savings included from the 2014 State of the Commons report
+**Reported savings included from the 2014 State of the Commons report**
 
 * Savings in the 2014 report were pulled from a 2013 survey by Nicole Allen of SPARC: https://github.com/creativecommons/stateofthe/blob/master/data/notes.md#savings-from-open-textbooks
 * We cross-checked this list with responses we received this year and removed duplicates. We erred on the side of underreporting.
 
 [](#)[](#)
 
-<table><colgroup><col width="50%"> <col width="50%"></colgroup> 
+<table class="table"><colgroup><col width="50%"> <col width="50%"></colgroup> 
 
 <tbody>
 
