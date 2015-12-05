@@ -1653,263 +1653,113 @@ $42,100
 
 ## <span id="h.dip9dbt79n1"></span>“The Ford Foundation, Bill & Melinda Gates Foundation, Vancouver Foundation, and Wikimedia Foundation”
 
-* The Ford Foundation requires CC BY for all grant-funded projects and research: [https://creativecommons.org/weblog/entry/44865](https://www.google.com/url?q=https://creativecommons.org/weblog/entry/44865&sa=D&usg=AFQjCNFAkdKcoU2UXPZkaHxT8u1fEibmwg).
-* The Bill & Melinda Gates Foundation requires the CC BY license for research and data: [https://creativecommons.org/weblog/entry/44365](https://www.google.com/url?q=https://creativecommons.org/weblog/entry/44365&sa=D&usg=AFQjCNHedfwg4eZgK43pGGh6wJ5j4B11eA).
-* The Vancouver Foundation will require CC BY beginning 2017 for all projects and research funded through community advised grant programs: [https://creativecommons.org/weblog/entry/45510](https://www.google.com/url?q=https://creativecommons.org/weblog/entry/45510&sa=D&usg=AFQjCNGO_a5lQxXTcvDMsZQsHdGUCVFPHA).
-* The Wikimedia Foundation requires CC BY or another free license for media files and recommends CC0 for data: [https://creativecommons.org/weblog/entry/45190](https://www.google.com/url?q=https://creativecommons.org/weblog/entry/45190&sa=D&usg=AFQjCNFlZrllqJoc2wDneEE-czWrkjV6Kw).
-
+* The Ford Foundation requires CC BY for all grant-funded projects and research: https://creativecommons.org/weblog/entry/44865.
+* The Bill & Melinda Gates Foundation requires the CC BY license for research and data: https://creativecommons.org/weblog/entry/44365.
+* The Vancouver Foundation will require CC BY beginning 2017 for all projects and research funded through community advised grant programs: https://creativecommons.org/weblog/entry/45510.
+* The Wikimedia Foundation requires CC BY or another free license for media files and recommends CC0 for data: https://creativecommons.org/weblog/entry/45190.
 * The William and Flora Hewlett Foundation requires CC BY for all digital outputs of its grantmaking: [https://creativecommons.org/weblog/entry/43768](https://www.google.com/url?q=https://creativecommons.org/weblog/entry/43768&sa=D&usg=AFQjCNFnblNpAY7_hjVJoqFBNDi6VFqWOQ).
 
 ## <span id="h.do3odxeld3ki"></span>“Together with The William and Flora Hewlett Foundation, a longstanding open policy leader,  these foundations collectively made grants of approximately $1.9 billion in 2015”
 
-To arrive at this figure, we added the annual grantmaking figures from the most recent year available (2013) as listed on [http://foundationcenter.org/](https://www.google.com/url?q=http://foundationcenter.org/&sa=D&usg=AFQjCNG2x5KYfMGDX9Vi3P-SQVNB-v_MQw). We assume those foundations will continue to make similar amounts of grants in the near future. The Gates Foundation policy applies only to research funding—it is not foundation-wide like the others. So we used the estimate of $900M/year quoted by [Science](https://www.google.com/url?q=http://news.sciencemag.org/funding/2014/11/gates-foundation-require-immediate-free-access-journal-articles&sa=D&usg=AFQjCNEduPfGVnxKz1vl5172rRtNk14GGA). 
+To arrive at this figure, we added the annual grantmaking figures from the most recent year available (2013) as listed on http://foundationcenter.org/. We assume those foundations will continue to make similar amounts of grants in the near future. The Gates Foundation policy applies only to research funding—it is not foundation-wide like the others. So we used the estimate of $900M/year quoted by [Science](https://www.google.com/url?q=http://news.sciencemag.org/funding/2014/11/gates-foundation-require-immediate-free-access-journal-articles&sa=D&usg=AFQjCNEduPfGVnxKz1vl5172rRtNk14GGA). 
 
 Hewlett Foundation
 
 * Total: $434 million
-* Source: [Foundation Center](https://www.google.com/url?q=https://fdo.foundationcenter.org/grantmaker-profile/?collection%3Dgrantmakers%26name%3Dhewlett%26state%3D%26zip_code%3D%26Submit%3DSearch%26_ga%3D1.59046821.989595035.1443637576%26key%3DHEWL001%26from_search%3D1%26activity%3Dresult&sa=D&usg=AFQjCNGEKwEywAz1dLQ82sGEv_s8V9c-9g)
+* Source: [Foundation Center](https://fdo.foundationcenter.org/grantmaker-profile/?collection=grantmakers&name=hewlett&state=&zip_code=&Submit=Search&_ga=1.59046821.989595035.1443637576&key=HEWL001&from_search=1&activity=result)
 
 Ford Foundation
 
 * Total: $560 million
-* Source: [Foundation Center](https://www.google.com/url?q=https://fdo.foundationcenter.org/grantmaker-profile/?collection%3Dgrantmakers%26name%3Dford%26state%3D%26zip_code%3D%26Submit%3DSearch%26_ga%3D1.55441443.989595035.1443637576%26key%3DFORD010%26from_search%3D1%26activity%3Dresult&sa=D&usg=AFQjCNEi9IDpTMQ1ueBOet7CQhOYu5kklg)
+* Source: [Foundation Center](https://fdo.foundationcenter.org/grantmaker-profile/?collection=grantmakers&name=ford&state=&zip_code=&Submit=Search&_ga=1.55441443.989595035.1443637576&key=FORD010&from_search=1&activity=result)
 
 Gates Foundation
 
 * Total: $900 million
-* Source: [Science magazine](https://www.google.com/url?q=http://news.sciencemag.org/funding/2014/11/gates-foundation-require-immediate-free-access-journal-articles&sa=D&usg=AFQjCNEduPfGVnxKz1vl5172rRtNk14GGA)
+* Source: [Science magazine](http://news.sciencemag.org/funding/2014/11/gates-foundation-require-immediate-free-access-journal-articles)
 
 Vancouver Foundation
 
 * Total: $1.13 million
-* Source: Vancouver Foundation ([financial statements](https://www.google.com/url?q=https://www.vancouverfoundation.ca/sites/default/files/documents/2014-12-31%2520Vancouver%2520Foundation%2520FS-NCAR.pdf&sa=D&usg=AFQjCNHzLNohfxW1y3Laglkd46BOx8Z6Qw))
+* Source: Vancouver Foundation ([financial statements](https://www.vancouverfoundation.ca/sites/default/files/documents/2014-12-31%20Vancouver%20Foundation%20FS-NCAR.pdf))
 
 ## <span id="h.3ea7rlk4igew"></span>Acknowledgments
 
-Thank you to Google for providing us with the foundational data upon which this report was built. Thanks especially to:
+**Thank you to Google** for providing us with the foundational data upon which this report was built. Thanks especially to:
 
 Agnes Toth, Google
-
 Brendan Hickey, Google
-
 Paul Haahr, Google
-
 Erin Simon, Google
 
 We would also like to acknowledge the following individuals and organizations for their contributions. This report would not be possible without them.
 
-Platform data
+**Platform data**
 
 Alexis Rossi, Internet Archive
-
 Ariel Diaz, Boundless
-
 Benjamin Glatstein, Microsoft
-
 Brandon Muramatsu, MIT Office of Digital Learning
-
 Cheyenne Hohman, Free Music Archive
-
 Danielle Ward, DeviantArt
-
 David Knutson, PLOS
-
 Donna Okubo, PLOS
-
 Ed Harrison, Boundless
-
 Guillaume Paumier, Wikimedia Foundation
-
 Hessel van Oorschot, Tribe of Noise
-
 Jake Johnson, Internet Archive
-
 Jennifer Elias , Bandcamp
-
 Juliet Barbara, Wikimedia Foundation
-
 Kimberly Potvin, Flickr
-
 Leo Lipsztein, YouTube
-
 Martin Guerber, Jamendo
-
 Matt Lee, Libre.fm
-
 Matt McLernon, YouTube
-
 Neil P. Quinn, Wikimedia Foundation
-
 Nuno Silva, 500px
-
 Paul Keller, Kennisland
-
 Richard Lumadue, Skills Commons/California State University, Office of the Chancellor
-
 Sarah Agudo, Medium
-
 Tilman Bayer, Wikimedia Foundation
-
 Yvonne Ng, MIT Office of Digital Learning
-
 Open education data
-
 Amanda Coolidge, B.C. Open Textbook Project
-
 Amy Hofer, OpenOregon
-
 Andrew Christopher, Institute of Museum and Library Services
-
 Anita Walz, University Libraries, Virginia Tech
-
 Barbara Illowsky, CCC Online Ed Initiative (OEI)
-
 Buddy Muse, Montgomery College “Open Educational Resources”
-
 Christie Fierro, Tacoma Community College OER Project
-
 David Diez, OpenIntro
-
 David Harris, OpenStax College
-
 David Wiley, Lumen Learning
-
 Elijah Scott, Affordable Learning Georgia Initiative, Georgia Highlands College
-
 Gerry Hanley, California State University, Office of the Chancellor
-
 Hetav Sanghavi, CK-12 Foundation
-
 James Glapa-Grossklag, College of the Canyons
-
 Jennryn Wetzler, US. Department of State
-
 Kamil Śliwowski, CC Poland
-
 Karen Vignare, University of Maryland University College
-
 Katrice Hawthorne, University of Maryland University College
-
 Kelsey Wiens, CC South Africa
-
 Kim Thanos, Lumen Learning
-
 Konstantin D. A. SCHELLER , European Commission
-
 Lorna Campbell , University of Edinburgh
-
 Marion Kelt, Glasgow Caledonian University
-
 Nate Angell, Lumen Learning
-
 Neeru Khosla, CK-12 Foundation
-
 Norman Bier, Open Learning Initiative
-
 Ovidiu Voicu, Foundation for an Open Society Romania
-
 Paul Golisch, Maricopa Millions OER Project
-
 Renva Watterson, Affordable Learning Georgia Initiative, Georgia Highlands College
-
 Ricardo FERREIRA, European Commission
-
 Richard Sebastian, Virginia Community College System
-
 Rory McGreal, Athabasca University
-
 Sara Trettin, U.S. Department of State
-
 Sarah Cohen, Open Textbook Network at University of Minnesota
 
 ## <span id="h.jst3ophcsi10"></span>Attributions                                        
 
 Bassel Khartabil drawing from http://freebassel.org/ and in the public domain, thanks to CC0.
 
-Icons used with permission via subscription from the Noun Project. Courtesy these creators: Picture By Hoang Loi, VN; Book By Creative Stall, PK; Document By Melvin Salas, CR; Atomic By Geoffrey Joe, GB; Headphones By Molly Bramlet, US; Video-Player By Cédric Villain, FR; Book By Bryn Taylor, GB; 3D Glasses By Luis Rodrigues, PT; Cat By Rajha Surya, IN; Cat By Richard Zeid, US; Grandmother By Alberto Miranda, ES; Heart Bills By Till Teenck, DE; Public Domain; Book By Mike Ashley, AU; Gift By Stefan Parnarov, BG; Frame By Kari Svangstu, NO; Share By AJ Annunziata; Polaroid By Joe Mortell, GB; Waxing Crescent By hunotika. Icons originally licensed CC BY ([http://creativecommons.org/licenses/by/3.0/](https://www.google.com/url?q=http://creativecommons.org/licenses/by/3.0/&sa=D&usg=AFQjCNG87ENYt7Tm2fu1Cyx9OA5ASUTY8A)).
-
-* * *
-
-Planning notes
-
-* * *
-
-References:
-
-* Public [doc](https://www.google.com/url?q=https://docs.google.com/document/d/1S903Mvxgo2Jni5463R3LG1UBc9YHtCTkhpaW-QS3F_Y/edit&sa=D&usg=AFQjCNE5emSmeote4SoEMBifgYDxONqGlw) - SOTC MVR elements w/affiliate feedback
-* Staff internal updated [doc](https://www.google.com/url?q=https://docs.google.com/document/d/1hGwg_WO3iA7NTH-SzWmubjdOxWT5z7YU9B6Q5qII1hQ/edit%23bookmark%3Did.1hrca29oiu18&sa=D&usg=AFQjCNFX_9Vv1UeaMt9IFYwon2TjMRlnDA) - SOTC MVR elements + planning
-* Note: Let’s keep data collection docs I’ve linked to throughout internal to staff. We’ll pull out relevant numbers and add here for designer.
-
-Outreach to Affiliates (Jane):
-
-* Given feedback at summit, we’ll execute on what we have the time/resources for now, will approach anew in 2016 if we have additional resources
-* Intro para input
-* Outra para input (challenges to the commons, copyright reform)
-* Major highlights by region
-
-Platform data ask - [doc](https://www.google.com/url?q=https://docs.google.com/document/d/1UMOHU2t5Rfu4bt3r3ORiPoyqSqMXySq9yp53NP8gCpQ/edit&sa=D&usg=AFQjCNHYBGVNbi-PPrWB1dakrEaRpUlf1A)
-
-Platform data stats - [doc](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/193KNf4SIwKBbaoC1ZXtJnPHhYY59i4zEV86uHPoQSzw/edit%23gid%3D0&sa=D&usg=AFQjCNG0ulJnk3JR9ww1ABCX_vBO9eJ1Sg)
-
-Impact data ask - [doc](https://www.google.com/url?q=https://docs.google.com/document/d/1ZhH3Pc-wENOrka4yar-HIrFyfjFZYUfNVHfwgUgnnm8/edit&sa=D&usg=AFQjCNHw6WxDHXUI44NEqX_zVPOnJLTx2Q)
-
-Impact data stats - [doc](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/1Lh3yMiuXxvORBb4QbdTuVZCY3ojnB1sG9DP9zayl8Jc/edit%23gid%3D0&sa=D&usg=AFQjCNGw9DR5K1qU6iBqyoE8sKBQTpEe4A)
-
-4.0 License Data
-
-Tim text drafted at bottom of this [doc](https://www.google.com/url?q=https://docs.google.com/document/d/1ZhH3Pc-wENOrka4yar-HIrFyfjFZYUfNVHfwgUgnnm8/edit%23bookmark%3Did.9k7h7co7s9z9&sa=D&usg=AFQjCNFBmQqkbbOOfZkwsmGwZkBeUi8jQw)
-
-Adapting SOTC for Year End campaign
-
-[What couldn’t we accomplish this year because of resources/What would we do if we could]
-
-Tuesday 12/8
-
-* Public push: STATE OF THE COMMONS REPORT 2015!
-
-Thursday 12/10
-
-* YE campaign: email #1
-* The Commons: section from above
-* Enemy / Biggest challenge / Greatest need / Ask and urgency
-
-Thursday 12/17
-
-* YE campaign: email #2
-* The Commons: section from above
-* Enemy / Biggest challenge / Greatest need / Ask and urgency
-
-Tuesday 12/22
-
-* YE campaign: email #3
-* The Commons: section from above
-* Enemy / Biggest challenge / Greatest need / Ask and urgency
-
-Saturday - Thursday 12/26, 12/28, 12/30, 12/31
-
-* YE campaign: email #4 - ask, now is the time
-* YE campaign: email #5 - ask, almost there
-* YE campaign: email #6 - ask, time is running out
-* YE campaign: email #7 - ask, push us over the finish line
-
-Friday 1/1
-
-* Happy New Year and Thank You!
-
-Not including:
-
-* Various cooperations between CC Affiliates are underway or already completed to achieve unified translations of CC Tools for those languages that are spoken in more than one country. For Europe that means not only trans-national efforts, for example between the CC Affiliates in Germany, Austria and Switzerland, but also even cross-regional efforts between our Teams in Spain and Portugal with CC Affiliates in Latin America.
-* Europeana.eu, the European cultural heritage platform this year reaches 20 million (more than 50% of its 45 million items content) reusable digital cultural heritage objects that are available under a CC license or marked with the Public Domain Mark.
-* Established CC US at American University (July 2013 established)
-
-* Taking over Termination of Transfer tool, originally developed when CC HQ was more focused on US copyright (no longer the case);
-
-* The Conversation - Africa Launched May 2015  - [https://theconversation.com/africa](https://www.google.com/url?q=https://theconversation.com/africa&sa=D&usg=AFQjCNH1BTEnXVAYFxUR9ir5YjlM0z5woA)  all stories writted under CC-BY
-* 4.0 translation  -- fairly unprecedented involvement to develop this translation across 3 or more continents
-* Statistics of Rwanda CC BY - 2015 infographic competition to be released under CC-BY        http://statistics.gov.rw/about-us/competition/nisr-infographic-competition-2015
-* Spanish and Portuguese translations of CC 4.0 connecting affiliates and volunteers between different continents.  -- not completed yet
-* older than 2015 - Canada (2012) Quebec government adopting CC BY 4.0 for new data portal to be launched Dec 1, relying on 4.0 and the french translation
-
-Reworded and included above in Regional Highlights: Creative Commons’ Affiliate Network has been a massive international effort in collaboration in support of the Commons. Thanks to our network of Affiliates, CC licenses became a global tool, as they became "ported" adapted by lawyers to local legal conditions. Even more importantly, local teams have been promoting CC licenses, explaining their uses and helping others implement them. This effort of 80 teams and around 500 activists has been multiplied into thousands of people and organisations using free licenses to share their content across the world.
-
-There is no single type of a CC Affiliate Team. In some countries, the effort is led by lawyers - in other it's artists that take the lead. Some of us work at nongovernmental institutions, others build their teams within universities or even public administration. Within each country, we focus on different fields where the Commons can be build: education, science and research, culture and heritage, public data, design and hardware. What unites us is a belief in the Commons, and the potential that can be unlocked through CC licenses. And everywhere around the world, we show that a different approach to copyright and intellectual property is possible.
+Icons used with permission via subscription from the Noun Project. Courtesy these creators: Picture By Hoang Loi, VN; Book By Creative Stall, PK; Document By Melvin Salas, CR; Atomic By Geoffrey Joe, GB; Headphones By Molly Bramlet, US; Video-Player By Cédric Villain, FR; Book By Bryn Taylor, GB; 3D Glasses By Luis Rodrigues, PT; Cat By Rajha Surya, IN; Cat By Richard Zeid, US; Grandmother By Alberto Miranda, ES; Heart Bills By Till Teenck, DE; Public Domain; Book By Mike Ashley, AU; Gift By Stefan Parnarov, BG; Frame By Kari Svangstu, NO; Share By AJ Annunziata; Polaroid By Joe Mortell, GB; Waxing Crescent By hunotika. Icons originally licensed [CC BY](http://creativecommons.org/licenses/by/3.0/).
