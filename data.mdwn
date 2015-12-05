@@ -1,7 +1,3 @@
-[insert TOC - easy to navigate links for web version]
-
-brackets [ ] mean not part of final copy, just indicates link
-
 # <span id="h.v3evupji66c"></span>Data, Notes and Acknowledgments 
 
 ## <span id="h.6lt5bddwy4ky"></span>Measuring CC’s slice of the Commons
@@ -20,7 +16,7 @@ Ultimately, we want to be able to measure not just growth, but usability and vib
 
 Google provided us with the raw data, counting all of the web pages in its cache that link to Creative Commons license deeds, which we used to make the estimates in this report. While pages may link to Creative Commons license deeds for reasons other than to license or attribute works under them, we reason that those are vastly outnumbered by pages that indicate a CC license choice without linking to the deed. We’ve supplemented Google’s data with that of several websites that each have over a million CC-licensed works but aren’t reflected in Google’s data.
 
-Google data
+**Google data**
 
 * Total web pages that link to current CC tools: 306,870,000
 * Total web pages that link to retired CC tools: 10,030,000
@@ -28,7 +24,7 @@ Google data
 
 Source: Google query, available at [Github](https://github.com/creativecommons/sotc-215/blob/master/googledata.csv).
 
-Platforms not included in Google’s data
+**Platforms not included in Google’s data**
 
 * Total works across platforms listed below: 802 million
 
@@ -364,7 +360,7 @@ Breakdown by license: Google + *Platforms not cached by Google* = Total estimate
   * PDM: 1,410,000 + *1,220,335* = 2,630,335
   * Retired PD tool: 10,010,000
 
-Total Free Culture works (CC BY + CC BY-SA + Public domain): 652,533,677. CC uses the definition of free cultural works at Freedom Defined to categorize the CC licenses. “Free Culture” licenses allow for both commercial use and adaptations. Learn more at [http://creativecommons.org/freeworks](https://www.google.com/url?q=http://creativecommons.org/freeworks&sa=D&usg=AFQjCNHwqZIs4cPqmwaOeagXyVjAhFbw1g).
+Total Free Culture works (CC BY + CC BY-SA + Public domain): 652,533,677. CC uses the definition of free cultural works at Freedom Defined to categorize the CC licenses. “Free Culture” licenses allow for both commercial use and adaptations. Learn more at http://creativecommons.org/freeworks.
 
 ## <span id="h.edcwvxerta7m"></span>“The public domain is growing!”
 
@@ -701,7 +697,7 @@ Breakdown of works by platform includes data from 16 platforms and the Directory
 
 * 100% of tracks are CC BY-SA
 * \# of works under Version 4.0: 3,800
-* percentage of works under CC or public domain out of ALL works on platform: 100% on [www.tribeofnoise.com](https://www.google.com/url?q=http://www.tribeofnoise.com&sa=D&usg=AFQjCNFMj6Fi_SVCUofnCjecSO8P6FAXww); 0% on pro.tribeofnoise.com
+* percentage of works under CC or public domain out of ALL works on platform: 100% on www.tribeofnoise.com; 0% on pro.tribeofnoise.com
 * Total # of downloads of CC content: 500,000
 * Total # of listens of CC content: ~1.2 billion listens in 2015 (100 million unique listeners a month for CC-based music channels in-store)
 * \# of registered users: 31,000 (90% are independent musicians)
@@ -1762,6 +1758,6 @@ Sarah Cohen, Open Textbook Network at University of Minnesota
 
 ## <span id="h.jst3ophcsi10"></span>Attributions                                        
 
-Bassel Khartabil drawing from http://freebassel.org/ and in the public domain, thanks to CC0.
+Bassel Khartabil drawing from http://freebassel.org/ and in the public domain, thanks to [CC0](http://creativecommons.org/publicdomain/zero/1.0/).
 
 Icons used with permission via subscription from the Noun Project. Courtesy these creators: Picture By Hoang Loi, VN; Book By Creative Stall, PK; Document By Melvin Salas, CR; Atomic By Geoffrey Joe, GB; Headphones By Molly Bramlet, US; Video-Player By Cédric Villain, FR; Book By Bryn Taylor, GB; 3D Glasses By Luis Rodrigues, PT; Cat By Rajha Surya, IN; Cat By Richard Zeid, US; Grandmother By Alberto Miranda, ES; Heart Bills By Till Teenck, DE; Public Domain; Book By Mike Ashley, AU; Gift By Stefan Parnarov, BG; Frame By Kari Svangstu, NO; Share By AJ Annunziata; Polaroid By Joe Mortell, GB; Waxing Crescent By hunotika. Icons originally licensed [CC BY](http://creativecommons.org/licenses/by/3.0/).
