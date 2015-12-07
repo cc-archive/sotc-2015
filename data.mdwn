@@ -14,7 +14,7 @@ Ultimately, we want to be able to measure not just growth, but usability and vib
 
 ## <span id="h.c8jrucmsqix"></span>“More than 1 billion CC licensed works in the Commons as of 2015”
 
-Google provided us with the raw data, counting all of the web pages in its cache that link to Creative Commons license deeds, which we used to make the estimates in this report. While pages may link to Creative Commons license deeds for reasons other than to license or attribute works under them, we reason that those are vastly outnumbered by pages that indicate a CC license choice without linking to the deed. We’ve supplemented Google’s data with that of several websites that each have over a million CC-licensed works but aren’t reflected in Google’s data.
+Google provided us with the raw data, counting all of the gweb pages in its cache that link to Creative Commons license deeds, which we used to make the estimates in this report. While pages may link to Creative Commons license deeds for reasons other than to license or attribute works under them, we reason that those are vastly outnumbered by pages that indicate a CC license choice without linking to the deed. We’ve supplemented Google’s data with that of several websites that each have over a million CC-licensed works but aren’t reflected in Google’s data.
 
 **Google data**
 
@@ -595,7 +595,8 @@ Breakdown of works by platform includes data from 16 platforms and the Directory
 * \# of registered users that are active: 1,000,000
 * \# of users that use CC licenses, CC0 or PDM for their content: 56,837
 * Geographic breakdown of users (top 15 countries; # of distinct users):
-  * United States: 4,390
+
+    * United States: 4,390
   * Germany: 3,139
   * France: 2,484
   * Spain: 2,082
