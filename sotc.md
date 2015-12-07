@@ -656,7 +656,7 @@ tirelessly everyday to protect and enrich the commons. We also owe
 our thanks to Google and the many CC platforms, partners, institutions,
 and individuals from the broader open web community who contributed
 the essential data and information for this report. Simply put, our 2015
-State of the commons report would not be possible without your
+State of the Commons report would not be possible without your
 valuable contributions. Thank you!
 
 <div class="col-md-6" id="invest-circle">
