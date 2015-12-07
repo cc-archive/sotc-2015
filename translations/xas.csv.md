@@ -255,9 +255,9 @@ Plus ouverte &mdash; Plus restrictive. es licences moins restrictives, compatibl
 
 ### Pays développant une politique d'Éducation Ouverte {.by}
 
-<img src="img/oer-2-translated.svg" class="sotc-image" alt="" />
+<img src="img/oer-2-translated.svg" class="sotc-image" alt="Argentine, Australie, Canada, Union européenne, Indonésie, Inde, Pays-Bas, Île Maurice, Nouvelle-Zélande, Pologne, Roumanie, Écosse, Slovénie, République slovaque, Afrique du Sud, Royaume-Uni, États-Unis, Uruguay, Pays de Galles." />
 
-Argentine, Australie, Canada, Union européenne, Indonésie, Inde, Pays-Bas, Île Maurice, Nouvelle-Zélande, Pologne, Roumanie, Écosse, Slovénie, République slovaque, Afrique du Sud, Royaume-Uni, États-Unis, Uruguay, Pays de Galles, 174 MILLIONS DE DOLLARS
+Argentine, Australie, Canada, Union européenne, Indonésie, Inde, Pays-Bas, Île Maurice, Nouvelle-Zélande, Pologne, Roumanie, Écosse, Slovénie, République slovaque, Afrique du Sud, Royaume-Uni, États-Unis, Uruguay, Pays de Galles.
 
 ### Les manuels libres ont économisé aux étudiants {.by}
 

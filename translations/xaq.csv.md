@@ -255,9 +255,9 @@ Mer öppen &mdash; Mer begränsad. Mindre begränsade FRI KULTUR licenser som ti
 
 ### Länder med Policies för Open Education Policies  {.by}
 
-<img src="img/oer-2-translated.svg" class="sotc-image" alt="" />
+<img src="img/oer-2-translated.svg" class="sotc-image" alt="Argentina, Australien, Kanada, Europeiska unionen, Indonesien, Indien, Nederländerna, Mauritius , Nya Zeeland, Polen, Rumänien, Skottland, Slovenien, Slovakien, Sydafrika, Storbritannien, USA, Uruguay, Wales." />
 
-Argentina, Australien, Kanada, Europeiska unionen, Indonesien, Indien, Nederländerna, Mauritius , Nya Zeeland, Polen, Rumänien, Skottland, Slovenien, Slovakien, Sydafrika, Storbritannien, USA, Uruguay, Wales, 174 MILJONER DOLLAR
+Argentina, Australien, Kanada, Europeiska unionen, Indonesien, Indien, Nederländerna, Mauritius , Nya Zeeland, Polen, Rumänien, Skottland, Slovenien, Slovakien, Sydafrika, Storbritannien, USA, Uruguay, Wales.
 
 ### Öppna textböcker gör att studenter sparar {.by}
 

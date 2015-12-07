@@ -255,9 +255,9 @@ Mere åbent &mdash; Mere restriktivt. De mindre restriktive FRI KULTUR licenser 
 
 ### Lande med politikker for Åben Uddannelse {.by}
 
-<img src="img/oer-2-translated.svg" class="sotc-image" alt="" />
+<img src="img/oer-2-translated.svg" class="sotc-image" alt="Argentina, Australien, Canada, Den Europæiske Union, Indonesien, Indien, Holland, Mauretanien, New Zealand, Polen, Rumænien, Skotland, Slovenien, Slovakiet, Sydafrika, Storbritanien, USA, Uruguay, Wales." />
 
-Argentina, Australien, Canada, Den Europæiske Union, Indonesien, Indien, Holland, Mauretanien, New Zealand, Polen, Rumænien, Skotland, Slovenien, Slovakiet, Sydafrika, Storbritanien, USA, Uruguay, Wales, 174 MILLIONER DOLLARS
+Argentina, Australien, Canada, Den Europæiske Union, Indonesien, Indien, Holland, Mauretanien, New Zealand, Polen, Rumænien, Skotland, Slovenien, Slovakiet, Sydafrika, Storbritanien, USA, Uruguay, Wales.
 
 ### Åbne tekstbøger har sparet studerende {.by}
 

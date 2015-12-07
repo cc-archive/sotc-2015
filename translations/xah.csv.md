@@ -255,9 +255,9 @@ Més obert &mdash; Més restrictiu. Les llicències de CULTURA LLIURE menys rest
 
 ### Països amb polítiques d'educació en obert {.by}
 
-<img src="img/oer-2-translated.svg" class="sotc-image" alt="" />
+<img src="img/oer-2-translated.svg" class="sotc-image" alt="Argentina, Austràlia, Canadà, Unió Europea, Indonèsia, Índia, Països Baixos, Maurici, Nova Zelanda, Polònia, Romania, Escòcia, Eslovènia, República Eslovaca, Sud-àfrica, Regne Unit, Estats Units, Uruguai, Gal·les." />
 
-Argentina, Austràlia, Canadà, Unió Europea, Indonèsia, Índia, Països Baixos, Maurici, Nova Zelanda, Polònia, Romania, Escòcia, Eslovènia, República Eslovaca, Sud-àfrica, Regne Unit, Estats Units, Uruguai, Gal·les, 174 MILIONS DE DÒLARS
+Argentina, Austràlia, Canadà, Unió Europea, Indonèsia, Índia, Països Baixos, Maurici, Nova Zelanda, Polònia, Romania, Escòcia, Eslovènia, República Eslovaca, Sud-àfrica, Regne Unit, Estats Units, Uruguai, Gal·les.
 
 ### Els llibres de text en obert respresent un estalvi per als estudiants de {.by}
 

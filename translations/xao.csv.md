@@ -255,9 +255,9 @@ Bardziej otwarte &mdash; Bardziej restrykcyjnej. Mniej restrykcyjne licencje “
 
 ### Kraje prowadzące polityke {.by}
 
-<img src="img/oer-2-translated.svg" class="sotc-image" alt="" />
+<img src="img/oer-2-translated.svg" class="sotc-image" alt="Argentyna, Australia, Kanada, Unia Europejska, Indonezja, Indie, Holandia, Mauritius, Nowa Zelandia, Polska, Rumunia, Szkocja, Słowenia, Słowacja, Republika Południowej Afryki, Wielka Brytania, Stany Zjednoczone, Urugwaj, Walia." />
 
-Argentyna, Australia, Kanada, Unia Europejska, Indonezja, Indie, Holandia, Mauritius, Nowa Zelandia, Polska, Rumunia, Szkocja, Słowenia, Słowacja, Republika Południowej Afryki, Wielka Brytania, Stany Zjednoczone, Urugwaj, Walia, 174 miliony
+Argentyna, Australia, Kanada, Unia Europejska, Indonezja, Indie, Holandia, Mauritius, Nowa Zelandia, Polska, Rumunia, Szkocja, Słowenia, Słowacja, Republika Południowej Afryki, Wielka Brytania, Stany Zjednoczone, Urugwaj, Walia.
 
 ### Dzięki otwartym podręcznikom studenci zaoszczędzili {.by}
 
