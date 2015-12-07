@@ -89,8 +89,6 @@
 </tbody>
 </table>
 
-<img src="img/free-scale.svg" alt="" class="sotc-image" />
-
 Meer open &mdash; Meer restrictief. Minder restrictieve FREE CULTURE-licenties staan commercieel gebruik en aanpassingen toe
 
 -----

@@ -89,8 +89,6 @@
 </tbody>
 </table>
 
-<img src="img/free-scale.svg" alt="" class="sotc-image" />
-
 Otvorenejšie &mdash; Prísnejšie. "Menej obmedzujúce licencie „FREE CULTURE"" umožňujúce tak komerčné využitie ako aj možnosti úpravy"
 
 -----

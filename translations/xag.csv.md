@@ -89,8 +89,6 @@
 </tbody>
 </table>
 
-<img src="img/free-scale.svg" alt="" class="sotc-image" />
-
 Lebih terbuka &mdash; Lebih terbatas. Lisensi BUDAYA BEBAS yang lebih terbuka memungkinkan penggunaan untuk kepentingan komersial dan adaptasi
 
 -----

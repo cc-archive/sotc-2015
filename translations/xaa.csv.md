@@ -89,8 +89,6 @@
 </tbody>
 </table>
 
-<img src="img/free-scale.svg" alt="" class="sotc-image" />
-
 More open &mdash; More restrictive. Less restrictive FREE CULTURE licenses allow for both commercial use and adaptations
 
 -----

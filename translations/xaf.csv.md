@@ -89,8 +89,6 @@
 </tbody>
 </table>
 
-<img src="img/free-scale.svg" alt="" class="sotc-image" />
-
 Mere åbent &mdash; Mere restriktivt. De mindre restriktive FRI KULTUR licenser tillader både kommerciel anvendelse og videre bearbejdning
 
 -----

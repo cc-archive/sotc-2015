@@ -89,8 +89,6 @@
 </tbody>
 </table>
 
-<img src="img/free-scale.svg" alt="" class="sotc-image" />
-
 Más abierto &mdash; Más restrictivo. Las licencias de CULTURA LIBRE menos restrictivas permiten tanto usos comerciales como adaptaciones
 
 -----

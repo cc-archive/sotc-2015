@@ -89,8 +89,6 @@
 </tbody>
 </table>
 
-<img src="img/free-scale.svg" alt="" class="sotc-image" />
-
 Més obert &mdash; Més restrictiu. Les llicències de CULTURA LLIURE menys restrictives permeten tant els usos comercials com les adaptacions
 
 -----

@@ -89,8 +89,6 @@
 </tbody>
 </table>
 
-<img src="img/free-scale.svg" alt="" class="sotc-image" />
-
 ଅଧିକ ଖୋଲା &mdash; ଅଧିକ ବନ୍ଦ. ଅଧିକ ବନ୍ଦ FREE CULTURE ଲାଇସେନ୍ସ ଉଭୟ ଲାଭକାରୀ ଓ ଅଣଲାଭକାରୀ ବ୍ୟବହାର ଓ ଗ୍ରହଣକୁ ଅନୁମତି ଦେଇଥାଏ
 
 -----

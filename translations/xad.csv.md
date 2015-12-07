@@ -89,8 +89,6 @@
 </tbody>
 </table>
 
-<img src="img/free-scale.svg" alt="" class="sotc-image" />
-
 Avoimempi &mdash; Rajoittavampi. Vähemmän rajoittavat VAPAAN KULTTUURIN lisenssit sallivat sekä kaupallisen käytön että muunnelmat
 
 -----

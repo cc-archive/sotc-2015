@@ -89,8 +89,6 @@
 </tbody>
 </table>
 
-<img src="img/free-scale.svg" alt="" class="sotc-image" />
-
 較開放 &mdash; 限制較多. 限制較少的「自由文化」授權條款允許商業利用及改作
 
 -----

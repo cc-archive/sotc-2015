@@ -89,8 +89,6 @@
 </tbody>
 </table>
 
-<img src="img/free-scale.svg" alt="" class="sotc-image" />
-
 Mer öppen &mdash; Mer begränsad. Mindre begränsade FRI KULTUR licenser som tillåter både kommersiell användning och bearbetning
 
 -----

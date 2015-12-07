@@ -89,8 +89,6 @@
 </tbody>
 </table>
 
-<img src="img/free-scale.svg" alt="" class="sotc-image" />
-
 LIBERÁLNĚJŠÍ &mdash; RESTRIKTIVNĚJŠÍ. Liberálnější licence SVOBODNÉ KULTURY dovolují jak komerční užití, tak i zpracování
 
 -----

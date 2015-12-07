@@ -89,8 +89,6 @@
 </tbody>
 </table>
 
-<img src="img/free-scale.svg" alt="" class="sotc-image" />
-
 Offener &mdash; Einschränkender. Weniger einschränkende Free-Culture-Lizenzsen erlauben sowohl kommerzielle Nutzung als auch Bearbeitung
 
 -----

@@ -89,8 +89,6 @@
 </tbody>
 </table>
 
-<img src="img/free-scale.svg" alt="" class="sotc-image" />
-
 Bardziej otwarte &mdash; Bardziej restrykcyjnej. Mniej restrykcyjne licencje “wolnej kultury” umożliwiają zarówno adaptacje i użycie komercyjne
 
 -----

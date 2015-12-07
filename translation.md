@@ -89,8 +89,6 @@
 </tbody>
 </table>
 
-<img src="img/free-scale.svg" alt="" class="sotc-image" />
-
 {{14}} &mdash; {{15}}. {{17}}
 
 -----
