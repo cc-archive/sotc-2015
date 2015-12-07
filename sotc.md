@@ -48,6 +48,8 @@ CEO, Creative Commons
 
 -----
 
+<div id="b02" class="bubbles"></div>
+
 ## Wow! Over 1 billion CC licensed works in the Commons in 2015
 
 > CC licensed works have nearly tripled in the last 5 years.
@@ -94,6 +96,8 @@ bound estimate based on what we could count. Dig into our data
 sources.
 
 -----
+
+<div id="b03" class="bubbles"></div>
 
 ## More people are choosing to share with "Free Culture" licenses
 
@@ -159,6 +163,8 @@ and marked with our public domain tools. Dig into our data sources.
 
 -----
 
+<div id="b04" class="bubbles"></div>
+
 ## The CC marked public domain has nearly doubled in size over the last 12 months
 
 <img src="img/pdm.svg" class="sotc-image" />
@@ -205,6 +211,8 @@ domain. Dig into our data sources.
 
 -----
 
+<div id="b05" class="bubbles"></div>
+
 ## In 2015, CC licensed works were viewed online
 ## 136 billion times {.zomg}
 
@@ -221,6 +229,8 @@ times CC licensed content was viewed on a web page. Dig into our data
 sources.
 
 -----
+
+<div id="b06" class="bubbles"></div>
 
 ## Diversity and global visibility
 
@@ -292,6 +302,8 @@ Chinese. Dig into our data sources.
 
 -----
 
+<div id="b07" class="bubbles"></div>
+
 ## From research to cute cat photos, the Commons offers a treasure trove of content.
 
 <img src="img/content-bubbles.svg" class="sotc-image" />
@@ -342,6 +354,8 @@ web. Dig into our data sources.
 
 -----
 
+<div id="b08" class="bubbles"></div>
+
 ## CC is everywhere:<br />Millions of websites use CC licenses, including major platforms like Wikipedia and Flickr and smaller websites like your grandma's blog.
 
 <img src="img/platforms.png" class="sotc-image" />
@@ -388,6 +402,8 @@ Note: Data reflects total CC licensed works on each platform, only 16 websites o
 
 -----
 
+<div id="b09" class="bubbles"></div>
+
 ## 2015 Impact:<br />CC + Open Education {.impact}
 
 <img src="img/oer-1.svg" class="sotc-image" />
@@ -429,6 +445,8 @@ education community. Dig into our data sources.
 
 -----
 
+<div id="b10" class="bubbles"></div>
+
 ## 2015 Impact:<br /> CC + Foundation Open Policy {.impact .img-policy}
 
 CC continues to lead the way in advocating for major philanthropic
@@ -461,6 +479,8 @@ tremendous ripple effect.
 ## These foundations set their default to open from closed, collectively granting approximately $1.9 billion in 2015.
 
 -----
+
+<div id="b11" class="bubbles"></div>
 
 ## 2015 Impact:<br />CC + Cultural Heritage {.impact}
 
@@ -505,6 +525,8 @@ come.
 ###### Building on his invaluable contributions to the commons, Bassel's #NEWPALMYRA project features the 3D models of the ancient ruins of Palmyra, one of Syria's greatest archaeological treasures. The online community platform and data repository is dedicated to the preservation and creative reuse of data about Palmyra. {.by}
 
 -----
+
+<div id="b12" class="bubbles"></div>
 
 ## 2015 Impact:<br />Regional Highlights {.impact}
 
