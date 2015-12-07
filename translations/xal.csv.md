@@ -137,6 +137,8 @@
 
 <img src="img/hits.svg" alt="" style="width: 100%; overflow: hidden;" />
 
+<img src="img/bubble.png" alt="" /> = 1 ਬੱਲੇ!
+
 -----
 
 ## ਅਨੇਕਤਾ ਅਤੇ ਵਿਸ਼ਵੀ ਦਿਖਣਯੋਗਤਾ

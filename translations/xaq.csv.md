@@ -137,6 +137,8 @@ Mer öppen &mdash; Mer begränsad. Mindre begränsade FRI KULTUR licenser som ti
 
 <img src="img/hits.svg" alt="" style="width: 100%; overflow: hidden;" />
 
+<img src="img/bubble.png" alt="" /> = 1 Wow
+
 -----
 
 ## Mångfald och global synlighet

@@ -137,6 +137,8 @@ Más abierto &mdash; Más restrictivo. Las licencias de CULTURA LIBRE menos rest
 
 <img src="img/hits.svg" alt="" style="width: 100%; overflow: hidden;" />
 
+<img src="img/bubble.png" alt="" /> = 1 ¡Anda!
+
 -----
 
 ## Diversidad y visibilidad global

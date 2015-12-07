@@ -137,6 +137,8 @@ More open &mdash; More restrictive. Less restrictive FREE CULTURE licenses allow
 
 <img src="img/hits.svg" alt="" style="width: 100%; overflow: hidden;" />
 
+<img src="img/bubble.png" alt="" /> = 1 Wow!
+
 -----
 
 ## Diversity and global visibility

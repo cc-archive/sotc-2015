@@ -137,6 +137,8 @@
 
 <img src="img/hits.svg" alt="" style="width: 100%; overflow: hidden;" />
 
+<img src="img/bubble.png" alt="" /> = 1 மகிழ்ச்சி !
+
 -----
 
 ## பல மொழிகளில் பரவலான பங்களிப்புகள்

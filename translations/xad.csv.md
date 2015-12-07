@@ -137,6 +137,8 @@ Avoimempi &mdash; Rajoittavampi. Vähemmän rajoittavat VAPAAN KULTTUURIN lisens
 
 <img src="img/hits.svg" alt="" style="width: 100%; overflow: hidden;" />
 
+<img src="img/bubble.png" alt="" /> = 1 Vau!
+
 -----
 
 ## Monimuotoisuus ja globaali näkyvyys

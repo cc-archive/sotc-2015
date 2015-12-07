@@ -137,6 +137,8 @@ Lebih terbuka &mdash; Lebih terbatas. Lisensi BUDAYA BEBAS yang lebih terbuka me
 
 <img src="img/hits.svg" alt="" style="width: 100%; overflow: hidden;" />
 
+<img src="img/bubble.png" alt="" /> = 1 Wah!
+
 -----
 
 ## Keanekaragaman dan visibilitas global

@@ -137,6 +137,8 @@ Més obert &mdash; Més restrictiu. Les llicències de CULTURA LLIURE menys rest
 
 <img src="img/hits.svg" alt="" style="width: 100%; overflow: hidden;" />
 
+<img src="img/bubble.png" alt="" /> = 1 Renoi!
+
 -----
 
 ## Diversitat i visibilitat global

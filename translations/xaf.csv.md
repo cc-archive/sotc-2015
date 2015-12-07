@@ -137,6 +137,8 @@ Mere åbent &mdash; Mere restriktivt. De mindre restriktive FRI KULTUR licenser 
 
 <img src="img/hits.svg" alt="" style="width: 100%; overflow: hidden;" />
 
+<img src="img/bubble.png" alt="" /> = 1 Wow!
+
 -----
 
 ## Diversitet og global synlighed

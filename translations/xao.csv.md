@@ -137,6 +137,8 @@ Bardziej otwarte &mdash; Bardziej restrykcyjnej. Mniej restrykcyjne licencje “
 
 <img src="img/hits.svg" alt="" style="width: 100%; overflow: hidden;" />
 
+<img src="img/bubble.png" alt="" /> = 1 Łał!
+
 -----
 
 ## Różnorodność i globalna widoczność

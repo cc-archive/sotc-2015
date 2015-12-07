@@ -137,6 +137,8 @@ Plus ouverte &mdash; Plus restrictive. es licences moins restrictives, compatibl
 
 <img src="img/hits.svg" alt="" style="width: 100%; overflow: hidden;" />
 
+<img src="img/bubble.png" alt="" /> = 1 Wow !
+
 -----
 
 ## Diversité et visibilité mondiale
