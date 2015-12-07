@@ -452,7 +452,7 @@ Breakdown of works by media type includes data from 16 platforms plus the Direct
 * Wikimedia Commons: 58,599 / Source: [https://meta.wikimedia.org/wiki/State_of_the_Commons/2015](https://meta.wikimedia.org/wiki/State_of_the_Commons/2015) verfied by WMF staff
 * MIT OpenCourseWare: 83 / Source: [http://ocw.mit.edu/about/site-statistics/monthly-reports](http://ocw.mit.edu/about/site-statistics/monthly-reports/) verified by MIT OCW staff
 * Internet Archive: 320,983 / Source: Internet Archive staff
-* : 25,369 / Source:  staff
+* Europeana: 25,369 / Source: Europeana staff
 
 ### <span id="h.x9p1m1ffhf26"></span>“Texts (Articles, Stories, Documents): 46.9 million”
 
