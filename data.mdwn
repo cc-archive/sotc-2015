@@ -30,7 +30,7 @@ Source: Google query, available at [Github](https://github.com/creativecommons/s
 
 [](#)[](#)
 
-<table class="table"><colgroup><col width="25%"> <col width="25%"> <col width="25%"> <col width="25%"></colgroup> 
+<table class="table table-bordered table-striped"><colgroup><col width="25%"> <col width="25%"> <col width="25%"> <col width="25%"></colgroup> 
 
 <tbody>
 
@@ -792,7 +792,7 @@ Data was collected via an open call to the global open education community. All 
 
 [](#)[](#)
 
-<table class="table"><colgroup><col width="25%"> <col width="25%"> <col width="25%"> <col width="25%"></colgroup> 
+<table class="table table-bordered table-striped"><colgroup><col width="25%"> <col width="25%"> <col width="25%"> <col width="25%"></colgroup> 
 
 <tbody>
 
@@ -1437,7 +1437,7 @@ Source: Virginia Community College System & Lumen Learning, Inc.
 
 [](#)[](#)
 
-<table class="table"><colgroup><col width="50%"> <col width="50%"></colgroup> 
+<table class="table table-bordered table-striped"><colgroup><col width="50%"> <col width="50%"></colgroup> 
 
 <tbody>
 
