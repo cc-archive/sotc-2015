@@ -169,13 +169,12 @@ and marked with our public domain tools. Dig into our data sources.
 
 <img src="img/pdm.svg" class="sotc-image" />
 
-<div class="table-responsive">
 <table class="table table-bordered table-striped">
 <thead>
 <tr class="header">
 <th style="text-align: left;">Year</th>
 <th style="text-align: left;">Retired PD tool</th>
-<th style="text-align: left;">Public Domain Mark</th>
+<th style="text-align: left;">PDM</th>
 <th style="text-align: left;">CC0</th>
 <th style="text-align: left;">Total</th>
 </tr>
@@ -203,7 +202,6 @@ and marked with our public domain tools. Dig into our data sources.
 <td style="text-align: left;">34.9 million</td>
 </tr>
 </table>
-</div>
 
 ---
 
