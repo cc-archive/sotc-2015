@@ -392,6 +392,8 @@ implement open policies.
 
 ## Tack för att du delar! {.bbs}
 
+* 
+
 <div class="col-md-6" id="invest-circle">
 
 <div class="content">

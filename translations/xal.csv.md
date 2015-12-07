@@ -392,6 +392,8 @@ implement open policies.
 
 ## ਆਪਣੀ ਰਚਨਾਵਾਂ ਸਾਂਝੀਆਂ ਕਰਨ ਲਈ ਸ਼ੁਕਰੀਆ! {.bbs}
 
+* 
+
 <div class="col-md-6" id="invest-circle">
 
 <div class="content">

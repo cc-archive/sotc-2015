@@ -392,6 +392,8 @@ implement open policies.
 
 ## TERIMA KASIH TELAH BERBAGI! {.bbs}
 
+* 
+
 <div class="col-md-6" id="invest-circle">
 
 <div class="content">
