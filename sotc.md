@@ -210,6 +210,8 @@ domain. Dig into our data sources.
 
 <img src="img/hits.svg" alt="" style="width: 100%; overflow: hidden;" />
 
+<img src="img/bubble.png" alt="" /> = 1 Billion
+
 #### CC licensed work is retained, reused, revised, remixed, and redistributed in infinite ways. We captured just a slice of this massively distributed collaboration by measuring the number of times CC licensed work gets accessed from the global pool of content.
 
 ---
