@@ -18,15 +18,15 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">140 Commonsissa on vuonna 2015 yli miljardi CC-lisensoitua teosta</td>
+<td style="text-align: left;">140 miljoonaa</td>
 <td style="text-align: left;">2006</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">400 Commonsissa on vuonna 2015 yli miljardi CC-lisensoitua teosta</td>
+<td style="text-align: left;">400 miljoonaa</td>
 <td style="text-align: left;">2010</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">882 Commonsissa on vuonna 2015 yli miljardi CC-lisensoitua teosta</td>
+<td style="text-align: left;">882 miljoonaa</td>
 <td style="text-align: left;">2014</td>
 </tr>
 <tr class="even">

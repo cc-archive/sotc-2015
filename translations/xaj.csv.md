@@ -18,15 +18,15 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">140 2015ல் நூறு கோடிக்கும் மேலான படைப்புகள், CC உரிமையில் விக்கிப் பொதுவகத்தில் சேமிக்கப் பட்டுள்ளன. </td>
+<td style="text-align: left;">140 மில்லியன்</td>
 <td style="text-align: left;">2006</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">400 2015ல் நூறு கோடிக்கும் மேலான படைப்புகள், CC உரிமையில் விக்கிப் பொதுவகத்தில் சேமிக்கப் பட்டுள்ளன. </td>
+<td style="text-align: left;">400 மில்லியன்</td>
 <td style="text-align: left;">2010</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">882 2015ல் நூறு கோடிக்கும் மேலான படைப்புகள், CC உரிமையில் விக்கிப் பொதுவகத்தில் சேமிக்கப் பட்டுள்ளன. </td>
+<td style="text-align: left;">882 மில்லியன்</td>
 <td style="text-align: left;">2014</td>
 </tr>
 <tr class="even">

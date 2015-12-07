@@ -18,15 +18,15 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">140 Über 1 Milliarde CC-lizenzierte Werke in den Commons in 2015</td>
+<td style="text-align: left;">140 _ Millionen</td>
 <td style="text-align: left;">2006</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">400 Über 1 Milliarde CC-lizenzierte Werke in den Commons in 2015</td>
+<td style="text-align: left;">400 _ Millionen</td>
 <td style="text-align: left;">2010</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">882 Über 1 Milliarde CC-lizenzierte Werke in den Commons in 2015</td>
+<td style="text-align: left;">882 _ Millionen</td>
 <td style="text-align: left;">2014</td>
 </tr>
 <tr class="even">

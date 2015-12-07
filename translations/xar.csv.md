@@ -18,15 +18,15 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">140 କମନ୍ସରେ ୨୦୧୫ ବେଳକୁ CC ଲାଇସେନ୍ସରେ ଥିବା ୧ ବିଲିଅନରୁ ଅଧିକ କାମ</td>
+<td style="text-align: left;">140 _ ମିଲିଅନ</td>
 <td style="text-align: left;">2006</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">400 କମନ୍ସରେ ୨୦୧୫ ବେଳକୁ CC ଲାଇସେନ୍ସରେ ଥିବା ୧ ବିଲିଅନରୁ ଅଧିକ କାମ</td>
+<td style="text-align: left;">400 _ ମିଲିଅନ</td>
 <td style="text-align: left;">2010</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">882 କମନ୍ସରେ ୨୦୧୫ ବେଳକୁ CC ଲାଇସେନ୍ସରେ ଥିବା ୧ ବିଲିଅନରୁ ଅଧିକ କାମ</td>
+<td style="text-align: left;">882 _ ମିଲିଅନ</td>
 <td style="text-align: left;">2014</td>
 </tr>
 <tr class="even">

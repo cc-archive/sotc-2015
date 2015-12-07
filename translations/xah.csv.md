@@ -18,15 +18,15 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">140 El 2015, més de mil milions d'obres amb llicència en els emprius</td>
+<td style="text-align: left;">140 _ milions</td>
 <td style="text-align: left;">2006</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">400 El 2015, més de mil milions d'obres amb llicència en els emprius</td>
+<td style="text-align: left;">400 _ milions</td>
 <td style="text-align: left;">2010</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">882 El 2015, més de mil milions d'obres amb llicència en els emprius</td>
+<td style="text-align: left;">882 _ milions</td>
 <td style="text-align: left;">2014</td>
 </tr>
 <tr class="even">

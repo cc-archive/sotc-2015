@@ -18,15 +18,15 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">140 {{7}}</td>
+<td style="text-align: left;">140 {{9}}</td>
 <td style="text-align: left;">2006</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">400 {{7}}</td>
+<td style="text-align: left;">400 {{9}}</td>
 <td style="text-align: left;">2010</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">882 {{7}}</td>
+<td style="text-align: left;">882 {{9}}</td>
 <td style="text-align: left;">2014</td>
 </tr>
 <tr class="even">

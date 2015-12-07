@@ -18,15 +18,15 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">140 Över 1 miljard licensierade verk finns i Commons 2015</td>
+<td style="text-align: left;">140 _miljon</td>
 <td style="text-align: left;">2006</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">400 Över 1 miljard licensierade verk finns i Commons 2015</td>
+<td style="text-align: left;">400 _miljon</td>
 <td style="text-align: left;">2010</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">882 Över 1 miljard licensierade verk finns i Commons 2015</td>
+<td style="text-align: left;">882 _miljon</td>
 <td style="text-align: left;">2014</td>
 </tr>
 <tr class="even">

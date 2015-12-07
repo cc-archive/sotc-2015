@@ -18,15 +18,15 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">140 Ponad 1 miliard utworów na licencjach CC w 2015 roku</td>
+<td style="text-align: left;">140 milion</td>
 <td style="text-align: left;">2006</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">400 Ponad 1 miliard utworów na licencjach CC w 2015 roku</td>
+<td style="text-align: left;">400 milion</td>
 <td style="text-align: left;">2010</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">882 Ponad 1 miliard utworów na licencjach CC w 2015 roku</td>
+<td style="text-align: left;">882 milion</td>
 <td style="text-align: left;">2014</td>
 </tr>
 <tr class="even">

@@ -18,15 +18,15 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">140 2015 年有超過 10 億件作品採用創用 CC 授權</td>
+<td style="text-align: left;">140 100 萬</td>
 <td style="text-align: left;">2006</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">400 2015 年有超過 10 億件作品採用創用 CC 授權</td>
+<td style="text-align: left;">400 100 萬</td>
 <td style="text-align: left;">2010</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">882 2015 年有超過 10 億件作品採用創用 CC 授權</td>
+<td style="text-align: left;">882 100 萬</td>
 <td style="text-align: left;">2014</td>
 </tr>
 <tr class="even">

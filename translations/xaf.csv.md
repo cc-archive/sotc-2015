@@ -18,15 +18,15 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">140 Over 1 millard CC-licenserede værker i den digitale fælled i 2015</td>
+<td style="text-align: left;">140 _ million</td>
 <td style="text-align: left;">2006</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">400 Over 1 millard CC-licenserede værker i den digitale fælled i 2015</td>
+<td style="text-align: left;">400 _ million</td>
 <td style="text-align: left;">2010</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">882 Over 1 millard CC-licenserede værker i den digitale fælled i 2015</td>
+<td style="text-align: left;">882 _ million</td>
 <td style="text-align: left;">2014</td>
 </tr>
 <tr class="even">

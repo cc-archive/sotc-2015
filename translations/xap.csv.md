@@ -18,15 +18,15 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">140 2015 లో పది కోట్లకు పైగా సీసీ ల్లైసెన్స్ దస్త్రాలు విడుదలయ్యాయి</td>
+<td style="text-align: left;">140  మిలియన్</td>
 <td style="text-align: left;">2006</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">400 2015 లో పది కోట్లకు పైగా సీసీ ల్లైసెన్స్ దస్త్రాలు విడుదలయ్యాయి</td>
+<td style="text-align: left;">400  మిలియన్</td>
 <td style="text-align: left;">2010</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">882 2015 లో పది కోట్లకు పైగా సీసీ ల్లైసెన్స్ దస్త్రాలు విడుదలయ్యాయి</td>
+<td style="text-align: left;">882  మిలియన్</td>
 <td style="text-align: left;">2014</td>
 </tr>
 <tr class="even">

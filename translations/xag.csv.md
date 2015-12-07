@@ -18,15 +18,15 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">140 Lebih dari 1 miliar ciptaan berlisensi CC di dalam Commons pada tahun 2015</td>
+<td style="text-align: left;">140 juta</td>
 <td style="text-align: left;">2006</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">400 Lebih dari 1 miliar ciptaan berlisensi CC di dalam Commons pada tahun 2015</td>
+<td style="text-align: left;">400 juta</td>
 <td style="text-align: left;">2010</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">882 Lebih dari 1 miliar ciptaan berlisensi CC di dalam Commons pada tahun 2015</td>
+<td style="text-align: left;">882 juta</td>
 <td style="text-align: left;">2014</td>
 </tr>
 <tr class="even">

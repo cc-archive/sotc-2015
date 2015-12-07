@@ -18,15 +18,15 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">140 2015 ਵਿੱਚ ਕਾਮਨਜ਼ ਦੇ ਵਿੱਚ 100 ਕਰੋੜ ਤੋਂ ਵੱਧ ਰਚਨਾਵਾਂ</td>
+<td style="text-align: left;">140 _ ਮਿਲੀਅਨ</td>
 <td style="text-align: left;">2006</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">400 2015 ਵਿੱਚ ਕਾਮਨਜ਼ ਦੇ ਵਿੱਚ 100 ਕਰੋੜ ਤੋਂ ਵੱਧ ਰਚਨਾਵਾਂ</td>
+<td style="text-align: left;">400 _ ਮਿਲੀਅਨ</td>
 <td style="text-align: left;">2010</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">882 2015 ਵਿੱਚ ਕਾਮਨਜ਼ ਦੇ ਵਿੱਚ 100 ਕਰੋੜ ਤੋਂ ਵੱਧ ਰਚਨਾਵਾਂ</td>
+<td style="text-align: left;">882 _ ਮਿਲੀਅਨ</td>
 <td style="text-align: left;">2014</td>
 </tr>
 <tr class="even">

@@ -18,15 +18,15 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">140 V roce 2015 je pod CC k dispozici přes jednu miliardu děl zveřejněných v Commons.</td>
+<td style="text-align: left;">140 MILIONŮ</td>
 <td style="text-align: left;">2006</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">400 V roce 2015 je pod CC k dispozici přes jednu miliardu děl zveřejněných v Commons.</td>
+<td style="text-align: left;">400 MILIONŮ</td>
 <td style="text-align: left;">2010</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">882 V roce 2015 je pod CC k dispozici přes jednu miliardu děl zveřejněných v Commons.</td>
+<td style="text-align: left;">882 MILIONŮ</td>
 <td style="text-align: left;">2014</td>
 </tr>
 <tr class="even">
