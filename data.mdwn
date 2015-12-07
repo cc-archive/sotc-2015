@@ -703,6 +703,7 @@ Breakdown of works by platform includes data from 16 platforms and the Directory
 * \# of registered users that are active: 26,700
 * \# of users that use CC licenses, CC0 or PDM for their content: ~27,900 (90%)
 * Geographic breakdown of users (top 5 countries):
+
   * United States: 9,000
   * Netherlands: 4,000
   * UK: 3,000
