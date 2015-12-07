@@ -1,5 +1,5 @@
 
-## CELKOVÝ POČET LICENCOVANÝCH DĚL {.bbs}
+## STAV COMMONS {.bbs}
 
 -----
 

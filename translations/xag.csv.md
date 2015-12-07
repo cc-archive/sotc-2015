@@ -1,5 +1,5 @@
 
-## Total ciptaan berlisensi {.bbs}
+## Laporan Tahunan Creative Commons {.bbs}
 
 -----
 

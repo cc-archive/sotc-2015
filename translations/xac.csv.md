@@ -1,5 +1,5 @@
 
-## Total de obras con licencia {.bbs}
+## Estado del Procomún {.bbs}
 
 -----
 

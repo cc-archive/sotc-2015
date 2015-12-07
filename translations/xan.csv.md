@@ -1,5 +1,5 @@
 
-## Lizenzierte Werke insgesamt {.bbs}
+## State of the Commons {.bbs}
 
 -----
 

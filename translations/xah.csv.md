@@ -1,5 +1,5 @@
 
-## Total d'obres amb llicència {.bbs}
+## Estat dels Emprius {.bbs}
 
 -----
 

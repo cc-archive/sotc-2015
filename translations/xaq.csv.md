@@ -1,5 +1,5 @@
 
-## Totalt antal licensierad verk {.bbs}
+## Tillståndet för Commons {.bbs}
 
 -----
 

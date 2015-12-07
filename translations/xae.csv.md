@@ -1,5 +1,5 @@
 
-## Celkové množstvo licencovaných diel {.bbs}
+## Stav Commons {.bbs}
 
 -----
 

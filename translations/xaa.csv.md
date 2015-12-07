@@ -1,5 +1,5 @@
 
-## Total licensed works {.bbs}
+## State of the Commons {.bbs}
 
 -----
 

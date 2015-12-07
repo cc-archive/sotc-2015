@@ -1,5 +1,5 @@
 
-## Lisensoituja teoksia yhteensä {.bbs}
+## Commonsin tila {.bbs}
 
 -----
 

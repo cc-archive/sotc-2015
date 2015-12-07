@@ -1,5 +1,5 @@
 
-## Totale antal licenserede værker {.bbs}
+## Den digitale fælleds tilstand {.bbs}
 
 -----
 

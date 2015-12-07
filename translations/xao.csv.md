@@ -1,5 +1,5 @@
 
-## utwory na licencjach CC w sumie  {.bbs}
+## Creative Commons na świecie {.bbs}
 
 -----
 

@@ -1,5 +1,5 @@
 
-## Total des œuvres sous licence {.bbs}
+## État des Communs {.bbs}
 
 -----
 
