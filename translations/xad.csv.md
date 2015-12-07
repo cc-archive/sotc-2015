@@ -333,58 +333,41 @@ Avoimempi &mdash; Rajoittavampi. Vähemmän rajoittavat VAPAAN KULTTUURIN lisens
 
 ### Lähi-Itä ja Pohjois-Afrikka {#regional-mideast}
 
-* CC-sisarjärjestöt Lähi-Idässa ja Pohjois-Afrikassa kokoontuvat kahteen historialliseen tapaamiseen to restructure, build capacity, share best
-practices, and officially translate the latest version of the CC
-license suite into Arabic.
+* CC-sisarjärjestöt Lähi-Idässa ja Pohjois-Afrikassa kokoontuvat kahteen historialliseen tapaamiseen
 
-* Al Jazeera English ottaa käyttöön CC-lisensoitua interaktiivista materiaalia ja infografiikkaa Al Jazeera Labsilta, including an Arabic translation of
-the The Data Journalism Handbook.
+* Al Jazeera English ottaa käyttöön CC-lisensoitua interaktiivista materiaalia ja infografiikkaa Al Jazeera Labsilta
 
 ### Afrikka  {#regional-africa}
 
-* Etelä-Afrikka julkaisee parlamenttiaineistonsa 17 vuoden ajalta CC BY -lisenssillä, including bills, documents, and audio recordings.
+* Etelä-Afrikka julkaisee parlamenttiaineistonsa 17 vuoden ajalta CC BY -lisenssillä
 
-* Afrikan CC-sisarjärjestöt ja WikiAfrica käynnistävät toisen vuotuisen Wiki Loves Africa -kampanjan successfully crowdsourcing more than 9,000 CC
-licensed images covering African fashion and design.
+* Afrikan CC-sisarjärjestöt ja WikiAfrica käynnistävät toisen vuotuisen Wiki Loves Africa -kampanjan
 
-* African Storybook -projekti ja Book Dash tuottavat CC-lisensoituja lasten kirjoja yhdessä CC-sisarjärjestöjen kanssa in 62 African languages across Kenya, Uganda, Lesotho and South Africa.
+* African Storybook -projekti ja Book Dash tuottavat CC-lisensoituja lasten kirjoja yhdessä CC-sisarjärjestöjen kanssa
 
 ### Eurooppa {#regional-europe}
 
-* "CC Portugali julkaisee ""Liiketoiminnan CC-työkalupakin""" outlining 6
-economic benefits of using CC licenses.
+* "CC Portugali julkaisee ""Liiketoiminnan CC-työkalupakin"""
 
-* CC-sisarjärjestöt työskentelevät lainsäätäjien kanssa toteuttaakseen EU:n direktiivin tekijänoikeuksien kollektiivisesta hallinnoinnista The directive requires collecting societies to allow their
-members to self-license their works under noncommercial terms,
-providing CC musicians with more control over how to share and manage
-their music.
+* CC-sisarjärjestöt työskentelevät lainsäätäjien kanssa toteuttaakseen EU:n direktiivin tekijänoikeuksien kollektiivisesta hallinnoinnista
 
 ### Aasia ja Tyynenmeren alue {#regional-asia}
 
-* CC Korea isännöi Creative Commonsin 2015 globaalia tapaamista Soulissa,
-featuring workshops, panels, and special keynotes by Kilnam Chon, Julia
-Reda, Lawrence Lessig, and more.
+* CC Korea isännöi Creative Commonsin 2015 globaalia tapaamista Soulissa
 
 * Kiinankieliset sisarjärjestöt kääntävät 4.0-lisenssejä yli kulttuurien ja aikarajojen
 
 ### Pohjois-Amerikka {#regional-northamerica}
 
-* Modernin Taiteen Museo (MoMA) New Yorkissa hyväksyy CC-logon pysyvään kokoelmaansa, featuring it alongside the @ symbol
-and the International Symbol for Recycling in the exhibit, "This Is for
-Everyone: Design Experiments for the Common Good."
+* Modernin Taiteen Museo (MoMA) New Yorkissa hyväksyy CC-logon pysyvään kokoelmaansa
 
-* USAn työministeriön $2 miljardin rahoitusta saaneet julkaisevat ensimmäiset ammatillisen koulutuksen avoimet oppisisältönsä to the Skills Commons
-platform under CC BY.
+* USAn työministeriön $2 miljardin rahoitusta saaneet julkaisevat ensimmäiset ammatillisen koulutuksen avoimet oppisisältönsä
 
 ### Latinalainen Amerikka {#regional-latinamerica}
 
-* Latinalaisen Amerikan CC:n miniavustusohjelma myöntää rahoitusta El Salvadorin, Costa Rican ja Paraguayn sisarprojektien perustamiseksi, including a digital scanner for educational
-institutions to provide online access to resources; a free digital
-newsletter covering CC topics for Central America; and a mobile
-application featuring basic information about CC licenses.
+* Latinalaisen Amerikan CC:n miniavustusohjelma myöntää rahoitusta El Salvadorin, Costa Rican ja Paraguayn sisarprojektien perustamiseksi
 
-* CC Uruguay kääntää Avoimen lisensoinnin politiikan työkalupakin espanjaksi to encourage Latin American governments to create, adopt and
-implement open policies.
+* CC Uruguay kääntää Avoimen lisensoinnin politiikan työkalupakin espanjaksi
 
 </div>
 
@@ -392,7 +375,7 @@ implement open policies.
 
 ## Kiitos kun jaat! {.bbs}
 
-* 
+<div class="clearfix"></div>
 
 <div class="col-md-6" id="invest-circle">
 

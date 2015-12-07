@@ -333,58 +333,41 @@ a &mdash; a. a
 
 ### a {#regional-mideast}
 
-* a to restructure, build capacity, share best
-practices, and officially translate the latest version of the CC
-license suite into Arabic.
+* a
 
-* a, including an Arabic translation of
-the The Data Journalism Handbook.
+* a
 
 ### a  {#regional-africa}
 
-* a, including bills, documents, and audio recordings.
+* a
 
-* a successfully crowdsourcing more than 9,000 CC
-licensed images covering African fashion and design.
+* a
 
-* a in 62 African languages across Kenya, Uganda, Lesotho and South Africa.
+* a
 
 ### a {#regional-europe}
 
-* a outlining 6
-economic benefits of using CC licenses.
+* a
 
-* a The directive requires collecting societies to allow their
-members to self-license their works under noncommercial terms,
-providing CC musicians with more control over how to share and manage
-their music.
+* a
 
 ### a {#regional-asia}
 
-* a,
-featuring workshops, panels, and special keynotes by Kilnam Chon, Julia
-Reda, Lawrence Lessig, and more.
+* a
 
 * a
 
 ### a {#regional-northamerica}
 
-* a, featuring it alongside the @ symbol
-and the International Symbol for Recycling in the exhibit, "This Is for
-Everyone: Design Experiments for the Common Good."
+* a
 
-* a to the Skills Commons
-platform under CC BY.
+* a
 
 ### a {#regional-latinamerica}
 
-* a, including a digital scanner for educational
-institutions to provide online access to resources; a free digital
-newsletter covering CC topics for Central America; and a mobile
-application featuring basic information about CC licenses.
+* a
 
-* a to encourage Latin American governments to create, adopt and
-implement open policies.
+* a
 
 </div>
 
@@ -392,7 +375,7 @@ implement open policies.
 
 ## a {.bbs}
 
-* 
+<div class="clearfix"></div>
 
 <div class="col-md-6" id="invest-circle">
 

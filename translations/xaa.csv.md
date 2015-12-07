@@ -333,58 +333,41 @@ More open &mdash; More restrictive. Less restrictive FREE CULTURE licenses allow
 
 ### MIDDLE EAST AND NORTH AFRICA {#regional-mideast}
 
-* CC affiliates from across the Middle East and North Africa gather in two historic meetings to restructure, build capacity, share best
-practices, and officially translate the latest version of the CC
-license suite into Arabic.
+* CC affiliates from across the Middle East and North Africa gather in two historic meetings
 
-* Al Jazeera English integrates CC licensed interactive material and infographics from Al Jazeera Labs, including an Arabic translation of
-the The Data Journalism Handbook.
+* Al Jazeera English integrates CC licensed interactive material and infographics from Al Jazeera Labs
 
 ### AFRICA  {#regional-africa}
 
-* South Africa publicly releases 17 years of parliamentary files under CC BY, including bills, documents, and audio recordings.
+* South Africa publicly releases 17 years of parliamentary files under CC BY
 
-* CC African Affiliates and WikiAfrica launch the 2nd annual Wiki Loves Africa campaign successfully crowdsourcing more than 9,000 CC
-licensed images covering African fashion and design.
+* CC African Affiliates and WikiAfrica launch the 2nd annual Wiki Loves Africa campaign
 
-* Affiliates team up with local partners, the African Storybook Project and Book Dash to provide CC licensed children’s books in 62 African languages across Kenya, Uganda, Lesotho and South Africa.
+* Affiliates team up with local partners, the African Storybook Project and Book Dash to provide CC licensed children’s books
 
 ### EUROPE {#regional-europe}
 
-* CC Portugal launches a “CC Toolkit for Business” outlining 6
-economic benefits of using CC licenses.
+* CC Portugal launches a “CC Toolkit for Business”
 
-* CC affiliates across Europe collaborate with national lawmakers to implement the European Union’s Directive on Collective Rights Management The directive requires collecting societies to allow their
-members to self-license their works under noncommercial terms,
-providing CC musicians with more control over how to share and manage
-their music.
+* CC affiliates across Europe collaborate with national lawmakers to implement the European Union’s Directive on Collective Rights Management
 
 ### ASIA-PACIFIC {#regional-asia}
 
-* CC Korea hosts Creative Commons’ 2015 Global Summit in Seoul,
-featuring workshops, panels, and special keynotes by Kilnam Chon, Julia
-Reda, Lawrence Lessig, and more.
+* CC Korea hosts Creative Commons’ 2015 Global Summit in Seoul
 
 * Chinese speaking affiliates collaborate across cultures and time zones to prepare for the official translation of the 4.0 license suite
 
 ### NORTH AMERICA {#regional-northamerica}
 
-* The Museum of Modern Art (MoMA) in New York welcomes the CC logo into its permanent collection, featuring it alongside the @ symbol
-and the International Symbol for Recycling in the exhibit, "This Is for
-Everyone: Design Experiments for the Common Good."
+* The Museum of Modern Art (MoMA) in New York welcomes the CC logo into its permanent collection
 
-* Grantees of U.S. Department of Labor’s $2 billion career training program contribute their first round of OER to the Skills Commons
-platform under CC BY.
+* Grantees of U.S. Department of Labor’s $2 billion career training program contribute their first round of OER
 
 ### LATIN AMERICA {#regional-latinamerica}
 
-* CC Latin America’s mini-grants program, now in its second year, awards funds to kick off new affiliate projects in El Salvador, Costa Rica, and Paraguay, including a digital scanner for educational
-institutions to provide online access to resources; a free digital
-newsletter covering CC topics for Central America; and a mobile
-application featuring basic information about CC licenses.
+* CC Latin America’s mini-grants program, now in its second year, awards funds to kick off new affiliate projects in El Salvador, Costa Rica, and Paraguay
 
-* CC Uruguay translates the Open Licensing Policy Toolkit into Spanish to encourage Latin American governments to create, adopt and
-implement open policies.
+* CC Uruguay translates the Open Licensing Policy Toolkit into Spanish
 
 </div>
 
@@ -392,7 +375,7 @@ implement open policies.
 
 ## THANK YOU FOR SHARING! {.bbs}
 
-* 
+<div class="clearfix"></div>
 
 <div class="col-md-6" id="invest-circle">
 

@@ -333,58 +333,41 @@ Más abierto &mdash; Más restrictivo. Las licencias de CULTURA LIBRE menos rest
 
 ### ORIENTE MEDIO Y NORTE DE ÁFRICA {#regional-mideast}
 
-* Los afiliados de CC del Medio Oriente y África del Norte se reúnen en dos encuentros históricos to restructure, build capacity, share best
-practices, and officially translate the latest version of the CC
-license suite into Arabic.
+* Los afiliados de CC del Medio Oriente y África del Norte se reúnen en dos encuentros históricos
 
-* Al Jazeera en inglés integra material interactivo e infografías bajo licencias CC de Al Jazeera Labs, including an Arabic translation of
-the The Data Journalism Handbook.
+* Al Jazeera en inglés integra material interactivo e infografías bajo licencias CC de Al Jazeera Labs
 
 ### ÁFRICA  {#regional-africa}
 
-* Sudáfrica hace público los archivos de 17 años de actividad parlamentaria bajo la licencia CC BY, including bills, documents, and audio recordings.
+* Sudáfrica hace público los archivos de 17 años de actividad parlamentaria bajo la licencia CC BY
 
-* Los afiliados africanos de CC y WikiÁfrica lanzan la segunda campaña anual Wiki Ama a África successfully crowdsourcing more than 9,000 CC
-licensed images covering African fashion and design.
+* Los afiliados africanos de CC y WikiÁfrica lanzan la segunda campaña anual Wiki Ama a África
 
-* Los afiliados se unen con aliados locales, el Proyecto African Storybook y Book Dash para proporcionar libros para niños bajo licencias CC in 62 African languages across Kenya, Uganda, Lesotho and South Africa.
+* Los afiliados se unen con aliados locales, el Proyecto African Storybook y Book Dash para proporcionar libros para niños bajo licencias CC
 
 ### EUROPA {#regional-europe}
 
-* "CC Portugal pone en marcha ""Manual CC para Negocios""" outlining 6
-economic benefits of using CC licenses.
+* "CC Portugal pone en marcha ""Manual CC para Negocios"""
 
-* Los afiliados de CC a lo largo de Europa colaboran con los legisladores nacionales en la implementación de la Directiva de la Unión Europea en Gestión Colectiva de Derechos The directive requires collecting societies to allow their
-members to self-license their works under noncommercial terms,
-providing CC musicians with more control over how to share and manage
-their music.
+* Los afiliados de CC a lo largo de Europa colaboran con los legisladores nacionales en la implementación de la Directiva de la Unión Europea en Gestión Colectiva de Derechos
 
 ### ASIA-PACÍFICO {#regional-asia}
 
-* CC Corea es la anfitriona de la Cumbre Global 2015 de Creative Commons en Seúl,
-featuring workshops, panels, and special keynotes by Kilnam Chon, Julia
-Reda, Lawrence Lessig, and more.
+* CC Corea es la anfitriona de la Cumbre Global 2015 de Creative Commons en Seúl
 
 * Los afiliados de habla china están colaborando para preparar la traducción oficial del conjunto de licencias 4.0 a través de las diferentes culturas y zonas horarias
 
 ### NORTEAMÉRICA {#regional-northamerica}
 
-* El Museo de Arte Moderno de Nueva York (MoMA) ha acogido el logo de CC en su colección permanente , featuring it alongside the @ symbol
-and the International Symbol for Recycling in the exhibit, "This Is for
-Everyone: Design Experiments for the Common Good."
+* El Museo de Arte Moderno de Nueva York (MoMA) ha acogido el logo de CC en su colección permanente 
 
-* Los beneficiarios del programa de formación acdémica del Departamento de Trabajo de los EE.UU. dotado con 2 mil millones de dólares han generado una primera ronda de recursos educativos abiertos to the Skills Commons
-platform under CC BY.
+* Los beneficiarios del programa de formación acdémica del Departamento de Trabajo de los EE.UU. dotado con 2 mil millones de dólares han generado una primera ronda de recursos educativos abiertos
 
 ### LATINOAMÉRICA {#regional-latinamerica}
 
-* El programa de mini-becas de CC Latinoamérica, ahora en su segundo año, otorga fondos para impulsar nuevos proyectos de afiliados en El Salvador, Costa Rica, y Paraguay, including a digital scanner for educational
-institutions to provide online access to resources; a free digital
-newsletter covering CC topics for Central America; and a mobile
-application featuring basic information about CC licenses.
+* El programa de mini-becas de CC Latinoamérica, ahora en su segundo año, otorga fondos para impulsar nuevos proyectos de afiliados en El Salvador, Costa Rica, y Paraguay
 
-* CC Uruguay traduce el Manual de Open Licensing Policy to encourage Latin American governments to create, adopt and
-implement open policies.
+* CC Uruguay traduce el Manual de Open Licensing Policy
 
 </div>
 
@@ -392,7 +375,7 @@ implement open policies.
 
 ## !GRACIAS POR COMPARTIR! {.bbs}
 
-* 
+<div class="clearfix"></div>
 
 <div class="col-md-6" id="invest-circle">
 

@@ -333,58 +333,41 @@ Meer open &mdash; Meer restrictief. Minder restrictieve FREE CULTURE-licenties s
 
 ### MIDDEN-OOSTEN EN NOORD-AFRIKA {#regional-mideast}
 
-* CC-affiliates uit het Midden-Oosten en Noord-Afrika komen samen in twee historische bijeenkomsten to restructure, build capacity, share best
-practices, and officially translate the latest version of the CC
-license suite into Arabic.
+* CC-affiliates uit het Midden-Oosten en Noord-Afrika komen samen in twee historische bijeenkomsten
 
-* Al Jazeera English integreert CC gelicenseerd interactief materiaal en infographics van Al Jazeera Labs, including an Arabic translation of
-the The Data Journalism Handbook.
+* Al Jazeera English integreert CC gelicenseerd interactief materiaal en infographics van Al Jazeera Labs
 
 ### AFRIKA  {#regional-africa}
 
-* Zuid-Afrika publiceert parlementaire dossiers van de afgelopen 17 jaar onder CC BY, including bills, documents, and audio recordings.
+* Zuid-Afrika publiceert parlementaire dossiers van de afgelopen 17 jaar onder CC BY
 
-* Affiliates van CC Afrika en WikiAfrica lanceren de 2de jaarlijkse Wiki Loves Africa campagne successfully crowdsourcing more than 9,000 CC
-licensed images covering African fashion and design.
+* Affiliates van CC Afrika en WikiAfrica lanceren de 2de jaarlijkse Wiki Loves Africa campagne
 
-* Affiliates werken samen met lokale partners, de African Storybook Project en Book Dash bieden CC-gelicenseerde kinderboeken aan in 62 African languages across Kenya, Uganda, Lesotho and South Africa.
+* Affiliates werken samen met lokale partners, de African Storybook Project en Book Dash bieden CC-gelicenseerde kinderboeken aan
 
 ### EUROPA {#regional-europe}
 
-* CC Portugal outlining 6
-economic benefits of using CC licenses.
+* CC Portugal
 
-* CC-affiliates werken in heel Europa samen met de nationale wetgevers om de Europese richtlijn over Collectief Rechtenbeheer te implementeren The directive requires collecting societies to allow their
-members to self-license their works under noncommercial terms,
-providing CC musicians with more control over how to share and manage
-their music.
+* CC-affiliates werken in heel Europa samen met de nationale wetgevers om de Europese richtlijn over Collectief Rechtenbeheer te implementeren
 
 ### AZIË-OCEANIË {#regional-asia}
 
-* CC Korea host de Creative Commons 2015 Global Summit in Seoul,
-featuring workshops, panels, and special keynotes by Kilnam Chon, Julia
-Reda, Lawrence Lessig, and more.
+* CC Korea host de Creative Commons 2015 Global Summit in Seoul
 
 * Chinees-sprekende affiliates in verschillende culturele- en tijdzones werken samen om de officiële vertaling van de 4.0 licenties voor te bereiden
 
 ### NOORD-AMERIKA {#regional-northamerica}
 
-* Het Museum of Modern Art (MoMA) in New York verwelkomt het CC-logo in de permanente collectie, featuring it alongside the @ symbol
-and the International Symbol for Recycling in the exhibit, "This Is for
-Everyone: Design Experiments for the Common Good."
+* Het Museum of Modern Art (MoMA) in New York verwelkomt het CC-logo in de permanente collectie
 
-* Begunstigden van het $2 miljard kostende United States Department of Labor (Amerikaanse ministerie van Arbeid) trainingsprogramma voor professionals publiceren hun eerste OER to the Skills Commons
-platform under CC BY.
+* Begunstigden van het $2 miljard kostende United States Department of Labor (Amerikaanse ministerie van Arbeid) trainingsprogramma voor professionals publiceren hun eerste OER
 
 ### LATIJNS-AMERIKA {#regional-latinamerica}
 
-* Het mini-grant programma van CC Latijns-Amerika, nu voor het tweede jaar, geeft geld om nieuwe affiliates-projecten te starten in El Salvador, Costa Rica en Paraguay, including a digital scanner for educational
-institutions to provide online access to resources; a free digital
-newsletter covering CC topics for Central America; and a mobile
-application featuring basic information about CC licenses.
+* Het mini-grant programma van CC Latijns-Amerika, nu voor het tweede jaar, geeft geld om nieuwe affiliates-projecten te starten in El Salvador, Costa Rica en Paraguay
 
-* CC Uruguay vertaalt de Open Licensing Policy Toolkit in het Spaans to encourage Latin American governments to create, adopt and
-implement open policies.
+* CC Uruguay vertaalt de Open Licensing Policy Toolkit in het Spaans
 
 </div>
 
@@ -392,7 +375,7 @@ implement open policies.
 
 ## BEDANKT DAT JE DEELT! {.bbs}
 
-* 
+<div class="clearfix"></div>
 
 <div class="col-md-6" id="invest-circle">
 

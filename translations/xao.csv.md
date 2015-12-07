@@ -333,58 +333,41 @@ Bardziej otwarte &mdash; Bardziej restrykcyjnej. Mniej restrykcyjne licencje “
 
 ### Bliski wschód i północna Afryka.  {#regional-mideast}
 
-* Oddziały CC z całego Bliskiego Wschodu i Północnej Afryki spotykają się podczas dwóch historycznych zjazdów zgromadzeń to restructure, build capacity, share best
-practices, and officially translate the latest version of the CC
-license suite into Arabic.
+* Oddziały CC z całego Bliskiego Wschodu i Północnej Afryki spotykają się podczas dwóch historycznych zjazdów zgromadzeń
 
-* Al Jazeera English łączy interaktywne materiały dostępne na licencjach CC z infografikami z Al Jazeera Labs, including an Arabic translation of
-the The Data Journalism Handbook.
+* Al Jazeera English łączy interaktywne materiały dostępne na licencjach CC z infografikami z Al Jazeera Labs
 
 ### Afryka  {#regional-africa}
 
-* RPA udostępnia publicznie dokumenty parlamentarne obejmujące okres 17 lat na licencji CC-BY, including bills, documents, and audio recordings.
+* RPA udostępnia publicznie dokumenty parlamentarne obejmujące okres 17 lat na licencji CC-BY
 
-* CC African Affiliates i WikiAfrica łączą siły, by zorganizować 2. edycję dorocznej kampanii Wiki Loves Africa successfully crowdsourcing more than 9,000 CC
-licensed images covering African fashion and design.
+* CC African Affiliates i WikiAfrica łączą siły, by zorganizować 2. edycję dorocznej kampanii Wiki Loves Africa
 
-* Oddziały wchodzą we współpracę z lokalnymi partnerami: African Storybook Project i Book Dash, aby wspólnie zainaugurować projety African Storybook, zapewniając dzieciom w Kenii, Ugandzie, Lesotho i RPA dostęp do darmowych książek w ich ojczystym języku in 62 African languages across Kenya, Uganda, Lesotho and South Africa.
+* Oddziały wchodzą we współpracę z lokalnymi partnerami: African Storybook Project i Book Dash, aby wspólnie zainaugurować projety African Storybook, zapewniając dzieciom w Kenii, Ugandzie, Lesotho i RPA dostęp do darmowych książek w ich ojczystym języku
 
 ### Europa {#regional-europe}
 
-* "CC Portugalia udostępnia ""Narzędziownik CC dla biznesu""" outlining 6
-economic benefits of using CC licenses.
+* "CC Portugalia udostępnia ""Narzędziownik CC dla biznesu"""
 
-* Oddziały CC z całej Europy współpracują z krajowymi ustawodawcami w celu wdrożenia Dyrektywy Unii Europejskiej ws. zbiorowego zarządzania prawami autorskimi The directive requires collecting societies to allow their
-members to self-license their works under noncommercial terms,
-providing CC musicians with more control over how to share and manage
-their music.
+* Oddziały CC z całej Europy współpracują z krajowymi ustawodawcami w celu wdrożenia Dyrektywy Unii Europejskiej ws. zbiorowego zarządzania prawami autorskimi
 
 ### Azja - Pacyfik {#regional-asia}
 
-* CC Korea organizuje globalny zjazd Creative Commons w Seulu,
-featuring workshops, panels, and special keynotes by Kilnam Chon, Julia
-Reda, Lawrence Lessig, and more.
+* CC Korea organizuje globalny zjazd Creative Commons w Seulu
 
 * Chińskojęzyczne oddziały podjemują współpracę obejmującą różne kultury i strefy czasowe, żeby przygotować oficjalne tłumaczenie licencji w wersji 4.0.
 
 ### Ameryka Północna {#regional-northamerica}
 
-* Muzeum Sztuki Nowoczesnej w Nowym Jorku umieszcza logo CC w swojej stałej ekspozycji., featuring it alongside the @ symbol
-and the International Symbol for Recycling in the exhibit, "This Is for
-Everyone: Design Experiments for the Common Good."
+* Muzeum Sztuki Nowoczesnej w Nowym Jorku umieszcza logo CC w swojej stałej ekspozycji.
 
-* w ramach programu szkoleniowego amerykańskiego Departamentu Pracy o budżecie 2 mld dol. powstają pierwsze otwarte zasoby edukacyjne Amerykański “Departament Pracy” w ramach swojego programu szkoleniowego o budżecie 2mld wspiera powstanie otwartych zasobów edukacyjnych to the Skills Commons
-platform under CC BY.
+* w ramach programu szkoleniowego amerykańskiego Departamentu Pracy o budżecie 2 mld dol. powstają pierwsze otwarte zasoby edukacyjne Amerykański “Departament Pracy” w ramach swojego programu szkoleniowego o budżecie 2mld wspiera powstanie otwartych zasobów edukacyjnych
 
 ### Ameryka Łacińska  {#regional-latinamerica}
 
-* prowadzony drugi rok regionalny program mini-grantów przyznał fundusze na start projektów nowych oddziałów CC w Salwadorze, Kostaryce i Paragwaju, including a digital scanner for educational
-institutions to provide online access to resources; a free digital
-newsletter covering CC topics for Central America; and a mobile
-application featuring basic information about CC licenses.
+* prowadzony drugi rok regionalny program mini-grantów przyznał fundusze na start projektów nowych oddziałów CC w Salwadorze, Kostaryce i Paragwaju
 
-* CC Urugwaj tłumaczy na język hiszpański publikację Open Licensing Policy Toolkit to encourage Latin American governments to create, adopt and
-implement open policies.
+* CC Urugwaj tłumaczy na język hiszpański publikację Open Licensing Policy Toolkit
 
 </div>
 
@@ -392,7 +375,7 @@ implement open policies.
 
 ## dziękujemy za to, że się dzielicie! {.bbs}
 
-* 
+<div class="clearfix"></div>
 
 <div class="col-md-6" id="invest-circle">
 

@@ -333,58 +333,41 @@
 
 ### 中東、北非 {#regional-mideast}
 
-* 中東及北非的 CC 合作夥伴舉辦了兩次有歷史意義的聚會 to restructure, build capacity, share best
-practices, and officially translate the latest version of the CC
-license suite into Arabic.
+* 中東及北非的 CC 合作夥伴舉辦了兩次有歷史意義的聚會
 
-* 半島電視台英語頻道整合了來自半到電視台實驗室、以創用 CC 授權的互動素材及資訊圖表, including an Arabic translation of
-the The Data Journalism Handbook.
+* 半島電視台英語頻道整合了來自半到電視台實驗室、以創用 CC 授權的互動素材及資訊圖表
 
 ### 非洲  {#regional-africa}
 
-* 南非共和國將 17 年份的國會文件公開以創用 CC 姓名標示條款授權大眾使用, including bills, documents, and audio recordings.
+* 南非共和國將 17 年份的國會文件公開以創用 CC 姓名標示條款授權大眾使用
 
-* 非洲 CC 的合作夥伴及維基百科的非洲社群 WikiAfrica 共同舉辦了第二屆的「維基愛非洲」活動 successfully crowdsourcing more than 9,000 CC
-licensed images covering African fashion and design.
+* 非洲 CC 的合作夥伴及維基百科的非洲社群 WikiAfrica 共同舉辦了第二屆的「維基愛非洲」活動
 
-* CC 合作夥伴與其他在地組織合作，推出 African Storybook Project 及 Book Dash 專案，提供以創用 CC 授權的童書 in 62 African languages across Kenya, Uganda, Lesotho and South Africa.
+* CC 合作夥伴與其他在地組織合作，推出 African Storybook Project 及 Book Dash 專案，提供以創用 CC 授權的童書
 
 ### 歐洲 {#regional-europe}
 
-* 葡萄牙 CC 啟動「CC 商業工具集」專案 outlining 6
-economic benefits of using CC licenses.
+* 葡萄牙 CC 啟動「CC 商業工具集」專案
 
-* 歐洲的 CC 合作夥伴與立法機構合作，實踐歐盟的著作權集體管理指令 The directive requires collecting societies to allow their
-members to self-license their works under noncommercial terms,
-providing CC musicians with more control over how to share and manage
-their music.
+* 歐洲的 CC 合作夥伴與立法機構合作，實踐歐盟的著作權集體管理指令
 
 ### 亞太 {#regional-asia}
 
-* 韓國 CC 在首爾舉辦 2015 創用 CC 全球高峰會,
-featuring workshops, panels, and special keynotes by Kilnam Chon, Julia
-Reda, Lawrence Lessig, and more.
+* 韓國 CC 在首爾舉辦 2015 創用 CC 全球高峰會
 
 * 華語相關的 CC 合作夥伴將超越時區與地區的限制，合作翻譯創用 CC 4.0 的中文版內容
 
 ### 北美 {#regional-northamerica}
 
-* 紐約現代藝術博物館（MoMA）將 CC 的標誌選為永久館藏, featuring it alongside the @ symbol
-and the International Symbol for Recycling in the exhibit, "This Is for
-Everyone: Design Experiments for the Common Good."
+* 紐約現代藝術博物館（MoMA）將 CC 的標誌選為永久館藏
 
-* 美國勞工部 20 億美元就業培訓計劃的受贈者，已經開始貢獻開放教育資源 to the Skills Commons
-platform under CC BY.
+* 美國勞工部 20 億美元就業培訓計劃的受贈者，已經開始貢獻開放教育資源
 
 ### 拉丁美洲 {#regional-latinamerica}
 
-* 拉丁美洲 CC 的迷你補助計畫，在第二年補助了薩爾瓦多、哥斯大黎加、巴拉圭等地區成立新的 CC 合作夥伴專案, including a digital scanner for educational
-institutions to provide online access to resources; a free digital
-newsletter covering CC topics for Central America; and a mobile
-application featuring basic information about CC licenses.
+* 拉丁美洲 CC 的迷你補助計畫，在第二年補助了薩爾瓦多、哥斯大黎加、巴拉圭等地區成立新的 CC 合作夥伴專案
 
-* 烏拉圭 CC 將開放授權政策工具集翻譯為西班牙文 to encourage Latin American governments to create, adopt and
-implement open policies.
+* 烏拉圭 CC 將開放授權政策工具集翻譯為西班牙文
 
 </div>
 
@@ -392,7 +375,7 @@ implement open policies.
 
 ## 感謝您的持續分享！ {.bbs}
 
-* 
+<div class="clearfix"></div>
 
 <div class="col-md-6" id="invest-circle">
 

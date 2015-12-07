@@ -333,58 +333,41 @@
 
 ### ମଧ୍ୟ ପୂର୍ବ ଓ ଉତ୍ତର ଆଫ୍ରିକା {#regional-mideast}
 
-* ମଧ୍ୟ ପୂର୍ବ ଓ ଉତ୍ତର ଆଫ୍ରିକା CC ସହଯୋଗୀଗଣ ଦୁଇଟି ଐତିହାସିକ ମେଳଣରେ ଭାଗ ନେଇଥିଲେ to restructure, build capacity, share best
-practices, and officially translate the latest version of the CC
-license suite into Arabic.
+* ମଧ୍ୟ ପୂର୍ବ ଓ ଉତ୍ତର ଆଫ୍ରିକା CC ସହଯୋଗୀଗଣ ଦୁଇଟି ଐତିହାସିକ ମେଳଣରେ ଭାଗ ନେଇଥିଲେ
 
-* Al Jazeera ଇଂରାଜୀ Al Jazeera ଲ୍ୟାବରୁ CC ଲାଇସେନ୍ସ ହୋଇଥିବା କାମ ଓ ଇନଫୋଗ୍ରାଫିକ୍ସ ଅନ୍ତର୍ଭୁକ୍ତ କରିଛି, including an Arabic translation of
-the The Data Journalism Handbook.
+* Al Jazeera ଇଂରାଜୀ Al Jazeera ଲ୍ୟାବରୁ CC ଲାଇସେନ୍ସ ହୋଇଥିବା କାମ ଓ ଇନଫୋଗ୍ରାଫିକ୍ସ ଅନ୍ତର୍ଭୁକ୍ତ କରିଛି
 
 ### ଆଫ୍ରିକା  {#regional-africa}
 
-* ଦକ୍ଷିଣ ଆଫ୍ରିକା CC BY ଅଧୀନରେ ୧୭ବର୍ଷର ସଂସଦୀୟ ଫାଇଲ ଖୋଲାରେ ବିତରଣ କରିଛି, including bills, documents, and audio recordings.
+* ଦକ୍ଷିଣ ଆଫ୍ରିକା CC BY ଅଧୀନରେ ୧୭ବର୍ଷର ସଂସଦୀୟ ଫାଇଲ ଖୋଲାରେ ବିତରଣ କରିଛି
 
-* CC ଆଫ୍ରିକା ସହଯୋଗୀ ଓ WikiAfrica ୨ୟ ଉଇକି ଲଭ୍ସ ଆଫ୍ରିକା ଅଭିଯାନ ଆରମ୍ଭ କରିଛନ୍ତି successfully crowdsourcing more than 9,000 CC
-licensed images covering African fashion and design.
+* CC ଆଫ୍ରିକା ସହଯୋଗୀ ଓ WikiAfrica ୨ୟ ଉଇକି ଲଭ୍ସ ଆଫ୍ରିକା ଅଭିଯାନ ଆରମ୍ଭ କରିଛନ୍ତି
 
-* CC ଲାଇସେନ୍ସରେ ପିଲାଙ୍କ ବହି ଦାନ କରିବା ପାଇଁ ସହଯୋଗୀମାନେ ସ୍ଥାନୀୟ ସହଯୋଗୀ ଆଫ୍ରିକାନ ଷ୍ଟୋରିବୁକ ପ୍ରୋଜେକ୍ଟ ଓ ବୁକ ଡ୍ୟାସଙ୍କ ସଙ୍ଗେ ମିଶିଛନ୍ତି in 62 African languages across Kenya, Uganda, Lesotho and South Africa.
+* CC ଲାଇସେନ୍ସରେ ପିଲାଙ୍କ ବହି ଦାନ କରିବା ପାଇଁ ସହଯୋଗୀମାନେ ସ୍ଥାନୀୟ ସହଯୋଗୀ ଆଫ୍ରିକାନ ଷ୍ଟୋରିବୁକ ପ୍ରୋଜେକ୍ଟ ଓ ବୁକ ଡ୍ୟାସଙ୍କ ସଙ୍ଗେ ମିଶିଛନ୍ତି
 
 ### ଇଉରୋପ {#regional-europe}
 
-* "CC ପର୍ତ୍ତୁଗାଲ ଏକ ""CC Toolkit for Business"" ତିଆରିଛନ୍ତି" outlining 6
-economic benefits of using CC licenses.
+* "CC ପର୍ତ୍ତୁଗାଲ ଏକ ""CC Toolkit for Business"" ତିଆରିଛନ୍ତି"
 
-* ସାରା ଇଉରୋପର CC ସହଯୋଗୀଗଣ ଜାତୀୟ ନିୟମକାରୀନଙ୍କ ସହ ମିଶି ଇଉରୋପିଆନ ଇଉନିଅନର କଲେକ୍ଟିଭ ରାଇଟ୍ସ ମ୍ୟାନେଜମେଣ୍ଟ ଉପରେ ଏକ ନିର୍ଦ୍ଦେଶିକା ତିଆରି କରିଛନ୍ତି The directive requires collecting societies to allow their
-members to self-license their works under noncommercial terms,
-providing CC musicians with more control over how to share and manage
-their music.
+* ସାରା ଇଉରୋପର CC ସହଯୋଗୀଗଣ ଜାତୀୟ ନିୟମକାରୀନଙ୍କ ସହ ମିଶି ଇଉରୋପିଆନ ଇଉନିଅନର କଲେକ୍ଟିଭ ରାଇଟ୍ସ ମ୍ୟାନେଜମେଣ୍ଟ ଉପରେ ଏକ ନିର୍ଦ୍ଦେଶିକା ତିଆରି କରିଛନ୍ତି
 
 ### ଏସିଆ-ପାସିଫିକ {#regional-asia}
 
-* CC କୋରିଆ Creative Commonsର ସିଓଲରେ ୨୦୧୫ ଗ୍ଲୋବାଲ ସମିଟ ଆୟୋଜନ କରିଥିଲା,
-featuring workshops, panels, and special keynotes by Kilnam Chon, Julia
-Reda, Lawrence Lessig, and more.
+* CC କୋରିଆ Creative Commonsର ସିଓଲରେ ୨୦୧୫ ଗ୍ଲୋବାଲ ସମିଟ ଆୟୋଜନ କରିଥିଲା
 
 * ବିଭିନ୍ନ ଚଳଣି ଓ ସମୟ ମଣ୍ଡଳବାସୀ ଚାଇନିଜ କହୁଥିବା ସହଯୋଗୀଗଣ ୪.୦ ଲାଇସେନ୍ସ ସୁଟର ଅନୁବାଦ ଆରମ୍ଭ କରିବେ
 
 ### ଉତ୍ତର ଆମେରିକା {#regional-northamerica}
 
-* ନିଉଅର୍କର ମିଉଜିଅମ ଅଫ ମଡର୍ଣ୍ଣ ଆର୍ଟ (MoMA) ନିଜର ସ୍ଥାୟୀ ସଂଗ୍ରହରେ CC ଲୋଗୋକୁ ପାଛୋଟି ନେଇଛନ୍ତି, featuring it alongside the @ symbol
-and the International Symbol for Recycling in the exhibit, "This Is for
-Everyone: Design Experiments for the Common Good."
+* ନିଉଅର୍କର ମିଉଜିଅମ ଅଫ ମଡର୍ଣ୍ଣ ଆର୍ଟ (MoMA) ନିଜର ସ୍ଥାୟୀ ସଂଗ୍ରହରେ CC ଲୋଗୋକୁ ପାଛୋଟି ନେଇଛନ୍ତି
 
-* U.S. ଡିପାର୍ଟମେଣ୍ଟ ଅଫ ଲେବରର $୨ ବିଲିଅନ କ୍ୟାରିଅର ତାମିଲ କାର୍ଯ୍ୟକ୍ରମ ପାଇଁ ବିଭାଗର ଅନୁଦାନ ପାଉଥିବା ସଭିଏଁ ନିଜର ପ୍ରଥମ OER ପାଇଁ ଦାନ କରିଛନ୍ତି to the Skills Commons
-platform under CC BY.
+* U.S. ଡିପାର୍ଟମେଣ୍ଟ ଅଫ ଲେବରର $୨ ବିଲିଅନ କ୍ୟାରିଅର ତାମିଲ କାର୍ଯ୍ୟକ୍ରମ ପାଇଁ ବିଭାଗର ଅନୁଦାନ ପାଉଥିବା ସଭିଏଁ ନିଜର ପ୍ରଥମ OER ପାଇଁ ଦାନ କରିଛନ୍ତି
 
 ### ଲାଟିନ ଆମେରିକା {#regional-latinamerica}
 
-* CC ଲାଟିନ ଆମେରିକାର ଛୋଟ-ଅନୁଦାନ କାର୍ଯ୍ୟକ୍ରମ ଏବେ ଦ୍ୱିତୀୟ ବର୍ଷରେ ଏଲ ସାଲଭାଡର, କୋଷ୍ଟାରିକା ଓ ପାରାଗୁଏରେ ଥିବା ସହଯୋଗୀମାନଙ୍କ ପାଇଁ ଅନୁଦାନ ଦେଉଛି, including a digital scanner for educational
-institutions to provide online access to resources; a free digital
-newsletter covering CC topics for Central America; and a mobile
-application featuring basic information about CC licenses.
+* CC ଲାଟିନ ଆମେରିକାର ଛୋଟ-ଅନୁଦାନ କାର୍ଯ୍ୟକ୍ରମ ଏବେ ଦ୍ୱିତୀୟ ବର୍ଷରେ ଏଲ ସାଲଭାଡର, କୋଷ୍ଟାରିକା ଓ ପାରାଗୁଏରେ ଥିବା ସହଯୋଗୀମାନଙ୍କ ପାଇଁ ଅନୁଦାନ ଦେଉଛି
 
-* CC ଉରୁଗୁଏ ସ୍ପାନିସରେ ଓପନ ଲାଇସେନ୍ସିଂ ପଲିସି ଟୁଲକିଟ ଅନୁବାଦ କରିଛନ୍ତି to encourage Latin American governments to create, adopt and
-implement open policies.
+* CC ଉରୁଗୁଏ ସ୍ପାନିସରେ ଓପନ ଲାଇସେନ୍ସିଂ ପଲିସି ଟୁଲକିଟ ଅନୁବାଦ କରିଛନ୍ତି
 
 </div>
 
@@ -392,7 +375,7 @@ implement open policies.
 
 ## ବିତରଣ ପାଇଁ ସାଧୁବାଦ {.bbs}
 
-* 
+<div class="clearfix"></div>
 
 <div class="col-md-6" id="invest-circle">
 

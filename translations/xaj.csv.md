@@ -333,58 +333,41 @@
 
 ### மத்தியக் கிழக்கு மற்றும் வட ஆப்பிரிக்கா {#regional-mideast}
 
-* மத்தியக் கிழக்கு மற்றும் வட ஆப்பிரிக்காவில் இரு முக்கிய வரலாற்றுச் சிறப்பு மிக்க சந்திப்புகளை CC  நடத்தியது. to restructure, build capacity, share best
-practices, and officially translate the latest version of the CC
-license suite into Arabic.
+* மத்தியக் கிழக்கு மற்றும் வட ஆப்பிரிக்காவில் இரு முக்கிய வரலாற்றுச் சிறப்பு மிக்க சந்திப்புகளை CC  நடத்தியது.
 
-* அல் ஜசீராவின் ஆங்கிலப் பிரிவு, தன் ஆய்வு நிறுவனத்தின் ஆவணங்கள், தகவல் படங்களை CC ல் வெளியிட்டுள்ளது., including an Arabic translation of
-the The Data Journalism Handbook.
+* அல் ஜசீராவின் ஆங்கிலப் பிரிவு, தன் ஆய்வு நிறுவனத்தின் ஆவணங்கள், தகவல் படங்களை CC ல் வெளியிட்டுள்ளது.
 
 ### ஆப்பிரிக்கா  {#regional-africa}
 
-* தென்னாப்பிரிக்கா, தனது 17 ஆண்டு பாராளுமன்றக் கோப்புகளை CC BY யில் வெளியிட்டுள்ளது, including bills, documents, and audio recordings.
+* தென்னாப்பிரிக்கா, தனது 17 ஆண்டு பாராளுமன்றக் கோப்புகளை CC BY யில் வெளியிட்டுள்ளது
 
-* CC African Affiliates மற்றும் WikiAfrica இணைந்து Wiki Loves Africa திட்டத்தை 2 வது ஆண்டாக நிகழ்த்துகிறது.   successfully crowdsourcing more than 9,000 CC
-licensed images covering African fashion and design.
+* CC African Affiliates மற்றும் WikiAfrica இணைந்து Wiki Loves Africa திட்டத்தை 2 வது ஆண்டாக நிகழ்த்துகிறது.  
 
-* African Storybook Project மற்றும்  Book Dash உடன் இணைந்து குழந்தைகளுக்கான நூல்களை CC உரிமையில் வெளியிடுகின்றன. in 62 African languages across Kenya, Uganda, Lesotho and South Africa.
+* African Storybook Project மற்றும்  Book Dash உடன் இணைந்து குழந்தைகளுக்கான நூல்களை CC உரிமையில் வெளியிடுகின்றன.
 
 ### ஐரோப்பா {#regional-europe}
 
-* வணிகத்திற்கான CC கருவிகள் திட்டத்தை CC போர்ச்சுக்கல் செயல்படுத்துகிறது. outlining 6
-economic benefits of using CC licenses.
+* வணிகத்திற்கான CC கருவிகள் திட்டத்தை CC போர்ச்சுக்கல் செயல்படுத்துகிறது.
 
-* ஐரோப்பாவின் CC குழு, சட்ட வல்லுனர்களுடன் இணைந்து, ஐரோப்பாவின் ஒருங்கிணைந்த உரிமை மேலாண்மையை உருவாக்குகிறது  The directive requires collecting societies to allow their
-members to self-license their works under noncommercial terms,
-providing CC musicians with more control over how to share and manage
-their music.
+* ஐரோப்பாவின் CC குழு, சட்ட வல்லுனர்களுடன் இணைந்து, ஐரோப்பாவின் ஒருங்கிணைந்த உரிமை மேலாண்மையை உருவாக்குகிறது 
 
 ### ஆசியா-பசிபிக் நாடுகள் {#regional-asia}
 
-* சியோல் நகரில் 2015ம் ஆண்டிற்கான உலக அளவிலான CC நிகழ்வை CC கொரியா நடத்தியது,
-featuring workshops, panels, and special keynotes by Kilnam Chon, Julia
-Reda, Lawrence Lessig, and more.
+* சியோல் நகரில் 2015ம் ஆண்டிற்கான உலக அளவிலான CC நிகழ்வை CC கொரியா நடத்தியது
 
 * சீனக் குழுவினர், பல்வேறு கலாச்சார, நேரவலயக் குழுவினருடன் இணைந்து CC 4.0 உரிம ஆவணங்களை மொழி பெயர்க்கின்றனர்.
 
 ### வட அமெரிக்கா {#regional-northamerica}
 
-* நியூயார்க்கில் உள்ள The Museum of Modern Art (MoMA) நவீனக் கலை அருங்காட்சியகம், CC உரிம பொருட்களை சேமிக்கிறது., featuring it alongside the @ symbol
-and the International Symbol for Recycling in the exhibit, "This Is for
-Everyone: Design Experiments for the Common Good."
+* நியூயார்க்கில் உள்ள The Museum of Modern Art (MoMA) நவீனக் கலை அருங்காட்சியகம், CC உரிம பொருட்களை சேமிக்கிறது.
 
-* XXXXXXXXXXXXXXXXXXXXXX to the Skills Commons
-platform under CC BY.
+* XXXXXXXXXXXXXXXXXXXXXX
 
 ### லத்தீன் அமெரிக்கா {#regional-latinamerica}
 
-* பராகுவே, கோஸ்டா ரிக்கா, ஈஐ சல்வடார் பகுதிகளில், புதுத் திட்டங்களுக்கு  CC லத்தீன் அமெரிக்கா உதவி செய்கிறது., including a digital scanner for educational
-institutions to provide online access to resources; a free digital
-newsletter covering CC topics for Central America; and a mobile
-application featuring basic information about CC licenses.
+* பராகுவே, கோஸ்டா ரிக்கா, ஈஐ சல்வடார் பகுதிகளில், புதுத் திட்டங்களுக்கு  CC லத்தீன் அமெரிக்கா உதவி செய்கிறது.
 
-* கட்டற்ற உரிம ஆவணத்தை எசுப்பானிய மொழியில் CC உருகுவே மொழிபெயர்க்கிறது. to encourage Latin American governments to create, adopt and
-implement open policies.
+* கட்டற்ற உரிம ஆவணத்தை எசுப்பானிய மொழியில் CC உருகுவே மொழிபெயர்க்கிறது.
 
 </div>
 
@@ -392,7 +375,7 @@ implement open policies.
 
 ## பகிர்வதற்கு நன்றி! {.bbs}
 
-* 
+<div class="clearfix"></div>
 
 <div class="col-md-6" id="invest-circle">
 

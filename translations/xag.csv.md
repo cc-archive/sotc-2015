@@ -333,58 +333,41 @@ Lebih terbuka &mdash; Lebih terbatas. Lisensi BUDAYA BEBAS yang lebih terbuka me
 
 ### TIMUR TENGAH DAN AFRIKA UTARA {#regional-mideast}
 
-* Afiliasi CC dari Timur Tengah dan Afrika Utara berkumpul pada dua pertemuan bersejarah to restructure, build capacity, share best
-practices, and officially translate the latest version of the CC
-license suite into Arabic.
+* Afiliasi CC dari Timur Tengah dan Afrika Utara berkumpul pada dua pertemuan bersejarah
 
-* Saluran Berita Berbahasa Inggris Al Jazeera mengintegrasikan materi interaktif berlisensi CC dan Infografis dari Al Jazeera Labs, including an Arabic translation of
-the The Data Journalism Handbook.
+* Saluran Berita Berbahasa Inggris Al Jazeera mengintegrasikan materi interaktif berlisensi CC dan Infografis dari Al Jazeera Labs
 
 ### AFRIKA  {#regional-africa}
 
-* Afrika Selatan secara terbuka melepaskan berkas parlemen selama 17 tahun dengan lisensi CC BY, including bills, documents, and audio recordings.
+* Afrika Selatan secara terbuka melepaskan berkas parlemen selama 17 tahun dengan lisensi CC BY
 
-* Afiliasi-afiliasi CC Afrika dan WikiAfrica meluncurkan kampanye tahunan Wiki Loves Africa kedua successfully crowdsourcing more than 9,000 CC
-licensed images covering African fashion and design.
+* Afiliasi-afiliasi CC Afrika dan WikiAfrica meluncurkan kampanye tahunan Wiki Loves Africa kedua
 
-* Afiliasi-afiliasi ini bergabung dengan dengan mitra lokal, African Storybook Project, dan Book Dash untuk memberikan buku anak-anak berlisensi CC in 62 African languages across Kenya, Uganda, Lesotho and South Africa.
+* Afiliasi-afiliasi ini bergabung dengan dengan mitra lokal, African Storybook Project, dan Book Dash untuk memberikan buku anak-anak berlisensi CC
 
 ### EROPA {#regional-europe}
 
-* CC Portugal meluncurkan “Alat Bantu CC untuk Bisnis” outlining 6
-economic benefits of using CC licenses.
+* CC Portugal meluncurkan “Alat Bantu CC untuk Bisnis”
 
-* Afiliasi-afiliasi CC seluruh Eropa berkolaborasi dengan anggota parlemen nasional untuk menerapkan Direktif Uni Eropa tentang Hak Pengelolaan Kolektif The directive requires collecting societies to allow their
-members to self-license their works under noncommercial terms,
-providing CC musicians with more control over how to share and manage
-their music.
+* Afiliasi-afiliasi CC seluruh Eropa berkolaborasi dengan anggota parlemen nasional untuk menerapkan Direktif Uni Eropa tentang Hak Pengelolaan Kolektif
 
 ### ASIA-PASIFIK {#regional-asia}
 
-* CC Korea menjadi tuan rumah Konferensi Tingkat Tinggi Creative Commons 2015,
-featuring workshops, panels, and special keynotes by Kilnam Chon, Julia
-Reda, Lawrence Lessig, and more.
+* CC Korea menjadi tuan rumah Konferensi Tingkat Tinggi Creative Commons 2015
 
 * Afiliasi CC yang berbahasa Mandarin berkolaborasi lintas budaya dan zona waktu untuk mempersiapkan terjemahan resmi dari paket lisensi 4.0
 
 ### AMERIKA UTARA {#regional-northamerica}
 
-* Museum of Modern Art (MoMA) di New York memasukkan logo CC ke dalam koleksi tetapnya, featuring it alongside the @ symbol
-and the International Symbol for Recycling in the exhibit, "This Is for
-Everyone: Design Experiments for the Common Good."
+* Museum of Modern Art (MoMA) di New York memasukkan logo CC ke dalam koleksi tetapnya
 
-* Penerima Hibah Departemen Ketenagakerjaan Amerika Serikat dengan jumlah total 2 miliar dolar untuk program pelatihan karir memberikan kontribusi putaran pertama terkait OER to the Skills Commons
-platform under CC BY.
+* Penerima Hibah Departemen Ketenagakerjaan Amerika Serikat dengan jumlah total 2 miliar dolar untuk program pelatihan karir memberikan kontribusi putaran pertama terkait OER
 
 ### AMERIKA LATIN {#regional-latinamerica}
 
-* Program hibah-singkat CC Amerika Latin, saat ini di tahun kedua, mendapatkan dana untuk memulai proyek afiliasi baru di El Salvador, Kosta Rika, dan Paraguay, including a digital scanner for educational
-institutions to provide online access to resources; a free digital
-newsletter covering CC topics for Central America; and a mobile
-application featuring basic information about CC licenses.
+* Program hibah-singkat CC Amerika Latin, saat ini di tahun kedua, mendapatkan dana untuk memulai proyek afiliasi baru di El Salvador, Kosta Rika, dan Paraguay
 
-* CC Uruguay menerjemahkan Alat Bantu Kebijakan Kebijakan Lisensi Terbuka ke dalam bahasa Spanyol to encourage Latin American governments to create, adopt and
-implement open policies.
+* CC Uruguay menerjemahkan Alat Bantu Kebijakan Kebijakan Lisensi Terbuka ke dalam bahasa Spanyol
 
 </div>
 
@@ -392,7 +375,7 @@ implement open policies.
 
 ## TERIMA KASIH TELAH BERBAGI! {.bbs}
 
-* 
+<div class="clearfix"></div>
 
 <div class="col-md-6" id="invest-circle">
 

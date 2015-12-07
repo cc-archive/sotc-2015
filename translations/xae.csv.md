@@ -333,58 +333,41 @@ Otvorenejšie &mdash; Prísnejšie. "Menej obmedzujúce licencie „FREE CULTURE
 
 ### Stredný východ a severná Afrika {#regional-mideast}
 
-* CC pridružené subjekty zo Stredného východu a severnej Afriky usporiadali dve historické stretnutia to restructure, build capacity, share best
-practices, and officially translate the latest version of the CC
-license suite into Arabic.
+* CC pridružené subjekty zo Stredného východu a severnej Afriky usporiadali dve historické stretnutia
 
-* Anglická Al Jazeera integrovala interaktívne materiály a info grafiky z Al Džazíra Labs  , including an Arabic translation of
-the The Data Journalism Handbook.
+* Anglická Al Jazeera integrovala interaktívne materiály a info grafiky z Al Džazíra Labs  
 
 ### AFRIKA  {#regional-africa}
 
-* Južná Afrika verejne sprístupnila  17 ročný archív parlamentných dokumentov pod CC BY, including bills, documents, and audio recordings.
+* Južná Afrika verejne sprístupnila  17 ročný archív parlamentných dokumentov pod CC BY
 
-* Africké CC pridružené spoločnosti a WikiAfrika spustili už druhú kampaň „Wiki Loves Africa successfully crowdsourcing more than 9,000 CC
-licensed images covering African fashion and design.
+* Africké CC pridružené spoločnosti a WikiAfrika spustili už druhú kampaň „Wiki Loves Africa
 
-* "Pridružené tímy spolu s lokálnymi partnermi ""African Storybook Project"" a ""Book Dash"" podporili vydanie detských kníh pod licenciami CC." in 62 African languages across Kenya, Uganda, Lesotho and South Africa.
+* "Pridružené tímy spolu s lokálnymi partnermi ""African Storybook Project"" a ""Book Dash"" podporili vydanie detských kníh pod licenciami CC."
 
 ### Európa {#regional-europe}
 
-* "CC Portugalsko spustilo „CC nástroje pre podnikanie""" outlining 6
-economic benefits of using CC licenses.
+* "CC Portugalsko spustilo „CC nástroje pre podnikanie"""
 
-* CC pridružené subjekty v celej Európe spolupracovali s národnými zákonodarcami na implementácii smernice Európskej únie o kolektívnej správe práv The directive requires collecting societies to allow their
-members to self-license their works under noncommercial terms,
-providing CC musicians with more control over how to share and manage
-their music.
+* CC pridružené subjekty v celej Európe spolupracovali s národnými zákonodarcami na implementácii smernice Európskej únie o kolektívnej správe práv
 
 ### ÁZIA-PACIFIK {#regional-asia}
 
-* CC Kórea usporiadala celosvetový samit Creative Commons 2015 v Soule,
-featuring workshops, panels, and special keynotes by Kilnam Chon, Julia
-Reda, Lawrence Lessig, and more.
+* CC Kórea usporiadala celosvetový samit Creative Commons 2015 v Soule
 
 * Čínsky hovoriace pridružené subjekty spolupracovali napriek kultúrami a časovými pásmami s cieľom pripraviť oficiálny preklad 4.0 súboru licencií. 
 
 ### Severná Amerika {#regional-northamerica}
 
-* Múzeum moderného umenia (MoMA) v New Yorku zaradilo CC logo vo svojej trvalej zbierke.   , featuring it alongside the @ symbol
-and the International Symbol for Recycling in the exhibit, "This Is for
-Everyone: Design Experiments for the Common Good."
+* Múzeum moderného umenia (MoMA) v New Yorku zaradilo CC logo vo svojej trvalej zbierke.   
 
-* Príjemcovia grantu 2 miliárd dolárov od amerického Ministerstva práce v programe kariérneho tréningu prispievajú v jeho prvej etape k OER to the Skills Commons
-platform under CC BY.
+* Príjemcovia grantu 2 miliárd dolárov od amerického Ministerstva práce v programe kariérneho tréningu prispievajú v jeho prvej etape k OER
 
 ### LATINSKÁ AMERIKA {#regional-latinamerica}
 
-* Mini grantový program CC Latinskej Ameriky, ktorý pôsobí  druhý rok, poskytol podporu na spustenie nových projektov pridružených spoločností v El Salvador, Costa Rica a Paraguaji, including a digital scanner for educational
-institutions to provide online access to resources; a free digital
-newsletter covering CC topics for Central America; and a mobile
-application featuring basic information about CC licenses.
+* Mini grantový program CC Latinskej Ameriky, ktorý pôsobí  druhý rok, poskytol podporu na spustenie nových projektov pridružených spoločností v El Salvador, Costa Rica a Paraguaji
 
-* "CC Uruguaj preložil „Open Licensing Policy Toolkit"" to španielčiny  " to encourage Latin American governments to create, adopt and
-implement open policies.
+* "CC Uruguaj preložil „Open Licensing Policy Toolkit"" to španielčiny  "
 
 </div>
 
@@ -392,7 +375,7 @@ implement open policies.
 
 ## ĎAKUJEME ZA ZDIEĽANIE! {.bbs}
 
-* 
+<div class="clearfix"></div>
 
 <div class="col-md-6" id="invest-circle">
 

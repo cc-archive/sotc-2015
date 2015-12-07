@@ -333,58 +333,41 @@
 
 ### ਮੱਧ ਪੂਰਬ ਅਤੇ ਉੱਤਰੀ ਅਫ਼ਰੀਕਾ {#regional-mideast}
 
-* ਮੱਧ ਪੂਰਬ ਅਤੇ ਉੱਤਰੀ ਅਫ਼ਰੀਕਾ ਦੀਆਂ ਸੀਸੀ ਸੰਸਥਾਵਾਂ ਦੋ ਇਤਿਹਾਸਕ ਮੀਟਿੰਗਾਂ ਲਈ ਇਕੱਠੀਆਂ ਹੋਈਆਂ to restructure, build capacity, share best
-practices, and officially translate the latest version of the CC
-license suite into Arabic.
+* ਮੱਧ ਪੂਰਬ ਅਤੇ ਉੱਤਰੀ ਅਫ਼ਰੀਕਾ ਦੀਆਂ ਸੀਸੀ ਸੰਸਥਾਵਾਂ ਦੋ ਇਤਿਹਾਸਕ ਮੀਟਿੰਗਾਂ ਲਈ ਇਕੱਠੀਆਂ ਹੋਈਆਂ
 
-* ਅਲ ਜਜ਼ੀਰਾ ਅੰਗਰੇਜ਼ੀ ਨੇ ਅਲ ਜਜ਼ੀਰਾ ਲੈਬਜ਼ ਵਿੱਚੋਂ ਸਮੱਗਰੀ ਅਤੇ ਜਾਣਕਾਰੀ ਭਰਪੂਰ ਤਸਵੀਰਾਂ ਨੂੰ ਸੀਸੀ ਲਸੰਸ ਤਹਿਤ ਸਾਂਝਾ ਕੀਤਾ।, including an Arabic translation of
-the The Data Journalism Handbook.
+* ਅਲ ਜਜ਼ੀਰਾ ਅੰਗਰੇਜ਼ੀ ਨੇ ਅਲ ਜਜ਼ੀਰਾ ਲੈਬਜ਼ ਵਿੱਚੋਂ ਸਮੱਗਰੀ ਅਤੇ ਜਾਣਕਾਰੀ ਭਰਪੂਰ ਤਸਵੀਰਾਂ ਨੂੰ ਸੀਸੀ ਲਸੰਸ ਤਹਿਤ ਸਾਂਝਾ ਕੀਤਾ।
 
 ### ਅਫ਼ਰੀਕਾ  {#regional-africa}
 
-* ਦੱਖਣੀ ਅਫ਼ਰੀਕਾ ਨੇ 17 ਸਾਲਾਂ ਦੀਆਂ ਸੰਸਦ ਸਬੰਧੀ ਫ਼ਾਈਲਾਂ ਸੀਸੀ ਬਾਈ(CC BY) ਲਸੰਸ ਤਹਿਤ ਰਿਲੀਜ਼ ਕੀਤੀਆਂ, including bills, documents, and audio recordings.
+* ਦੱਖਣੀ ਅਫ਼ਰੀਕਾ ਨੇ 17 ਸਾਲਾਂ ਦੀਆਂ ਸੰਸਦ ਸਬੰਧੀ ਫ਼ਾਈਲਾਂ ਸੀਸੀ ਬਾਈ(CC BY) ਲਸੰਸ ਤਹਿਤ ਰਿਲੀਜ਼ ਕੀਤੀਆਂ
 
-* ਸੀਸੀ ਅਫ਼ਰੀਕਾ ਸੰਸਥਾਵਾਂ ਅਤੇ ਵਿਕੀਅਫ਼ਰੀਕਾ ਨੇ 2ਜੀ ਵਿਕੀ ਲਵਜ਼ ਅਫ਼ਰੀਕਾ ਕਮਪੇਨ ਸ਼ੁਰੂ ਕੀਤੀ successfully crowdsourcing more than 9,000 CC
-licensed images covering African fashion and design.
+* ਸੀਸੀ ਅਫ਼ਰੀਕਾ ਸੰਸਥਾਵਾਂ ਅਤੇ ਵਿਕੀਅਫ਼ਰੀਕਾ ਨੇ 2ਜੀ ਵਿਕੀ ਲਵਜ਼ ਅਫ਼ਰੀਕਾ ਕਮਪੇਨ ਸ਼ੁਰੂ ਕੀਤੀ
 
-* ਸੀਸੀ ਸੰਸਥਾਵਾਂ ਨੇ ਸਥਾਨਕ ਸੰਸਥਾਵਾਂ, ਅਫ਼ਰੀਕੀ ਸਟੋਰੀਬੁੱਕ ਪ੍ਰਾਜੈਕਟ ਅਤੇ ਬੁੱਕ ਡੈਸ਼ ਨਾਲ ਮਿਲਕੇ ਸੀਸੀ ਲਸੰਸ ਵਿੱਚ ਬੱਚਿਆਂ ਦੀਆਂ ਕਿਤਾਬਾਂ ਮੌਜੂਦ ਕਰਵਾਈਆਂ in 62 African languages across Kenya, Uganda, Lesotho and South Africa.
+* ਸੀਸੀ ਸੰਸਥਾਵਾਂ ਨੇ ਸਥਾਨਕ ਸੰਸਥਾਵਾਂ, ਅਫ਼ਰੀਕੀ ਸਟੋਰੀਬੁੱਕ ਪ੍ਰਾਜੈਕਟ ਅਤੇ ਬੁੱਕ ਡੈਸ਼ ਨਾਲ ਮਿਲਕੇ ਸੀਸੀ ਲਸੰਸ ਵਿੱਚ ਬੱਚਿਆਂ ਦੀਆਂ ਕਿਤਾਬਾਂ ਮੌਜੂਦ ਕਰਵਾਈਆਂ
 
 ### ਯੂਰਪ {#regional-europe}
 
-* ਸੀਸੀ ਪੁਰਤਗਾਲ ਨੇ “ਵਪਾਰ ਦੇ ਲਈ ਸੀਸੀ ਟੂਲਕਿੱਟ” ਜਾਰੀ ਕੀਤੀ outlining 6
-economic benefits of using CC licenses.
+* ਸੀਸੀ ਪੁਰਤਗਾਲ ਨੇ “ਵਪਾਰ ਦੇ ਲਈ ਸੀਸੀ ਟੂਲਕਿੱਟ” ਜਾਰੀ ਕੀਤੀ
 
-* ਸੀਸੀ ਸੰਸਥਾਵਾਂ ਨੇ ਯੂਰਪ ਭਰ ਵਿੱਚ ਰਾਸ਼ਟਰੀ ਕਾਨੂੰਨਘਾੜਿਆਂ ਦੀ ਮਦਦ ਨਾਲ ਸਮੂਹਕ ਅਧਿਕਾਰ ਪ੍ਰਬੰਧ ਬਾਰੇ ਯੂਰਪੀ ਸੰਘ ਦੇ ਨਿਰਦੇਸ਼ ਨੂੰ ਲਾਗੂ ਕਰਨ ਕਈ ਸਾਂਝੇ ਯਤਨ ਕੀਤੇ The directive requires collecting societies to allow their
-members to self-license their works under noncommercial terms,
-providing CC musicians with more control over how to share and manage
-their music.
+* ਸੀਸੀ ਸੰਸਥਾਵਾਂ ਨੇ ਯੂਰਪ ਭਰ ਵਿੱਚ ਰਾਸ਼ਟਰੀ ਕਾਨੂੰਨਘਾੜਿਆਂ ਦੀ ਮਦਦ ਨਾਲ ਸਮੂਹਕ ਅਧਿਕਾਰ ਪ੍ਰਬੰਧ ਬਾਰੇ ਯੂਰਪੀ ਸੰਘ ਦੇ ਨਿਰਦੇਸ਼ ਨੂੰ ਲਾਗੂ ਕਰਨ ਕਈ ਸਾਂਝੇ ਯਤਨ ਕੀਤੇ
 
 ### ਏਸ਼ੀਆ-ਪ੍ਰਸ਼ਾਂਤ {#regional-asia}
 
-* ਸੀਸੀ ਕੋਰੀਆ ਨੇ ਸਿਓਲ ਵਿਖੇ ਕਰੀਏਟਿਵ ਕਾਮਨਜ਼ ਦੇ 2015 ਵਿਸ਼ਵੀ ਕਾਨਫ਼ਰੰਸ ਦੀ ਮੇਜ਼ਬਾਨੀ ਕੀਤੀ,
-featuring workshops, panels, and special keynotes by Kilnam Chon, Julia
-Reda, Lawrence Lessig, and more.
+* ਸੀਸੀ ਕੋਰੀਆ ਨੇ ਸਿਓਲ ਵਿਖੇ ਕਰੀਏਟਿਵ ਕਾਮਨਜ਼ ਦੇ 2015 ਵਿਸ਼ਵੀ ਕਾਨਫ਼ਰੰਸ ਦੀ ਮੇਜ਼ਬਾਨੀ ਕੀਤੀ
 
 * ਚੀਨੀ ਬੋਲਣ ਵਾਲੀਆਂ ਸੰਸਥਾਵਾਂ ਨੇ ਵੱਖ-ਵੱਖ ਸਭਿਆਚਾਰਾਂ ਅਤੇ ਟਾਈਮ ਜ਼ੋਨਾਂ ਤੋਂ ਪਾਰ ਜਾਕੇ ਸੀਸੀ ਦੇ 4.0 ਲਸੰਸ ਦੇ ਅਨੁਵਾਦ ਦੇ ਲਈ ਸਾਂਝੇ ਤੌਰ ਉੱਤੇ ਯਤਨ ਕੀਤੇ
 
 ### ਉੱਤਰੀ ਅਮਰੀਕਾ {#regional-northamerica}
 
-* ਆਧੁਨਿਕ ਕਲਾ ਅਜਾਇਬਘਰ (MoMA), ਨਿਊ ਯਾਰਕ ਵਿਖੇ ਸੀਸੀ ਦੇ ਲੋਗੋ ਨੂੰ ਆਪਣੀ ਸਥਾਈ ਉਗਰਾਹੀ ਦਾ ਹਿੱਸਾ ਬਣਾਇਆ, featuring it alongside the @ symbol
-and the International Symbol for Recycling in the exhibit, "This Is for
-Everyone: Design Experiments for the Common Good."
+* ਆਧੁਨਿਕ ਕਲਾ ਅਜਾਇਬਘਰ (MoMA), ਨਿਊ ਯਾਰਕ ਵਿਖੇ ਸੀਸੀ ਦੇ ਲੋਗੋ ਨੂੰ ਆਪਣੀ ਸਥਾਈ ਉਗਰਾਹੀ ਦਾ ਹਿੱਸਾ ਬਣਾਇਆ
 
-* ਸੰਯੁਕਤ ਰਾਜ ਅਮਰੀਕਾ ਦੇ ਲੇਬਰ ਵਿਭਾਗ ਦੇ ਗਰਾਂਟੀਆਂ ਨੇ $200 ਕਰੋੜ ਦੇ ਕਰੀਅਰ ਟਰੇਨਿੰਗ ਪ੍ਰੋਗਰਾਮ ਤਹਿਤ ਆਜ਼ਾਦ ਸਿੱਖਿਆ ਸਬੰਧੀ ਸਰੋਤਾਂ(OER) ਪਹਿਲੇ ਰਾਊਂਡ ਵਿੱਚ ਯੋਗਦਾਨ ਪਾਇਆ to the Skills Commons
-platform under CC BY.
+* ਸੰਯੁਕਤ ਰਾਜ ਅਮਰੀਕਾ ਦੇ ਲੇਬਰ ਵਿਭਾਗ ਦੇ ਗਰਾਂਟੀਆਂ ਨੇ $200 ਕਰੋੜ ਦੇ ਕਰੀਅਰ ਟਰੇਨਿੰਗ ਪ੍ਰੋਗਰਾਮ ਤਹਿਤ ਆਜ਼ਾਦ ਸਿੱਖਿਆ ਸਬੰਧੀ ਸਰੋਤਾਂ(OER) ਪਹਿਲੇ ਰਾਊਂਡ ਵਿੱਚ ਯੋਗਦਾਨ ਪਾਇਆ
 
 ### ਲਾਤੀਨੀ ਅਮਰੀਕਾ {#regional-latinamerica}
 
-* ਸੀਸੀ ਲਾਤੀਨੀ ਅਮਰੀਕਾ ਦੇ ਮਿਨੀ-ਗਰਾਂਟਸ ਪ੍ਰੋਗਰਾਮ, ਜਿਸਦਾ ਹੁਣ ਦੂਜਾ ਸਾਲ ਚੱਲ ਰਿਹਾ ਹੈ, ਨੇ ਐਲ ਸਾਲਵਾਦੋਰ, ਕੋਸਤਾ ਰੀਕਾ ਅਤੇ ਪਾਰਾਗੂਏ ਵਿੱਚ ਨਵੀਆਂ ਸੰਸਥਾਵਾਂ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਫ਼ੰਡ ਦਿੱਤੇ, including a digital scanner for educational
-institutions to provide online access to resources; a free digital
-newsletter covering CC topics for Central America; and a mobile
-application featuring basic information about CC licenses.
+* ਸੀਸੀ ਲਾਤੀਨੀ ਅਮਰੀਕਾ ਦੇ ਮਿਨੀ-ਗਰਾਂਟਸ ਪ੍ਰੋਗਰਾਮ, ਜਿਸਦਾ ਹੁਣ ਦੂਜਾ ਸਾਲ ਚੱਲ ਰਿਹਾ ਹੈ, ਨੇ ਐਲ ਸਾਲਵਾਦੋਰ, ਕੋਸਤਾ ਰੀਕਾ ਅਤੇ ਪਾਰਾਗੂਏ ਵਿੱਚ ਨਵੀਆਂ ਸੰਸਥਾਵਾਂ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਫ਼ੰਡ ਦਿੱਤੇ
 
-* ਸੀਸੀ ਉਰੂਗੁਏ ਨੇ ਆਜ਼ਾਦ ਲਸੰਸਾਂ ਸਬੰਧੀ ਪਾਲਸੀ ਟੂਲਕਿੱਟ ਨੂੰ ਸਪੇਨੀ ਵਿੱਚ ਅਨੁਵਾਦ ਕੀਤਾ to encourage Latin American governments to create, adopt and
-implement open policies.
+* ਸੀਸੀ ਉਰੂਗੁਏ ਨੇ ਆਜ਼ਾਦ ਲਸੰਸਾਂ ਸਬੰਧੀ ਪਾਲਸੀ ਟੂਲਕਿੱਟ ਨੂੰ ਸਪੇਨੀ ਵਿੱਚ ਅਨੁਵਾਦ ਕੀਤਾ
 
 </div>
 
@@ -392,7 +375,7 @@ implement open policies.
 
 ## ਆਪਣੀ ਰਚਨਾਵਾਂ ਸਾਂਝੀਆਂ ਕਰਨ ਲਈ ਸ਼ੁਕਰੀਆ! {.bbs}
 
-* 
+<div class="clearfix"></div>
 
 <div class="col-md-6" id="invest-circle">
 

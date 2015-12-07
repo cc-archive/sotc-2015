@@ -333,58 +333,41 @@ Mere åbent &mdash; Mere restriktivt. De mindre restriktive FRI KULTUR licenser 
 
 ### MELLEMØSTEN OG NORDAFRIKA {#regional-mideast}
 
-* CC affiliates fra hele Mellemøsten og Nordafrika samles ved to historiske møder to restructure, build capacity, share best
-practices, and officially translate the latest version of the CC
-license suite into Arabic.
+* CC affiliates fra hele Mellemøsten og Nordafrika samles ved to historiske møder
 
-* Det engelske Al Jazeera integrerer CC-licenser på interaktivt materiale og infografik fra Al Jazeera Labs , including an Arabic translation of
-the The Data Journalism Handbook.
+* Det engelske Al Jazeera integrerer CC-licenser på interaktivt materiale og infografik fra Al Jazeera Labs 
 
 ### AFRIKA  {#regional-africa}
 
-* Sydafrika publicerer 17 års parlamentariske filer under CC BY, including bills, documents, and audio recordings.
+* Sydafrika publicerer 17 års parlamentariske filer under CC BY
 
-* Afrikanske CC Affiliates og WikiAfrica lancerer den 2. årlige Wiki Loves Africa kampagne  successfully crowdsourcing more than 9,000 CC
-licensed images covering African fashion and design.
+* Afrikanske CC Affiliates og WikiAfrica lancerer den 2. årlige Wiki Loves Africa kampagne 
 
-* Affiliates  in 62 African languages across Kenya, Uganda, Lesotho and South Africa.
+* Affiliates 
 
 ### EUROPA {#regional-europe}
 
-* "CC Portugal lancerer et ""CC Toolkit for Business""" outlining 6
-economic benefits of using CC licenses.
+* "CC Portugal lancerer et ""CC Toolkit for Business"""
 
-* CC affiliates over hele Europa samarbejder med nationale lovgivere på at implementere EU's direktiv om kollektiv rettighedshåndtering The directive requires collecting societies to allow their
-members to self-license their works under noncommercial terms,
-providing CC musicians with more control over how to share and manage
-their music.
+* CC affiliates over hele Europa samarbejder med nationale lovgivere på at implementere EU's direktiv om kollektiv rettighedshåndtering
 
 ### ASIEN-STILLEHAVSOMRÅDET {#regional-asia}
 
-* CC Korea er vært for Creative Commons 2015 Global Summit i Seoul,
-featuring workshops, panels, and special keynotes by Kilnam Chon, Julia
-Reda, Lawrence Lessig, and more.
+* CC Korea er vært for Creative Commons 2015 Global Summit i Seoul
 
 * Kinesisk talende affiliates samarbejder på tværs af kulturer og tidszoner for at klargøre den officielle oversættese af 4.0 licens-suiten
 
 ### NORDAMERIKA {#regional-northamerica}
 
-* Museum of Modern Art (MoMA) i New York inkluderer CC logoet permanent i deres samling, featuring it alongside the @ symbol
-and the International Symbol for Recycling in the exhibit, "This Is for
-Everyone: Design Experiments for the Common Good."
+* Museum of Modern Art (MoMA) i New York inkluderer CC logoet permanent i deres samling
 
-* Legatmodtagere af U.S. Department of Labors 2 millarder Dollar store karrieretræningsprogram udgiver deres første runde af OER (åbne uddannelsesmaterialer) to the Skills Commons
-platform under CC BY.
+* Legatmodtagere af U.S. Department of Labors 2 millarder Dollar store karrieretræningsprogram udgiver deres første runde af OER (åbne uddannelsesmaterialer)
 
 ### LATINAMERIKA {#regional-latinamerica}
 
-* CC Latinamerikas mini-legat program, som nu kører på andet år, tildeler midler til igangsættelse af projekter i El Salvador, Costa Rica og Paraguay, including a digital scanner for educational
-institutions to provide online access to resources; a free digital
-newsletter covering CC topics for Central America; and a mobile
-application featuring basic information about CC licenses.
+* CC Latinamerikas mini-legat program, som nu kører på andet år, tildeler midler til igangsættelse af projekter i El Salvador, Costa Rica og Paraguay
 
-* CC Uruguay oversætter Open Licensing Policy Toolkit til spansk to encourage Latin American governments to create, adopt and
-implement open policies.
+* CC Uruguay oversætter Open Licensing Policy Toolkit til spansk
 
 </div>
 
@@ -392,7 +375,7 @@ implement open policies.
 
 ## TAK FORDI DU DELER {.bbs}
 
-* 
+<div class="clearfix"></div>
 
 <div class="col-md-6" id="invest-circle">
 

@@ -333,58 +333,41 @@ LIBERÁLNĚJŠÍ &mdash; RESTRIKTIVNĚJŠÍ. Liberálnější licence SVOBODNÉ 
 
 ### STŘEDNÍ VÝCHOD A SEVERNÍ AFIKA {#regional-mideast}
 
-* CC týmy ze Středního východu a severní Afriky se sešly již na dvou společných zasedáních. to restructure, build capacity, share best
-practices, and officially translate the latest version of the CC
-license suite into Arabic.
+* CC týmy ze Středního východu a severní Afriky se sešly již na dvou společných zasedáních.
 
-* Anglická verze stanice Al-Džazíra zveřejnila pod licencemi CC interaktivní materiály a infografiky z dílny Al-Džazíra., including an Arabic translation of
-the The Data Journalism Handbook.
+* Anglická verze stanice Al-Džazíra zveřejnila pod licencemi CC interaktivní materiály a infografiky z dílny Al-Džazíra.
 
 ### AFRIKA  {#regional-africa}
 
-* Jihoafrická republika zveřejnila parlamentní záznamy za sedmnáct let pod CC BY., including bills, documents, and audio recordings.
+* Jihoafrická republika zveřejnila parlamentní záznamy za sedmnáct let pod CC BY.
 
-* Africké týmy CC a WikiAfrica spustily druhou výroční kampaň “Wiki Loves Africa”. successfully crowdsourcing more than 9,000 CC
-licensed images covering African fashion and design.
+* Africké týmy CC a WikiAfrica spustily druhou výroční kampaň “Wiki Loves Africa”.
 
-* CC týmy se spojily s místními organizacemi African Storybook Project a Book Dash, aby mohly poskytovat dětské knihy licencované pod CC. in 62 African languages across Kenya, Uganda, Lesotho and South Africa.
+* CC týmy se spojily s místními organizacemi African Storybook Project a Book Dash, aby mohly poskytovat dětské knihy licencované pod CC.
 
 ### EVROPA {#regional-europe}
 
-* CC Portugalsko spouští “Sadu nástrojů CC pro podnikání”. outlining 6
-economic benefits of using CC licenses.
+* CC Portugalsko spouští “Sadu nástrojů CC pro podnikání”.
 
-* CC týmy napříč Evropou spolupracují s národními zákonodárci na implementaci směrnice Evropské unie o kolektivní správě práv. The directive requires collecting societies to allow their
-members to self-license their works under noncommercial terms,
-providing CC musicians with more control over how to share and manage
-their music.
+* CC týmy napříč Evropou spolupracují s národními zákonodárci na implementaci směrnice Evropské unie o kolektivní správě práv.
 
 ### ASIE A TICHOMOŘÍ {#regional-asia}
 
-* CC Korea pořádá Celosvětový summit Creative Commons 2015 v Soulu.,
-featuring workshops, panels, and special keynotes by Kilnam Chon, Julia
-Reda, Lawrence Lessig, and more.
+* CC Korea pořádá Celosvětový summit Creative Commons 2015 v Soulu.
 
 * Čínsky hovořící partneři v týmech spolupracují napříč kulturami a časovými pásmy na přípravě oficiálního překladu souboru licencí verze 4.0.
 
 ### SEVERNÍ AMERIKA {#regional-northamerica}
 
-* Muzeum moderního umění v New Yorku (MoMA) zařadilo logo CC do svých sbírek jako stálou součást., featuring it alongside the @ symbol
-and the International Symbol for Recycling in the exhibit, "This Is for
-Everyone: Design Experiments for the Common Good."
+* Muzeum moderního umění v New Yorku (MoMA) zařadilo logo CC do svých sbírek jako stálou součást.
 
-* Příjemci prostředků z dvoumiliardového programu Ministerstva práce Spojených států na podporu kariéry přispívají první várkou otevřených vzdělávacích zdrojů. to the Skills Commons
-platform under CC BY.
+* Příjemci prostředků z dvoumiliardového programu Ministerstva práce Spojených států na podporu kariéry přispívají první várkou otevřených vzdělávacích zdrojů.
 
 ### LATINSKÁ AMERIKA {#regional-latinamerica}
 
-* Mini-grantový program Týmu CC Latinská Amerika, který běží již druhým rokem, získal prostředky ke spuštění partnerských projektů v El Salvadoru, Kostarice a Paraguayi., including a digital scanner for educational
-institutions to provide online access to resources; a free digital
-newsletter covering CC topics for Central America; and a mobile
-application featuring basic information about CC licenses.
+* Mini-grantový program Týmu CC Latinská Amerika, který běží již druhým rokem, získal prostředky ke spuštění partnerských projektů v El Salvadoru, Kostarice a Paraguayi.
 
-* Tým CC Uruguay překládá Open Licensing Policy Toolkit do španělštiny. to encourage Latin American governments to create, adopt and
-implement open policies.
+* Tým CC Uruguay překládá Open Licensing Policy Toolkit do španělštiny.
 
 </div>
 
@@ -392,7 +375,7 @@ implement open policies.
 
 ## DĚKUJEME VÁM ZA SDÍLENÍ! {.bbs}
 
-* 
+<div class="clearfix"></div>
 
 <div class="col-md-6" id="invest-circle">
 

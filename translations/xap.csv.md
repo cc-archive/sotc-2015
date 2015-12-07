@@ -333,58 +333,41 @@
 
 ### మిడిల్ ఈస్ట్, ఉత్తర ఆఫ్రికా {#regional-mideast}
 
-* రెండు చారిత్రక మీటింగుల్లో మిడిల్ ఈస్ట్, ఉత్తర ఆఫ్రికాలోని  సీసీ అనుబంధ సంస్థల సభ్యులంతా కలిసారు. to restructure, build capacity, share best
-practices, and officially translate the latest version of the CC
-license suite into Arabic.
+* రెండు చారిత్రక మీటింగుల్లో మిడిల్ ఈస్ట్, ఉత్తర ఆఫ్రికాలోని  సీసీ అనుబంధ సంస్థల సభ్యులంతా కలిసారు.
 
-* అల్ జజీరా లాబ్స్ లోని కొన్ని దస్త్రాలను అల్ జజీరా ఇంగ్లిష్ సీసీ లైసెన్సుతో కలిపింది, including an Arabic translation of
-the The Data Journalism Handbook.
+* అల్ జజీరా లాబ్స్ లోని కొన్ని దస్త్రాలను అల్ జజీరా ఇంగ్లిష్ సీసీ లైసెన్సుతో కలిపింది
 
 ### ఆఫ్రికా  {#regional-africa}
 
-* దక్షిణాఫ్రికా 17 ఏళ్ళ పార్లమెంట్ దస్త్రాలను జాతీయం చేసింది, including bills, documents, and audio recordings.
+* దక్షిణాఫ్రికా 17 ఏళ్ళ పార్లమెంట్ దస్త్రాలను జాతీయం చేసింది
 
-* సీసీ ఆఫ్రికా అనుబంధ సంస్థ, వికీఆఫ్రికా సంయుక్తంగా ౨వ వార్షిక వికీ లవ్స్ ఆఫ్రికా పోటీని నిర్వహించాయి successfully crowdsourcing more than 9,000 CC
-licensed images covering African fashion and design.
+* సీసీ ఆఫ్రికా అనుబంధ సంస్థ, వికీఆఫ్రికా సంయుక్తంగా ౨వ వార్షిక వికీ లవ్స్ ఆఫ్రికా పోటీని నిర్వహించాయి
 
-* అనుబంధ సంస్థలు ప్రాంతీయ సంస్థలతో కలిసి, ఆఫ్రికన్ స్టోరీబుక్ ప్రాజెక్టును, బుక్ డాష్ అనే సంస్థ పిల్లల పుస్తకాలను సీసీ లో విడుదల చేసారు in 62 African languages across Kenya, Uganda, Lesotho and South Africa.
+* అనుబంధ సంస్థలు ప్రాంతీయ సంస్థలతో కలిసి, ఆఫ్రికన్ స్టోరీబుక్ ప్రాజెక్టును, బుక్ డాష్ అనే సంస్థ పిల్లల పుస్తకాలను సీసీ లో విడుదల చేసారు
 
 ### ఐరోపా {#regional-europe}
 
-* """సీసీ టూల్కిట్ ఫర్ బిజినెస్"" (వాణిజ్యవేత్తలకు సీసీ పనిముట్లు) అనే వనరును సీసీ పోర్చుగల్ విడుదల చేసింది" outlining 6
-economic benefits of using CC licenses.
+* """సీసీ టూల్కిట్ ఫర్ బిజినెస్"" (వాణిజ్యవేత్తలకు సీసీ పనిముట్లు) అనే వనరును సీసీ పోర్చుగల్ విడుదల చేసింది"
 
-* ఐరోపా అంతటా సీసీ అనుబంధ సంస్థలు కలిసి సమిష్టిగా ఐరోపా సంఘ నియమాలలోని కలెక్టివ్ రైట్స్ మేనేజ్మెంట్ ను అమలు పరిచేలా చేసారు The directive requires collecting societies to allow their
-members to self-license their works under noncommercial terms,
-providing CC musicians with more control over how to share and manage
-their music.
+* ఐరోపా అంతటా సీసీ అనుబంధ సంస్థలు కలిసి సమిష్టిగా ఐరోపా సంఘ నియమాలలోని కలెక్టివ్ రైట్స్ మేనేజ్మెంట్ ను అమలు పరిచేలా చేసారు
 
 ### ఆసియా-పసిఫిక్ {#regional-asia}
 
-* సీసీఎ కొరియా క్రియేటివ్ కామన్స్ 2015 గ్లోబల్ సమిట్ ను సియోల్ లో నిర్వహించింది,
-featuring workshops, panels, and special keynotes by Kilnam Chon, Julia
-Reda, Lawrence Lessig, and more.
+* సీసీఎ కొరియా క్రియేటివ్ కామన్స్ 2015 గ్లోబల్ సమిట్ ను సియోల్ లో నిర్వహించింది
 
 * చైనీస్ మాట్లాడే అనుబంధ సంస్థలన్నీ కలిసి 4.0 లైసెన్స్ సూట్ లోని లైసెన్సులను దేశ-సాంస్కృతిక భేదాలు మరిచి అధికారికంగా అనువదించారు.
 
 ### ఉత్తర అమెరికా {#regional-northamerica}
 
-* న్యూయార్క్ లోని మ్యూజియం ఆఫ్ మోడన్ ఆర్ట్ సీసీ లైసెన్స్ లోగోను తన శాశ్వత వస్తువులలో చేర్చింది, featuring it alongside the @ symbol
-and the International Symbol for Recycling in the exhibit, "This Is for
-Everyone: Design Experiments for the Common Good."
+* న్యూయార్క్ లోని మ్యూజియం ఆఫ్ మోడన్ ఆర్ట్ సీసీ లైసెన్స్ లోగోను తన శాశ్వత వస్తువులలో చేర్చింది
 
-* యూఎస్ డిపార్ట్మెంట్ ఆఫ్ లేబర్ నుండి రెండు బిలియన్ డాలర్ల కరీర్ ట్రెయినింగ్ ప్రోగ్రాం ద్వారా లబ్ధి పొందిన గ్రాంటీలు వారి మొదటి విడత ఓపెన్ ఎజ్యుకేషన్ రిసౌర్సెస్  ను అందించారు to the Skills Commons
-platform under CC BY.
+* యూఎస్ డిపార్ట్మెంట్ ఆఫ్ లేబర్ నుండి రెండు బిలియన్ డాలర్ల కరీర్ ట్రెయినింగ్ ప్రోగ్రాం ద్వారా లబ్ధి పొందిన గ్రాంటీలు వారి మొదటి విడత ఓపెన్ ఎజ్యుకేషన్ రిసౌర్సెస్  ను అందించారు
 
 ### లాటిన్ అమెరికా {#regional-latinamerica}
 
-* సీసీ లాటిన్ అమెరికా మిని-గ్రాంట్స్ ప్రోగ్రాం ద్వారా, రెండవ సంవత్సరంలో, ఎల్ సాల్వడార్, కోస్టరిక, పరగ్వే లలో కొత్త అనుబంధ ప్రాజెక్టులు మొదలుపెట్టేందుకు బహుమతులు అందించింది., including a digital scanner for educational
-institutions to provide online access to resources; a free digital
-newsletter covering CC topics for Central America; and a mobile
-application featuring basic information about CC licenses.
+* సీసీ లాటిన్ అమెరికా మిని-గ్రాంట్స్ ప్రోగ్రాం ద్వారా, రెండవ సంవత్సరంలో, ఎల్ సాల్వడార్, కోస్టరిక, పరగ్వే లలో కొత్త అనుబంధ ప్రాజెక్టులు మొదలుపెట్టేందుకు బహుమతులు అందించింది.
 
-* సీసీ ఉరుగ్వే ఓపెన్ లైసెన్సింగ్ పాలిసీ టూల్కిట్ ను స్పానిష్ లోకి అనువదించింది to encourage Latin American governments to create, adopt and
-implement open policies.
+* సీసీ ఉరుగ్వే ఓపెన్ లైసెన్సింగ్ పాలిసీ టూల్కిట్ ను స్పానిష్ లోకి అనువదించింది
 
 </div>
 
@@ -392,7 +375,7 @@ implement open policies.
 
 ## పంచుకున్నందుకు నెనరులు! {.bbs}
 
-* 
+<div class="clearfix"></div>
 
 <div class="col-md-6" id="invest-circle">
 

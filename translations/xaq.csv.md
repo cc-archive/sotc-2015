@@ -333,58 +333,41 @@ Mer öppen &mdash; Mer begränsad. Mindre begränsade FRI KULTUR licenser som ti
 
 ### Mellanöstern och Nordafrika {#regional-mideast}
 
-* CC förbund från hela mellanöstern och Nordafrika har träffats i två historiska möten to restructure, build capacity, share best
-practices, and officially translate the latest version of the CC
-license suite into Arabic.
+* CC förbund från hela mellanöstern och Nordafrika har träffats i två historiska möten
 
-* Engelsktalande Al Jazeera integrerar CC licensierat interaktivt material och infografiker från Al Jazeera, including an Arabic translation of
-the The Data Journalism Handbook.
+* Engelsktalande Al Jazeera integrerar CC licensierat interaktivt material och infografiker från Al Jazeera
 
 ### Afrika  {#regional-africa}
 
-* Sydafrika har offentliggjort parlaments dokument från 17 års under CC BY, including bills, documents, and audio recordings.
+* Sydafrika har offentliggjort parlaments dokument från 17 års under CC BY
 
-* De afrikanska CC förbunden och WikiAfrika startade den andra årliga Wiki Loves Afrika kampanj successfully crowdsourcing more than 9,000 CC
-licensed images covering African fashion and design.
+* De afrikanska CC förbunden och WikiAfrika startade den andra årliga Wiki Loves Afrika kampanj
 
-* Förbund har tillsammans med lokala partners, the African Storybook Project och Book Dash för att erbjuda CC licensierad barnböcker in 62 African languages across Kenya, Uganda, Lesotho and South Africa.
+* Förbund har tillsammans med lokala partners, the African Storybook Project och Book Dash för att erbjuda CC licensierad barnböcker
 
 ### EUROPA {#regional-europe}
 
-* "CC Portugal lanserade ett ""CC Toolkit for Business""" outlining 6
-economic benefits of using CC licenses.
+* "CC Portugal lanserade ett ""CC Toolkit for Business"""
 
-* CC förbund över hela Europa samarbetar med nationella lagstiftare för att implementera Europeiska Unionens direktiv för förvaltning av kollektiva rättigheter  The directive requires collecting societies to allow their
-members to self-license their works under noncommercial terms,
-providing CC musicians with more control over how to share and manage
-their music.
+* CC förbund över hela Europa samarbetar med nationella lagstiftare för att implementera Europeiska Unionens direktiv för förvaltning av kollektiva rättigheter 
 
 ### ASIEN-STILLAHAVSOMRÅDET {#regional-asia}
 
-* CC Korea var värd för Creative Commons 2015 Global Summit in Seoul,
-featuring workshops, panels, and special keynotes by Kilnam Chon, Julia
-Reda, Lawrence Lessig, and more.
+* CC Korea var värd för Creative Commons 2015 Global Summit in Seoul
 
 * Kinesisktalande förbund samarbetar för att förbereda sig för den officiella översättningen av 4.0 licenserna
 
 ### Nordamerika {#regional-northamerica}
 
-* Museet för modern konst (MoMA) i New York välkomna CC logon i deras permanenta samling, featuring it alongside the @ symbol
-and the International Symbol for Recycling in the exhibit, "This Is for
-Everyone: Design Experiments for the Common Good."
+* Museet för modern konst (MoMA) i New York välkomna CC logon i deras permanenta samling
 
-* U.S. Department of Labor erbjuder ett stöd på 2 miljarder för ett program som ska bidra till skapandet av deras första OER. to the Skills Commons
-platform under CC BY.
+* U.S. Department of Labor erbjuder ett stöd på 2 miljarder för ett program som ska bidra till skapandet av deras första OER.
 
 ### Latinamerika {#regional-latinamerica}
 
-* CC i Latinamerika ger mini-stipendier, för andra året i rad, för att starta förbundsprojekt i El Salvador, Costa Rica och Paraguay, including a digital scanner for educational
-institutions to provide online access to resources; a free digital
-newsletter covering CC topics for Central America; and a mobile
-application featuring basic information about CC licenses.
+* CC i Latinamerika ger mini-stipendier, för andra året i rad, för att starta förbundsprojekt i El Salvador, Costa Rica och Paraguay
 
-* "CC Uruguay översatte ""the Open Licensing Policy Toolkit"" till spanska" to encourage Latin American governments to create, adopt and
-implement open policies.
+* "CC Uruguay översatte ""the Open Licensing Policy Toolkit"" till spanska"
 
 </div>
 
@@ -392,7 +375,7 @@ implement open policies.
 
 ## Tack för att du delar! {.bbs}
 
-* 
+<div class="clearfix"></div>
 
 <div class="col-md-6" id="invest-circle">
 
