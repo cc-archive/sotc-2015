@@ -845,7 +845,7 @@ $1,000,000
 
 Textbook savings calculated by looking at the actual number of students enrolled in each class, and then using the cost for the non-OER textbooks from the previous semester. Example: for ARTS 113, the previous non-OER text cost was $117.50\. Had the 315 students enrolled in the class this fall had to purchase the previous text, the total cost would have been $37,012.50\. The OER used in this class this semester is free, so we consider $37,012.50 to be the savings to our students. In total over the last three years 21,536 students have not had to purchase a textbook for a savings of $1.97 million.
 
-Source: College staff obtained data from faculty using OER; https://campustechnology.com/articles/2015/11/20/u-georgia-nears-2-million-mark-in-oer-savings.aspx
+Source: College staff obtained data from faculty using OER; [https://campustechnology.com/articles/2015/11/20/u-georgia-nears-2-million-mark-in-oer-savings.aspx](https://campustechnology.com/articles/2015/11/20/u-georgia-nears-2-million-mark-in-oer-savings.aspx)
 
 </td>
 
@@ -1115,7 +1115,7 @@ $4,584,000
 
 Savings calculated using class size of 20 and textbook cost of $100 for the "No Cost/Low Cost" sections of the 50 highest enrollment courses and all developmental education courses. We use the following to calculate the savings: Top 50 enrollment courses identified as "Low cost/No cost - less than $40" (mostly OER). 20 students per section. $100 savings per student (books, online homework, etc)
 
-Source: Maricopa Community Colleges funds; https://www2.maricopa.edu/welcome-to-the-maricopa-millions-oer-project
+Source: Maricopa Community Colleges funds; [https://www2.maricopa.edu/welcome-to-the-maricopa-millions-oer-project](https://www2.maricopa.edu/welcome-to-the-maricopa-millions-oer-project)
 
 </td>
 
