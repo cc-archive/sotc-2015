@@ -695,7 +695,7 @@ valuable contributions. Thank you!
 
 * HTML version: Matt Lee
 
-* Data, sources, scripts and editable images for the entire report can
-  be downloaded at <https://github.com/creativecommons/sotc-2015>
+* [Data, sources, scripts and editable images for the entire report can
+  be downloaded at GitHub](<https://github.com/creativecommons/sotc-2015>)
 
 </footer>
