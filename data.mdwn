@@ -443,7 +443,7 @@ Breakdown of works by media type includes data from 16 platforms plus the Direct
 * Flickr: 356,403,451 / Source: [https://www.flickr.com/creativecommons](https://www.flickr.com/creativecommons/) verified by Flickr staff and accessed on 11/6/15
 * Wikimedia Commons: 23,124,319 (bitmaps + drawings) / Source: [https://meta.wikimedia.org/wiki/State_of_the_Commons/2015](https://meta.wikimedia.org/wiki/State_of_the_Commons/2015) verfied by WMF staff
 * Internet Archive: 42,122 / Source: Internet Archive staff
-* : 10,865,086 / Source:  staff
+* Europeana: 10,865,086 / Source: Europeana staff
 
 ### <span id="h.kqsi3yryhxtm"></span>“Videos: 18.4 million”
 
