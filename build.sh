@@ -4,6 +4,7 @@ mv sotc-215/data.mdwn .
 rm -rf sotc-215
 rm xx*
 rm cc*.html
+rm translat*.html
 csplit sotc.md '/-----/' {*}
 for file in xx*
 do
