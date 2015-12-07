@@ -30,7 +30,7 @@
 <td style="text-align: left;">2014</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">1.1 மகிழ்ச்சி !</td>
+<td style="text-align: left;">1.1 பில்லியன்</td>
 <td style="text-align: left;">2015</td>
 </tr>
 </tbody>
@@ -137,7 +137,7 @@
 
 <img src="img/hits.svg" alt="" style="width: 100%; overflow: hidden;" />
 
-<img src="img/bubble.png" alt="" /> = 1 மகிழ்ச்சி !
+<img src="img/bubble.png" alt="" /> = 1 பில்லியன்
 
 -----
 

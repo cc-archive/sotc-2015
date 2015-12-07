@@ -30,7 +30,7 @@
 <td style="text-align: left;">2014</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">1.1 ¡Anda!</td>
+<td style="text-align: left;">1.1 _mil millones</td>
 <td style="text-align: left;">2015</td>
 </tr>
 </tbody>
@@ -137,7 +137,7 @@ Más abierto &mdash; Más restrictivo. Las licencias de CULTURA LIBRE menos rest
 
 <img src="img/hits.svg" alt="" style="width: 100%; overflow: hidden;" />
 
-<img src="img/bubble.png" alt="" /> = 1 ¡Anda!
+<img src="img/bubble.png" alt="" /> = 1 _mil millones
 
 -----
 

@@ -30,7 +30,7 @@
 <td style="text-align: left;">2014</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">1.1 Wow!</td>
+<td style="text-align: left;">1.1 _miliarda</td>
 <td style="text-align: left;">2015</td>
 </tr>
 </tbody>
@@ -137,7 +137,7 @@ Otvorenejšie &mdash; Prísnejšie. "Menej obmedzujúce licencie „FREE CULTURE
 
 <img src="img/hits.svg" alt="" style="width: 100%; overflow: hidden;" />
 
-<img src="img/bubble.png" alt="" /> = 1 Wow!
+<img src="img/bubble.png" alt="" /> = 1 _miliarda
 
 -----
 

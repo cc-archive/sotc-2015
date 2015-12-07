@@ -30,7 +30,7 @@
 <td style="text-align: left;">2014</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">1.1 Łał!</td>
+<td style="text-align: left;">1.1 miliard</td>
 <td style="text-align: left;">2015</td>
 </tr>
 </tbody>
@@ -137,7 +137,7 @@ Bardziej otwarte &mdash; Bardziej restrykcyjnej. Mniej restrykcyjne licencje “
 
 <img src="img/hits.svg" alt="" style="width: 100%; overflow: hidden;" />
 
-<img src="img/bubble.png" alt="" /> = 1 Łał!
+<img src="img/bubble.png" alt="" /> = 1 miliard
 
 -----
 

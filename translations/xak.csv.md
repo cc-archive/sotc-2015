@@ -30,7 +30,7 @@
 <td style="text-align: left;">2014</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">1.1 Wauw!</td>
+<td style="text-align: left;">1.1 _ miljard</td>
 <td style="text-align: left;">2015</td>
 </tr>
 </tbody>
@@ -137,7 +137,7 @@ Meer open &mdash; Meer restrictief. Minder restrictieve FREE CULTURE-licenties s
 
 <img src="img/hits.svg" alt="" style="width: 100%; overflow: hidden;" />
 
-<img src="img/bubble.png" alt="" /> = 1 Wauw!
+<img src="img/bubble.png" alt="" /> = 1 _ miljard
 
 -----
 
