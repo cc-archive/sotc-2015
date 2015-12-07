@@ -10,33 +10,98 @@ body { font-size: 180%;
       
      }
 
-.bubbles  {
-    position: absolute;
-    top: 2%;
-    left: 5%;
+#b02.bubbles, #b03.bubbles, #b04.bubbles,#b05.bubbles,#b06.bubbles,#b08.bubbles,#b09.bubbles,#b10.bubbles,#b11.bubbles,#b12.bubbles  {
     z-index: -1;
-    background-color: red;
-}
-
-#cc-sotc-2015-xx00 #img-placeholder, #cc-sotc-2015-xx12 #img-placeholder{
-    background-image: url('img/creativecommons.svg');
-    background-size: contain;
-    background-repeat: no-repeat;
-    width: 35%;
-    height: 300px;
-    max-width: 350px;
-
-}
-
-#cc-sotc-2015-xx01 #img-placeholder{
-    background-image: url('img/bubbles.svg');
     background-size: contain;
     background-repeat: no-repeat;
     width: 65%;
-    height: 300px;
     max-width: 450px;
-
+    display: flex;
+    margin-bottom: -280px;
 }
+
+#b02 {
+
+    background-image: url('img/sotc-bubbles-02.svg');
+    height: 300px;    
+    
+}
+
+
+#b03 {
+
+    background-image: url('img/sotc-bubbles-03.svg');
+    height: 300px;    
+    
+}
+
+
+#b04 {
+
+    background-image: url('img/sotc-bubbles-04.svg');
+    height: 300px;    
+    
+}
+
+
+#b05 {
+
+    background-image: url('img/sotc-bubbles-05.svg');
+    height: 300px;    
+    
+}
+
+
+#b06 {
+
+    background-image: url('img/sotc-bubbles-06.svg');
+    height: 300px;    
+    
+}
+
+
+#b08 {
+
+    background-image: url('img/sotc-bubbles-08.svg');
+    height: 300px;    
+    
+}
+
+
+#b09 {
+
+    background-image: url('img/sotc-bubbles-09.svg');
+    height: 300px;    
+    
+}
+
+
+#b10 {
+
+    background-image: url('img/sotc-bubbles-10.svg');
+    height: 300px;    
+    
+}
+
+
+#b11 {
+
+    background-image: url('img/sotc-bubbles-11.svg');
+    height: 300px;    
+    
+}
+
+
+#b12 {
+
+    background-image: url('img/sotc-bubbles-12.svg');
+    height: 300px;    
+    
+}
+
+
+
+
 
 
 #cc-sotc-2015-xx02 #img-placeholder{
