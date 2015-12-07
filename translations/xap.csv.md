@@ -399,9 +399,10 @@
 
 ##### అన్నీ - అంతా క్రియేటివ్ కామన్స్. మమ్మల్ని ట్విటర్ & ఫేస్బుక్ లో అనుసరించండి.
 
-* [Twitter](https://twitter.com/creativecommons)
-
-* [Facebook](https://facebook.com/creativecommons)
+* <a href="https://twitter.com/creativecommons"><img src="img/twitter.png" alt="Follow us on Twitter" /></a>
+    - [twitter.com/creativecommons](https://twitter.com/creativecommons)
+* <a href="https://facebook.com/creativecommons"><img src="img/fb.png" alt="Follow us on Facebook" /></a>
+	- [facebook.com/creativecommons](https://facebook.com/creativecommons)
 
 </div>
 

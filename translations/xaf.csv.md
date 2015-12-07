@@ -399,9 +399,10 @@ Mere åbent &mdash; Mere restriktivt. De mindre restriktive FRI KULTUR licenser 
 
 ##### Følg med i alt omkring Creative Commons. Følg os på Twitter & Facebook.
 
-* [Twitter](https://twitter.com/creativecommons)
-
-* [Facebook](https://facebook.com/creativecommons)
+* <a href="https://twitter.com/creativecommons"><img src="img/twitter.png" alt="Follow us on Twitter" /></a>
+    - [twitter.com/creativecommons](https://twitter.com/creativecommons)
+* <a href="https://facebook.com/creativecommons"><img src="img/fb.png" alt="Follow us on Facebook" /></a>
+	- [facebook.com/creativecommons](https://facebook.com/creativecommons)
 
 </div>
 

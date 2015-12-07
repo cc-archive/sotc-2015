@@ -676,7 +676,6 @@ valuable contributions. Thank you!
     - [twitter.com/creativecommons](https://twitter.com/creativecommons)
 * <a href="https://facebook.com/creativecommons"><img src="img/fb.png" alt="Follow us on Facebook" /></a>
 	- [facebook.com/creativecommons](https://facebook.com/creativecommons)
-</ul>
 
 </div>
 

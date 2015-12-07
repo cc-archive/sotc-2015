@@ -399,9 +399,10 @@ Més obert &mdash; Més restrictiu. Les llicències de CULTURA LLIURE menys rest
 
 ##### Estigueu connectats a Creative Commons. Seguiu-nos a Twitter i Facebook.
 
-* [Twitter](https://twitter.com/creativecommons)
-
-* [Facebook](https://facebook.com/creativecommons)
+* <a href="https://twitter.com/creativecommons"><img src="img/twitter.png" alt="Follow us on Twitter" /></a>
+    - [twitter.com/creativecommons](https://twitter.com/creativecommons)
+* <a href="https://facebook.com/creativecommons"><img src="img/fb.png" alt="Follow us on Facebook" /></a>
+	- [facebook.com/creativecommons](https://facebook.com/creativecommons)
 
 </div>
 
