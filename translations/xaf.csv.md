@@ -395,6 +395,9 @@ implement open policies.
 <div class="content">
 
 ##### 
+
+<img src="img/heart.png" alt="" />
+
 * [donate.creativecommons.org](https://donate.creativecommons.org)
 
 </div>

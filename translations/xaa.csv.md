@@ -395,6 +395,9 @@ implement open policies.
 <div class="content">
 
 ##### Invest in a creative, free, and open Internet: Support Creative Commons today.
+
+<img src="img/heart.png" alt="" />
+
 * [donate.creativecommons.org](https://donate.creativecommons.org)
 
 </div>
