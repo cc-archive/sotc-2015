@@ -1,5 +1,7 @@
 
-## State of the Commons {.bbs}
+## State of the Commons {.bb}
+
+<div><img src="img/sotc-header.png" alt="State of the Commons" class="sotc-image sotc-fakeheader" /></div>
 
 -----
 
@@ -447,13 +449,17 @@ implement open policies.
 
 -----
 
-## Thank You For Sharing! {.bbs}
+## Thank You For Sharing! {.bb}
+<div><img src="img/sotc-footer.png" alt="Thank You For Sharing" class="sotc-image sotc-fakeheader" /></div>
 
 <div class="col-md-6" id="invest-circle">
 
 <div class="content">
 
 ##### Invest in a creative, free and open Internet: Support Creative Commons today.
+
+<img src="img/heart.png" alt="" />
+
 * [donate.creativecommons.org](https://donate.creativecommons.org)
 
 </div>
@@ -486,8 +492,6 @@ implement open policies.
 
 * Design: Eva Rogers
 
-* HTML version: Matt Lee
-
-* $LANGUAGE translation: 
+* HTML versions: Matt Lee
 
 </footer>
