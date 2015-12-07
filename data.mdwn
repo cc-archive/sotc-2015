@@ -443,7 +443,7 @@ Breakdown of works by media type includes data from 16 platforms plus the Direct
 * Flickr: 356,403,451 / Source: [https://www.flickr.com/creativecommons](https://www.flickr.com/creativecommons/) verified by Flickr staff and accessed on 11/6/15
 * Wikimedia Commons: 23,124,319 (bitmaps + drawings) / Source: [https://meta.wikimedia.org/wiki/State_of_the_Commons/2015](https://meta.wikimedia.org/wiki/State_of_the_Commons/2015) verfied by WMF staff
 * Internet Archive: 42,122 / Source: Internet Archive staff
-* : 10,865,086 / Source:  staff
+* Europeana: 10,865,086 / Source: Europeana staff
 
 ### <span id="h.kqsi3yryhxtm"></span>“Videos: 18.4 million”
 
@@ -452,7 +452,7 @@ Breakdown of works by media type includes data from 16 platforms plus the Direct
 * Wikimedia Commons: 58,599 / Source: [https://meta.wikimedia.org/wiki/State_of_the_Commons/2015](https://meta.wikimedia.org/wiki/State_of_the_Commons/2015) verfied by WMF staff
 * MIT OpenCourseWare: 83 / Source: [http://ocw.mit.edu/about/site-statistics/monthly-reports](http://ocw.mit.edu/about/site-statistics/monthly-reports/) verified by MIT OCW staff
 * Internet Archive: 320,983 / Source: Internet Archive staff
-* : 25,369 / Source:  staff
+* Europeana: 25,369 / Source: Europeana staff
 
 ### <span id="h.x9p1m1ffhf26"></span>“Texts (Articles, Stories, Documents): 46.9 million”
 
@@ -703,6 +703,7 @@ Breakdown of works by platform includes data from 16 platforms and the Directory
 * \# of registered users that are active: 26,700
 * \# of users that use CC licenses, CC0 or PDM for their content: ~27,900 (90%)
 * Geographic breakdown of users (top 5 countries):
+
   * United States: 9,000
   * Netherlands: 4,000
   * UK: 3,000
@@ -779,7 +780,7 @@ Data was collected via an open call to the global open education community. All 
 
 **Reported savings to date in 2015**
 
-* All numbers are USD; savings reported in CAD have been converted using www.oanda.com
+* All numbers are USD; savings reported in CAD have been converted using [www.oanda.com](http://www.oanda.com/)
 * If a project reports $0, it is because the project has just started; it has not tracked savings to date; or the number was not verified by the source.
 * Not all projects were able to provide projected savings, so the total is a low estimate.
 
@@ -931,7 +932,7 @@ $538,192
 
 <td align="left">
 
-Method described in detail at http://open.bccampus.ca/2015/09/10/more-bc-open-textbook-stats/
+Method described in detail at [http://open.bccampus.ca/2015/09/10/more-bc-open-textbook-stats/](http://open.bccampus.ca/2015/09/10/more-bc-open-textbook-stats/)
 
 Source: BCcampus
 
@@ -963,7 +964,7 @@ $200,000
 
 No method described, but reported by news source.
 
-Source: http://archive.elpasotimes.com/news/ci_26690335/episd-switches-e-books-high-school-science/
+Source: [http://archive.elpasotimes.com/news/ci_26690335/episd-switches-e-books-high-school-science/](http://archive.elpasotimes.com/news/ci_26690335/episd-switches-e-books-high-school-science/)
 
 </td>
 
@@ -1203,7 +1204,7 @@ $227,175
 
 Open Oregon calculated these numbers by asking grantees to estimate max/min cost of previous textbooks, as well as estimated # of students enrolled per year.
 
-Source: Open Oregon; http://openoregon.org/2015-oer-special-project-grants-awarded/
+Source: Open Oregon; [http://openoregon.org/2015-oer-special-project-grants-awarded/](http://openoregon.org/2015-oer-special-project-grants-awarded/)
 
 </td>
 
@@ -1656,7 +1657,7 @@ $42,100
 
 ## <span id="h.do3odxeld3ki"></span>“Together with The William and Flora Hewlett Foundation, a longstanding open policy leader,  these foundations collectively made grants of approximately $1.9 billion in 2015”
 
-To arrive at this figure, we added the annual grantmaking figures from the most recent year available (2013) as listed on http://foundationcenter.org/. We assume those foundations will continue to make similar amounts of grants in the near future. The Gates Foundation policy applies only to research funding—it is not foundation-wide like the others. So we used the estimate of $900M/year quoted by [Science](http://news.sciencemag.org/funding/2014/11/gates-foundation-require-immediate-free-access-journal-articles).
+To arrive at this figure, we added the annual grantmaking figures from the most recent year available (2013) as listed on [http://foundationcenter.org/](http://foundationcenter.org/). We assume those foundations will continue to make similar amounts of grants in the near future. The Gates Foundation policy applies only to research funding—it is not foundation-wide like the others. So we used the estimate of $900M/year quoted by [Science](http://news.sciencemag.org/funding/2014/11/gates-foundation-require-immediate-free-access-journal-articles).
 
 Hewlett Foundation
 
@@ -1757,6 +1758,6 @@ Sarah Cohen, Open Textbook Network at University of Minnesota
 
 ## <span id="h.jst3ophcsi10"></span>Attributions                                        
 
-Bassel Khartabil drawing from http://freebassel.org/ and in the public domain, thanks to [CC0](http://creativecommons.org/publicdomain/zero/1.0/).
+Bassel Khartabil drawing from [http://freebassel.org/](http://freebassel.org/) and in the public domain, thanks to [CC0](http://creativecommons.org/publicdomain/zero/1.0/).
 
 Icons used with permission via subscription from the Noun Project. Courtesy these creators: Picture By Hoang Loi, VN; Book By Creative Stall, PK; Document By Melvin Salas, CR; Atomic By Geoffrey Joe, GB; Headphones By Molly Bramlet, US; Video-Player By Cédric Villain, FR; Book By Bryn Taylor, GB; 3D Glasses By Luis Rodrigues, PT; Cat By Rajha Surya, IN; Cat By Richard Zeid, US; Grandmother By Alberto Miranda, ES; Heart Bills By Till Teenck, DE; Public Domain; Book By Mike Ashley, AU; Gift By Stefan Parnarov, BG; Frame By Kari Svangstu, NO; Share By AJ Annunziata; Polaroid By Joe Mortell, GB; Waxing Crescent By hunotika. Icons originally licensed [CC BY](http://creativecommons.org/licenses/by/3.0/).
