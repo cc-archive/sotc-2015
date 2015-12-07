@@ -18,7 +18,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">180 Over 1 billion CC licensed ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼works in the Commons in 2015</td>
+<td style="text-align: left;">140 Over 1 billion CC licensed ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼works in the Commons in 2015</td>
 <td style="text-align: left;">2006</td>
 </tr>
 <tr class="even">
@@ -26,7 +26,7 @@
 <td style="text-align: left;">2010</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">850 Over 1 billion CC licensed ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼works in the Commons in 2015</td>
+<td style="text-align: left;">882 Over 1 billion CC licensed ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼works in the Commons in 2015</td>
 <td style="text-align: left;">2014</td>
 </tr>
 <tr class="even">

@@ -18,7 +18,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">180 Meer dan 1 miljard CC-gelicenseerde werken in de Commons in 2015</td>
+<td style="text-align: left;">140 Meer dan 1 miljard CC-gelicenseerde werken in de Commons in 2015</td>
 <td style="text-align: left;">2006</td>
 </tr>
 <tr class="even">
@@ -26,7 +26,7 @@
 <td style="text-align: left;">2010</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">850 Meer dan 1 miljard CC-gelicenseerde werken in de Commons in 2015</td>
+<td style="text-align: left;">882 Meer dan 1 miljard CC-gelicenseerde werken in de Commons in 2015</td>
 <td style="text-align: left;">2014</td>
 </tr>
 <tr class="even">

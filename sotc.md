@@ -63,7 +63,7 @@ CEO, Creative Commons
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">180 million</td>
+<td style="text-align: left;">140 million</td>
 <td style="text-align: left;">2006</td>
 </tr>
 <tr class="even">
@@ -71,7 +71,7 @@ CEO, Creative Commons
 <td style="text-align: left;">2010</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">850 million</td>
+<td style="text-align: left;">882 million</td>
 <td style="text-align: left;">2014</td>
 </tr>
 <tr class="even">

@@ -18,7 +18,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">180 Commonsissa on vuonna 2015 yli miljardi CC-lisensoitua teosta</td>
+<td style="text-align: left;">140 Commonsissa on vuonna 2015 yli miljardi CC-lisensoitua teosta</td>
 <td style="text-align: left;">2006</td>
 </tr>
 <tr class="even">
@@ -26,7 +26,7 @@
 <td style="text-align: left;">2010</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">850 Commonsissa on vuonna 2015 yli miljardi CC-lisensoitua teosta</td>
+<td style="text-align: left;">882 Commonsissa on vuonna 2015 yli miljardi CC-lisensoitua teosta</td>
 <td style="text-align: left;">2014</td>
 </tr>
 <tr class="even">

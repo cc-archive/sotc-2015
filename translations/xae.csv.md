@@ -18,7 +18,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">180 Viac ako 1 miliarda diel licencovaných pod CC v Commons v roku 2015</td>
+<td style="text-align: left;">140 Viac ako 1 miliarda diel licencovaných pod CC v Commons v roku 2015</td>
 <td style="text-align: left;">2006</td>
 </tr>
 <tr class="even">
@@ -26,7 +26,7 @@
 <td style="text-align: left;">2010</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">850 Viac ako 1 miliarda diel licencovaných pod CC v Commons v roku 2015</td>
+<td style="text-align: left;">882 Viac ako 1 miliarda diel licencovaných pod CC v Commons v roku 2015</td>
 <td style="text-align: left;">2014</td>
 </tr>
 <tr class="even">

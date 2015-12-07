@@ -18,7 +18,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">180 V roce 2015 je pod CC k dispozici přes jednu miliardu děl zveřejněných v Commons.</td>
+<td style="text-align: left;">140 V roce 2015 je pod CC k dispozici přes jednu miliardu děl zveřejněných v Commons.</td>
 <td style="text-align: left;">2006</td>
 </tr>
 <tr class="even">
@@ -26,7 +26,7 @@
 <td style="text-align: left;">2010</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">850 V roce 2015 je pod CC k dispozici přes jednu miliardu děl zveřejněných v Commons.</td>
+<td style="text-align: left;">882 V roce 2015 je pod CC k dispozici přes jednu miliardu děl zveřejněných v Commons.</td>
 <td style="text-align: left;">2014</td>
 </tr>
 <tr class="even">
