@@ -148,7 +148,7 @@ Offener &mdash; Einschränkender. Weniger einschränkende Free-Culture-Lizenzsen
 <div class="col-md-6 col-sm-12">
 <table class="table table-bordered table-striped">
 <tbody>
-<tr><td class="odd">**(missing)** (Arabisch)</td></tr>
+<tr><td class="odd">**(العربية)** (Arabisch)</td></tr>
 <tr><td class="even">**беларускі** (Weißrussisch)</td></tr>
 <tr><td class="odd">**Català** (Katalanisch)</td></tr>
 <tr><td class="even">**中国** (Chinesisch*)</td></tr>
@@ -180,7 +180,7 @@ Offener &mdash; Einschränkender. Weniger einschränkende Free-Culture-Lizenzsen
 <tr><td class="odd">**Melayu** (Malayisch)</td></tr>
 <tr><td class="even">**te reo Maori** (Maori)</td></tr>
 <tr><td class="odd">**norsk** (Norwegisch)</td></tr>
-<tr><td class="even">**missing** (Persisch (Farsi))</td></tr>
+<tr><td class="even">***فارسي** (Persisch (Farsi))</td></tr>
 <tr><td class="odd">**polski** (Polnisch)</td></tr>
 <tr><td class="even">**português** (Portugiesisch)</td></tr>
 <tr><td class="odd">**Română** (Rumänisch)</td></tr>

@@ -148,7 +148,7 @@
 <div class="col-md-6 col-sm-12">
 <table class="table table-bordered table-striped">
 <tbody>
-<tr><td class="odd">**(missing)** ({{107}})</td></tr>
+<tr><td class="odd">**(العربية)** ({{107}})</td></tr>
 <tr><td class="even">**беларускі** ({{108}})</td></tr>
 <tr><td class="odd">**Català** ({{109}})</td></tr>
 <tr><td class="even">**中国** ({{110}}*)</td></tr>
@@ -180,7 +180,7 @@
 <tr><td class="odd">**Melayu** ({{129}})</td></tr>
 <tr><td class="even">**te reo Maori** ({{130}})</td></tr>
 <tr><td class="odd">**norsk** ({{131}})</td></tr>
-<tr><td class="even">**missing** ({{132}})</td></tr>
+<tr><td class="even">***فارسي** ({{132}})</td></tr>
 <tr><td class="odd">**polski** ({{133}})</td></tr>
 <tr><td class="even">**português** ({{134}})</td></tr>
 <tr><td class="odd">**Română** ({{135}})</td></tr>

@@ -148,7 +148,7 @@ Avoimempi &mdash; Rajoittavampi. Vähemmän rajoittavat VAPAAN KULTTUURIN lisens
 <div class="col-md-6 col-sm-12">
 <table class="table table-bordered table-striped">
 <tbody>
-<tr><td class="odd">**(missing)** (arabia)</td></tr>
+<tr><td class="odd">**(العربية)** (arabia)</td></tr>
 <tr><td class="even">**беларускі** (valkovenäjä)</td></tr>
 <tr><td class="odd">**Català** (katalaani)</td></tr>
 <tr><td class="even">**中国** (kiina*)</td></tr>
@@ -180,7 +180,7 @@ Avoimempi &mdash; Rajoittavampi. Vähemmän rajoittavat VAPAAN KULTTUURIN lisens
 <tr><td class="odd">**Melayu** (malaiji)</td></tr>
 <tr><td class="even">**te reo Maori** (maori)</td></tr>
 <tr><td class="odd">**norsk** (norja)</td></tr>
-<tr><td class="even">**missing** (persia (farsi))</td></tr>
+<tr><td class="even">***فارسي** (persia (farsi))</td></tr>
 <tr><td class="odd">**polski** (puola)</td></tr>
 <tr><td class="even">**português** (portugali)</td></tr>
 <tr><td class="odd">**Română** (romania)</td></tr>

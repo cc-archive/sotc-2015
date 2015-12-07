@@ -148,7 +148,7 @@ Més obert &mdash; Més restrictiu. Les llicències de CULTURA LLIURE menys rest
 <div class="col-md-6 col-sm-12">
 <table class="table table-bordered table-striped">
 <tbody>
-<tr><td class="odd">**(missing)** (Àrab)</td></tr>
+<tr><td class="odd">**(العربية)** (Àrab)</td></tr>
 <tr><td class="even">**беларускі** (Bielorús)</td></tr>
 <tr><td class="odd">**Català** (Català)</td></tr>
 <tr><td class="even">**中国** (Xinès*)</td></tr>
@@ -180,7 +180,7 @@ Més obert &mdash; Més restrictiu. Les llicències de CULTURA LLIURE menys rest
 <tr><td class="odd">**Melayu** (Malai)</td></tr>
 <tr><td class="even">**te reo Maori** (Maorí)</td></tr>
 <tr><td class="odd">**norsk** (Noruec)</td></tr>
-<tr><td class="even">**missing** (Persa (Farsi))</td></tr>
+<tr><td class="even">***فارسي** (Persa (Farsi))</td></tr>
 <tr><td class="odd">**polski** (Polonès)</td></tr>
 <tr><td class="even">**português** (Portuguès)</td></tr>
 <tr><td class="odd">**Română** (Romanès)</td></tr>

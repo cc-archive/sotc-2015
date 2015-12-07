@@ -148,7 +148,7 @@ Bardziej otwarte &mdash; Bardziej restrykcyjnej. Mniej restrykcyjne licencje “
 <div class="col-md-6 col-sm-12">
 <table class="table table-bordered table-striped">
 <tbody>
-<tr><td class="odd">**(missing)** (arabski)</td></tr>
+<tr><td class="odd">**(العربية)** (arabski)</td></tr>
 <tr><td class="even">**беларускі** (białoruski)</td></tr>
 <tr><td class="odd">**Català** (kataloński)</td></tr>
 <tr><td class="even">**中国** (chiński*)</td></tr>
@@ -180,7 +180,7 @@ Bardziej otwarte &mdash; Bardziej restrykcyjnej. Mniej restrykcyjne licencje “
 <tr><td class="odd">**Melayu** (malajski)</td></tr>
 <tr><td class="even">**te reo Maori** (maori)</td></tr>
 <tr><td class="odd">**norsk** (norweski)</td></tr>
-<tr><td class="even">**missing** (perski)</td></tr>
+<tr><td class="even">***فارسي** (perski)</td></tr>
 <tr><td class="odd">**polski** (polski)</td></tr>
 <tr><td class="even">**português** (portugalski)</td></tr>
 <tr><td class="odd">**Română** (rumuński)</td></tr>

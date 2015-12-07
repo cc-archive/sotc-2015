@@ -148,7 +148,7 @@ a &mdash; a. a
 <div class="col-md-6 col-sm-12">
 <table class="table table-bordered table-striped">
 <tbody>
-<tr><td class="odd">**(missing)** (a)</td></tr>
+<tr><td class="odd">**(العربية)** (a)</td></tr>
 <tr><td class="even">**беларускі** (aa)</td></tr>
 <tr><td class="odd">**Català** (a)</td></tr>
 <tr><td class="even">**中国** (a*)</td></tr>
@@ -180,7 +180,7 @@ a &mdash; a. a
 <tr><td class="odd">**Melayu** (a)</td></tr>
 <tr><td class="even">**te reo Maori** (a)</td></tr>
 <tr><td class="odd">**norsk** (a)</td></tr>
-<tr><td class="even">**missing** (a)</td></tr>
+<tr><td class="even">***فارسي** (a)</td></tr>
 <tr><td class="odd">**polski** (a)</td></tr>
 <tr><td class="even">**português** (a)</td></tr>
 <tr><td class="odd">**Română** (a)</td></tr>

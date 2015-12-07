@@ -148,7 +148,7 @@ Más abierto &mdash; Más restrictivo. Las licencias de CULTURA LIBRE menos rest
 <div class="col-md-6 col-sm-12">
 <table class="table table-bordered table-striped">
 <tbody>
-<tr><td class="odd">**(missing)** (Árabe)</td></tr>
+<tr><td class="odd">**(العربية)** (Árabe)</td></tr>
 <tr><td class="even">**беларускі** (Bieloruso)</td></tr>
 <tr><td class="odd">**Català** (Catalán)</td></tr>
 <tr><td class="even">**中国** (Chino*)</td></tr>
@@ -180,7 +180,7 @@ Más abierto &mdash; Más restrictivo. Las licencias de CULTURA LIBRE menos rest
 <tr><td class="odd">**Melayu** (Malayo)</td></tr>
 <tr><td class="even">**te reo Maori** (Maorí)</td></tr>
 <tr><td class="odd">**norsk** (Noruego)</td></tr>
-<tr><td class="even">**missing** (Persa (Farsi))</td></tr>
+<tr><td class="even">***فارسي** (Persa (Farsi))</td></tr>
 <tr><td class="odd">**polski** (Polaco)</td></tr>
 <tr><td class="even">**português** (Portugués)</td></tr>
 <tr><td class="odd">**Română** (Rumano)</td></tr>

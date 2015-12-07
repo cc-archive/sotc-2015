@@ -148,7 +148,7 @@
 <div class="col-md-6 col-sm-12">
 <table class="table table-bordered table-striped">
 <tbody>
-<tr><td class="odd">**(missing)** (అరబ్బీ)</td></tr>
+<tr><td class="odd">**(العربية)** (అరబ్బీ)</td></tr>
 <tr><td class="even">**беларускі** (బెలారూషియన్)</td></tr>
 <tr><td class="odd">**Català** (కాటలాన్)</td></tr>
 <tr><td class="even">**中国** (చైనీస్*)</td></tr>
@@ -180,7 +180,7 @@
 <tr><td class="odd">**Melayu** (మలయ్)</td></tr>
 <tr><td class="even">**te reo Maori** (మవోరి)</td></tr>
 <tr><td class="odd">**norsk** (నోర్వేజియన్)</td></tr>
-<tr><td class="even">**missing** (పర్షియన్)</td></tr>
+<tr><td class="even">***فارسي** (పర్షియన్)</td></tr>
 <tr><td class="odd">**polski** (పాలిష్)</td></tr>
 <tr><td class="even">**português** (పోర్చుగీస్)</td></tr>
 <tr><td class="odd">**Română** (రొమానియన్)</td></tr>

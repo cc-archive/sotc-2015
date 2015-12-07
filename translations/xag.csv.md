@@ -148,7 +148,7 @@ Lebih terbuka &mdash; Lebih terbatas. Lisensi BUDAYA BEBAS yang lebih terbuka me
 <div class="col-md-6 col-sm-12">
 <table class="table table-bordered table-striped">
 <tbody>
-<tr><td class="odd">**(missing)** (Arab)</td></tr>
+<tr><td class="odd">**(العربية)** (Arab)</td></tr>
 <tr><td class="even">**беларускі** (Belarusia)</td></tr>
 <tr><td class="odd">**Català** (Katala)</td></tr>
 <tr><td class="even">**中国** (Mandarin*)</td></tr>
@@ -180,7 +180,7 @@ Lebih terbuka &mdash; Lebih terbatas. Lisensi BUDAYA BEBAS yang lebih terbuka me
 <tr><td class="odd">**Melayu** (Melayu Malaysia)</td></tr>
 <tr><td class="even">**te reo Maori** (Maori)</td></tr>
 <tr><td class="odd">**norsk** (Norwegia)</td></tr>
-<tr><td class="even">**missing** (Persia (Farsi))</td></tr>
+<tr><td class="even">***فارسي** (Persia (Farsi))</td></tr>
 <tr><td class="odd">**polski** (Polandia)</td></tr>
 <tr><td class="even">**português** (Portugis)</td></tr>
 <tr><td class="odd">**Română** (Rumania)</td></tr>

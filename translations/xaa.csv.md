@@ -148,7 +148,7 @@ More open &mdash; More restrictive. Less restrictive FREE CULTURE licenses allow
 <div class="col-md-6 col-sm-12">
 <table class="table table-bordered table-striped">
 <tbody>
-<tr><td class="odd">**(missing)** (Arabic)</td></tr>
+<tr><td class="odd">**(العربية)** (Arabic)</td></tr>
 <tr><td class="even">**беларускі** (Belarusian)</td></tr>
 <tr><td class="odd">**Català** (Catalan)</td></tr>
 <tr><td class="even">**中国** (Chinese*)</td></tr>
@@ -180,7 +180,7 @@ More open &mdash; More restrictive. Less restrictive FREE CULTURE licenses allow
 <tr><td class="odd">**Melayu** (Malay)</td></tr>
 <tr><td class="even">**te reo Maori** (Maori)</td></tr>
 <tr><td class="odd">**norsk** (Norwegian)</td></tr>
-<tr><td class="even">**missing** (Persian (Farsi))</td></tr>
+<tr><td class="even">***فارسي** (Persian (Farsi))</td></tr>
 <tr><td class="odd">**polski** (Polish)</td></tr>
 <tr><td class="even">**português** (Portuguese)</td></tr>
 <tr><td class="odd">**Română** (Romanian)</td></tr>

@@ -148,7 +148,7 @@ Otvorenejšie &mdash; Prísnejšie. "Menej obmedzujúce licencie „FREE CULTURE
 <div class="col-md-6 col-sm-12">
 <table class="table table-bordered table-striped">
 <tbody>
-<tr><td class="odd">**(missing)** (arabsky)</td></tr>
+<tr><td class="odd">**(العربية)** (arabsky)</td></tr>
 <tr><td class="even">**беларускі** (bielorusky)</td></tr>
 <tr><td class="odd">**Català** (katalánsky)</td></tr>
 <tr><td class="even">**中国** (čínsky*)</td></tr>
@@ -180,7 +180,7 @@ Otvorenejšie &mdash; Prísnejšie. "Menej obmedzujúce licencie „FREE CULTURE
 <tr><td class="odd">**Melayu** (malajsky)</td></tr>
 <tr><td class="even">**te reo Maori** (maori)</td></tr>
 <tr><td class="odd">**norsk** (nórsky)</td></tr>
-<tr><td class="even">**missing** (perzsky (farsi))</td></tr>
+<tr><td class="even">***فارسي** (perzsky (farsi))</td></tr>
 <tr><td class="odd">**polski** (poľsky)</td></tr>
 <tr><td class="even">**português** (portugalsky)</td></tr>
 <tr><td class="odd">**Română** (rumunsky)</td></tr>

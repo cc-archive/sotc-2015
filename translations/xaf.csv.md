@@ -148,7 +148,7 @@ Mere åbent &mdash; Mere restriktivt. De mindre restriktive FRI KULTUR licenser 
 <div class="col-md-6 col-sm-12">
 <table class="table table-bordered table-striped">
 <tbody>
-<tr><td class="odd">**(missing)** (Arabisk)</td></tr>
+<tr><td class="odd">**(العربية)** (Arabisk)</td></tr>
 <tr><td class="even">**беларускі** (Hviderussisk)</td></tr>
 <tr><td class="odd">**Català** (Catalansk)</td></tr>
 <tr><td class="even">**中国** (Kinesisk*)</td></tr>
@@ -180,7 +180,7 @@ Mere åbent &mdash; Mere restriktivt. De mindre restriktive FRI KULTUR licenser 
 <tr><td class="odd">**Melayu** (Malaysisk)</td></tr>
 <tr><td class="even">**te reo Maori** (Maorikansk)</td></tr>
 <tr><td class="odd">**norsk** (Norsk)</td></tr>
-<tr><td class="even">**missing** (Persisk (Farsi))</td></tr>
+<tr><td class="even">***فارسي** (Persisk (Farsi))</td></tr>
 <tr><td class="odd">**polski** (Polsk)</td></tr>
 <tr><td class="even">**português** (Portugisisk)</td></tr>
 <tr><td class="odd">**Română** (Rumænsk)</td></tr>

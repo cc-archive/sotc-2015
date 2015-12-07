@@ -148,7 +148,7 @@ LIBERÁLNĚJŠÍ &mdash; RESTRIKTIVNĚJŠÍ. Liberálnější licence SVOBODNÉ 
 <div class="col-md-6 col-sm-12">
 <table class="table table-bordered table-striped">
 <tbody>
-<tr><td class="odd">**(missing)** (arabština)</td></tr>
+<tr><td class="odd">**(العربية)** (arabština)</td></tr>
 <tr><td class="even">**беларускі** (běloruština)</td></tr>
 <tr><td class="odd">**Català** (katalánština)</td></tr>
 <tr><td class="even">**中国** (čínština**)</td></tr>
@@ -180,7 +180,7 @@ LIBERÁLNĚJŠÍ &mdash; RESTRIKTIVNĚJŠÍ. Liberálnější licence SVOBODNÉ 
 <tr><td class="odd">**Melayu** (malajština)</td></tr>
 <tr><td class="even">**te reo Maori** (maorština)</td></tr>
 <tr><td class="odd">**norsk** (norština)</td></tr>
-<tr><td class="even">**missing** (perština)</td></tr>
+<tr><td class="even">***فارسي** (perština)</td></tr>
 <tr><td class="odd">**polski** (polština)</td></tr>
 <tr><td class="even">**português** (portugalština)</td></tr>
 <tr><td class="odd">**Română** (rumunština)</td></tr>

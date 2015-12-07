@@ -148,7 +148,7 @@ Meer open &mdash; Meer restrictief. Minder restrictieve FREE CULTURE-licenties s
 <div class="col-md-6 col-sm-12">
 <table class="table table-bordered table-striped">
 <tbody>
-<tr><td class="odd">**(missing)** (Arabisch)</td></tr>
+<tr><td class="odd">**(العربية)** (Arabisch)</td></tr>
 <tr><td class="even">**беларускі** (Wit-Russisch)</td></tr>
 <tr><td class="odd">**Català** (Catalaans)</td></tr>
 <tr><td class="even">**中国** (Chinees*)</td></tr>
@@ -180,7 +180,7 @@ Meer open &mdash; Meer restrictief. Minder restrictieve FREE CULTURE-licenties s
 <tr><td class="odd">**Melayu** (Maleis)</td></tr>
 <tr><td class="even">**te reo Maori** (Maori)</td></tr>
 <tr><td class="odd">**norsk** (Noors)</td></tr>
-<tr><td class="even">**missing** (Farsi)</td></tr>
+<tr><td class="even">***فارسي** (Farsi)</td></tr>
 <tr><td class="odd">**polski** (Pools)</td></tr>
 <tr><td class="even">**português** (Portugees)</td></tr>
 <tr><td class="odd">**Română** (Roemeens)</td></tr>

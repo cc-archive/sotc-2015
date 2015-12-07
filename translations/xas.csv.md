@@ -148,7 +148,7 @@ Plus ouverte &mdash; Plus restrictive. es licences moins restrictives, compatibl
 <div class="col-md-6 col-sm-12">
 <table class="table table-bordered table-striped">
 <tbody>
-<tr><td class="odd">**(missing)** (arabe)</td></tr>
+<tr><td class="odd">**(العربية)** (arabe)</td></tr>
 <tr><td class="even">**беларускі** (biélorusse)</td></tr>
 <tr><td class="odd">**Català** (catalan)</td></tr>
 <tr><td class="even">**中国** (chinois*)</td></tr>
@@ -180,7 +180,7 @@ Plus ouverte &mdash; Plus restrictive. es licences moins restrictives, compatibl
 <tr><td class="odd">**Melayu** (malais)</td></tr>
 <tr><td class="even">**te reo Maori** (maori)</td></tr>
 <tr><td class="odd">**norsk** (norvégien)</td></tr>
-<tr><td class="even">**missing** (persan (farsi))</td></tr>
+<tr><td class="even">***فارسي** (persan (farsi))</td></tr>
 <tr><td class="odd">**polski** (polonais)</td></tr>
 <tr><td class="even">**português** (portugais)</td></tr>
 <tr><td class="odd">**Română** (roumain)</td></tr>
