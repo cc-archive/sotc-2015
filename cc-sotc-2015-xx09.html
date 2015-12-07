@@ -39,5 +39,60 @@
     
   </body>
 
+
+<div id="deed-donate-slide" style="display: none;">
+<div class="slide-close"></div>
+<div class="slide-trigger">
+<img src="/images/deed/logo-cc-heart-white.png" class="slide-logo" alt="" width="100" height="88"/>
+<p>This content is freely available under simple legal terms because of Creative Commons, a non-profit that survives on donations. If you love this content, and love that it's free for everyone, please consider a donation to support our work.</p>
+<button>Donate Now</button>
+</div>
+</div>
   
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script type="text/javascript">
+        $(document).ready(function() {
+            $('#deed-donate-slide').addClass('slider');
+            $('#deed-donate-slide').show();
+            // Set banner to reveal after X seconds
+            setTimeout(function(){
+                $('#deed-donate-slide').addClass('reveal');
+            }, 8000);
+            $(window).scroll(function() {
+                if ($(window).scrollTop() <= 160) {
+                    $('#deed-donate-slide').finish();
+                    //$('#deed-donate-slide').removeClass('reveal');
+                } else {
+                    $('#deed-donate-slide').addClass('reveal');
+                }
+            });
+
+            $('.slide-close').click(function(event) {
+                $('#deed-donate-slide').remove();
+            });
+
+            /* Close slider on pressing ESC */
+            $(document).keyup(function(e) {
+                if (e.keyCode === 27) {
+                    $('#deed-donate-slide').remove();
+                }
+            });
+
+            $(".slide-trigger p, .slide-trigger button").click(function(){
+                window.location.href = "https://donate.creativecommons.org/?utm_campaign=2015fund&utm_source=license_slide2015";
+  
+            });
+        });
+    </script>
+  
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-2010376-30', 'auto');
+  ga('send', 'pageview');
+
+</script>  
 </html>
