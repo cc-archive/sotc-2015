@@ -92,8 +92,8 @@ and Melinda Gates Foundation to the White House.
 
 Note: Data includes content licensed with the full CC license suite,
 along with content marked with CC public domain tools. This is a low
-bound estimate based on what we could count. Dig into our data
-sources.
+bound estimate based on what we could
+count. [Dig into our data sources]()
 
 -----
 
@@ -159,7 +159,8 @@ licenses allow for both commercial use and adaptations.
 ---
 
 Note: Data includes content licensed with the full CC license suite
-and marked with our public domain tools. Dig into our data sources.
+and marked with our public domain
+tools. [Dig into our data sources.]()
 
 -----
 
@@ -207,7 +208,7 @@ and marked with our public domain tools. Dig into our data sources.
 
 Note: Data includes content under the CC0 public domain dedication and
 Public Domain Mark, but not unmarked material in the public
-domain. Dig into our data sources.
+domain. [Dig into our data sources.]()
 
 -----
 
@@ -225,8 +226,8 @@ domain. Dig into our data sources.
 ---
 
 Note: Data tracks downloads on CC license buttons, or the number of
-times CC licensed content was viewed on a web page. Dig into our data
-sources.
+times CC licensed content was viewed on a web
+page. [Dig into our data sources]()
 
 -----
 
@@ -298,7 +299,7 @@ with 3 more to be published in 2015.
 Note: Data reflects total views of CC deed pages from Jan 1, 2005
 through Nov 3, 2015. * Category includes variations on that language
 for simplicity, eg. Chinese includes simplified and traditional
-Chinese. Dig into our data sources.
+Chinese. [Dig into our data sources.]()
 
 -----
 
@@ -350,7 +351,7 @@ Chinese. Dig into our data sources.
 
 Note: Data only reflects media on 16 platforms + Directory of Open
 Access Journals, just a slice of all available CC media on the
-web. Dig into our data sources.
+web. [Dig into our data sources.]()
 
 -----
 
@@ -398,7 +399,7 @@ web. Dig into our data sources.
 
 ---
 
-Note: Data reflects total CC licensed works on each platform, only 16 websites out of millions. Dig into our data sources.
+Note: Data reflects total CC licensed works on each platform, only 16 websites out of millions. [Dig into our data sources.]()
 
 -----
 
@@ -441,7 +442,7 @@ support for improving OER." />
 Note: *European Union is a collection of member states but included in
 this country list for reporting purposes; Data reflects savings for
 students in Canada and the United States; Data provided by the open
-education community. Dig into our data sources.
+education community. [Dig into our data sources.]()
 
 -----
 
