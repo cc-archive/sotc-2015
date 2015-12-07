@@ -225,7 +225,7 @@
 </thead>
 <tbody>
 <tr class="odd"><td>Flickr</td><td>35.6 కోట్ల చిత్రాలు</td></tr>
-<tr class="even"><td>Bandcamp</td><td>{{44}</td></tr>
+<tr class="even"><td>Bandcamp</td><td>19.5 లక్షల శ్రవ్యకాలు</td></tr>
 <tr class="odd"><td>Wikipedia</td><td>35.9 మిలియన్ వ్యాసాలు</td></tr>
 <tr class="even"><td>YouTube</td><td></td></tr>
 <tr class="odd"><td>Jamendo</td><td>496,000  శ్రవ్యకాలు</td></tr>

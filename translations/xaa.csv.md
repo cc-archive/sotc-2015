@@ -225,7 +225,7 @@ More open &mdash; More restrictive. Less restrictive FREE CULTURE licenses allow
 </thead>
 <tbody>
 <tr class="odd"><td>Flickr</td><td>356 million photos</td></tr>
-<tr class="even"><td>Bandcamp</td><td>{{44}</td></tr>
+<tr class="even"><td>Bandcamp</td><td>1.95 million tracks</td></tr>
 <tr class="odd"><td>Wikipedia</td><td>35.9 million articles</td></tr>
 <tr class="even"><td>YouTube</td><td></td></tr>
 <tr class="odd"><td>Jamendo</td><td>496,000 _ tracks</td></tr>

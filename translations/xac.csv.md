@@ -225,7 +225,7 @@ Más abierto &mdash; Más restrictivo. Las licencias de CULTURA LIBRE menos rest
 </thead>
 <tbody>
 <tr class="odd"><td>Flickr</td><td>356 millones de fotos</td></tr>
-<tr class="even"><td>Bandcamp</td><td>{{44}</td></tr>
+<tr class="even"><td>Bandcamp</td><td>1,95 millones de pistas</td></tr>
 <tr class="odd"><td>Wikipedia</td><td>35,9 millones de artículos</td></tr>
 <tr class="even"><td>YouTube</td><td></td></tr>
 <tr class="odd"><td>Jamendo</td><td>496,000 _pistas</td></tr>

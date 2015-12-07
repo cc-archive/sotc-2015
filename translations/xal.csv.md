@@ -225,7 +225,7 @@
 </thead>
 <tbody>
 <tr class="odd"><td>Flickr</td><td>35.6 ਕਰੋੜ ਫ਼ੋਟੋਆਂ</td></tr>
-<tr class="even"><td>Bandcamp</td><td>{{44}</td></tr>
+<tr class="even"><td>Bandcamp</td><td>19.5 ਲੱਖ ਟਰੈਕ</td></tr>
 <tr class="odd"><td>Wikipedia</td><td>3.59 ਕਰੋੜ ਲੇਖ</td></tr>
 <tr class="even"><td>YouTube</td><td></td></tr>
 <tr class="odd"><td>Jamendo</td><td>496,000 _ ਟਰੈਕ</td></tr>

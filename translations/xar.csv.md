@@ -225,7 +225,7 @@
 </thead>
 <tbody>
 <tr class="odd"><td>Flickr</td><td>୩୫୬ ମିଲିଅନ ଫଟୋ</td></tr>
-<tr class="even"><td>Bandcamp</td><td>{{44}</td></tr>
+<tr class="even"><td>Bandcamp</td><td>୧.୯୬ ମିଲିଅନ ଗୀତ</td></tr>
 <tr class="odd"><td>Wikipedia</td><td>୩୫.୯ ମିଲିଅନ ପ୍ରସଙ୍ଗ</td></tr>
 <tr class="even"><td>YouTube</td><td></td></tr>
 <tr class="odd"><td>Jamendo</td><td>496,000 _ ଗୀତ</td></tr>

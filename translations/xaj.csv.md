@@ -225,7 +225,7 @@
 </thead>
 <tbody>
 <tr class="odd"><td>Flickr</td><td>356 மில்லியன் படங்கள்</td></tr>
-<tr class="even"><td>Bandcamp</td><td>{{44}</td></tr>
+<tr class="even"><td>Bandcamp</td><td>1.95 மில்லியன் ஒலிக் கோப்புகள்</td></tr>
 <tr class="odd"><td>Wikipedia</td><td>35.9 மில்லியன் கட்டுரைகள்</td></tr>
 <tr class="even"><td>YouTube</td><td></td></tr>
 <tr class="odd"><td>Jamendo</td><td>496,000 ஒலிக் கோப்புகள்</td></tr>

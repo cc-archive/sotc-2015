@@ -225,7 +225,7 @@ LIBERÁLNĚJŠÍ &mdash; RESTRIKTIVNĚJŠÍ. Liberálnější licence SVOBODNÉ 
 </thead>
 <tbody>
 <tr class="odd"><td>Flickr</td><td>356 milionů fotek</td></tr>
-<tr class="even"><td>Bandcamp</td><td>{{44}</td></tr>
+<tr class="even"><td>Bandcamp</td><td>1,95 milionu nahrávek</td></tr>
 <tr class="odd"><td>Wikipedia</td><td>35,9 milionů článků</td></tr>
 <tr class="even"><td>YouTube</td><td></td></tr>
 <tr class="odd"><td>Jamendo</td><td>496,000 nahrávky</td></tr>

@@ -225,7 +225,7 @@
 </thead>
 <tbody>
 <tr class="odd"><td>Flickr</td><td>3 億 5600 萬張照片</td></tr>
-<tr class="even"><td>Bandcamp</td><td>{{44}</td></tr>
+<tr class="even"><td>Bandcamp</td><td>195 萬軌音效</td></tr>
 <tr class="odd"><td>Wikipedia</td><td>3590 萬篇文章</td></tr>
 <tr class="even"><td>YouTube</td><td></td></tr>
 <tr class="odd"><td>Jamendo</td><td>496,000 首音樂</td></tr>

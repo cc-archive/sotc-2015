@@ -225,7 +225,7 @@ Mere åbent &mdash; Mere restriktivt. De mindre restriktive FRI KULTUR licenser 
 </thead>
 <tbody>
 <tr class="odd"><td>Flickr</td><td>356 millioner fotos</td></tr>
-<tr class="even"><td>Bandcamp</td><td>{{44}</td></tr>
+<tr class="even"><td>Bandcamp</td><td>1,95 millioner numre</td></tr>
 <tr class="odd"><td>Wikipedia</td><td>35,9 millioner artikler</td></tr>
 <tr class="even"><td>YouTube</td><td></td></tr>
 <tr class="odd"><td>Jamendo</td><td>496,000 _ numre</td></tr>

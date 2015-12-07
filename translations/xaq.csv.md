@@ -225,7 +225,7 @@ Mer öppen &mdash; Mer begränsad. Mindre begränsade FRI KULTUR licenser som ti
 </thead>
 <tbody>
 <tr class="odd"><td>Flickr</td><td>356 miljoner foton</td></tr>
-<tr class="even"><td>Bandcamp</td><td>{{44}</td></tr>
+<tr class="even"><td>Bandcamp</td><td>1,95 miljoner spår</td></tr>
 <tr class="odd"><td>Wikipedia</td><td>35,9 miljoner artiklar</td></tr>
 <tr class="even"><td>YouTube</td><td></td></tr>
 <tr class="odd"><td>Jamendo</td><td>496,000 _spår</td></tr>

@@ -225,7 +225,7 @@ Bardziej otwarte &mdash; Bardziej restrykcyjnej. Mniej restrykcyjne licencje “
 </thead>
 <tbody>
 <tr class="odd"><td>Flickr</td><td>356 milionów zdjęć</td></tr>
-<tr class="even"><td>Bandcamp</td><td>{{44}</td></tr>
+<tr class="even"><td>Bandcamp</td><td>1.95 utworów</td></tr>
 <tr class="odd"><td>Wikipedia</td><td>35.9 milionów artykułów</td></tr>
 <tr class="even"><td>YouTube</td><td></td></tr>
 <tr class="odd"><td>Jamendo</td><td>496,000 utworów</td></tr>

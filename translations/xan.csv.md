@@ -225,7 +225,7 @@ Offener &mdash; Einschränkender. Weniger einschränkende Free-Culture-Lizenzsen
 </thead>
 <tbody>
 <tr class="odd"><td>Flickr</td><td>356 Millionen Fotos</td></tr>
-<tr class="even"><td>Bandcamp</td><td>{{44}</td></tr>
+<tr class="even"><td>Bandcamp</td><td>1,95 Millionen Tracks</td></tr>
 <tr class="odd"><td>Wikipedia</td><td>35,9 Millionen Artikel</td></tr>
 <tr class="even"><td>YouTube</td><td></td></tr>
 <tr class="odd"><td>Jamendo</td><td>496,000 _ Tracks</td></tr>

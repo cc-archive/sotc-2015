@@ -225,7 +225,7 @@ a &mdash; a. a
 </thead>
 <tbody>
 <tr class="odd"><td>Flickr</td><td>a</td></tr>
-<tr class="even"><td>Bandcamp</td><td>{{44}</td></tr>
+<tr class="even"><td>Bandcamp</td><td>a</td></tr>
 <tr class="odd"><td>Wikipedia</td><td>a</td></tr>
 <tr class="even"><td>YouTube</td><td></td></tr>
 <tr class="odd"><td>Jamendo</td><td>496,000 a</td></tr>

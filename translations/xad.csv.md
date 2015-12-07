@@ -225,7 +225,7 @@ Avoimempi &mdash; Rajoittavampi. Vähemmän rajoittavat VAPAAN KULTTUURIN lisens
 </thead>
 <tbody>
 <tr class="odd"><td>Flickr</td><td>356 miljoonaa valokuvaa</td></tr>
-<tr class="even"><td>Bandcamp</td><td>{{44}</td></tr>
+<tr class="even"><td>Bandcamp</td><td>1,95 miljoonaa ääniraitaa</td></tr>
 <tr class="odd"><td>Wikipedia</td><td>35,9 miljoonaa artikkelia</td></tr>
 <tr class="even"><td>YouTube</td><td></td></tr>
 <tr class="odd"><td>Jamendo</td><td>496,000 ääniraitaa</td></tr>

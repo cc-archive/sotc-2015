@@ -225,7 +225,7 @@ Més obert &mdash; Més restrictiu. Les llicències de CULTURA LLIURE menys rest
 </thead>
 <tbody>
 <tr class="odd"><td>Flickr</td><td>365 milions de fotos</td></tr>
-<tr class="even"><td>Bandcamp</td><td>{{44}</td></tr>
+<tr class="even"><td>Bandcamp</td><td>1,95 milions de pistes</td></tr>
 <tr class="odd"><td>Wikipedia</td><td>35,9 milions d'articles</td></tr>
 <tr class="even"><td>YouTube</td><td></td></tr>
 <tr class="odd"><td>Jamendo</td><td>496,000 _ pistes</td></tr>
