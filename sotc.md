@@ -210,6 +210,8 @@ Note: Data includes content under the CC0 public domain dedication and
 Public Domain Mark, but not unmarked material in the public
 domain. [Dig into our data sources.]()
 
+<div class="fundie">Creative Commons helps to build a more creative, free, and open commons. Please make your donation now to help us meet our year-end goal before our December 31 deadline.</div>
+
 -----
 
 <div id="b05" class="bubbles"></div>
@@ -401,6 +403,8 @@ web. [Dig into our data sources.]()
 
 Note: Data reflects total CC licensed works on each platform, only 16 websites out of millions. [Dig into our data sources.]()
 
+<div class="fundie">Creative Commons helps to build a more creative, free, and open commons. Please make your donation now to help us meet our year-end goal before our December 31 deadline.</div>
+
 -----
 
 <div id="b09" class="bubbles"></div>
@@ -524,6 +528,8 @@ come.
 #### #FREEBASSEL: Lead of Creative Commons Syria, Bassel Khartabil is a key contributor to projects that digitize, preserve, and share cultural heritage. He has been illegally imprisoned in Syria since March 2012. CC and its Board of Directors continue to call for Bassel's immediate and safe release. {.img-bk}
 
 ###### Building on his invaluable contributions to the commons, Bassel's #NEWPALMYRA project features the 3D models of the ancient ruins of Palmyra, one of Syria's greatest archaeological treasures. The online community platform and data repository is dedicated to the preservation and creative reuse of data about Palmyra. {.by}
+
+<div class="fundie">Creative Commons helps to build a more creative, free, and open commons. Please make your donation now to help us meet our year-end goal before our December 31 deadline.</div>
 
 -----
 
