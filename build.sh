@@ -27,6 +27,7 @@ pandoc --smart "mini.md" -T $PREFIX -V "pagetitle: $TITLE" -V "title: $TITLE" -w
 pandoc --smart "data.mdwn" --toc -V "pagetitle: Data" -V "title: Data" -w html5 -o "data.html" --template data-template.html
 
 cd translations
+echo "<ol>" > translation-index.html
 for langfile in *.csv
 do
     perl ../translate.pl $langfile ../translation.md > $langfile.md
@@ -34,6 +35,8 @@ do
 
     pandoc --smart "$langfile.md" -T $langfile -V "pagetitle: $TITLE" -V "title: $TITLE" -w html5 -o "../translation-$langfile.html" --template ../template.html
 
+    echo "<li><a href='translation-$langfile.html'>$langfile</a></li>" >> ../translation-index.html
+    
 done
 
 cd ..
