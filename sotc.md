@@ -134,17 +134,17 @@ sources.
 <td>No</style>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">CC Attribution NonCommercial (CC BY NC)</td>
+<td style="text-align: left;">CC Attribution Non Commercial (CC BY NC)</td>
 <td style="text-align: left;">6%</td>
 <td>No</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">CC Attribution NonCommercial ShareAlike (CC BY-NC-SA)</td>
+<td style="text-align: left;">CC Attribution Non Commercial ShareAlike (CC BY-NC-SA)</td>
 <td style="text-align: left;">14%</td>
 <td>No</style>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">CC Attribution NonCommercial NoDerivs (CC BY NC ND)</td>
+<td style="text-align: left;">CC Attribution Non Commercial NoDerivs (CC BY NC ND)</td>
 <td style="text-align: left;">14%</td>
 <td>No</td>
 </tr>
