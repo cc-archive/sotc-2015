@@ -255,9 +255,9 @@ Offener &mdash; Einschränkender. Weniger einschränkende Free-Culture-Lizenzsen
 
 ### Länder mit Open Education Policies {.by}
 
-<img src="img/oer-2-translated.svg" class="sotc-image" alt="Argentinien, Australien, Kanada, Europäische Union, Indonesien, Indien, Niederlande, Mauritius, Neuseeland, Polen, Rumänien, Schottland, Slowenien, Slowakische Republik, Südafrika, Vereinigtes Königreich, Vereinigte Staaten, Uruguay, Wales." />
+<img src="img/oer-2-translated.svg" class="sotc-image" alt="Open Education -- Argentinien, Australien, Kanada, Europäische Union, Indonesien, Indien, Niederlande, Mauritius, Neuseeland, Polen, Rumänien, Schottland, Slowenien, Slowakische Republik, Südafrika, Vereinigtes Königreich, Vereinigte Staaten, Uruguay, Wales." />
 
-Argentinien, Australien, Kanada, Europäische Union, Indonesien, Indien, Niederlande, Mauritius, Neuseeland, Polen, Rumänien, Schottland, Slowenien, Slowakische Republik, Südafrika, Vereinigtes Königreich, Vereinigte Staaten, Uruguay, Wales.
+Open Education -- Argentinien, Australien, Kanada, Europäische Union, Indonesien, Indien, Niederlande, Mauritius, Neuseeland, Polen, Rumänien, Schottland, Slowenien, Slowakische Republik, Südafrika, Vereinigtes Königreich, Vereinigte Staaten, Uruguay, Wales.
 
 ### Durch freie Lehrbücher haben Studenten schon {.by}
 

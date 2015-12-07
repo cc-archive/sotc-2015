@@ -255,9 +255,9 @@ Avoimempi &mdash; Rajoittavampi. Vähemmän rajoittavat VAPAAN KULTTUURIN lisens
 
 ### Maat, joilla on avoimen opetuksen politiikka {.by}
 
-<img src="img/oer-2-translated.svg" class="sotc-image" alt="Argentiina, Australia, Kanada, Euroopan Unioni, Indonesia, Intia, Alankomaat, Mauritius, Uusi-Seelanti, Puola, Romania, Skotlanti, Slovenia, Slovakia, Etelä-Afrikka, Yhdistyneet Kuningaskunnat, Yhdysvallat, Uruguay, Wales." />
+<img src="img/oer-2-translated.svg" class="sotc-image" alt="Avoin opetus -- Argentiina, Australia, Kanada, Euroopan Unioni, Indonesia, Intia, Alankomaat, Mauritius, Uusi-Seelanti, Puola, Romania, Skotlanti, Slovenia, Slovakia, Etelä-Afrikka, Yhdistyneet Kuningaskunnat, Yhdysvallat, Uruguay, Wales." />
 
-Argentiina, Australia, Kanada, Euroopan Unioni, Indonesia, Intia, Alankomaat, Mauritius, Uusi-Seelanti, Puola, Romania, Skotlanti, Slovenia, Slovakia, Etelä-Afrikka, Yhdistyneet Kuningaskunnat, Yhdysvallat, Uruguay, Wales.
+Avoin opetus -- Argentiina, Australia, Kanada, Euroopan Unioni, Indonesia, Intia, Alankomaat, Mauritius, Uusi-Seelanti, Puola, Romania, Skotlanti, Slovenia, Slovakia, Etelä-Afrikka, Yhdistyneet Kuningaskunnat, Yhdysvallat, Uruguay, Wales.
 
 ### Avoimet oppikirjat ovat säästäneet opiskelijoilta {.by}
 

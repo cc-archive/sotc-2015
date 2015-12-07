@@ -255,9 +255,9 @@ a &mdash; a. a
 
 ### a {.by}
 
-<img src="img/oer-2-translated.svg" class="sotc-image" alt="a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a." />
+<img src="img/oer-2-translated.svg" class="sotc-image" alt="a -- a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a." />
 
-a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a.
+a -- a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a.
 
 ### a {.by}
 

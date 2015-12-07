@@ -255,9 +255,9 @@ Más abierto &mdash; Más restrictivo. Las licencias de CULTURA LIBRE menos rest
 
 ### Países con políticas de educación en abierto {.by}
 
-<img src="img/oer-2-translated.svg" class="sotc-image" alt="Argentina, Australia , Canadá, Unión Europea, Indonesia , India, Países Bajos, Mauricio, Nueva Zelanda, Polonia, Rumania, Escocia, Eslovenia, Eslovaquia, Sudáfrica, Reino Unido, Estados Unidos, Uruguay, Gales." />
+<img src="img/oer-2-translated.svg" class="sotc-image" alt="Educación en Abierto -- Argentina, Australia , Canadá, Unión Europea, Indonesia , India, Países Bajos, Mauricio, Nueva Zelanda, Polonia, Rumania, Escocia, Eslovenia, Eslovaquia, Sudáfrica, Reino Unido, Estados Unidos, Uruguay, Gales." />
 
-Argentina, Australia , Canadá, Unión Europea, Indonesia , India, Países Bajos, Mauricio, Nueva Zelanda, Polonia, Rumania, Escocia, Eslovenia, Eslovaquia, Sudáfrica, Reino Unido, Estados Unidos, Uruguay, Gales.
+Educación en Abierto -- Argentina, Australia , Canadá, Unión Europea, Indonesia , India, Países Bajos, Mauricio, Nueva Zelanda, Polonia, Rumania, Escocia, Eslovenia, Eslovaquia, Sudáfrica, Reino Unido, Estados Unidos, Uruguay, Gales.
 
 ### Los libros de texto en abierto representan un ahorro para los estudiantes de {.by}
 
