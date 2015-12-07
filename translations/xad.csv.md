@@ -197,7 +197,7 @@ Avoimempi &mdash; Rajoittavampi. Vähemmän rajoittavat VAPAAN KULTTUURIN lisens
 
 ## Tutkimuksesta söpöihin kissakuviin, Commons on sisällön aarreaitta
 
-<img src="img/content-bubbles.svg" class="sotc-image" />
+<img src="img/content-bubbles-translated.svg" class="sotc-image" />
 
 * Kuvia (valokuvia, taidetta): 391 miljoonaa
 * Avoimia oppisisältöjä: 76,000
@@ -212,7 +212,7 @@ Avoimempi &mdash; Rajoittavampi. Vähemmän rajoittavat VAPAAN KULTTUURIN lisens
 ## CC on kaikkialla:<br />Miljoonat sivustot käyttävät CC-lisenssejä, mm. suuret alustat kuten Wikipedia ja Flickr, sekä pienet sivustot, kuten isoäitisi blogi.
 
 
-<img src="img/platforms.png" class="sotc-image" />
+<img src="img/platforms-translated.png" class="sotc-image" />
 
 <table class="table table-bordered table-striped">
 <thead>
@@ -255,7 +255,9 @@ Avoimempi &mdash; Rajoittavampi. Vähemmän rajoittavat VAPAAN KULTTUURIN lisens
 
 ### Maat, joilla on avoimen opetuksen politiikka {.by}
 
-<img src="img/oer-2.svg" class="sotc-image" alt="" />
+<img src="img/oer-2-translated.svg" class="sotc-image" alt="" />
+
+Argentiina, Australia, Kanada, Euroopan Unioni, Indonesia, Intia, Alankomaat, Mauritius, Uusi-Seelanti, Puola, Romania, Skotlanti, Slovenia, Slovakia, Etelä-Afrikka, Yhdistyneet Kuningaskunnat, Yhdysvallat, Uruguay, Wales, $174 MILJOONAA
 
 ### Avoimet oppikirjat ovat säästäneet opiskelijoilta {.by}
 

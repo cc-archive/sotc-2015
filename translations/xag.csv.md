@@ -197,7 +197,7 @@ Lebih terbuka &mdash; Lebih terbatas. Lisensi BUDAYA BEBAS yang lebih terbuka me
 
 ## Dari hasil penelitian sampai dengan foto kucing yang lucu, Commons menawarkan harta terpendam berupa konten.
 
-<img src="img/content-bubbles.svg" class="sotc-image" />
+<img src="img/content-bubbles-translated.svg" class="sotc-image" />
 
 * GAMBAR (FOTO, KARYA SENI): 391 JUTA
 * MATERI PENDIDIKAN TERBUKA: 76.000
@@ -212,7 +212,7 @@ Lebih terbuka &mdash; Lebih terbatas. Lisensi BUDAYA BEBAS yang lebih terbuka me
 ## CC ada dimana-mana:<br />Jutaan situs web menggunakan lisensi CC, termasuk platform utama seperti Wikipedia dan Flickr dan situs web yang lebih sederhana seperti blog yang dibuat oleh nenek Anda.
 
 
-<img src="img/platforms.png" class="sotc-image" />
+<img src="img/platforms-translated.png" class="sotc-image" />
 
 <table class="table table-bordered table-striped">
 <thead>
@@ -255,7 +255,9 @@ Lebih terbuka &mdash; Lebih terbatas. Lisensi BUDAYA BEBAS yang lebih terbuka me
 
 ### Negara-negara dengan Kebijakan Pendidikan Terbuka {.by}
 
-<img src="img/oer-2.svg" class="sotc-image" alt="" />
+<img src="img/oer-2-translated.svg" class="sotc-image" alt="" />
+
+Argentina, Australia, Kanada, Uni Eropa, Indonesia, India, Belanda, Mauritius, Selandia Baru, Polandia, Rumania, Skotlandia, Slovenia, Republik Slovakia, Afrika Selatan, Inggris, Amerika Serikat, Uruguay, Wales, 174 JUTA DOLAR
 
 ### Buku Sekolah Terbuka telah membuat para pelajar menghemat {.by}
 

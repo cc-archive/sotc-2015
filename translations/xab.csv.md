@@ -197,7 +197,7 @@ a &mdash; a. a
 
 ## a
 
-<img src="img/content-bubbles.svg" class="sotc-image" />
+<img src="img/content-bubbles-translated.svg" class="sotc-image" />
 
 * a
 * a
@@ -212,7 +212,7 @@ a &mdash; a. a
 ## changed<br />a
 
 
-<img src="img/platforms.png" class="sotc-image" />
+<img src="img/platforms-translated.png" class="sotc-image" />
 
 <table class="table table-bordered table-striped">
 <thead>
@@ -255,7 +255,9 @@ a &mdash; a. a
 
 ### a {.by}
 
-<img src="img/oer-2.svg" class="sotc-image" alt="" />
+<img src="img/oer-2-translated.svg" class="sotc-image" alt="" />
+
+a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a, a
 
 ### a {.by}
 

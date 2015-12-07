@@ -197,7 +197,7 @@ LIBERÁLNĚJŠÍ &mdash; RESTRIKTIVNĚJŠÍ. Liberálnější licence SVOBODNÉ 
 
 ## Od výzkumu po obrázky roztomilých kočiček, Commons nabízí opravdovou studnici obsahu.
 
-<img src="img/content-bubbles.svg" class="sotc-image" />
+<img src="img/content-bubbles-translated.svg" class="sotc-image" />
 
 * OBRÁZKY (FOTKY, UMĚLECKÁ DÍLA):  391 MILIONŮ
 * OTEVŘENÉ VZDĚLÁVACÍ ZDROJE: 76,000
@@ -212,7 +212,7 @@ LIBERÁLNĚJŠÍ &mdash; RESTRIKTIVNĚJŠÍ. Liberálnější licence SVOBODNÉ 
 ## CC jsou všude:<br />miliony webových stránek využívá licencí CC, a to včetně významných platforem jako jsou Wikipedie či Flickr, ale i menších webů jako je blog vaší babičky.
 
 
-<img src="img/platforms.png" class="sotc-image" />
+<img src="img/platforms-translated.png" class="sotc-image" />
 
 <table class="table table-bordered table-striped">
 <thead>
@@ -255,7 +255,9 @@ LIBERÁLNĚJŠÍ &mdash; RESTRIKTIVNĚJŠÍ. Liberálnější licence SVOBODNÉ 
 
 ### Země s politikami pro otevřené vzdělávání {.by}
 
-<img src="img/oer-2.svg" class="sotc-image" alt="" />
+<img src="img/oer-2-translated.svg" class="sotc-image" alt="" />
+
+ARGENTINA, AUSTRÁLIE, KANADA, EVROPSKÁ UNIE, INDONÉSIE, INDIE, NIZOZEMÍ, MAURICIUS, NOVÝ ZÉLAND, POLSKO, RUMUNSKO, SKOTSKO, SLOVINSKO, SLOVENSKÁ REPUBLIKA, JIHOAFRICKÁ REPUBLIKA, SPOJENÉ KRÁLOVSTVÍ, SPOJENÉ STÁTY, URUGUAY, WALES, 174 milionů doladů
 
 ### Otevřené učebnice již ušetřily studentům {.by}
 

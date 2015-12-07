@@ -197,7 +197,7 @@
 
 ## 從研究報告到可愛的貓圖，公眾授權作品是素材的寶庫
 
-<img src="img/content-bubbles.svg" class="sotc-image" />
+<img src="img/content-bubbles-translated.svg" class="sotc-image" />
 
 * 圖片（照片、繪圖）：3 億 9100 萬
 * 開放教育資源： 76,000
@@ -212,7 +212,7 @@
 ## 到處有 CC：<br />從主流平台如維基百科、Flickr，到小一點的網站例如您親友的部落格，全世界有上百萬個網站採用創用 CC 授權條款。
 
 
-<img src="img/platforms.png" class="sotc-image" />
+<img src="img/platforms-translated.png" class="sotc-image" />
 
 <table class="table table-bordered table-striped">
 <thead>
@@ -255,7 +255,9 @@
 
 ### 有開放教育政策的國家 {.by}
 
-<img src="img/oer-2.svg" class="sotc-image" alt="" />
+<img src="img/oer-2-translated.svg" class="sotc-image" alt="" />
+
+阿根廷, 澳大利亞, 加拿大, 歐盟, 印尼, 印度, 荷蘭, 模里西斯, 紐西蘭, 波蘭, 羅馬尼亞, 蘇格蘭, 斯洛維尼亞, 斯洛伐克, 南美, 英國, 美國, 烏拉圭, 威爾斯, 1 億 7400 萬美元
 
 ### 開放教材已經為學生節省了 {.by}
 

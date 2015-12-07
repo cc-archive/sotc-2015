@@ -197,7 +197,7 @@ Meer open &mdash; Meer restrictief. Minder restrictieve FREE CULTURE-licenties s
 
 ## De Commons biedt een schatkist aan content, van onderzoek tot schattige kattenplaatjes. 
 
-<img src="img/content-bubbles.svg" class="sotc-image" />
+<img src="img/content-bubbles-translated.svg" class="sotc-image" />
 
 * AFBEELDINGEN (FOTO’S, KUNSTWERKEN): 391 MILJOEN
 * OPEN LEERMIDDELEN: 76.000
@@ -212,7 +212,7 @@ Meer open &mdash; Meer restrictief. Minder restrictieve FREE CULTURE-licenties s
 ## CC is overal:<br />Miljoenen websites gebruiken CC-licenties, inclusief grote platforms zoals Wikipedia, Flickr en kleinere websites zoals de blog van je oma.
 
 
-<img src="img/platforms.png" class="sotc-image" />
+<img src="img/platforms-translated.png" class="sotc-image" />
 
 <table class="table table-bordered table-striped">
 <thead>
@@ -255,7 +255,9 @@ Meer open &mdash; Meer restrictief. Minder restrictieve FREE CULTURE-licenties s
 
 ### Landen met Open Onderwijs-beleid {.by}
 
-<img src="img/oer-2.svg" class="sotc-image" alt="" />
+<img src="img/oer-2-translated.svg" class="sotc-image" alt="" />
+
+Argentinië, Australië, Canada, Europese Unie, Indonesië, India, Nederland, Mauritanië, Nieuw-Zeeland, Polen, Roemenië, Schotland, Slovenië, Slowakije, Zuid-Afrika, Verenigd Koninkrijk, Verenigde staten, Uruguay, Wales, $174 MILJOEN
 
 ### Open Leerboeken besparen studenten {.by}
 

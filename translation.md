@@ -197,7 +197,7 @@
 
 ## {{29}}
 
-<img src="img/content-bubbles.svg" class="sotc-image" />
+<img src="img/content-bubbles-translated.svg" class="sotc-image" />
 
 * {{30}}
 * {{31}}
@@ -211,7 +211,7 @@
 
 ## {{38}}<br />{{157}}
 
-<img src="img/platforms.png" class="sotc-image" />
+<img src="img/platforms-translated.png" class="sotc-image" />
 
 <table class="table table-bordered table-striped">
 <thead>
@@ -254,7 +254,9 @@
 
 ### {{59}} {.by}
 
-<img src="img/oer-2.svg" class="sotc-image" alt="" />
+<img src="img/oer-2-translated.svg" class="sotc-image" alt="" />
+
+{{64}}, {{65}}, {{62}}, {{66}}, {{67}}, {{60}}, {{71}}, {{72}}, {{73}}, {{74}}, {{75}}, {{76}}, {{77}}, {{78}}, {{79}}, {{80}}, {{81}}, {{82}}, {{83}}, {{84}}
 
 ### {{63}} {.by}
 

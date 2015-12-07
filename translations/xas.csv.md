@@ -197,7 +197,7 @@ Plus ouverte &mdash; Plus restrictive. es licences moins restrictives, compatibl
 
 ## Du travail de recherche aux photos de chats, les Creative Commons offrent une immense richesse de contenus.
 
-<img src="img/content-bubbles.svg" class="sotc-image" />
+<img src="img/content-bubbles-translated.svg" class="sotc-image" />
 
 * IMAGES (PHOTOS, DESSINS, ILLUSTRATIONS) : 391 MILLIONS
 * RESSOURCES ÉDUCATIVES OUVERTES : 76 000
@@ -212,7 +212,7 @@ Plus ouverte &mdash; Plus restrictive. es licences moins restrictives, compatibl
 ## Les CC sont omniprésentes :<br />Des millions de plateformes utilisent les licences CC, non seulement les￼￼￼￼￼￼￼ grands portails tels que ￼￼￼￼Wikipédia ou Flickr, mais aussi des sites plus discrets comme le blogue de votre grand-mère. 
 
 
-<img src="img/platforms.png" class="sotc-image" />
+<img src="img/platforms-translated.png" class="sotc-image" />
 
 <table class="table table-bordered table-striped">
 <thead>
@@ -255,7 +255,9 @@ Plus ouverte &mdash; Plus restrictive. es licences moins restrictives, compatibl
 
 ### Pays développant une politique d'Éducation Ouverte {.by}
 
-<img src="img/oer-2.svg" class="sotc-image" alt="" />
+<img src="img/oer-2-translated.svg" class="sotc-image" alt="" />
+
+Argentine, Australie, Canada, Union européenne, Indonésie, Inde, Pays-Bas, Île Maurice, Nouvelle-Zélande, Pologne, Roumanie, Écosse, Slovénie, République slovaque, Afrique du Sud, Royaume-Uni, États-Unis, Uruguay, Pays de Galles, 174 MILLIONS DE DOLLARS
 
 ### Les manuels libres ont économisé aux étudiants {.by}
 

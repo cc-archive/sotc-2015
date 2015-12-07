@@ -197,7 +197,7 @@ Bardziej otwarte &mdash; Bardziej restrykcyjnej. Mniej restrykcyjne licencje “
 
 ## Od badań naukowych po zdjęcia śmiesznych kotów, licencje CC służą udostępnianiu skarbów tego świata
 
-<img src="img/content-bubbles.svg" class="sotc-image" />
+<img src="img/content-bubbles-translated.svg" class="sotc-image" />
 
 * OBRAZY (ZDJĘCIA, SZTUKA): 391 MILIONÓW
 * OTWARTE ZASOBY EDUKACYJNE: 76 000
@@ -212,7 +212,7 @@ Bardziej otwarte &mdash; Bardziej restrykcyjnej. Mniej restrykcyjne licencje “
 ## CC jest wszędzie:<br />miliony stron internetowych korzystają z licencji CC, w tym najważniejsze portale, takie jak: Wikipedia i Flickr oraz mniejsze, takie jak blog Twojej babci.
 
 
-<img src="img/platforms.png" class="sotc-image" />
+<img src="img/platforms-translated.png" class="sotc-image" />
 
 <table class="table table-bordered table-striped">
 <thead>
@@ -255,7 +255,9 @@ Bardziej otwarte &mdash; Bardziej restrykcyjnej. Mniej restrykcyjne licencje “
 
 ### Kraje prowadzące polityke {.by}
 
-<img src="img/oer-2.svg" class="sotc-image" alt="" />
+<img src="img/oer-2-translated.svg" class="sotc-image" alt="" />
+
+Argentyna, Australia, Kanada, Unia Europejska, Indonezja, Indie, Holandia, Mauritius, Nowa Zelandia, Polska, Rumunia, Szkocja, Słowenia, Słowacja, Republika Południowej Afryki, Wielka Brytania, Stany Zjednoczone, Urugwaj, Walia, 174 miliony
 
 ### Dzięki otwartym podręcznikom studenci zaoszczędzili {.by}
 

@@ -197,7 +197,7 @@ Mer öppen &mdash; Mer begränsad. Mindre begränsade FRI KULTUR licenser som ti
 
 ## I sökandet efter söta kattbilder, erbjuder Commons ett smörgåsbord av innehåll
 
-<img src="img/content-bubbles.svg" class="sotc-image" />
+<img src="img/content-bubbles-translated.svg" class="sotc-image" />
 
 * BILDER (FOTON, KONSTVERK): 391 miljoner
 * ÖPPNA LÄRRESURSER: 76 000
@@ -212,7 +212,7 @@ Mer öppen &mdash; Mer begränsad. Mindre begränsade FRI KULTUR licenser som ti
 ## CC är överallt<br />Miljoner webbplatser använder CC licenserna, alltifrån stora plattformar som Wikipedia och Flickr till mindre webbplatser som din mormors blogg.
 
 
-<img src="img/platforms.png" class="sotc-image" />
+<img src="img/platforms-translated.png" class="sotc-image" />
 
 <table class="table table-bordered table-striped">
 <thead>
@@ -255,7 +255,9 @@ Mer öppen &mdash; Mer begränsad. Mindre begränsade FRI KULTUR licenser som ti
 
 ### Länder med Policies för Open Education Policies  {.by}
 
-<img src="img/oer-2.svg" class="sotc-image" alt="" />
+<img src="img/oer-2-translated.svg" class="sotc-image" alt="" />
+
+Argentina, Australien, Kanada, Europeiska unionen, Indonesien, Indien, Nederländerna, Mauritius , Nya Zeeland, Polen, Rumänien, Skottland, Slovenien, Slovakien, Sydafrika, Storbritannien, USA, Uruguay, Wales, 174 MILJONER DOLLAR
 
 ### Öppna textböcker gör att studenter sparar {.by}
 

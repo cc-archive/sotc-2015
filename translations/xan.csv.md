@@ -197,7 +197,7 @@ Offener &mdash; Einschränkender. Weniger einschränkende Free-Culture-Lizenzsen
 
 ## Von der Forschung bis zu süßen Katzefotos sind die Commons eine Schatztruhe von Inhalten.
 
-<img src="img/content-bubbles.svg" class="sotc-image" />
+<img src="img/content-bubbles-translated.svg" class="sotc-image" />
 
 * BILDER (FOTOS, GRAFIKEN): 391 MILLIONEN
 * OFFENE BILDUNGSRESSOURCEN (OER): 76.000
@@ -212,7 +212,7 @@ Offener &mdash; Einschränkender. Weniger einschränkende Free-Culture-Lizenzsen
 ## CC ist überall:<br />Millionen von Websites nutzen CC-Lizenzen, einschließlich großer Plattformen wie Wikipedia und Flickr und kleinerer Websites wie des Blogs deiner Oma.
 
 
-<img src="img/platforms.png" class="sotc-image" />
+<img src="img/platforms-translated.png" class="sotc-image" />
 
 <table class="table table-bordered table-striped">
 <thead>
@@ -255,7 +255,9 @@ Offener &mdash; Einschränkender. Weniger einschränkende Free-Culture-Lizenzsen
 
 ### Länder mit Open Education Policies {.by}
 
-<img src="img/oer-2.svg" class="sotc-image" alt="" />
+<img src="img/oer-2-translated.svg" class="sotc-image" alt="" />
+
+Argentinien, Australien, Kanada, Europäische Union, Indonesien, Indien, Niederlande, Mauritius, Neuseeland, Polen, Rumänien, Schottland, Slowenien, Slowakische Republik, Südafrika, Vereinigtes Königreich, Vereinigte Staaten, Uruguay, Wales, 174 MILLIONEN US-DOLLAR
 
 ### Durch freie Lehrbücher haben Studenten schon {.by}
 

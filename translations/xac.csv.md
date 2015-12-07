@@ -197,7 +197,7 @@ Más abierto &mdash; Más restrictivo. Las licencias de CULTURA LIBRE menos rest
 
 ## El procomún ofrece un tesoro escondido de contenidos, desde resultados de investigación a lindas fotografías de gatos
 
-<img src="img/content-bubbles.svg" class="sotc-image" />
+<img src="img/content-bubbles-translated.svg" class="sotc-image" />
 
 * IMÁGENES (FOTOS, OBRAS DE ARTE): 391 MILLONES
 * RECURSOS EDUCATIVOS ABIERTOS: 76.000
@@ -212,7 +212,7 @@ Más abierto &mdash; Más restrictivo. Las licencias de CULTURA LIBRE menos rest
 ## CC está en todas partes<br />Millones de sitios web utilizan licencias CC, incluyendo las principales plataformas de contenidos como Wikipedia y Flickr y sitios más pequeños como el blog de tu abuela.
 
 
-<img src="img/platforms.png" class="sotc-image" />
+<img src="img/platforms-translated.png" class="sotc-image" />
 
 <table class="table table-bordered table-striped">
 <thead>
@@ -255,7 +255,9 @@ Más abierto &mdash; Más restrictivo. Las licencias de CULTURA LIBRE menos rest
 
 ### Países con políticas de educación en abierto {.by}
 
-<img src="img/oer-2.svg" class="sotc-image" alt="" />
+<img src="img/oer-2-translated.svg" class="sotc-image" alt="" />
+
+Argentina, Australia , Canadá, Unión Europea, Indonesia , India, Países Bajos, Mauricio, Nueva Zelanda, Polonia, Rumania, Escocia, Eslovenia, Eslovaquia, Sudáfrica, Reino Unido, Estados Unidos, Uruguay, Gales, 174 MILLONES DE DÓLARES
 
 ### Los libros de texto en abierto representan un ahorro para los estudiantes de {.by}
 

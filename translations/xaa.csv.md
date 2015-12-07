@@ -197,7 +197,7 @@ More open &mdash; More restrictive. Less restrictive FREE CULTURE licenses allow
 
 ## From research to cute cat photos, the Commons offers a treasure trove of content.
 
-<img src="img/content-bubbles.svg" class="sotc-image" />
+<img src="img/content-bubbles-translated.svg" class="sotc-image" />
 
 * IMAGES (PHOTOS, ARTWORKS): 391 MILLION
 * OPEN EDUCATIONAL RESOURCES: 76,000
@@ -212,7 +212,7 @@ More open &mdash; More restrictive. Less restrictive FREE CULTURE licenses allow
 ## CC is everywhere: ￼￼<br />Millions of websites use CC licenses,￼￼￼￼￼￼￼ including major platforms like ￼￼￼￼Wikipedia and Flickr and smaller ￼￼￼￼￼websites like your grandma’s blog.
 
 
-<img src="img/platforms.png" class="sotc-image" />
+<img src="img/platforms-translated.png" class="sotc-image" />
 
 <table class="table table-bordered table-striped">
 <thead>
@@ -255,7 +255,9 @@ More open &mdash; More restrictive. Less restrictive FREE CULTURE licenses allow
 
 ### ￼Countries with Open Education Policies {.by}
 
-<img src="img/oer-2.svg" class="sotc-image" alt="" />
+<img src="img/oer-2-translated.svg" class="sotc-image" alt="" />
+
+Argentina, Australia, Canada, European Union, Indonesia, India, Netherlands, Mauritius, New Zealand, Poland, Romania, Scotland, Slovenia, Slovak Republic, South Africa, United Kingdom, United States, Uruguay, Wales, $174 MILLION
 
 ### ￼Open Textbooks have saved students {.by}
 

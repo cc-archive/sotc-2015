@@ -197,7 +197,7 @@ Més obert &mdash; Més restrictiu. Les llicències de CULTURA LLIURE menys rest
 
 ## Els emprius ofereixen un tresor amagat de continguts, des de resultats de la recerca a boniques fotografies de gats
 
-<img src="img/content-bubbles.svg" class="sotc-image" />
+<img src="img/content-bubbles-translated.svg" class="sotc-image" />
 
 * IMATGES (FOTOS, OBRES D'ART): 391 MILIONS
 * RECURSOS EDUCATIUS OBERTS: 76.000
@@ -212,7 +212,7 @@ Més obert &mdash; Més restrictiu. Les llicències de CULTURA LLIURE menys rest
 ## CC és a tot arreu:<br />Milions de llocs web utilitzen llicències CC, incloent-hi les principals plataformes de continguts com Wikipedia i Flickr, així com llocs web més petits com el blog de la vostra àvia
 
 
-<img src="img/platforms.png" class="sotc-image" />
+<img src="img/platforms-translated.png" class="sotc-image" />
 
 <table class="table table-bordered table-striped">
 <thead>
@@ -255,7 +255,9 @@ Més obert &mdash; Més restrictiu. Les llicències de CULTURA LLIURE menys rest
 
 ### Països amb polítiques d'educació en obert {.by}
 
-<img src="img/oer-2.svg" class="sotc-image" alt="" />
+<img src="img/oer-2-translated.svg" class="sotc-image" alt="" />
+
+Argentina, Austràlia, Canadà, Unió Europea, Indonèsia, Índia, Països Baixos, Maurici, Nova Zelanda, Polònia, Romania, Escòcia, Eslovènia, República Eslovaca, Sud-àfrica, Regne Unit, Estats Units, Uruguai, Gal·les, 174 MILIONS DE DÒLARS
 
 ### Els llibres de text en obert respresent un estalvi per als estudiants de {.by}
 

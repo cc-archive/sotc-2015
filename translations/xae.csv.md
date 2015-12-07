@@ -197,7 +197,7 @@ Otvorenejšie &mdash; Prísnejšie. "Menej obmedzujúce licencie „FREE CULTURE
 
 ## Od výskumu po roztomilé fotky mačiek, Commons dokáže ponúknuť skutočne hodnotný obsah.
 
-<img src="img/content-bubbles.svg" class="sotc-image" />
+<img src="img/content-bubbles-translated.svg" class="sotc-image" />
 
 * OBRAZY (FOTOGRAFIE, UMELECKÉ DIELA): 391 MILIÓNOV
 * OTVORENÉ VZDELÁVACIE ZDROJE: 76 000
@@ -212,7 +212,7 @@ Otvorenejšie &mdash; Prísnejšie. "Menej obmedzujúce licencie „FREE CULTURE
 ## CC je všade:<br />CC licencie sú používané miliónmi webových stránok, vrátane hlavných platforiem ako sú Wikipédia či Fliker, ale aj menšími webovými stránkami ako napríklad blog tvojej babičky.
 
 
-<img src="img/platforms.png" class="sotc-image" />
+<img src="img/platforms-translated.png" class="sotc-image" />
 
 <table class="table table-bordered table-striped">
 <thead>
@@ -255,7 +255,9 @@ Otvorenejšie &mdash; Prísnejšie. "Menej obmedzujúce licencie „FREE CULTURE
 
 ### Krajiny s politikou otvoreného vzdelávania {.by}
 
-<img src="img/oer-2.svg" class="sotc-image" alt="" />
+<img src="img/oer-2-translated.svg" class="sotc-image" alt="" />
+
+Argentína, Austrália, Kanada, Európska únia, Indonézia, India, Holandsko, Maurícius, Nový Zéland, Poľsko, Rumunsko, Škótsko, Slovinsko, Slovenská republika, Južná Afrika, Veľká Británia, Spojené Štáty, Uruguaj, Wales, 174 MILIÓNOV $
 
 ### Verejne prístupné učebnice pomáhajú študentom {.by}
 

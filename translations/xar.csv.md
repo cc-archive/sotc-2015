@@ -197,7 +197,7 @@
 
 ## ଗବେଷଣାରୁ ଆରମ୍ଭ କରି ବିରାଡ଼ି ଫଟୋ ଯାଏ କମନ୍ସ ଅନେକ କଣ୍ଟେଣ୍ଟ ଯୋଗାଇଥାଏ ।
 
-<img src="img/content-bubbles.svg" class="sotc-image" />
+<img src="img/content-bubbles-translated.svg" class="sotc-image" />
 
 * ଛବି (ଫଟୋ, ଆର୍ଟୱାର୍କ): ୩୯୧ ମିଲିଅନ
 * ଓପନ ଏଜୁକେସନାଲ ରିସୋର୍ସ: ୭୬,୦୦୦
@@ -212,7 +212,7 @@
 ## CC ସବୁଠି ।￼￼<br />ଉଇକିପିଡ଼ିଆ ଓ ଫ୍ଲିକର ଭଳି ବଡ଼ ସଂଗଠନରୁ ଆରମ୍ଭ କରି ଆପଣଙ୍କ ଜେଜେମାଙ୍କ ବ୍ଲଗ ଭଳି ଛୋଟ ୱେବସାଇଟ ଯାଏ ମିଲିଅନ ମିଲିଅନ ୱେବସାଇଟ CC ଲାଇସେନ୍ସ ବ୍ୟବହାର କରନ୍ତି ।
 
 
-<img src="img/platforms.png" class="sotc-image" />
+<img src="img/platforms-translated.png" class="sotc-image" />
 
 <table class="table table-bordered table-striped">
 <thead>
@@ -255,7 +255,9 @@
 
 ### ଓପନ ଏଜୁକେସନ ନୀତି ଥିବା ଦେଶସମୂହ {.by}
 
-<img src="img/oer-2.svg" class="sotc-image" alt="" />
+<img src="img/oer-2-translated.svg" class="sotc-image" alt="" />
+
+ଆର୍ଜେଣ୍ଟିନା, ଅଷ୍ଟ୍ରେଲିଆ, କାନାଡ଼ା, ଇଉରୋପିଆନ ଇଉନିଅନ, ଇଣ୍ଡୋନେସିଆ, ଭାରତ, ନେଦରଲାଣ୍ଡ୍ସ, ମରିସସ, ନିଉଜିଲାଣ୍ଡ, ପୋଲାଣ୍ଡ, ରୋମାନିଆ, ସ୍କଟଲାଣ୍ଡ, ସ୍ଲୋଭେନିଆ, ସ୍ଲୋଭାକ୍କ ରିପବ୍ଲିକ, ଦକ୍ଷିଣ ଆଫ୍ରିକା, ଯୁକ୍ତରାଜ୍ୟ, ଯୁକ୍ତରାଷ୍ଟ୍ର ଆମେରିକା, ଉରୁଗୁଏ, ଉଏଲ୍ସ, $୧୭୪ ମିଲିଅନ
 
 ### ଓପନ ଟେକ୍ସଟବୁକ ଛାତ୍ରମାନଙ୍କୁ ବଞ୍ଚାଇଦେଲା {.by}
 

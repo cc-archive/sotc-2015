@@ -197,7 +197,7 @@ Mere åbent &mdash; Mere restriktivt. De mindre restriktive FRI KULTUR licenser 
 
 ## Fra forskning til søde katte, den digitale fælled tilbyder en skattekiste af indhold.
 
-<img src="img/content-bubbles.svg" class="sotc-image" />
+<img src="img/content-bubbles-translated.svg" class="sotc-image" />
 
 * BILLEDER (FOTOS, KUNSTVÆRKER): 391 MILLIONER
 * ÅBNE UDDANNELSESRESOURCER: 76.000
@@ -212,7 +212,7 @@ Mere åbent &mdash; Mere restriktivt. De mindre restriktive FRI KULTUR licenser 
 ## CC er overalt:<br />Millioner af websites bruger CC-licenser, inklusiv store platforme såsom Wikipedia og Flickr og mindre websites såsom din mormors blog.
 
 
-<img src="img/platforms.png" class="sotc-image" />
+<img src="img/platforms-translated.png" class="sotc-image" />
 
 <table class="table table-bordered table-striped">
 <thead>
@@ -255,7 +255,9 @@ Mere åbent &mdash; Mere restriktivt. De mindre restriktive FRI KULTUR licenser 
 
 ### Lande med politikker for Åben Uddannelse {.by}
 
-<img src="img/oer-2.svg" class="sotc-image" alt="" />
+<img src="img/oer-2-translated.svg" class="sotc-image" alt="" />
+
+Argentina, Australien, Canada, Den Europæiske Union, Indonesien, Indien, Holland, Mauretanien, New Zealand, Polen, Rumænien, Skotland, Slovenien, Slovakiet, Sydafrika, Storbritanien, USA, Uruguay, Wales, 174 MILLIONER DOLLARS
 
 ### Åbne tekstbøger har sparet studerende {.by}
 

@@ -197,7 +197,7 @@
 
 ## ਕਾਮਨਜ਼ ਵਿੱਚ ਸਮਗੱਰੀ ਦਾ ਭੰਡਾਰ ਮੌਜੂਦ ਹੈ, ਖੋਜ ਤੋਂ ਲੈਕੇ ਬਿੱਲੀਆਂ ਦੀਆਂ ਤਸਵੀਰਾਂ ਤੱਕ
 
-<img src="img/content-bubbles.svg" class="sotc-image" />
+<img src="img/content-bubbles-translated.svg" class="sotc-image" />
 
 * ਤਸਵੀਰਾਂ (ਫ਼ੋਟੋਆਂ, ): 39.1 ਕਰੋੜ
 * ਆਜ਼ਾਦ ਸਿੱਖਿਆ ਸਬੰਧੀ ਸਰੋਤ: 76,000
@@ -212,7 +212,7 @@
 ## ਸੀਸੀ ਹਰ ਜਗ੍ਹਾ ਹੈ:<br />ਲੱਖਾਂ ਵੈੱਬਸਾਈਟਾਂ ਸੀਸੀ ਲਸੰਸਾਂ ਦੀ ਵਰਤੋਂ ਕਰਦੀਆਂ ਹਨ, ਇਸ ਵਿੱਚ ਵਿਕੀਪੀਡੀਆ ਅਤੇ ਫ਼ਲੀਕਰ ਵਰਗੀਆਂ ਮਸ਼ਹੂਰ ਵੈੱਬਸਾਈਟਾਂ ਦੇ ਨਾਲ-ਨਾਲ ਕੁਝ ਛੋਟੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਵੀ ਸ਼ਾਮਲ ਹਨ।
 
 
-<img src="img/platforms.png" class="sotc-image" />
+<img src="img/platforms-translated.png" class="sotc-image" />
 
 <table class="table table-bordered table-striped">
 <thead>
@@ -255,7 +255,9 @@
 
 ### ਆਜ਼ਾਦ ਸਿੱਖਿਆ ਪਾਲਸੀਆਂ ਵਾਲੇ ਮੁਲਕ {.by}
 
-<img src="img/oer-2.svg" class="sotc-image" alt="" />
+<img src="img/oer-2-translated.svg" class="sotc-image" alt="" />
+
+ਅਰਜਨਟੀਨਾ, ਆਸਟਰੇਲੀਆ, ਕੈਨੇਡਾ, ਯੂਰਪੀ ਸੰਘ, ਇੰਡੋਨੇਸ਼ੀਆ, ਭਾਰਤ, ਨੀਦਰਲੈਂਡਜ਼, ਮੌਰੀਸ਼ੀਅਸ, ਨਿਊ ਜ਼ੀਲੈਂਡ, ਪੋਲੈਂਡ, ਰੋਮਾਨੀਆ, ਸਕਾਟਲੈਂਡ, ਸਲੋਵੀਨੀਆ, ਸਲੋਵਾਕ ਗਣਰਾਜ, ਦੱਖਣੀ ਅਫ਼ਰੀਕਾ, ਸੰਯੁਕਤ ਬਾਦਸ਼ਾਹੀ (ਯੂਕੇ), ਸੰਯੁਕਤ ਰਾਜ ਅਮਰੀਕਾ (ਯੂਐਸ), ਉਰੂਗੁਏ, ਵੇਲਜ਼, $17.4 ਕਰੋੜ
 
 ### ਆਜ਼ਾਦ ਪੁਸਤਕਾਂ ਨੇ ਵਿਦਿਆਰਥੀਆਂ ਦੇ ਬਹੁਤ ਸਾਰੇ ਪੈਸੇ ਬਚਾਏ ਹਨ  {.by}
 
