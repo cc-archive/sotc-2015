@@ -672,9 +672,9 @@ valuable contributions. Thank you!
 
 ##### Tune in to all things Creative Commons. Follow us on Twitter &amp; Facebook.
 
-* [Follow us on Twitter](https://twitter.com/creativecommons)
+* <a href="https://twitter.com/creativecommons"><img src="img/twitter.png" alt="Follow us on Twitter" /></a>
 
-* [Follow us on Facebook](https://facebook.com/creativecommons)
+* <a href="https://facebook.com/creativecommons"><img src="img/fb.png" alt="Follow us on Facebook" /></a>
 
 </div>
 
