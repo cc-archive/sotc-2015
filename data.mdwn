@@ -355,9 +355,10 @@ Breakdown by license: Google + *Platforms not cached by Google* = Total estimate
 * CC BY-NC: 11,130,000 + *45,793,028* = 56,923,028
 * CC BY-NC-SA: 37,230,000 + *99,330,609* = 136,560,609
 * CC BY-NC-ND: 47,340,000 + *90,361,041* = 137,701,041
-* CC0: 21,950,000 + *372,095* = 22,322,095
-* PDM: 1,410,000 + *1,220,335* = 2,630,335
-* Retired PD tool: 10,010,000
+* Public domain total: 33,370,000 + *1,592,430* = 34,962,430
+    - CC0: 21,950,000 + *372,095* = 22,322,095
+    - PDM: 1,410,000 + *1,220,335* = 2,630,335
+    - Retired PD tool: 10,010,000
 
 Total Free Culture works (CC BY + CC BY-SA + Public domain): 652,533,677. CC uses the definition of free cultural works at Freedom Defined to categorize the CC licenses. “Free Culture” licenses allow for both commercial use and adaptations. Learn more at http://creativecommons.org/freeworks.
 
@@ -366,8 +367,14 @@ Total Free Culture works (CC BY + CC BY-SA + Public domain): 652,533,677. CC use
 The bar graph reflects the following data by year:
 
 * Total public domain works marked with CC tools in 2006: 3,276,000 (no breakdown by tool)
-* Total public domain works marked with CC tools in 2014: 17,557,500 (CC0: 10,310,000; PDM: 1,510,000; Retired PD tool: 5,737,500)
-* Total public domain works marked with CC tools in 2015: 34,962,430 (CC0: 22,322,095; PDM: 2,630,335; Retired PD tool: 10,010,000)
+* Total public domain works marked with CC tools in 2014: 17,557,500 
+    - CC0: 10,310,000
+    - PDM: 1,510,000 
+    - Retired PD tool: 5,737,500
+* Total public domain works marked with CC tools in 2015: 34,962,430 
+    - CC0: 22,322,095
+    - PDM: 2,630,335 
+    - Retired PD tool: 10,010,000
 
 Sources:
 
@@ -486,15 +493,15 @@ Breakdown of works by platform includes data from 16 platforms and the Directory
 ### <span id="h.qupr84nuu1pp"></span>“Flickr: 356 million photos”
 
 * Exact total: 356,403,451
-  * CC BY: 67,354,310
-  * CC BY-ND: 19,215,096
-  * CC BY-NC-ND: 90,361,041
-  * CC BY-NC: 45,793,028
-  * CC BY-NC-SA: 99,330,609
-  * CC BY-SA: 32,756,937
-  * CC0: 372,095
-  * PDM: 1,220,335
- * Source: [https://www.flickr.com/creativecommons](https://www.flickr.com/creativecommons) verified by Flickr staff and accessed on 11/6/15
+    - CC BY: 67,354,310
+    - CC BY-ND: 19,215,096
+    - CC BY-NC-ND: 90,361,041
+    - CC BY-NC: 45,793,028
+    - CC BY-NC-SA: 99,330,609
+    - CC BY-SA: 32,756,937
+    - CC0: 372,095
+    - PDM: 1,220,335
+* Source: [https://www.flickr.com/creativecommons](https://www.flickr.com/creativecommons) verified by Flickr staff and accessed on 11/6/15
 
 ### <span id="h.lzaw45332axf"></span>“Wikipedia: 35.9 million articles”
 
@@ -508,14 +515,14 @@ Breakdown of works by platform includes data from 16 platforms and the Directory
 ### <span id="h.v42szqwch34v"></span>“Wikimedia Commons: 21.6 million media files”
 
 * Exact total: 21,650,962
-  * CC0: 832,515
-  * CC-BY: 3,427,781
-  * CC-BY-NC: 4,839
-  * CC-BY-SA: 17,385,701
-  * CC-BY-ND: 0
-  * CC-BY-NC-SA: 123
-  * CC-BY-NC-ND: 3
-  * PDM: 0
+    - CC0: 832,515
+    - CC-BY: 3,427,781
+    - CC-BY-NC: 4,839
+    - CC-BY-SA: 17,385,701
+    - CC-BY-ND: 0
+    - CC-BY-NC-SA: 123
+    - CC-BY-NC-ND: 3
+    - PDM: 0
 * \# of works under Version 4.0: 2,902,825
 * percentage of works under CC or public domain out of ALL works on platform: 83.2%
 * \# of registered users: 5,254,013
@@ -527,14 +534,14 @@ Breakdown of works by platform includes data from 16 platforms and the Directory
 ### <span id="h.ek9v7mypm10f"></span>“Europeana: 20.9 million digital objects”
 
 * Exact total: 20,953,772
-  * PDM: 10,300,806
-  * CC0: 517,675
-  * CC BY-SA: 2,953,210
-  * CC BY-NC-ND: 3,311,299
-  * CC BY-NC-SA: 1,836,195
-  * CC BY: 1,398,867
-  * CC BY-NC: 551,597  
-  * CC BY-ND: 84,123  
+    - PDM: 10,300,806
+    - CC0: 517,675
+    - CC BY-SA: 2,953,210
+    - CC BY-NC-ND: 3,311,299
+    - CC BY-NC-SA: 1,836,195
+    - CC BY: 1,398,867
+    - CC BY-NC: 551,597  
+    - CC BY-ND: 84,123  
 * Source: Europeana staff
 
 ### <span id="h.f4d70kebr0vd"></span>“YouTube: 13 million videos”
@@ -545,27 +552,27 @@ Breakdown of works by platform includes data from 16 platforms and the Directory
 ### <span id="h.8cg4x0708t1v"></span>“Vimeo: 5 million videos”
 
 * Exact total: 4,918,817 (Excludes CC0, so rounding up to 5 million)
-  * CC: 55,583,807 videos
-  * CC BY: 1,213,461
-  * CC BY-SA: 408,614
-  * CC BY-ND: 298,931
-  * CC BY-NC: 790,365
-  * CC BY-NC-SA: 587,729
-  * CC BY-NC-ND: 1,619,817
-  * CC0: Unknown
+    - CC: 55,583,807 videos
+    - CC BY: 1,213,461
+    - CC BY-SA: 408,614
+    - CC BY-ND: 298,931
+    - CC BY-NC: 790,365
+    - CC BY-NC-SA: 587,729
+    - CC BY-NC-ND: 1,619,817
+    - CC0: Unknown
 * Source: Vimeo API ([1](https://developer.vimeo.com/api/playground/creativecommons), [2](https://developer.vimeo.com/api/playground/videos))
 
 ### <span id="h.gu5uqzu9xua7"></span>“Internet Archive: 2 million files”
 
 * Exact total: 2,006,490
-  * CC BY-NC-ND: 479,181
-  * PDM: 391,930
-  * CC BY-SA:  320,436
-  * CC BY-NC-SA:  248,785
-  * CC0: 223,036
-  * CC BY: 220,781
-  * CC BY-ND: 65,126
-  * CC BY-NC: 57,215
+    - CC BY-NC-ND: 479,181
+    - PDM: 391,930
+    - CC BY-SA:  320,436
+    - CC BY-NC-SA:  248,785
+    - CC0: 223,036
+    - CC BY: 220,781
+    - CC BY-ND: 65,126
+    - CC BY-NC: 57,215
 * \# of works under Version 4.0: 102,900
 * percentage of works under CC or public domain out of ALL works on platform: 8%
 * \# of registered users: 2,335,606
@@ -584,47 +591,46 @@ Breakdown of works by platform includes data from 16 platforms and the Directory
 ### <span id="h.8v6974stsfic"></span>“500px: 661,000 photos”
 
 * Exact total: 661,307
-  * CC BY-NC: 114,024
-  * CC BY-NC-ND: 227,233
-  * CC BY-NC-SA: 148,951  
-  * CC BY: 14,064
-  * CC BY-ND: 34,831  
-  * CC BY-SA:  52,717
+    - CC BY-NC: 114,024
+    - CC BY-NC-ND: 227,233
+    - CC BY-NC-SA: 148,951  
+    - CC BY: 14,064
+    - CC BY-ND: 34,831  
+    - CC BY-SA:  52,717
 * percentage of works under CC or public domain out of ALL works on platform: 1.46% of total public photos
 * \# of registered users: 6,000,000
 * \# of registered users that are active: 1,000,000
 * \# of users that use CC licenses, CC0 or PDM for their content: 56,837
 * Geographic breakdown of users (top 15 countries; # of distinct users):
-
-    * United States: 4,390
-  * Germany: 3,139
-  * France: 2,484
-  * Spain: 2,082
-  * India: 1,242
-  * Canada: 1,186
-  * United Kingdom: 1,137
-  * Brasil: 1,126
-  * Italy: 943
-  * Russia: 836
-  * China: 821
-  * México: 656
-  * Australia: 651
-  * Switzerland: 429
-  * Argentina: 413
+    - United States: 4,390
+    - Germany: 3,139
+    - France: 2,484
+    - Spain: 2,082
+    - India: 1,242
+    - Canada: 1,186
+    - United Kingdom: 1,137
+    - Brasil: 1,126
+    - Italy: 943
+    - Russia: 836
+    - China: 821
+    - México: 656
+    - Australia: 651
+    - Switzerland: 429
+    - Argentina: 413
 * Source: 500px staff
 
 ### <span id="h.a2mlxub8sfwc"></span>“Jamendo: 496,000 tracks”
 
 * Exact total: 496,289
-  * CC BY: 26,305
-  * CC BY-SA: 107,117
-  * CC BY-NC: 6,301
-  * CC BY-ND: 19,210
-  * CC BY-NC-SA: 228,977
-  * CC BY-NC-ND: 106,258
-  * CC NC-Sampling+ (retired tool): 1,505
-  * CC Sampling+ (retired tool): 616
-  * Free Art License: 1,050 ([compatible with but not equivalent](http://creativecommons.org/weblog/entry/44030) to CC BY-SA)
+    - CC BY: 26,305
+    - CC BY-SA: 107,117
+    - CC BY-NC: 6,301
+    - CC BY-ND: 19,210
+    - CC BY-NC-SA: 228,977
+    - CC BY-NC-ND: 106,258
+    - CC NC-Sampling+ (retired tool): 1,505
+    - CC Sampling+ (retired tool): 616
+    - Free Art License: 1,050 ([compatible with but not equivalent](http://creativecommons.org/weblog/entry/44030) to CC BY-SA)
 * percentage of works under CC or public domain out of ALL works on platform: 99.8%
 * \# of registered users: 2,453,719
 * Source: Jamendo staff
@@ -636,29 +642,29 @@ Breakdown of works by platform includes data from 16 platforms and the Directory
 * Total # of downloads of CC content: ~22.8 million in 2014 (1.9 million monthly article downloads in 2014)
 * Total # of views of CC content: ~139.2 million in 2014 (11.6 million monthly article views in 2014)
 * Geographic breakdown of users (Regions of corresponding authors of research articles published in 2014):
-  * Americas: 32%
-  * UK and Europe: 33%
-  * Asia-Pacific: 33%
-  * Rest of the world: 3%
+    - Americas: 32%
+    - UK and Europe: 33%
+    - Asia-Pacific: 33%
+    - Rest of the world: 3%
 * Source: PLOS staff
 
 ### <span id="h.ba75xbtciil9"></span>“Total Open Access articles under CC BY: 675,000; under any CC license: 1.3 million”
 
 * Exact total (any CC license): 1,323,304
-  * CC BY: 675,686
+    - CC BY: 675,686
 * Source: Directory of Open Access Journals ([DOAJ](https://doaj.org/)) on October 26, 2015
 
 ### <span id="h.2ceczmwp6m1h"></span>“Free Music Archive: 86,000 tracks”
 
 * Exact total: 86,394
-  * CC BY: 3,615
-  * CC BY-NC: 7,093
-  * CC BY-ND: 802
-  * CC BY-SA: 2,265
-  * CC BY-NC-SA: 37,814
-  * CC BY-NC-ND: 33,801
-  * CC0: 774
-  * PDM: 197
+    - CC BY: 3,615
+    - CC BY-NC: 7,093
+    - CC BY-ND: 802
+    - CC BY-SA: 2,265
+    - CC BY-NC-SA: 37,814
+    - CC BY-NC-ND: 33,801
+    - CC0: 774
+    - PDM: 197
 * \# of works under Version 4.0: 12,319
 * percentage of works under CC or public domain out of ALL works on platform: 96%
 * Total # of downloads of CC content: 90,694,768
@@ -676,20 +682,20 @@ Breakdown of works by platform includes data from 16 platforms and the Directory
 * Total # of views of CC content: ~60 million visits in 2015 (5 million unique visitors a month)
 * \# of registered users: 300,000+
 * Geographic breakdown of users (top 10 countries):
-  * United States: 50.8%
-  * India: 7.4%
-  * United Kingdom: 6.4%
-  * Australia: 4.5%
-  * Philippines: 4.3%
-  * Canada: 3.6%
-  * Kenya: 2.4%
-  * Malaysia: 1.9%
-  * Pakistan: 1.6%
-  * South Africa: 1.3%
+    - United States: 50.8%
+    - India: 7.4%
+    - United Kingdom: 6.4%
+    - Australia: 4.5%
+    - Philippines: 4.3%
+    - Canada: 3.6%
+    - Kenya: 2.4%
+    - Malaysia: 1.9%
+    - Pakistan: 1.6%
+    - South Africa: 1.3%
 * Breakdown by type of user:
-  * Students: 85%
-  * Educators, Admin or Faculty: 10%
-  * Other (experts, self-learner): 5%
+    - Students: 85%
+    - Educators, Admin or Faculty: 10%
+    - Other (experts, self-learner): 5%
 * Source: Boundless staff
 
 ### <span id="h.so15a7cg9tog"></span>“Tribe of Noise: 29,000 tracks”
@@ -704,35 +710,34 @@ Breakdown of works by platform includes data from 16 platforms and the Directory
 * \# of registered users that are active: 26,700
 * \# of users that use CC licenses, CC0 or PDM for their content: ~27,900 (90%)
 * Geographic breakdown of users (top 5 countries):
-
-  * United States: 9,000
-  * Netherlands: 4,000
-  * UK: 3,000
-  * South Africa: 2,000
-  * Canada: 1,000
-  * Australia: 10,000
+    - United States: 9,000
+    - Netherlands: 4,000
+    - UK: 3,000
+    - South Africa: 2,000
+    - Canada: 1,000
+    - Australia: 10,000
 * Age breakdown of users:
-  * <16 years: 2%
-  * 16-25 years: 21%
-  * 26-35 years: 27%
-  * 36-45 years: 21%
-  * 46-55 years: 16%
-  * 56-65 years: 10%
-  * 65+ years: 3%
+    - <16 years: 2%
+    - 16-25 years: 21%
+    - 26-35 years: 27%
+    - 36-45 years: 21%
+    - 46-55 years: 16%
+    - 56-65 years: 10%
+    - 65+ years: 3%
 * Source: Tribe of Noise staff
 
 ### <span id="h.6sv43jv9oez1"></span>“Skills Commons: 24,000 career training materials”
 
 * Exact total: 24,069
-  * CC BY: 3,402
-  * CC BY-SA: 3,429
-  * CC BY-ND: 3,464
-  * CC BY-NC: 3,430
-  * CC BY-NC-SA: 3,430
-  * CC BY-NC-ND: 3,465
-  * Public Domain: 45
-  * CC0: 3,402
-  * Other: 2
+    - CC BY: 3,402
+    - CC BY-SA: 3,429
+    - CC BY-ND: 3,464
+    - CC BY-NC: 3,430
+    - CC BY-NC-SA: 3,430
+    - CC BY-NC-ND: 3,465
+    - Public Domain: 45
+    - CC0: 3,402
+    - Other: 2
 * percentage of works under CC or public domain out of ALL works on platform: 100%
 * Total # of downloads of CC content: 24,254
 * Total # of listens of CC content: 37,903
@@ -751,16 +756,16 @@ Breakdown of works by platform includes data from 16 platforms and the Directory
 * Total # of views of CC content: 1,214,440,794 (web + YouTube views)
 * \# of registered users: n/a (121,589,875 unique visitors)
 * Geographic breakdown of users (top 15 countries; # of distinct users):
-  * North America: 44%
-  * South America: 4%
-  * Africa: 6%
-  * Europe and Russia: 17%
-  * Asia-Pacific: 29%
+    - North America: 44%
+    - South America: 4%
+    - Africa: 6%
+    - Europe and Russia: 17%
+    - Asia-Pacific: 29%
 * Breakdown by type of user:
-  * Learners: 43%
-  * Students: 42%
-  * Educators: 9%
-  * Other: 6%
+    - Learners: 43%
+    - Students: 42%
+    - Educators: 9%
+    - Other: 6%
 * Source: MIT OCW staff; October 2015 report ([http://ocw.mit.edu/about/site-statistics/monthly-reports/](http://ocw.mit.edu/about/site-statistics/monthly-reports/)); [http://ocw.mit.edu/about/site-statistics/](http://ocw.mit.edu/about/site-statistics/)
 
 ## <span id="h.hbeh8yiab37k"></span>Countries with Open Education policies
@@ -845,7 +850,7 @@ $1,000,000
 
 Textbook savings calculated by looking at the actual number of students enrolled in each class, and then using the cost for the non-OER textbooks from the previous semester. Example: for ARTS 113, the previous non-OER text cost was $117.50\. Had the 315 students enrolled in the class this fall had to purchase the previous text, the total cost would have been $37,012.50\. The OER used in this class this semester is free, so we consider $37,012.50 to be the savings to our students. In total over the last three years 21,536 students have not had to purchase a textbook for a savings of $1.97 million.
 
-Source: College staff obtained data from faculty using OER; https://campustechnology.com/articles/2015/11/20/u-georgia-nears-2-million-mark-in-oer-savings.aspx
+Source: College staff obtained data from faculty using OER; [https://campustechnology.com/articles/2015/11/20/u-georgia-nears-2-million-mark-in-oer-savings.aspx](https://campustechnology.com/articles/2015/11/20/u-georgia-nears-2-million-mark-in-oer-savings.aspx)
 
 </td>
 
@@ -1115,7 +1120,7 @@ $4,584,000
 
 Savings calculated using class size of 20 and textbook cost of $100 for the "No Cost/Low Cost" sections of the 50 highest enrollment courses and all developmental education courses. We use the following to calculate the savings: Top 50 enrollment courses identified as "Low cost/No cost - less than $40" (mostly OER). 20 students per section. $100 savings per student (books, online homework, etc)
 
-Source: Maricopa Community Colleges funds; https://www2.maricopa.edu/welcome-to-the-maricopa-millions-oer-project
+Source: Maricopa Community Colleges funds; [https://www2.maricopa.edu/welcome-to-the-maricopa-millions-oer-project](https://www2.maricopa.edu/welcome-to-the-maricopa-millions-oer-project)
 
 </td>
 
