@@ -257,7 +257,7 @@ Offener &mdash; Einschränkender. Weniger einschränkende Free-Culture-Lizenzsen
 
 <img src="img/oer-2-translated.svg" class="sotc-image" alt="Open Education -- Argentinien, Australien, Kanada, Europäische Union, Indonesien, Indien, Niederlande, Mauritius, Neuseeland, Polen, Rumänien, Schottland, Slowenien, Slowakische Republik, Südafrika, Vereinigtes Königreich, Vereinigte Staaten, Uruguay, Wales." />
 
-Open Education -- Argentinien, Australien, Kanada, Europäische Union, Indonesien, Indien, Niederlande, Mauritius, Neuseeland, Polen, Rumänien, Schottland, Slowenien, Slowakische Republik, Südafrika, Vereinigtes Königreich, Vereinigte Staaten, Uruguay, Wales.
+**Open Education** -- Argentinien, Australien, Kanada, Europäische Union, Indonesien, Indien, Niederlande, Mauritius, Neuseeland, Polen, Rumänien, Schottland, Slowenien, Slowakische Republik, Südafrika, Vereinigtes Königreich, Vereinigte Staaten, Uruguay, Wales.
 
 ### Durch freie Lehrbücher haben Studenten schon {.by}
 

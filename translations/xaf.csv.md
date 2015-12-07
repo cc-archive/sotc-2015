@@ -257,7 +257,7 @@ Mere åbent &mdash; Mere restriktivt. De mindre restriktive FRI KULTUR licenser 
 
 <img src="img/oer-2-translated.svg" class="sotc-image" alt="Åben Uddannelse -- Argentina, Australien, Canada, Den Europæiske Union, Indonesien, Indien, Holland, Mauretanien, New Zealand, Polen, Rumænien, Skotland, Slovenien, Slovakiet, Sydafrika, Storbritanien, USA, Uruguay, Wales." />
 
-Åben Uddannelse -- Argentina, Australien, Canada, Den Europæiske Union, Indonesien, Indien, Holland, Mauretanien, New Zealand, Polen, Rumænien, Skotland, Slovenien, Slovakiet, Sydafrika, Storbritanien, USA, Uruguay, Wales.
+**Åben Uddannelse** -- Argentina, Australien, Canada, Den Europæiske Union, Indonesien, Indien, Holland, Mauretanien, New Zealand, Polen, Rumænien, Skotland, Slovenien, Slovakiet, Sydafrika, Storbritanien, USA, Uruguay, Wales.
 
 ### Åbne tekstbøger har sparet studerende {.by}
 

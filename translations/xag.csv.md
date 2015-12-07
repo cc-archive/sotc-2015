@@ -257,7 +257,7 @@ Lebih terbuka &mdash; Lebih terbatas. Lisensi BUDAYA BEBAS yang lebih terbuka me
 
 <img src="img/oer-2-translated.svg" class="sotc-image" alt="Pendidikan Terbuka -- Argentina, Australia, Kanada, Uni Eropa, Indonesia, India, Belanda, Mauritius, Selandia Baru, Polandia, Rumania, Skotlandia, Slovenia, Republik Slovakia, Afrika Selatan, Inggris, Amerika Serikat, Uruguay, Wales." />
 
-Pendidikan Terbuka -- Argentina, Australia, Kanada, Uni Eropa, Indonesia, India, Belanda, Mauritius, Selandia Baru, Polandia, Rumania, Skotlandia, Slovenia, Republik Slovakia, Afrika Selatan, Inggris, Amerika Serikat, Uruguay, Wales.
+**Pendidikan Terbuka** -- Argentina, Australia, Kanada, Uni Eropa, Indonesia, India, Belanda, Mauritius, Selandia Baru, Polandia, Rumania, Skotlandia, Slovenia, Republik Slovakia, Afrika Selatan, Inggris, Amerika Serikat, Uruguay, Wales.
 
 ### Buku Sekolah Terbuka telah membuat para pelajar menghemat {.by}
 

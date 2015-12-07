@@ -257,7 +257,7 @@ Més obert &mdash; Més restrictiu. Les llicències de CULTURA LLIURE menys rest
 
 <img src="img/oer-2-translated.svg" class="sotc-image" alt="Educació en obert -- Argentina, Austràlia, Canadà, Unió Europea, Indonèsia, Índia, Països Baixos, Maurici, Nova Zelanda, Polònia, Romania, Escòcia, Eslovènia, República Eslovaca, Sud-àfrica, Regne Unit, Estats Units, Uruguai, Gal·les." />
 
-Educació en obert -- Argentina, Austràlia, Canadà, Unió Europea, Indonèsia, Índia, Països Baixos, Maurici, Nova Zelanda, Polònia, Romania, Escòcia, Eslovènia, República Eslovaca, Sud-àfrica, Regne Unit, Estats Units, Uruguai, Gal·les.
+**Educació en obert** -- Argentina, Austràlia, Canadà, Unió Europea, Indonèsia, Índia, Països Baixos, Maurici, Nova Zelanda, Polònia, Romania, Escòcia, Eslovènia, República Eslovaca, Sud-àfrica, Regne Unit, Estats Units, Uruguai, Gal·les.
 
 ### Els llibres de text en obert respresent un estalvi per als estudiants de {.by}
 

@@ -257,7 +257,7 @@ Otvorenejšie &mdash; Prísnejšie. "Menej obmedzujúce licencie „FREE CULTURE
 
 <img src="img/oer-2-translated.svg" class="sotc-image" alt="Otvorené vzdelávanie -- Argentína, Austrália, Kanada, Európska únia, Indonézia, India, Holandsko, Maurícius, Nový Zéland, Poľsko, Rumunsko, Škótsko, Slovinsko, Slovenská republika, Južná Afrika, Veľká Británia, Spojené Štáty, Uruguaj, Wales." />
 
-Otvorené vzdelávanie -- Argentína, Austrália, Kanada, Európska únia, Indonézia, India, Holandsko, Maurícius, Nový Zéland, Poľsko, Rumunsko, Škótsko, Slovinsko, Slovenská republika, Južná Afrika, Veľká Británia, Spojené Štáty, Uruguaj, Wales.
+**Otvorené vzdelávanie** -- Argentína, Austrália, Kanada, Európska únia, Indonézia, India, Holandsko, Maurícius, Nový Zéland, Poľsko, Rumunsko, Škótsko, Slovinsko, Slovenská republika, Južná Afrika, Veľká Británia, Spojené Štáty, Uruguaj, Wales.
 
 ### Verejne prístupné učebnice pomáhajú študentom {.by}
 

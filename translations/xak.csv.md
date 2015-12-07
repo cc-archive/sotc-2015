@@ -257,7 +257,7 @@ Meer open &mdash; Meer restrictief. Minder restrictieve FREE CULTURE-licenties s
 
 <img src="img/oer-2-translated.svg" class="sotc-image" alt="Open Onderwijs -- Argentinië, Australië, Canada, Europese Unie, Indonesië, India, Nederland, Mauritanië, Nieuw-Zeeland, Polen, Roemenië, Schotland, Slovenië, Slowakije, Zuid-Afrika, Verenigd Koninkrijk, Verenigde staten, Uruguay, Wales." />
 
-Open Onderwijs -- Argentinië, Australië, Canada, Europese Unie, Indonesië, India, Nederland, Mauritanië, Nieuw-Zeeland, Polen, Roemenië, Schotland, Slovenië, Slowakije, Zuid-Afrika, Verenigd Koninkrijk, Verenigde staten, Uruguay, Wales.
+**Open Onderwijs** -- Argentinië, Australië, Canada, Europese Unie, Indonesië, India, Nederland, Mauritanië, Nieuw-Zeeland, Polen, Roemenië, Schotland, Slovenië, Slowakije, Zuid-Afrika, Verenigd Koninkrijk, Verenigde staten, Uruguay, Wales.
 
 ### Open Leerboeken besparen studenten {.by}
 

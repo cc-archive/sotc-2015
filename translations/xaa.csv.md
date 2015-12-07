@@ -257,7 +257,7 @@ More open &mdash; More restrictive. Less restrictive FREE CULTURE licenses allow
 
 <img src="img/oer-2-translated.svg" class="sotc-image" alt="Open Education -- Argentina, Australia, Canada, European Union, Indonesia, India, Netherlands, Mauritius, New Zealand, Poland, Romania, Scotland, Slovenia, Slovak Republic, South Africa, United Kingdom, United States, Uruguay, Wales." />
 
-Open Education -- Argentina, Australia, Canada, European Union, Indonesia, India, Netherlands, Mauritius, New Zealand, Poland, Romania, Scotland, Slovenia, Slovak Republic, South Africa, United Kingdom, United States, Uruguay, Wales.
+**Open Education** -- Argentina, Australia, Canada, European Union, Indonesia, India, Netherlands, Mauritius, New Zealand, Poland, Romania, Scotland, Slovenia, Slovak Republic, South Africa, United Kingdom, United States, Uruguay, Wales.
 
 ### ￼Open Textbooks have saved students {.by}
 

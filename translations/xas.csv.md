@@ -257,7 +257,7 @@ Plus ouverte &mdash; Plus restrictive. es licences moins restrictives, compatibl
 
 <img src="img/oer-2-translated.svg" class="sotc-image" alt="Éducation Ouverte -- Argentine, Australie, Canada, Union européenne, Indonésie, Inde, Pays-Bas, Île Maurice, Nouvelle-Zélande, Pologne, Roumanie, Écosse, Slovénie, République slovaque, Afrique du Sud, Royaume-Uni, États-Unis, Uruguay, Pays de Galles." />
 
-Éducation Ouverte -- Argentine, Australie, Canada, Union européenne, Indonésie, Inde, Pays-Bas, Île Maurice, Nouvelle-Zélande, Pologne, Roumanie, Écosse, Slovénie, République slovaque, Afrique du Sud, Royaume-Uni, États-Unis, Uruguay, Pays de Galles.
+**Éducation Ouverte** -- Argentine, Australie, Canada, Union européenne, Indonésie, Inde, Pays-Bas, Île Maurice, Nouvelle-Zélande, Pologne, Roumanie, Écosse, Slovénie, République slovaque, Afrique du Sud, Royaume-Uni, États-Unis, Uruguay, Pays de Galles.
 
 ### Les manuels libres ont économisé aux étudiants {.by}
 

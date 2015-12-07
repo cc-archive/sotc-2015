@@ -257,7 +257,7 @@ Bardziej otwarte &mdash; Bardziej restrykcyjnej. Mniej restrykcyjne licencje “
 
 <img src="img/oer-2-translated.svg" class="sotc-image" alt="Otwarta Edukacja -- Argentyna, Australia, Kanada, Unia Europejska, Indonezja, Indie, Holandia, Mauritius, Nowa Zelandia, Polska, Rumunia, Szkocja, Słowenia, Słowacja, Republika Południowej Afryki, Wielka Brytania, Stany Zjednoczone, Urugwaj, Walia." />
 
-Otwarta Edukacja -- Argentyna, Australia, Kanada, Unia Europejska, Indonezja, Indie, Holandia, Mauritius, Nowa Zelandia, Polska, Rumunia, Szkocja, Słowenia, Słowacja, Republika Południowej Afryki, Wielka Brytania, Stany Zjednoczone, Urugwaj, Walia.
+**Otwarta Edukacja** -- Argentyna, Australia, Kanada, Unia Europejska, Indonezja, Indie, Holandia, Mauritius, Nowa Zelandia, Polska, Rumunia, Szkocja, Słowenia, Słowacja, Republika Południowej Afryki, Wielka Brytania, Stany Zjednoczone, Urugwaj, Walia.
 
 ### Dzięki otwartym podręcznikom studenci zaoszczędzili {.by}
 

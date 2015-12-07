@@ -257,7 +257,7 @@ Mer öppen &mdash; Mer begränsad. Mindre begränsade FRI KULTUR licenser som ti
 
 <img src="img/oer-2-translated.svg" class="sotc-image" alt="Open Education (Öppen utbildning) -- Argentina, Australien, Kanada, Europeiska unionen, Indonesien, Indien, Nederländerna, Mauritius , Nya Zeeland, Polen, Rumänien, Skottland, Slovenien, Slovakien, Sydafrika, Storbritannien, USA, Uruguay, Wales." />
 
-Open Education (Öppen utbildning) -- Argentina, Australien, Kanada, Europeiska unionen, Indonesien, Indien, Nederländerna, Mauritius , Nya Zeeland, Polen, Rumänien, Skottland, Slovenien, Slovakien, Sydafrika, Storbritannien, USA, Uruguay, Wales.
+**Open Education (Öppen utbildning)** -- Argentina, Australien, Kanada, Europeiska unionen, Indonesien, Indien, Nederländerna, Mauritius , Nya Zeeland, Polen, Rumänien, Skottland, Slovenien, Slovakien, Sydafrika, Storbritannien, USA, Uruguay, Wales.
 
 ### Öppna textböcker gör att studenter sparar {.by}
 
