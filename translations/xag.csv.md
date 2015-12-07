@@ -377,6 +377,8 @@ Lebih terbuka &mdash; Lebih terbatas. Lisensi BUDAYA BEBAS yang lebih terbuka me
 
 <div class="clearfix"></div>
 
+&nbsp;
+
 <div class="col-md-6" id="invest-circle">
 
 <div class="content">

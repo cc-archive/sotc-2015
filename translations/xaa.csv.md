@@ -377,6 +377,8 @@ More open &mdash; More restrictive. Less restrictive FREE CULTURE licenses allow
 
 <div class="clearfix"></div>
 
+&nbsp;
+
 <div class="col-md-6" id="invest-circle">
 
 <div class="content">

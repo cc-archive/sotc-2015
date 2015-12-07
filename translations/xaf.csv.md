@@ -377,6 +377,8 @@ Mere åbent &mdash; Mere restriktivt. De mindre restriktive FRI KULTUR licenser 
 
 <div class="clearfix"></div>
 
+&nbsp;
+
 <div class="col-md-6" id="invest-circle">
 
 <div class="content">

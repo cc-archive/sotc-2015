@@ -377,6 +377,8 @@ Més obert &mdash; Més restrictiu. Les llicències de CULTURA LLIURE menys rest
 
 <div class="clearfix"></div>
 
+&nbsp;
+
 <div class="col-md-6" id="invest-circle">
 
 <div class="content">

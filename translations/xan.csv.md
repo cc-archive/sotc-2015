@@ -377,6 +377,8 @@ Offener &mdash; Einschränkender. Weniger einschränkende Free-Culture-Lizenzsen
 
 <div class="clearfix"></div>
 
+&nbsp;
+
 <div class="col-md-6" id="invest-circle">
 
 <div class="content">

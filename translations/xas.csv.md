@@ -377,6 +377,8 @@ Plus ouverte &mdash; Plus restrictive. es licences moins restrictives, compatibl
 
 <div class="clearfix"></div>
 
+&nbsp;
+
 <div class="col-md-6" id="invest-circle">
 
 <div class="content">

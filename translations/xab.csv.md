@@ -377,6 +377,8 @@ a &mdash; a. a
 
 <div class="clearfix"></div>
 
+&nbsp;
+
 <div class="col-md-6" id="invest-circle">
 
 <div class="content">
