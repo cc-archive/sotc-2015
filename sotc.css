@@ -464,6 +464,8 @@ blockquote * {
 
 footer ul {list-style: none; margin: 0; padding: 0;}
 
+footer ul ul {list-style: square; margin-right: 2em;}
+
 .content ul > li > ul {font-size: 90%; margin: 0.5em 0; padding: 0; }
 
 #deed-donate-footer{ background-color:#424242;
