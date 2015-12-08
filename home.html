@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html$if(lang)$ lang="$lang$"$endif$$if(dir)$ dir="$dir$"$endif$>
+  <head>
+    <meta charset="utf-8">
+    <meta name="generator" content="pandoc">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="sotc.css" />
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,300,300italic,400italic,700,700italic,900,900italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0"/>
+
+
+    <meta property="og:title" content="State of the Commons"/>
+    <meta property="og:url" content="https://stateof.creativecommons.org/2015/$title-prefix$.html"/>
+    <meta property="og:image" content="https://stateof.creativecommons.org/2015/img/fb-$title-prefix$.png"/>
+    <meta property="og:site_name" content="State of the Commons"/>
+    <meta property="og:description" content="$pagetitle$"/>
+    
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@creativecommons">
+    <meta name="twitter:title" content="State of the Commons">
+    <meta name="twitter:description" content="$pagetitle$">
+    <meta name="twitter:image:src" content="https://stateof.creativecommons.org/2015/img/twitter-$title-prefix$.png">
+    <meta name="twitter:domain" content="stateof.creativecommons.org">
+    
+    $for(author-meta)$
+    <meta name="author" content="$author-meta$">
+    $endfor$
+    $if(date-meta)$
+    <meta name="dcterms.date" content="$date-meta$">
+    $endif$
+    $if(keywords)$
+    <meta name="keywords" content="$for(keywords)$$keywords$$sep$, $endfor$">
+    $endif$
+    <title>Creative Commons &mdash; State of the Commons 2015 &mdash; $pagetitle$</title>
+    <style type="text/css">code{white-space: pre;}</style>
+    $if(quotes)$
+    <style type="text/css">q { quotes: "“" "”" "‘" "’"; }</style>
+    $endif$
+    $if(highlighting-css)$
+    <style type="text/css">
+     $highlighting-css$
+    </style>
+    $endif$
+    $for(css)$
+    <link rel="stylesheet" href="$css$">
+    $endfor$
+    $if(math)$
+    $math$
+    $endif$
+    <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+    <![endif]-->
+    $for(header-includes)$
+    $header-includes$
+    $endfor$
+  </head>
+  <body id="$title-prefix$">
+    $for(include-before)$
+    $include-before$
+    $endfor$
+    <nav id="$idprefix$TOC">
+      <ul class="nav nav-pills">
+	<li><a href="sotc2015.pdf">Download the report in PDF</a></li>
+	<li><a href="https://www.facebook.com/sharer/sharer.php?u=https://stateof.creativecommons.org/2015"><img src="https://creativecommons.org/img/glyphicons/social-31-facebook.png" alt="">&nbsp; Share on Facebook</a></li>
+	<li><a href="https://twitter.com/intent/tweet?source=webclient&amp;text=State+of+the+Commons+stateof.creativecommons.org%2F2015%2F&via=creativecommons"><img src="https://creativecommons.org/img/glyphicons/social-32-twitter.png" alt="">&nbsp; Share on Twitter</a></li>
+      </ul>
+
+<form id="Edit" action="https://donate.creativecommons.org/civicrm/profile/create?gid=30&amp;reset=1" method="post" name="Edit" class="form-inline">
+<p class="text-center"><strong>Subscribe to the Creative Commons newsletter</strong></p>
+<p class="text-center"><input id="email-Primary" class="form-control" maxlength="64" name="email-Primary" size="30" placeholder="mattl@example.com" type="email"/>
+<button class="btn btn-success" id="_qf_Edit_next" accesskey="S" name="_qf_Edit_next" type="submit">Subscribe</button><input name="postURL" type="hidden" value="https://creativecommons.org/thank-you"><input name="cancelURL" type="hidden" value="https://creativecommons.org/newsletter"><input name="group[121]" type="hidden" value="1"><input name="_qf_default" type="hidden" value="Edit:cancel"></p>
+</form>
+</div>
+    </nav>
+
+    $body$
+    $for(include-after)$
+    $include-after$
+    $endfor$
+
+    
+  </body>
+
+
+<div id="deed-donate-slide" style="display: none;">
+<div class="slide-close"></div>
+<div class="slide-trigger">
+<img src="img/heart.png" class="slide-logo" alt="" width="100"/>
+<p>Creative Commons helps to build a more creative, free, and open commons. Please make your donation now to help us meet our year-end goal before our December 31 deadline.</p>
+<button>Donate Now</button>
+</div>
+</div>
+  
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script type="text/javascript">
+        $$(document).ready(function() {
+            $$('#deed-donate-slide').addClass('slider');
+            $$('#deed-donate-slide').show();
+            // Set banner to reveal after X seconds
+            setTimeout(function(){
+                $$('#deed-donate-slide').addClass('reveal');
+            }, 17000);
+            $$(window).scroll(function() {
+                if ($$(window).scrollTop() <= 760) {
+                    $$('#deed-donate-slide').finish();
+                    //$$('#deed-donate-slide').removeClass('reveal');
+                } else {
+                    $$('#deed-donate-slide').addClass('reveal');
+                }
+            });
+
+            $$('.slide-close').click(function(event) {
+                $$('#deed-donate-slide').remove();
+            });
+
+            /* Close slider on pressing ESC */
+            $$(document).keyup(function(e) {
+                if (e.keyCode === 27) {
+                    $$('#deed-donate-slide').remove();
+                }
+            });
+
+            $$(".slide-trigger p, .slide-trigger button").click(function(){
+                window.open("https://donate.creativecommons.org/?utm_campaign=2015sotc&utm_source=sotc_slide2015", "_blank");
+  
+            });
+        });
+    </script>
+  
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-2010376-30', 'auto');
+  ga('send', 'pageview');
+
+</script>  
+</html>

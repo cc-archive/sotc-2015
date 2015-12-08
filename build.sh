@@ -20,7 +20,7 @@ do
     rm "$PREFIX.mdwn"
 done
 
-pandoc --smart "sotc.md" -T $PREFIX -V "pagetitle: $TITLE" -V "title: $TITLE" -w html5 -o "onepage.html" --template template.html
+pandoc --smart "sotc.md" -T $PREFIX -V "pagetitle: $TITLE" -V "title: $TITLE" -w html5 -o "index.html" --template home.html
 
 pandoc --smart "mini.md" -T $PREFIX -V "pagetitle: $TITLE" -V "title: $TITLE" -w html5 -o "mini.html" --template template.html
 
