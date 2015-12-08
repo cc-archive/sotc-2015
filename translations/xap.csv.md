@@ -424,6 +424,6 @@
 
 * HTML version: Matt Lee
 
-* te translation: <a href="mailto:nani1only@gmail.com">Rahmanuddin Shaik</a>
+* Translation: <a href="mailto:nani1only@gmail.com">Rahmanuddin Shaik</a> and local te team.
 
 </footer>

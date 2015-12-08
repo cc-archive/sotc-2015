@@ -424,6 +424,6 @@ Bardziej otwarte &mdash; Bardziej restrykcyjnej. Mniej restrykcyjne licencje “
 
 * HTML version: Matt Lee
 
-* pl translation: <a href="mailto:klaudia.grabowska@gmail.comn">Klaudia Grabowska</a>
+* Translation: <a href="mailto:klaudia.grabowska@gmail.comn">Klaudia Grabowska</a> and local pl team.
 
 </footer>

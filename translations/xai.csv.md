@@ -424,6 +424,6 @@
 
 * HTML version: Matt Lee
 
-* zh translation: <a href="mailto:bobchao@gmail.com">Bob Chao</a>
+* Translation: <a href="mailto:bobchao@gmail.com">Bob Chao</a> and local zh team.
 
 </footer>

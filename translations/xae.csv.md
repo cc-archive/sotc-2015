@@ -424,6 +424,6 @@ Otvorenejšie &mdash; Prísnejšie. "Menej obmedzujúce licencie „FREE CULTURE
 
 * HTML version: Matt Lee
 
-* sk translation: <a href="mailto:angela.sobolciakova@gmail.com">Angi</a>
+* Translation: <a href="mailto:angela.sobolciakova@gmail.com">Angi</a> and local sk team.
 
 </footer>

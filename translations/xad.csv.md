@@ -424,6 +424,6 @@ Avoimempi &mdash; Rajoittavampi. Vähemmän rajoittavat VAPAAN KULTTUURIN lisens
 
 * HTML version: Matt Lee
 
-* fi translation: <a href="mailto:tarmo.toikkanen@aalto.fi">Tarmo Toikkanen</a>
+* Translation: <a href="mailto:tarmo.toikkanen@aalto.fi">Tarmo Toikkanen</a> and local fi team.
 
 </footer>

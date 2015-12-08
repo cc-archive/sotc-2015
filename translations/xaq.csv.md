@@ -424,6 +424,6 @@ Mer öppen &mdash; Mer begränsad. Mindre begränsade FRI KULTUR licenser som ti
 
 * HTML version: Matt Lee
 
-* sv translation: <a href="mailto:kristina.alexanderson@gmail.com">Kristina Alexanderson</a>
+* Translation: <a href="mailto:kristina.alexanderson@gmail.com">Kristina Alexanderson</a> and local sv team.
 
 </footer>

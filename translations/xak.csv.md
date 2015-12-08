@@ -424,6 +424,6 @@ Meer open &mdash; Meer restrictief. Minder restrictieve FREE CULTURE-licenties s
 
 * HTML version: Matt Lee
 
-* nl translation: <a href="mailto:mz@kl.nl">Maarten Zeinstra</a>
+* Translation: <a href="mailto:mz@kl.nl">Maarten Zeinstra</a> and local nl team.
 
 </footer>

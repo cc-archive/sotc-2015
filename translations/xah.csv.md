@@ -424,6 +424,6 @@ Més obert &mdash; Més restrictiu. Les llicències de CULTURA LLIURE menys rest
 
 * HTML version: Matt Lee
 
-* ca translation: <a href="mailto:ilabastida@ub.edu">Ignasi Labastida</a>
+* Translation: <a href="mailto:ilabastida@ub.edu">Ignasi Labastida</a> and local ca team.
 
 </footer>

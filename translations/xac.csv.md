@@ -424,6 +424,6 @@ Más abierto &mdash; Más restrictivo. Las licencias de CULTURA LIBRE menos rest
 
 * HTML version: Matt Lee
 
-* es translation: <a href="mailto:ilabastida@ub.edu">Ignasi Labastida</a>
+* Translation: <a href="mailto:ilabastida@ub.edu">Ignasi Labastida</a> and local es team.
 
 </footer>

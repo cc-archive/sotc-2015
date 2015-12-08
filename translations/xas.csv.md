@@ -424,6 +424,6 @@ Plus ouverte &mdash; Plus restrictive. es licences moins restrictives, compatibl
 
 * HTML version: Matt Lee
 
-* fr translation: <a href="mailto:Votre adresse e-mail">Votre nom</a>
+* Translation: <a href="mailto:Votre adresse e-mail">Votre nom</a> and local fr team.
 
 </footer>
