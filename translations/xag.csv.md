@@ -418,7 +418,7 @@ Lebih terbuka &mdash; Lebih terbatas. Lisensi BUDAYA BEBAS yang lebih terbuka me
 
 * <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Laporan ini dilisensikan di bawah ____ oleh Creative Commons. <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. 
 
-* For the complete list of acknowledgments and data sources, see Data, Notes and Acknowledgments.
+* [For the complete list of acknowledgments and data sources, see Data, Notes and Acknowledgments.]()
 
 * Desain: Eva Rogers
 

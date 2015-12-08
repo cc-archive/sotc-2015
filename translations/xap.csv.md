@@ -418,7 +418,7 @@
 
 * <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />ఈ రిపోర్ట్ ____ క్రియేటివ్ కామన్స్ ద్వారా లైసెన్స్ చేయబడింది <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. 
 
-* For the complete list of acknowledgments and data sources, see Data, Notes and Acknowledgments.
+* [For the complete list of acknowledgments and data sources, see Data, Notes and Acknowledgments.]()
 
 * డిజైన్ : ఈవా రాజర్స్
 
