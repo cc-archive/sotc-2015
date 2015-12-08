@@ -520,10 +520,10 @@ footer h5 {margin-left: 5%; font-size: 26px;}
 .js #deed-donate-slide.reveal{display:block;}
 
 #deed-donate-slide{width:90%;margin:0
- auto;line-height:17px;text-align:center;color:#fff;}
+					auto;line-height:17px;text-align:center;color:#fff;}
 
-#deed-donate-slide.slider{ width:350px; margin:0 auto 0 -350px;
-    position:fixed; left:0; bottom:15px; z-index:1000; display:table;
+#deed-donate-slide.slider{ width:350px; margin:0 auto 0 100%;
+    position:fixed; left:0px; bottom:15px; z-index:1000; display:table;
     -moz-box-shadow:1px 2px 6px rgba(0,0,0,.3); -webkit-box-shadow:1px
     2px 6px rgba(0,0,0,.3); box-shadow:1px 2px 6px rgba(0,0,0,.3);
     -webkit-transition:margin .3s ease-in-out; -moz-transition:margin
@@ -531,7 +531,7 @@ footer h5 {margin-left: 5%; font-size: 26px;}
     -ms-transition:margin .3s ease-in-out; transition:margin .3s
     ease-in-out; }
 
-#deed-donate-slide.slider.reveal{margin-left:0;}
+#deed-donate-slide.slider.reveal{margin-left: 800px;}
 
 .slide-close{ background:url('https://creativecommons.org/images/deed/slide-close.png')
     no-repeat center center; width:16px; height:17px; display:block;
