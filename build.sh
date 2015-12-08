@@ -1,4 +1,10 @@
 #!/bin/bash
+# Build script for SOTC 2015, if you can figure out how this works, good luck
+# Released under CC0
+#
+# Thanks to the creators of git, perl, GNU csplit, pandoc, markdown,
+# perl, coreutils, fileutils, Inkscape, GIMP and of course, GNU Emacs
+
 git clone https://github.com/creativecommons/sotc-215.git
 mv sotc-215/data.mdwn .
 rm -rf sotc-215
