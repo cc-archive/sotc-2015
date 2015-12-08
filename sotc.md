@@ -552,7 +552,16 @@ tremendous ripple effect.
 <nav class="social-share">
 <ul class="nav nav-pills">
 <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://stateof.creativecommons.org/2015/cc-sotc-2015-xx10.html?foo=bar"><img src="https://licensebuttons.net/gi/social-31-facebook.png" alt="">&nbsp; Share on Facebook</a></li>
-<li><a href="https://twitter.com/intent/tweet?source=webclient&amp;text=2015+Impact:+CC+and+Cultural+Heritage+stateof.creativecommons.org%2F2015%2Fcc-sotc-2015-xx10.html&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="">&nbsp; Share on Twitter</a></li>
+<li><a href="https://twitter.com/intent/tweet?source=webclient&amp;text=2015+Impact:+CC+and+Cultural+Heritage+%40freebassel%20%23freebassel+stateof.creativecommons.org%2F2015%2Fcc-sotc-2015-xx10.html&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="">&nbsp; Share on Twitter</a></li>
+</ul>
+</nav>
+
+<div id="b11" class="bubbles"></div>
+
+## 2015 Impact:<br />CC + Cultural Heritage {.impact}
+
+Creative Commons has fundamentally changed the way the world can
+stateof.creativecommons.org%2F2015%2Fcc-sotc-2015-xx10.html&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="">&nbsp; Share on Twitter</a></li>
 </ul>
 </nav>
 
