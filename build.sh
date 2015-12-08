@@ -11,7 +11,7 @@ do
     ## We use this prefix for our filenames, also in CSS.
     PREFIX=cc-sotc-2015-$file
     ## Ignore the initial two lines of the file, which are a page break
-    tail -n +2 "$file" > "$PREFIX.mdwn"
+    tail -n +11 "$file" > "$PREFIX.mdwn"
     ## Get the first line of the file, strip the Markdown and pass to pandoc
     TITLE=$(echo $(head -n 4 $PREFIX.mdwn) | perl -pe 's/## //g' | perl -pe 's/{.bb}//g' | perl -pe 's/{.impact .img-policy}//g'| perl -pe 's/{.impact}//g' |  perl -pe 's/{.by}//g' | perl -pe 's/{.bbs}//g' | sed -e 's/<[^>]*>//g')
     echo $TITLE
