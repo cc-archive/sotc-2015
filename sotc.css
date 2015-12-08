@@ -503,15 +503,29 @@ footer h5 {margin-left: 5%; font-size: 26px;}
 
 .footer-trigger button:hover{background:rgba(152,182,0,1);}
 
-@media screen and (max-width: 788px) { #deed-donate-footer{ width:90%;
- padding:0; background-color:#fff; }
-
-.footer-trigger{ width:90%; padding:20px 5%; background:none; }
+@media screen and (max-width: 788px) {
 
 
- }
+    #deed-donate-footer{ 
+	width:90%;
+	padding:0; 
+	background-color:#fff; 
+    }
 
-@media screen and (max-width: 600px) {.footer-logo{display:none;}
+    .footer-trigger{ 
+	width:90%; 
+	padding:20px 5%; 
+	background:none; 
+    }
+
+
+}
+
+@media screen and (max-width: 600px) {
+
+    .footer-logo{
+	display:none;
+    }
 
 }
 
@@ -519,8 +533,13 @@ footer h5 {margin-left: 5%; font-size: 26px;}
 
 .js #deed-donate-slide.reveal{display:block;}
 
-#deed-donate-slide{width:90%;margin:0
-					auto;line-height:17px;text-align:center;color:#fff;}
+#deed-donate-slide{
+    width:90%;
+    margin:0 auto;
+    line-height:17px;
+    text-align:center;
+    color:#fff;
+}
 
 #deed-donate-slide.slider{ width:350px; margin:0 auto 0 100%;
     position:fixed; left:0px; bottom:15px; z-index:1000; display:table;
@@ -531,7 +550,7 @@ footer h5 {margin-left: 5%; font-size: 26px;}
     -ms-transition:margin .3s ease-in-out; transition:margin .3s
     ease-in-out; }
 
-#deed-donate-slide.slider.reveal{margin-left: 800px;}
+
 
 .slide-close{ background:url('https://creativecommons.org/images/deed/slide-close.png')
     no-repeat center center; width:16px; height:17px; display:block;
@@ -595,6 +614,12 @@ footer h5 {margin-left: 5%; font-size: 26px;}
 
  }
 
+@media screen and (min-width: 850px) {
+
+    #deed-donate-slide.slider.reveal{margin-left: 800px;}
+
+}
+
 @media screen and (max-width: 1060px) { #deed-donate-slide.slider{
  z-index:100; position:fixed; left:0; bottom:-100%; width:100%;
  margin:0; text-align:center; -webkit-transition:bottom .5s
@@ -604,6 +629,8 @@ footer h5 {margin-left: 5%; font-size: 26px;}
 
      #deed-donate-slide.reveal{ bottom:0; }
 
+
+     
      .slide-close{
 	 background:url('https://creativecommons.org/images/deed/slide-close-mobile.png')
 	 no-repeat center center; width:33px; height:33px;
