@@ -792,7 +792,6 @@ be downloaded at GitHub](<https://github.com/creativecommons/sotc-2015>)
 
 * Media contact: <marci@zincstrategies.com>
 
-* Translations:
     - [Español (Spanish)](translation-xac.csv.html)
     - [suomi (Finnish)](translation-xad.csv.html)
     - [Slovak](translation-xae.csv.html)
