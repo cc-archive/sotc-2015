@@ -1,0 +1,74 @@
+-----
+
+<nav class="social-share">
+<ul class="nav nav-pills">
+<li><a href="https://www.facebook.com/sharer/sharer.php?u=https://stateof.creativecommons.org/2015/cc-sotc-2015-xx01.html"><img src="https://licensebuttons.net/gi/social-31-facebook.png" alt="">&nbsp; Share on Facebook</a></li>
+<li><a href="https://twitter.com/intent/tweet?source=webclient&amp;text=State+of+the+Commons+stateof.creativecommons.org%2F2015%2Fcc-sotc-2015-xx01.html&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="">&nbsp; Share on Twitter</a></li>
+</ul>
+</nav>
+
+<div id="b03" class="bubbles"></div>
+
+## More people are choosing to share with "Free Culture" licenses
+
+<img src="img/free-culture-wins.svg" alt="" class="sotc-image" />
+
+
+<table class="table table-bordered table-striped">
+<thead>
+<tr class="header">
+<th style="text-align: left;">License/tool</th>
+<th style="text-align: left;">Percentage of works</th>
+<th style="text-align: left;">Free Culture License?</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">CC0, Public Domain Mark + retired PD tool</td>
+<td style="text-align: left;">3%</td>
+<td>Yes</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">CC Attribution (CC BY)</td>
+<td style="text-align: left;">24%</td>
+<td>Yes</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">CC Attribution ShareAlike (CC BY SA)</td>
+<td style="text-align: left;">37%</td>
+<td>Yes</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">CC Attributon NoDerivs (CC BY ND)</td>
+<td style="text-align: left;">2%</td>
+<td>No</style>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">CC Attribution Non Commercial (CC BY NC)</td>
+<td style="text-align: left;">6%</td>
+<td>No</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">CC Attribution Non Commercial ShareAlike (CC BY-NC-SA)</td>
+<td style="text-align: left;">14%</td>
+<td>No</style>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">CC Attribution Non Commercial NoDerivs (CC BY NC ND)</td>
+<td style="text-align: left;">14%</td>
+<td>No</td>
+</tr>
+</tbody>
+</table>
+
+<img src="img/free-scale.svg" alt="" class="sotc-image" />
+
+From more open to more restrictive -- less restrictive FREE CULTURE
+licenses allow for both commercial use and adaptations.
+
+---
+
+Note: Data includes content licensed with the full CC license suite
+and marked with our public domain
+tools. [Dig into our data sources.]()
+

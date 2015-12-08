@@ -1,0 +1,78 @@
+
+<nav class="social-share">
+<ul class="nav nav-pills">
+<li><a href="https://www.facebook.com/sharer/sharer.php?u=https://stateof.creativecommons.org/2015/cc-sotc-2015-xx01.html"><img src="https://licensebuttons.net/gi/social-31-facebook.png" alt="">&nbsp; Share on Facebook</a></li>
+<li><a href="https://twitter.com/intent/tweet?source=webclient&amp;text=State+of+the+Commons+stateof.creativecommons.org%2F2015%2Fcc-sotc-2015-xx01.html&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="">&nbsp; Share on Twitter</a></li>
+</ul>
+</nav>
+
+<div id="b06" class="bubbles"></div>
+
+## Diversity and global visibility
+
+Creative Commons is a truly international movement with active
+communities on every continent (yes, even Antarctica). A significant
+milestone was the 2013 launch of Version 4.0 and CC's first official
+translation policy for internationalizing the license suite. To date,
+the 4.0 license suite has been officially translated into 7 languages,
+with 3 more to be published in 2015.
+
+## People are sharing with CC licenses in 34 languages with more than 90 million views of CC's deeds in the last 10 years.
+
+<div class="col-md-6 col-sm-12">
+<table class="table table-bordered table-striped">
+<tbody>
+<tr><td class="odd">**(العربية)** (Arabic)</td></tr>
+<tr><td class="even">**беларускі** (Belarusian)</td></tr>
+<tr><td class="odd">**Català** (Catalan)</td></tr>
+<tr><td class="even">**中国** (Chinese*)</td></tr>
+<tr><td class="odd">**hrvatski** (Croatian)</td></tr>
+<tr><td class="even">**čeština** (Czech)</td></tr>
+<tr><td class="odd">**danske** (Danish)</td></tr>
+<tr><td class="even">**Nederlands** (Dutch)</td></tr>
+<tr><td class="odd">**English** (English*)</td></tr>
+<tr><td class="even">**Esperanton** (Esperanto)</td></tr>
+<tr><td class="odd">**suomi** (Finnish)</td></tr>
+<tr><td class="even">**français** (French*)</td></tr>
+<tr><td class="odd">**galego** (Galician)</td></tr>
+<tr><td class="even">**Deutsche** (German*)</td></tr>
+<tr><td class="odd">**ελληνικά** (Greek)</td></tr>
+<tr><td class="even">**Magyar** (Hungarian)</td></tr>
+<tr><td class="odd">**bahasa Indones** (Indonesian)</td></tr>
+</tbody>
+</table>
+</div>
+
+<div class="col-md-6 col-sm-12">
+<table class="table table-bordered table-striped">
+<tbody>
+<tr><td class="even">**italiano** (Italian)</td></tr>
+<tr><td class="odd">**日本語** (Japanese)</td></tr>
+<tr><td class="even">**한국어** (Korean)</td></tr>
+<tr><td class="odd">**Latvijā** (Latvian)</td></tr>
+<tr><td class="even">**Lietuvos** (Lithuanian)</td></tr>
+<tr><td class="odd">**Melayu** (Malay)</td></tr>
+<tr><td class="even">**te reo Maori** (Maori)</td></tr>
+<tr><td class="odd">**norsk** (Norwegian)</td></tr>
+<tr><td class="even">**فارسي** (Persian/Farsi)</td></tr>
+<tr><td class="odd">**polski** (Polish)</td></tr>
+<tr><td class="even">**português** (Portuguese)</td></tr>
+<tr><td class="odd">**Română** (Romanian)</td></tr>
+<tr><td class="even">**Русский** (Russian)</td></tr>
+<tr><td class="odd">**Español** (Spanish*)</td></tr>
+<tr><td class="even">**svenska** (Swedish)</td></tr>
+<tr><td class="odd">**Türk** (Turkish)</td></tr>
+<tr><td class="even">**Український** (Ukrainian)</td></tr>
+</tbody>
+</table>
+</div>
+
+<div class="clearfix"></div>
+
+---
+
+Note: Data reflects total views of CC deed pages from Jan 1, 2005
+through Nov 3, 2015. * Category includes variations on that language
+for simplicity, eg. Chinese includes simplified and traditional
+Chinese. [Dig into our data sources.]()
+

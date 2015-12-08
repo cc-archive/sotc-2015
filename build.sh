@@ -16,8 +16,6 @@ do
     TITLE=$(echo $(head -n 4 $PREFIX.mdwn) | perl -pe 's/## //g' | perl -pe 's/{.bb}//g' | perl -pe 's/{.impact .img-policy}//g'| perl -pe 's/{.impact}//g' |  perl -pe 's/{.by}//g' | perl -pe 's/{.bbs}//g' | sed -e 's/<[^>]*>//g')
     echo $TITLE
     pandoc --smart "$PREFIX.mdwn" -T $PREFIX -V "pagetitle: $TITLE" -V "title: $TITLE" -w html5 -o "$PREFIX.html" --template template.html
-    rm "$file"
-    rm "$PREFIX.mdwn"
 done
 
 pandoc --smart "sotc.md" -T $PREFIX -V "pagetitle: $TITLE" -V "title: $TITLE" -w html5 -o "index.html" --template home.html

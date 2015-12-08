@@ -1,0 +1,90 @@
+
+<nav class="social-share">
+<ul class="nav nav-pills">
+<li><a href="https://www.facebook.com/sharer/sharer.php?u=https://stateof.creativecommons.org/2015/cc-sotc-2015-xx01.html"><img src="https://licensebuttons.net/gi/social-31-facebook.png" alt="">&nbsp; Share on Facebook</a></li>
+<li><a href="https://twitter.com/intent/tweet?source=webclient&amp;text=State+of+the+Commons+stateof.creativecommons.org%2F2015%2Fcc-sotc-2015-xx01.html&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="">&nbsp; Share on Twitter</a></li>
+</ul>
+</nav>
+
+## Thank You For Sharing! {.bb}
+<div><img src="img/sotc-footer.png" alt="Thank You For Sharing" class="sotc-image sotc-fakeheader" /></div>
+
+It's been a remarkable year, most notably for the more than 1.1 billion
+works under one of the CC licenses, CC0, or the public domain mark.
+CC licenses offer an elegant solution; a release valve to the constraints
+of copyright. But it's much bigger than that: Creative Commons has
+become a steward of our global commons, a universe of openly-licensed
+content that has the power to spark everyday ideas and solve global
+challenges. We've unlocked the door to an alternate reality of free and
+open content, powered by millions of creators who share our values.
+
+But the key challenge facing the commons today isn't quantity -- it's
+usability, vibrancy, and collaboration. Today's web is social and
+interconnected, and it has completely changed the way we share, tell
+stories, and build communities. While integral to many kinds of creativity
+and sharing, Creative Commons has yet to fully activate the content and
+creators in our movement. We need our contributors to be able to talk
+to each other, find new content, give feedback, offer gratitude, get
+analytics, and build networks around the content they are creating. We
+need to light up the global commons.
+
+We hope you'll join us and help build a more creative, free, and open
+commons. Together we'll be much closer to realizing our vision:
+unlocking the full potential of the Internet to drive a new era of
+development, growth, and productivity.
+
+Thank you to our Creative Commons Affiliate Network who work
+tirelessly everyday to protect and enrich the commons. We also owe
+our thanks to Google and the many CC platforms, partners, institutions,
+and individuals from the broader open web community who contributed
+the essential data and information for this report. Simply put, our 2015
+State of the Commons report would not be possible without your
+valuable contributions. Thank you!
+
+<div class="col-md-6" id="invest-circle">
+
+<div class="content">
+
+##### Invest in a creative, free and open Internet: Support Creative Commons today.
+
+<a href="https://donate.creativecommons.org/?utm_campaign=2015sotc&utm_source=sotc_slide2015"><img src="img/heart.png" alt="" /></a>
+
+* [donate.creativecommons.org](https://donate.creativecommons.org)
+
+</div>
+
+</div>
+
+<div class="col-md-6" id="social-circle">
+
+<div class="content">
+
+##### Tune in to all things Creative Commons. Follow us on Twitter &amp; Facebook.
+
+* <a href="https://twitter.com/creativecommons"><img src="img/twitter.png" alt="Follow us on Twitter" /></a>
+    - [twitter.com/creativecommons](https://twitter.com/creativecommons)
+* <a href="https://facebook.com/creativecommons"><img src="img/fb.png" alt="Follow us on Facebook" /></a>
+	- [facebook.com/creativecommons](https://facebook.com/creativecommons)
+
+</div>
+
+</div>
+
+<div class="clearfix"></div>
+
+---
+
+<footer>
+
+* <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">State of the Commons report 2015</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+* For the complete list of acknowledgments and data sources, see Data, Notes and Acknowledgments.
+
+* Design: Eva Rogers
+
+* HTML version: Matt Lee
+
+* [Data, sources, scripts and editable images for the entire report can
+  be downloaded at GitHub](<https://github.com/creativecommons/sotc-2015>)
+
+</footer>
