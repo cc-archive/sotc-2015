@@ -387,6 +387,12 @@ blockquote * {
 
 }
 
+
+.social-share { text-align:center; font-size: 90%; padding: 0; margin: 0; }
+.social-share ul.nav-pills { display:inline-block; }
+.social-share li { display:inline; }
+.social-share a { float:left; }
+
 #invest-circle a {
 
     color: #111 !important;

@@ -104,6 +104,13 @@ count. [Dig into our data sources]()
 
 -----
 
+<nav class="social-share">
+<ul class="nav nav-pills">
+<li><a href="https://www.facebook.com/sharer/sharer.php?u=https://stateof.creativecommons.org/2015/cc-sotc-2015-xx01.html"><img src="https://licensebuttons.net/gi/social-31-facebook.png" alt="">&nbsp; Share on Facebook</a></li>
+<li><a href="https://twitter.com/intent/tweet?source=webclient&amp;text=State+of+the+Commons+stateof.creativecommons.org%2F2015%2Fcc-sotc-2015-xx01.html&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="">&nbsp; Share on Twitter</a></li>
+</ul>
+</nav>
+
 <div id="b03" class="bubbles"></div>
 
 ## More people are choosing to share with "Free Culture" licenses
@@ -171,6 +178,13 @@ tools. [Dig into our data sources.]()
 
 -----
 
+<nav class="social-share">
+<ul class="nav nav-pills">
+<li><a href="https://www.facebook.com/sharer/sharer.php?u=https://stateof.creativecommons.org/2015/cc-sotc-2015-xx01.html"><img src="https://licensebuttons.net/gi/social-31-facebook.png" alt="">&nbsp; Share on Facebook</a></li>
+<li><a href="https://twitter.com/intent/tweet?source=webclient&amp;text=State+of+the+Commons+stateof.creativecommons.org%2F2015%2Fcc-sotc-2015-xx01.html&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="">&nbsp; Share on Twitter</a></li>
+</ul>
+</nav>
+
 <div id="b04" class="bubbles"></div>
 
 ## The CC marked public domain has nearly doubled in size over the last 12 months
@@ -221,6 +235,13 @@ domain. [Dig into our data sources.]()
 
 -----
 
+<nav class="social-share">
+<ul class="nav nav-pills">
+<li><a href="https://www.facebook.com/sharer/sharer.php?u=https://stateof.creativecommons.org/2015/cc-sotc-2015-xx01.html"><img src="https://licensebuttons.net/gi/social-31-facebook.png" alt="">&nbsp; Share on Facebook</a></li>
+<li><a href="https://twitter.com/intent/tweet?source=webclient&amp;text=State+of+the+Commons+stateof.creativecommons.org%2F2015%2Fcc-sotc-2015-xx01.html&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="">&nbsp; Share on Twitter</a></li>
+</ul>
+</nav>
+
 <div id="b05" class="bubbles"></div>
 
 ## In 2015, CC licensed works were viewed online
@@ -239,6 +260,13 @@ times CC licensed content was viewed on a web
 page. [Dig into our data sources]()
 
 -----
+
+<nav class="social-share">
+<ul class="nav nav-pills">
+<li><a href="https://www.facebook.com/sharer/sharer.php?u=https://stateof.creativecommons.org/2015/cc-sotc-2015-xx01.html"><img src="https://licensebuttons.net/gi/social-31-facebook.png" alt="">&nbsp; Share on Facebook</a></li>
+<li><a href="https://twitter.com/intent/tweet?source=webclient&amp;text=State+of+the+Commons+stateof.creativecommons.org%2F2015%2Fcc-sotc-2015-xx01.html&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="">&nbsp; Share on Twitter</a></li>
+</ul>
+</nav>
 
 <div id="b06" class="bubbles"></div>
 
@@ -312,6 +340,13 @@ Chinese. [Dig into our data sources.]()
 
 -----
 
+<nav class="social-share">
+<ul class="nav nav-pills">
+<li><a href="https://www.facebook.com/sharer/sharer.php?u=https://stateof.creativecommons.org/2015/cc-sotc-2015-xx01.html"><img src="https://licensebuttons.net/gi/social-31-facebook.png" alt="">&nbsp; Share on Facebook</a></li>
+<li><a href="https://twitter.com/intent/tweet?source=webclient&amp;text=State+of+the+Commons+stateof.creativecommons.org%2F2015%2Fcc-sotc-2015-xx01.html&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="">&nbsp; Share on Twitter</a></li>
+</ul>
+</nav>
+
 <div id="b07" class="bubbles"></div>
 
 ## From research to cute cat photos, the Commons offers a treasure trove of content.
@@ -364,6 +399,13 @@ web. [Dig into our data sources.]()
 
 -----
 
+<nav class="social-share">
+<ul class="nav nav-pills">
+<li><a href="https://www.facebook.com/sharer/sharer.php?u=https://stateof.creativecommons.org/2015/cc-sotc-2015-xx01.html"><img src="https://licensebuttons.net/gi/social-31-facebook.png" alt="">&nbsp; Share on Facebook</a></li>
+<li><a href="https://twitter.com/intent/tweet?source=webclient&amp;text=State+of+the+Commons+stateof.creativecommons.org%2F2015%2Fcc-sotc-2015-xx01.html&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="">&nbsp; Share on Twitter</a></li>
+</ul>
+</nav>
+
 <div id="b08" class="bubbles"></div>
 
 ## CC is everywhere:<br />Millions of websites use CC licenses, including major platforms like Wikipedia and Flickr and smaller websites like your grandma's blog.
@@ -414,6 +456,13 @@ Note: Data reflects total CC licensed works on each platform, only 16 websites o
 
 -----
 
+<nav class="social-share">
+<ul class="nav nav-pills">
+<li><a href="https://www.facebook.com/sharer/sharer.php?u=https://stateof.creativecommons.org/2015/cc-sotc-2015-xx01.html"><img src="https://licensebuttons.net/gi/social-31-facebook.png" alt="">&nbsp; Share on Facebook</a></li>
+<li><a href="https://twitter.com/intent/tweet?source=webclient&amp;text=State+of+the+Commons+stateof.creativecommons.org%2F2015%2Fcc-sotc-2015-xx01.html&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="">&nbsp; Share on Twitter</a></li>
+</ul>
+</nav>
+
 <div id="b09" class="bubbles"></div>
 
 ## 2015 Impact:<br />CC + Open Education {.impact}
@@ -457,6 +506,13 @@ education community. [Dig into our data sources.]()
 
 -----
 
+<nav class="social-share">
+<ul class="nav nav-pills">
+<li><a href="https://www.facebook.com/sharer/sharer.php?u=https://stateof.creativecommons.org/2015/cc-sotc-2015-xx01.html"><img src="https://licensebuttons.net/gi/social-31-facebook.png" alt="">&nbsp; Share on Facebook</a></li>
+<li><a href="https://twitter.com/intent/tweet?source=webclient&amp;text=State+of+the+Commons+stateof.creativecommons.org%2F2015%2Fcc-sotc-2015-xx01.html&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="">&nbsp; Share on Twitter</a></li>
+</ul>
+</nav>
+
 <div id="b10" class="bubbles"></div>
 
 ## 2015 Impact:<br /> CC + Foundation Open Policy {.impact .img-policy}
@@ -491,6 +547,13 @@ tremendous ripple effect.
 ## These foundations set their default to open from closed, collectively granting approximately $1.9 billion in 2015.
 
 -----
+
+<nav class="social-share">
+<ul class="nav nav-pills">
+<li><a href="https://www.facebook.com/sharer/sharer.php?u=https://stateof.creativecommons.org/2015/cc-sotc-2015-xx01.html"><img src="https://licensebuttons.net/gi/social-31-facebook.png" alt="">&nbsp; Share on Facebook</a></li>
+<li><a href="https://twitter.com/intent/tweet?source=webclient&amp;text=State+of+the+Commons+stateof.creativecommons.org%2F2015%2Fcc-sotc-2015-xx01.html&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="">&nbsp; Share on Twitter</a></li>
+</ul>
+</nav>
 
 <div id="b11" class="bubbles"></div>
 
@@ -539,6 +602,13 @@ come.
 <div class="fundie"><a target="_blank" href="https://donate.creativecommons.org/?utm_campaign=2015sotc&utm_source=sotc_slide2015">Creative Commons helps to build a more creative, free, and open commons. Please make your donation now to help us meet our year-end goal before our December 31 deadline.</a></div>
 
 -----
+
+<nav class="social-share">
+<ul class="nav nav-pills">
+<li><a href="https://www.facebook.com/sharer/sharer.php?u=https://stateof.creativecommons.org/2015/cc-sotc-2015-xx01.html"><img src="https://licensebuttons.net/gi/social-31-facebook.png" alt="">&nbsp; Share on Facebook</a></li>
+<li><a href="https://twitter.com/intent/tweet?source=webclient&amp;text=State+of+the+Commons+stateof.creativecommons.org%2F2015%2Fcc-sotc-2015-xx01.html&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="">&nbsp; Share on Twitter</a></li>
+</ul>
+</nav>
 
 <div id="b12" class="bubbles"></div>
 
@@ -630,6 +700,13 @@ implement open policies.
 </div>
 
 -----
+
+<nav class="social-share">
+<ul class="nav nav-pills">
+<li><a href="https://www.facebook.com/sharer/sharer.php?u=https://stateof.creativecommons.org/2015/cc-sotc-2015-xx01.html"><img src="https://licensebuttons.net/gi/social-31-facebook.png" alt="">&nbsp; Share on Facebook</a></li>
+<li><a href="https://twitter.com/intent/tweet?source=webclient&amp;text=State+of+the+Commons+stateof.creativecommons.org%2F2015%2Fcc-sotc-2015-xx01.html&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="">&nbsp; Share on Twitter</a></li>
+</ul>
+</nav>
 
 ## Thank You For Sharing! {.bb}
 <div><img src="img/sotc-footer.png" alt="Thank You For Sharing" class="sotc-image sotc-fakeheader" /></div>
