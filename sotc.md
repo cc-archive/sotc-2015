@@ -662,15 +662,12 @@ valuable contributions. Thank you!
 <div class="col-md-6" id="invest-circle">
 
 <div class="content">
-<a href="https://donate.creativecommons.org/?utm_campaign=2015sotc&utm_source=sotc_slide2015">
 
 ##### Invest in a creative, free and open Internet: Support Creative Commons today.
 
-<img src="img/heart.png" alt="" />
+<a href="https://donate.creativecommons.org/?utm_campaign=2015sotc&utm_source=sotc_slide2015"><img src="img/heart.png" alt="" /></a>
 
 * [donate.creativecommons.org](https://donate.creativecommons.org)
-
-</a>
 
 </div>
 

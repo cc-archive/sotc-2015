@@ -389,8 +389,7 @@ blockquote * {
 
 #invest-circle a {
 
-    background: red;
-    display: block;
+    color: #111 !important;
     
 }
 
