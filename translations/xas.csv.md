@@ -227,7 +227,7 @@ Plus ouverte &mdash; Plus restrictive. es licences moins restrictives, compatibl
 <tr class="odd"><td>Flickr</td><td>356 millions de photos</td></tr>
 <tr class="even"><td>Bandcamp</td><td>1,95 milion de pistes audio</td></tr>
 <tr class="odd"><td>Wikipedia</td><td>35,9 millions de pages</td></tr>
-<tr class="even"><td>YouTube</td><td></td></tr>
+<tr class="even"><td>YouTube</td><td>13 _ millions de vidéos</td></tr>
 <tr class="odd"><td>Jamendo</td><td>496,000 _ pistes</td></tr>
 <tr class="even"><td>500px</td><td>661,000 photos</td></tr>
 <tr class="odd"><td>Vimeo</td><td>5 _ millions de vidéos</td></tr>
@@ -320,6 +320,8 @@ Plus ouverte &mdash; Plus restrictive. es licences moins restrictives, compatibl
 </div>
 
 #### Grâce aux outils du domaine public proposés par les CC, des images de l'espace et son exploration sont rendues librement disponibles et diffusées à un public plus large que jamais. {.img-pdmoon}
+
+&nbsp;
 
 #### #FREEBASSEL : Bassel Khartabil, le principal acteur des Creative Commons en Syrie, est un contributeur clé de projets visant à numériser, préserver et partager les héritages culturels. Il est illégalement emprisonné en Syrie depuis mars 2012. La commuté CC et son conseil d'administration continuent d'appeler à sa libération rapide et à ce que sa protection soit garantie.. {.img-bk}
 

@@ -227,7 +227,7 @@ Offener &mdash; Einschränkender. Weniger einschränkende Free-Culture-Lizenzsen
 <tr class="odd"><td>Flickr</td><td>356 Millionen Fotos</td></tr>
 <tr class="even"><td>Bandcamp</td><td>1,95 Millionen Tracks</td></tr>
 <tr class="odd"><td>Wikipedia</td><td>35,9 Millionen Artikel</td></tr>
-<tr class="even"><td>YouTube</td><td></td></tr>
+<tr class="even"><td>YouTube</td><td>13 _ Millionen Videos</td></tr>
 <tr class="odd"><td>Jamendo</td><td>496,000 _ Tracks</td></tr>
 <tr class="even"><td>500px</td><td>661,000 photos</td></tr>
 <tr class="odd"><td>Vimeo</td><td>5 _ Millionen Videos</td></tr>
@@ -320,6 +320,8 @@ Offener &mdash; Einschränkender. Weniger einschränkende Free-Culture-Lizenzsen
 </div>
 
 #### Dank der Public-Domain-Tools von CC wurden Weltraumbilder frei zugänglich gemacht und stehen allen besser zur Verfügung als jemals zuvor. {.img-pdmoon}
+
+&nbsp;
 
 #### #FREEBASSEL: Als Leiter von Creative Commons Syrien ist Bassel Khartabil ein Mitbegründer von Projekten, die kulturelles Erbe digitalisieren, schützen und zugänglich machen helfen. Er ist seit März 2012 in Syrien illegal inhaftiert. CC und sein Vorstand fordern nach wie vor Bassels sofortige Freilassung.. {.img-bk}
 

@@ -227,7 +227,7 @@ Bardziej otwarte &mdash; Bardziej restrykcyjnej. Mniej restrykcyjne licencje “
 <tr class="odd"><td>Flickr</td><td>356 milionów zdjęć</td></tr>
 <tr class="even"><td>Bandcamp</td><td>1.95 utworów</td></tr>
 <tr class="odd"><td>Wikipedia</td><td>35.9 milionów artykułów</td></tr>
-<tr class="even"><td>YouTube</td><td></td></tr>
+<tr class="even"><td>YouTube</td><td>13 13 milionów video</td></tr>
 <tr class="odd"><td>Jamendo</td><td>496,000 utworów</td></tr>
 <tr class="even"><td>500px</td><td>661,000 photos</td></tr>
 <tr class="odd"><td>Vimeo</td><td>5 13 milionów video</td></tr>
@@ -320,6 +320,8 @@ Bardziej otwarte &mdash; Bardziej restrykcyjnej. Mniej restrykcyjne licencje “
 </div>
 
 #### Dzięki narzędziom CC do oznaczania domeny publicznej zdjęcia z przestrzeni kosmicznej są wolne i dostępne dla wszystkich tak jak nigdy wcześniej. {.img-pdmoon}
+
+&nbsp;
 
 #### #FREEBASSEL: Lider Creative Commons Syria, Bassel Khartabil wniósł znaczny wkład do projektów, które mają na celu digitalizację, ochronę i rozpowszechnianie zasobów dziedzictwa kulturowego. Od marca 2012 r. jest bezprawnie więziony w Syrii. CC i Rada Dyrektorów wciąż żąda natychmiastowego uwolnienia Bassela.. {.img-bk}
 

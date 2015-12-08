@@ -227,7 +227,7 @@
 <tr class="odd"><td>Flickr</td><td>3 億 5600 萬張照片</td></tr>
 <tr class="even"><td>Bandcamp</td><td>195 萬軌音效</td></tr>
 <tr class="odd"><td>Wikipedia</td><td>3590 萬篇文章</td></tr>
-<tr class="even"><td>YouTube</td><td></td></tr>
+<tr class="even"><td>YouTube</td><td>13 100 萬部影片</td></tr>
 <tr class="odd"><td>Jamendo</td><td>496,000 首音樂</td></tr>
 <tr class="even"><td>500px</td><td>661,000 photos</td></tr>
 <tr class="odd"><td>Vimeo</td><td>5 100 萬部影片</td></tr>
@@ -320,6 +320,8 @@
 </div>
 
 #### 有了創用 CC 的公眾領域授權工具，外太空的數位影像比過去更能廣為傳遞，讓大眾自由取用。 {.img-pdmoon}
+
+&nbsp;
 
 #### #FREEBASSEL：敘利亞 CC 的領袖巴塞爾·哈爾塔比爾在數個關於文化遺產數位化、保存、分享的專案上都有卓越貢獻， 但他已從 2012 年三月起被敘利亞政府非法監禁至今。 創用 CC 及其董事會成員持續呼籲敘利亞政府立即安全釋放巴塞爾。. {.img-bk}
 

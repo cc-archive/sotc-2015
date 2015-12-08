@@ -227,7 +227,7 @@ Més obert &mdash; Més restrictiu. Les llicències de CULTURA LLIURE menys rest
 <tr class="odd"><td>Flickr</td><td>365 milions de fotos</td></tr>
 <tr class="even"><td>Bandcamp</td><td>1,95 milions de pistes</td></tr>
 <tr class="odd"><td>Wikipedia</td><td>35,9 milions d'articles</td></tr>
-<tr class="even"><td>YouTube</td><td></td></tr>
+<tr class="even"><td>YouTube</td><td>13 _ milions de vídeos</td></tr>
 <tr class="odd"><td>Jamendo</td><td>496,000 _ pistes</td></tr>
 <tr class="even"><td>500px</td><td>661,000 photos</td></tr>
 <tr class="odd"><td>Vimeo</td><td>5 _ milions de vídeos</td></tr>
@@ -320,6 +320,8 @@ Més obert &mdash; Més restrictiu. Les llicències de CULTURA LLIURE menys rest
 </div>
 
 #### Gràcies a les eines de domini públic de CC, les imatges digitals de l'espai exterior es fan accesibles lliurement i es troben disponibles al públic més àmpliament que mai. {.img-pdmoon}
+
+&nbsp;
 
 #### #FREEBASSEL: El líder de Creative Commons Siria, Bassel Khartabil és un col·laborador clau en projectes que digitalitzen, preserven i comparteixen el patrimoni cultural. Està presoner a Síria de manera il·legal des del març de 2012. CC i el seu Consell de Direcció continuen demanant l'alliberament immediat i segur de Bassel.. {.img-bk}
 

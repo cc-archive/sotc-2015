@@ -227,7 +227,7 @@ LIBERÁLNĚJŠÍ &mdash; RESTRIKTIVNĚJŠÍ. Liberálnější licence SVOBODNÉ 
 <tr class="odd"><td>Flickr</td><td>356 milionů fotek</td></tr>
 <tr class="even"><td>Bandcamp</td><td>1,95 milionu nahrávek</td></tr>
 <tr class="odd"><td>Wikipedia</td><td>35,9 milionů článků</td></tr>
-<tr class="even"><td>YouTube</td><td></td></tr>
+<tr class="even"><td>YouTube</td><td>13 miliony videí</td></tr>
 <tr class="odd"><td>Jamendo</td><td>496,000 nahrávky</td></tr>
 <tr class="even"><td>500px</td><td>661,000 photos</td></tr>
 <tr class="odd"><td>Vimeo</td><td>5 miliony videí</td></tr>
@@ -320,6 +320,8 @@ LIBERÁLNĚJŠÍ &mdash; RESTRIKTIVNĚJŠÍ. Liberálnější licence SVOBODNÉ 
 </div>
 
 #### Díky nástrojům pro označení volných děl jsou obrázky vesmíru volně přístupné a a dostupné  veřejnosti více než kdy předtím.  {.img-pdmoon}
+
+&nbsp;
 
 #### #FREEBASSEL: Vedoucí CC týmu Sýrie, Bassel Khartabil, je hlavním přispěvatelem do projektů zabývajících se digitalizováním, zachováním a sdílením kulturního dědictví.  Od března 2012 je nelegálně vězněn v Sýrii. CC a jeho představenstvo neustále volají po Basselově okamžitém a bezpečném propuštění.. {.img-bk}
 

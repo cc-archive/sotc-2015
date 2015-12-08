@@ -227,7 +227,7 @@ Meer open &mdash; Meer restrictief. Minder restrictieve FREE CULTURE-licenties s
 <tr class="odd"><td>Flickr</td><td>356 miljoen foto’s</td></tr>
 <tr class="even"><td>Bandcamp</td><td>1,95 miljoen nummers</td></tr>
 <tr class="odd"><td>Wikipedia</td><td>35,9 miljoen artikelen</td></tr>
-<tr class="even"><td>YouTube</td><td></td></tr>
+<tr class="even"><td>YouTube</td><td>13 _ miljoen video’s</td></tr>
 <tr class="odd"><td>Jamendo</td><td>496,000 _ nummers</td></tr>
 <tr class="even"><td>500px</td><td>661,000 photos</td></tr>
 <tr class="odd"><td>Vimeo</td><td>5 _ miljoen video’s</td></tr>
@@ -320,6 +320,8 @@ Meer open &mdash; Meer restrictief. Minder restrictieve FREE CULTURE-licenties s
 </div>
 
 #### Dankzij de CC publieke domein tools zijn digitale beelden van het heelal vrij toegankelijk en meer beschikbaar gesteld aan het brede publiek dan ooit tevoren. {.img-pdmoon}
+
+&nbsp;
 
 #### #FREEBASSEL: de Lead van Creative Commons Syrië, Bassel Khartabil is een belangrijke figuur bij projecten die digitaliseren, bewaren en delen van het cultureel erfgoed. Hij is sinds maart 2012 illegaal gevangengenomen in Syrië. CC en haar Board of Directors blijven vragen om Bassel’s onmiddellijke en veilige vrijlating.. {.img-bk}
 

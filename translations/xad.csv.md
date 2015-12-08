@@ -227,7 +227,7 @@ Avoimempi &mdash; Rajoittavampi. Vähemmän rajoittavat VAPAAN KULTTUURIN lisens
 <tr class="odd"><td>Flickr</td><td>356 miljoonaa valokuvaa</td></tr>
 <tr class="even"><td>Bandcamp</td><td>1,95 miljoonaa ääniraitaa</td></tr>
 <tr class="odd"><td>Wikipedia</td><td>35,9 miljoonaa artikkelia</td></tr>
-<tr class="even"><td>YouTube</td><td></td></tr>
+<tr class="even"><td>YouTube</td><td>13 miljoonaa videota</td></tr>
 <tr class="odd"><td>Jamendo</td><td>496,000 ääniraitaa</td></tr>
 <tr class="even"><td>500px</td><td>661,000 photos</td></tr>
 <tr class="odd"><td>Vimeo</td><td>5 miljoonaa videota</td></tr>
@@ -320,6 +320,8 @@ Avoimempi &mdash; Rajoittavampi. Vähemmän rajoittavat VAPAAN KULTTUURIN lisens
 </div>
 
 #### CC:n public domain -työkalujen ansiosta digitaaliset valokuvat ulkoavaruudesta ovat vapaasti ja laajemmin saatavilla kuin koskaan aikaisemmin. {.img-pdmoon}
+
+&nbsp;
 
 #### #FREEBASSEL: Creative Commons Syyrian johtaja Bassel Khartabil on keskeinen kulttuuriperintöä digitoivien, säilyttävien ja jakavien projektien toimija. Hän on ollut laittomasti vangittuna Syyriassa maaliskuusta 2012 asti. CC ja sen johtoryhmä vaativat edelleen Basselin välitöntä ja turvallista vapauttamista.. {.img-bk}
 

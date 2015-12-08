@@ -227,7 +227,7 @@
 <tr class="odd"><td>Flickr</td><td>୩୫୬ ମିଲିଅନ ଫଟୋ</td></tr>
 <tr class="even"><td>Bandcamp</td><td>୧.୯୬ ମିଲିଅନ ଗୀତ</td></tr>
 <tr class="odd"><td>Wikipedia</td><td>୩୫.୯ ମିଲିଅନ ପ୍ରସଙ୍ଗ</td></tr>
-<tr class="even"><td>YouTube</td><td></td></tr>
+<tr class="even"><td>YouTube</td><td>13 _ ମିଲିଅନ ଭିଡ଼ିଓ</td></tr>
 <tr class="odd"><td>Jamendo</td><td>496,000 _ ଗୀତ</td></tr>
 <tr class="even"><td>500px</td><td>661,000 photos</td></tr>
 <tr class="odd"><td>Vimeo</td><td>5 _ ମିଲିଅନ ଭିଡ଼ିଓ</td></tr>
@@ -320,6 +320,8 @@
 </div>
 
 ####  CC ର ପବ୍ଲିକ ଡୋମେନ ଟୁଲକୁ ଭଲା କହିବ ଯେ ବାହାର ଜଗତର ଡିଜିଟାଲ ଫଟୋ ଖୋଲାରେ ତଥା ଆଗଠୁ ଆହୁରି ବ୍ୟାପକ ଭାବେ ଲୋକଙ୍କ ପାଇଁ ଉପଲବ୍ଧ । {.img-pdmoon}
+
+&nbsp;
 
 #### #FREEBASSEL: Creative Commons ସିରିଆର ମୁଖ୍ୟ ବାସେଲ ଖାର୍ଟାବିଲ ସାଂସ୍କୃତିକ ଐତିହ୍ୟର ଡିଜିଟାଲକରଣ, ସଂରକ୍ଷଣ ଓ ବିତରଣ କରୁଥିବା ପ୍ରକଳ୍ପର ଜଣେ ମୁଖ୍ୟ ଯୋଗଦାନକାରୀ । ୨୦୧୨ ମାର୍ଚ୍ଚରୁ ସେ ସିରିଆରେ ଅନୀତିକ ଭାବେ ବନ୍ଦୀ ହୋଇଛନ୍ତି । CC ଓ ଏହାର ବୋର୍ଡ଼ ଅଫ ଡାଇରେକ୍ଟରମାନେ ବାସେଲଙ୍କ ତୁରନ୍ତ ଓ ନିରାପଦ ମୁକ୍ତି ଦାବିରେ ଲାଗିରହିଛନ୍ତି ।. {.img-bk}
 

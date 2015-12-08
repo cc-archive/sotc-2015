@@ -227,7 +227,7 @@ Mer öppen &mdash; Mer begränsad. Mindre begränsade FRI KULTUR licenser som ti
 <tr class="odd"><td>Flickr</td><td>356 miljoner foton</td></tr>
 <tr class="even"><td>Bandcamp</td><td>1,95 miljoner spår</td></tr>
 <tr class="odd"><td>Wikipedia</td><td>35,9 miljoner artiklar</td></tr>
-<tr class="even"><td>YouTube</td><td></td></tr>
+<tr class="even"><td>YouTube</td><td>13 _miljoner videos</td></tr>
 <tr class="odd"><td>Jamendo</td><td>496,000 _spår</td></tr>
 <tr class="even"><td>500px</td><td>661,000 photos</td></tr>
 <tr class="odd"><td>Vimeo</td><td>5 _miljoner videos</td></tr>
@@ -320,6 +320,8 @@ Mer öppen &mdash; Mer begränsad. Mindre begränsade FRI KULTUR licenser som ti
 </div>
 
 #### Tack vare CC:s public domain verktyg, blir digitala bilder från yttre rymden fritt tillgängliga och än mer tillgängliga för allmänheten än de någonsin varit förut.  {.img-pdmoon}
+
+&nbsp;
 
 #### #FREEBASSEL: ledaren för Creative Commons i Syrien, Bassel Khartabil är en nyckelperson för projekt som digitaliserar, bevarar och sprider kulturarvet. Han är olagligt fängslad i Syrien, sedan mars 2012. CC och vår styrelse kräver att Bassel ska friges omedelbart.. {.img-bk}
 

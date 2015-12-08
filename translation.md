@@ -226,7 +226,7 @@
 <tr class="odd"><td>Flickr</td><td>{{43}}</td></tr>
 <tr class="even"><td>Bandcamp</td><td>{{44}}</td></tr>
 <tr class="odd"><td>Wikipedia</td><td>{{46}}</td></tr>
-<tr class="even"><td>YouTube</td><td></td></tr>
+<tr class="even"><td>YouTube</td><td>13 {{51}}</td></tr>
 <tr class="odd"><td>Jamendo</td><td>496,000 {{41}}</td></tr>
 <tr class="even"><td>500px</td><td>661,000 photos</td></tr>
 <tr class="odd"><td>Vimeo</td><td>5 {{51}}</td></tr>
@@ -319,6 +319,8 @@
 </div>
 
 #### {{89}} {.img-pdmoon}
+
+&nbsp;
 
 #### {{90}} {{141}} {{142}}. {.img-bk}
 

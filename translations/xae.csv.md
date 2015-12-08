@@ -227,7 +227,7 @@ Otvorenejšie &mdash; Prísnejšie. "Menej obmedzujúce licencie „FREE CULTURE
 <tr class="odd"><td>Flickr</td><td>356 milónov fotografií</td></tr>
 <tr class="even"><td>Bandcamp</td><td>1,95 miliónov záznamov</td></tr>
 <tr class="odd"><td>Wikipedia</td><td>35,9 miliónov článkov</td></tr>
-<tr class="even"><td>YouTube</td><td></td></tr>
+<tr class="even"><td>YouTube</td><td>13 _miliónov videí</td></tr>
 <tr class="odd"><td>Jamendo</td><td>496,000 _záznamov</td></tr>
 <tr class="even"><td>500px</td><td>661,000 photos</td></tr>
 <tr class="odd"><td>Vimeo</td><td>5 _miliónov videí</td></tr>
@@ -320,6 +320,8 @@ Otvorenejšie &mdash; Prísnejšie. "Menej obmedzujúce licencie „FREE CULTURE
 </div>
 
 #### Vďaka CC public domain nástrojom, digitálne snímky kozmického priestoru sú voľne dostupné a omnoho širšie sprístupnené verejnosti ako kedykoľvek predtým. {.img-pdmoon}
+
+&nbsp;
 
 #### #FREEBASSEL: Líder sýrskej Creative Commons, Bassel Khartabil je kľúčovým prispievateľom projektov, ktoré digitalizujú, uchovávajú a zdieľajú kultúrne dedičstvo. Od marca 2012 je nezákonne väznený v Sýrii.  CC a jeho členovia správnej rady požadujú Basselovo okamžité a bezpečné prepustenie. . {.img-bk}
 

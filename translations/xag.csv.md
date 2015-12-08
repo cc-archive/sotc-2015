@@ -227,7 +227,7 @@ Lebih terbuka &mdash; Lebih terbatas. Lisensi BUDAYA BEBAS yang lebih terbuka me
 <tr class="odd"><td>Flickr</td><td>356 juta foto</td></tr>
 <tr class="even"><td>Bandcamp</td><td>1,95 juta lagu</td></tr>
 <tr class="odd"><td>Wikipedia</td><td>35,9 juta artikel</td></tr>
-<tr class="even"><td>YouTube</td><td></td></tr>
+<tr class="even"><td>YouTube</td><td>13 juta video </td></tr>
 <tr class="odd"><td>Jamendo</td><td>496,000 lagu</td></tr>
 <tr class="even"><td>500px</td><td>661,000 photos</td></tr>
 <tr class="odd"><td>Vimeo</td><td>5 juta video </td></tr>
@@ -320,6 +320,8 @@ Lebih terbuka &mdash; Lebih terbatas. Lisensi BUDAYA BEBAS yang lebih terbuka me
 </div>
 
 #### Berkat alat domain publik CC, gambar digital dari luar angkasa dapat diakses secara bebas dan tersedia secara lebih luas untuk semua orang. {.img-pdmoon}
+
+&nbsp;
 
 #### #FREEBASSEL: Ketua Creative Commons Suriah, Bassel Khartabil adalah kontributor kunci untuk proyek-proyek yang mendigitalisasi, melestarikan, dan membagikan warisan budaya. Ia telah dipenjarakan secara ilegal di Suriah sejak Maret 2012. CC dan Dewan Direksi CC terus menyerukan agar Bassel segera dibebaskan secara aman.. {.img-bk}
 
