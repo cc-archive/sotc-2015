@@ -790,4 +790,23 @@ valuable contributions. Thank you!
 * [Data, sources, scripts and editable images for the entire report can
   be downloaded at GitHub](<https://github.com/creativecommons/sotc-2015>)
 
+* Translations:
+    - [Español (Spanish)](translation-xac.csv.html)
+    - [suomi (Finnish)](translation-xad.csv.html)
+    - [Slovak](translation-xae.csv.html)
+    - [Danish](translation-xaf.csv.html)
+    - [Indonesian](translation-xag.csv.html)
+    - [Catalan](translation-xah.csv.html)
+    - [Chinese (Traditional)](translation-xai.csv.html)
+    - [Tamil](translation-xaj.csv.html)
+    - [Dutch](translation-xak.csv.html)
+    - [Punjabi](translation-xal.csv.html)
+    - [Czech](translation-xam.csv.html)
+    - [German](translation-xan.csv.html)
+    - [Polish](translation-xao.csv.html)
+    - [Telugu](translation-xap.csv.html)
+    - [Swedish](translation-xaq.csv.html)
+    - [Oriya](translation-xar.csv.html)
+    - [French](translation-xas.csv.html)
+
 </footer>
