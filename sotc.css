@@ -387,6 +387,13 @@ blockquote * {
 
 }
 
+#invest-circle a {
+
+    background: red;
+    display: block;
+    
+}
+
 #invest-circle ul, #social-circle ul {
 
     list-style: none !important;
@@ -518,7 +525,25 @@ footer ul {list-style: none; margin: 0; padding: 0;}
 
 .slide-tab{ display:none; }
 
-.fundie {display:block;background-color:#b99bd6;padding:15px;}
+.fundie {
+    display:block;
+    background-color:#b99bd6;
+    padding:15px;
+}
+
+.fundie a{
+    display: block; 
+    color: #111 !important;
+    background-image: url(img/heart.png);
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-left: 110px;
+    text-decoration: none !important;
+}
+
+.fundie a:hover {color: #333 !important;}
+
 
 .slide-trigger{display:block;background-color:#b99bd6;padding:15px;-webkit-transition:all
  .3s ease-in-out;-moz-transition:all .3s ease-in-out;-o-transition:all
