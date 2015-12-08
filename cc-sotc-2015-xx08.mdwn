@@ -36,5 +36,5 @@ support for improving OER." />
 Note: *European Union is a collection of member states but included in
 this country list for reporting purposes; Data reflects savings for
 students in Canada and the United States; Data provided by the open
-education community. [Dig into our data sources]().
+education community. [Dig into our data sources](data.html#countries-with-open-education-policies).
 

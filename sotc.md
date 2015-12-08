@@ -100,7 +100,7 @@ and Melinda Gates Foundation to the White House.
 Note: Data includes content licensed with the full CC license suite,
 along with content marked with CC public domain tools. This is a low
 bound estimate based on what we could
-count. [Dig into our data sources]().
+count. [Dig into our data sources](data.html#more-than-1-billion-cc-licensed-works-in-the-commons-as-of-2015).
 
 -----
 
@@ -174,7 +174,7 @@ licenses allow for both commercial use and adaptations.
 
 Note: Data includes content licensed with the full CC license suite
 and marked with our public domain
-tools. [Dig into our data sources]().
+tools. [Dig into our data sources](data.html#more-people-are-choosing-to-share-openly).
 
 -----
 
@@ -229,7 +229,7 @@ tools. [Dig into our data sources]().
 
 Note: Data includes content under the CC0 public domain dedication and
 Public Domain Mark, but not unmarked material in the public
-domain. [Dig into our data sources]().
+domain. [Dig into our data sources](data.html#the-public-domain-is-growing).
 
 <div class="fundie"><a target="_blank" href="https://donate.creativecommons.org/?utm_campaign=2015sotc&utm_source=sotc_slide2015">Creative Commons helps to build a more creative, free, and open commons. Please make your donation now to help us meet our year-end goal before our December 31 deadline.</a></div>
 
@@ -257,7 +257,7 @@ domain. [Dig into our data sources]().
 
 Note: Data tracks downloads on CC license buttons, or the number of
 times CC licensed content was viewed on a web
-page. [Dig into our data sources]().
+page. [Dig into our data sources](data.html#in-2015-cc-licensed-works-were-viewed-online-136-billion-times).
 
 -----
 
@@ -336,7 +336,7 @@ with 3 more to be published in 2015.
 Note: Data reflects total views of CC deed pages from Jan 1, 2005
 through Nov 3, 2015. * Category includes variations on that language
 for simplicity, eg. Chinese includes simplified and traditional
-Chinese. [Dig into our data sources]().
+Chinese. [Dig into our data sources](data.html#to-date-the-4.0-license-suite-has-been-officially-translated-into-7-languages-with-3-more-to-be-published-before-the-new-year.).
 
 -----
 
@@ -395,7 +395,7 @@ Chinese. [Dig into our data sources]().
 
 Note: Data only reflects media on 16 platforms + Directory of Open
 Access Journals, just a slice of all available CC media on the
-web. [Dig into our data sources]().
+web. [Dig into our data sources](data.html#from-research-to-cute-cat-photos-the-commons-offers-a-treasure-trove-of-content.).
 
 -----
 
@@ -451,7 +451,7 @@ web. [Dig into our data sources]().
 
 ---
 
-Note: Data reflects total CC licensed works on each platform, only 16 websites out of millions. [Dig into our data sources]().
+Note: Data reflects total CC licensed works on each platform, only 16 websites out of millions. [Dig into our data sources](data.html#cc-is-everywhere-millions-of-websites-use-cc-licenses-including-major-platforms-like-wikipedia-and-flickr-and-smaller-websites-like-your-grandmas-blog.).
 
 <div class="fundie"><a target="_blank" href="https://donate.creativecommons.org/?utm_campaign=2015sotc&utm_source=sotc_slide2015">Creative Commons helps to build a more creative, free, and open commons. Please make your donation now to help us meet our year-end goal before our December 31 deadline.</a></div>
 
@@ -503,7 +503,7 @@ support for improving OER." />
 Note: *European Union is a collection of member states but included in
 this country list for reporting purposes; Data reflects savings for
 students in Canada and the United States; Data provided by the open
-education community. [Dig into our data sources]().
+education community. [Dig into our data sources](data.html#countries-with-open-education-policies).
 
 -----
 
@@ -781,7 +781,7 @@ valuable contributions. Thank you!
 
 * <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">State of the Commons report 2015</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
-* [For the complete list of acknowledgments and data sources, see Data, Notes and Acknowledgments.]()
+* [For the complete list of acknowledgments and data sources, see Data, Notes and Acknowledgments.](data.html)
 
 * Design: Eva Rogers
 
