@@ -41,7 +41,7 @@ cd ..
 
 
 
-rsync -arR *.css *.md *.html img/ mattl@labs.creativecommons.org:~/public_html/sotc-2015-mattl/
+#rsync -arR *.css *.md *.html img/ mattl@labs.creativecommons.org:~/public_html/sotc-2015-mattl/
 
 git add .
 git commit -m "Updates"
