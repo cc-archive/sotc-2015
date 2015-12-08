@@ -50,6 +50,13 @@ CEO, Creative Commons
 
 <div id="b02" class="bubbles"></div>
 
+<nav class="social-share">
+<ul class="nav nav-pills">
+<li><a href="https://www.facebook.com/sharer/sharer.php?u=https://stateof.creativecommons.org/2015/cc-sotc-2015-xx01.html"><img src="https://licensebuttons.net/gi/social-31-facebook.png" alt="">&nbsp; Share on Facebook</a></li>
+<li><a href="https://twitter.com/intent/tweet?source=webclient&amp;text=State+of+the+Commons+stateof.creativecommons.org%2F2015%2Fcc-sotc-2015-xx01.html&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="">&nbsp; Share on Twitter</a></li>
+	</ul>
+</nav>
+
 ## Wow! Over 1 billion CC licensed works in the Commons in 2015
 
 > CC licensed works have nearly tripled in the last 5 years.
