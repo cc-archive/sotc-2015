@@ -42,5 +42,5 @@ and Melinda Gates Foundation to the White House.
 Note: Data includes content licensed with the full CC license suite,
 along with content marked with CC public domain tools. This is a low
 bound estimate based on what we could
-count. [Dig into our data sources]()
+count. [Dig into our data sources]().
 

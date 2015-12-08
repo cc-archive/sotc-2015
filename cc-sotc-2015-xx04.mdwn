@@ -12,5 +12,5 @@
 
 Note: Data tracks downloads on CC license buttons, or the number of
 times CC licensed content was viewed on a web
-page. [Dig into our data sources]()
+page. [Dig into our data sources]().
 
