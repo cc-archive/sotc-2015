@@ -443,6 +443,7 @@ Breakdown of works by media type includes data from 16 platforms plus the Direct
 * Bandcamp: 1,950,000 / Source: Bandcamp staff
 * Free Music Archive: 86,394 / Source: Free Music Archive staff
 * Tribe of Noise: 29,000 / Source: Tribe of Noise staff
+* Internet Archive: 876,539 / Source: Internet Archive staff
 
 ### <span id="h.ihra12cur47x"></span>“Images (Photos, Artworks): 391 million”
 
