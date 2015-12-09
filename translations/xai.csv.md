@@ -263,7 +263,9 @@
 
 ### 開放教材已經為學生節省了 {.by}
 
-<img src="img/oer-3.svg" class="sotc-image" alt="$1 億 7400 萬美元 以上" />
+<img src="img/oer-3-translation.svg" class="sotc-image" alt="$1 億 7400 萬美元 以上" />
+
+**$1 億 7400 萬美元 以上**
 
 ### 本學年（2015-16）預計能再加以節省 5300 萬美元 {.by .by-r}
 

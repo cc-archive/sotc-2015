@@ -263,7 +263,9 @@ Mere åbent &mdash; Mere restriktivt. De mindre restriktive FRI KULTUR licenser 
 
 ### Åbne tekstbøger har sparet studerende {.by}
 
-<img src="img/oer-3.svg" class="sotc-image" alt="$174 MILLIONER DOLLARS TIL DATO" />
+<img src="img/oer-3-translation.svg" class="sotc-image" alt="$174 MILLIONER DOLLARS TIL DATO" />
+
+**$174 MILLIONER DOLLARS TIL DATO**
 
 ### med yderligere 53 millioner Dollars forventet i løbet af det akademiske år 2015/16 {.by .by-r}
 

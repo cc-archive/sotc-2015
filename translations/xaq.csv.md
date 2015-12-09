@@ -263,7 +263,9 @@ Mer öppen &mdash; Mer begränsad. Mindre begränsade FRI KULTUR licenser som ti
 
 ### Öppna textböcker gör att studenter sparar {.by}
 
-<img src="img/oer-3.svg" class="sotc-image" alt="$174 MILJONER DOLLAR TILL IDAG" />
+<img src="img/oer-3-translation.svg" class="sotc-image" alt="$174 MILJONER DOLLAR TILL IDAG" />
+
+**$174 MILJONER DOLLAR TILL IDAG**
 
 ### och ytterligare 53 miljoner dollar är projekterade för läsåret 2015/16 {.by .by-r}
 

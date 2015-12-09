@@ -263,7 +263,9 @@ Offener &mdash; Einschränkender. Weniger einschränkende Free-Culture-Lizenzsen
 
 ### Durch freie Lehrbücher haben Studenten schon {.by}
 
-<img src="img/oer-3.svg" class="sotc-image" alt="$174 MILLIONEN US-DOLLAR GESPART" />
+<img src="img/oer-3-translation.svg" class="sotc-image" alt="$174 MILLIONEN US-DOLLAR GESPART" />
+
+**$174 MILLIONEN US-DOLLAR GESPART**
 
 ### dazu kommen prognostizierte weitere 53 Millionen Dollar für 2015/2016 {.by .by-r}
 

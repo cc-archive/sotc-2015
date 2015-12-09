@@ -263,7 +263,9 @@ LIBERÁLNĚJŠÍ &mdash; RESTRIKTIVNĚJŠÍ. Liberálnější licence SVOBODNÉ 
 
 ### Otevřené učebnice již ušetřily studentům {.by}
 
-<img src="img/oer-3.svg" class="sotc-image" alt="$174 milionů doladů K DNEŠNÍMU DNI" />
+<img src="img/oer-3-translation.svg" class="sotc-image" alt="$174 milionů doladů K DNEŠNÍMU DNI" />
+
+**$174 milionů doladů K DNEŠNÍMU DNI**
 
 ### a dalších 53 milionů dolarů očekávaných v akademickém roce 2015/16 {.by .by-r}
 

@@ -263,7 +263,9 @@ Plus ouverte &mdash; Plus restrictive. es licences moins restrictives, compatibl
 
 ### Les manuels libres ont économisé aux étudiants {.by}
 
-<img src="img/oer-3.svg" class="sotc-image" alt="$174 MILLIONS DE DOLLARS À CE JOUR" />
+<img src="img/oer-3-translation.svg" class="sotc-image" alt="$174 MILLIONS DE DOLLARS À CE JOUR" />
+
+**$174 MILLIONS DE DOLLARS À CE JOUR**
 
 ### Il est estimé que 53 millions de dollars supplémentaires seront économisés d'ici la fin de l'année académique 2015-2016 {.by .by-r}
 

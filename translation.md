@@ -262,7 +262,9 @@
 
 ### {{63}} {.by}
 
-<img src="img/oer-3.svg" class="sotc-image" alt="${{84}} {{85}}" />
+<img src="img/oer-3-translation.svg" class="sotc-image" alt="${{84}} {{85}}" />
+
+**${{84}} {{85}}**
 
 ### {{86}} {.by .by-r}
 

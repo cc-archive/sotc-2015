@@ -263,7 +263,9 @@ Meer open &mdash; Meer restrictief. Minder restrictieve FREE CULTURE-licenties s
 
 ### Open Leerboeken besparen studenten {.by}
 
-<img src="img/oer-3.svg" class="sotc-image" alt="$$174 MILJOEN TOT OP HEDEN" />
+<img src="img/oer-3-translation.svg" class="sotc-image" alt="$$174 MILJOEN TOT OP HEDEN" />
+
+**$$174 MILJOEN TOT OP HEDEN**
 
 ### met een extra $53 miljoen voorzien voor het studiejaar 2015/16 {.by .by-r}
 

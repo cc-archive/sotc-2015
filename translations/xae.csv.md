@@ -263,7 +263,9 @@ Otvorenejšie &mdash; Prísnejšie. "Menej obmedzujúce licencie „FREE CULTURE
 
 ### Verejne prístupné učebnice pomáhajú študentom {.by}
 
-<img src="img/oer-3.svg" class="sotc-image" alt="$174 MILIÓNOV $ DOPOSIAĽ" />
+<img src="img/oer-3-translation.svg" class="sotc-image" alt="$174 MILIÓNOV $ DOPOSIAĽ" />
+
+**$174 MILIÓNOV $ DOPOSIAĽ**
 
 ### s dodatočnými 53 miliónmi dolárov plánovanými v akademickom roku 2015/16 {.by .by-r}
 

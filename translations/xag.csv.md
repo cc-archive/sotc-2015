@@ -263,7 +263,9 @@ Lebih terbuka &mdash; Lebih terbatas. Lisensi BUDAYA BEBAS yang lebih terbuka me
 
 ### Buku Sekolah Terbuka telah membuat para pelajar menghemat {.by}
 
-<img src="img/oer-3.svg" class="sotc-image" alt="$174 JUTA DOLAR HINGGA SAAT INI" />
+<img src="img/oer-3-translation.svg" class="sotc-image" alt="$174 JUTA DOLAR HINGGA SAAT INI" />
+
+**$174 JUTA DOLAR HINGGA SAAT INI**
 
 ### dengan tambahan penghematan 53 juta dolar diproyeksikan pada tahun ajaran 2015/16 {.by .by-r}
 

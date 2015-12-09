@@ -263,7 +263,9 @@ Avoimempi &mdash; Rajoittavampi. Vähemmän rajoittavat VAPAAN KULTTUURIN lisens
 
 ### Avoimet oppikirjat ovat säästäneet opiskelijoilta {.by}
 
-<img src="img/oer-3.svg" class="sotc-image" alt="$$174 MILJOONAA TÄHÄN MENNESSÄ" />
+<img src="img/oer-3-translation.svg" class="sotc-image" alt="$$174 MILJOONAA TÄHÄN MENNESSÄ" />
+
+**$$174 MILJOONAA TÄHÄN MENNESSÄ**
 
 ### jonka lisäksi arvioitu $53 miljoonaa kouluvuoden 2015-2016 aikana {.by .by-r}
 

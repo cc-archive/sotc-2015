@@ -263,7 +263,9 @@ Bardziej otwarte &mdash; Bardziej restrykcyjnej. Mniej restrykcyjne licencje “
 
 ### Dzięki otwartym podręcznikom studenci zaoszczędzili {.by}
 
-<img src="img/oer-3.svg" class="sotc-image" alt="$174 miliony do tej pory" />
+<img src="img/oer-3-translation.svg" class="sotc-image" alt="$174 miliony do tej pory" />
+
+**$174 miliony do tej pory**
 
 ### w ciągu nadchodzącego roku akademickiego 2015/2015 oczekuje się następnych 53$ milionów oszczędności {.by .by-r}
 

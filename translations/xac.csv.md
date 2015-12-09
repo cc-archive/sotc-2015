@@ -263,7 +263,9 @@ Más abierto &mdash; Más restrictivo. Las licencias de CULTURA LIBRE menos rest
 
 ### Los libros de texto en abierto representan un ahorro para los estudiantes de {.by}
 
-<img src="img/oer-3.svg" class="sotc-image" alt="$174 MILLONES DE DÓLARES HASTA LA FECHA" />
+<img src="img/oer-3-translation.svg" class="sotc-image" alt="$174 MILLONES DE DÓLARES HASTA LA FECHA" />
+
+**$174 MILLONES DE DÓLARES HASTA LA FECHA**
 
 ### con 53 millones de dólares adicionales proyectados a lo largo del curso académico 2015/16 {.by .by-r}
 

@@ -263,7 +263,9 @@ Més obert &mdash; Més restrictiu. Les llicències de CULTURA LLIURE menys rest
 
 ### Els llibres de text en obert respresent un estalvi per als estudiants de {.by}
 
-<img src="img/oer-3.svg" class="sotc-image" alt="$174 MILIONS DE DÒLARS FINS AVUI" />
+<img src="img/oer-3-translation.svg" class="sotc-image" alt="$174 MILIONS DE DÒLARS FINS AVUI" />
+
+**$174 MILIONS DE DÒLARS FINS AVUI**
 
 ### amb 53 milions de dòlars addicionals projectats al llarg del curs acadèmic 2015/16 {.by .by-r}
 
