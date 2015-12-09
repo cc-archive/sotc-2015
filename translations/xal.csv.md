@@ -424,6 +424,6 @@
 
 * HTML version: Matt Lee
 
-* Translation: <a href="mailto:satdeep_gill@yahoo.com">Satdeep Gill</a> and local pa team.
+* Translation: Satdeep Gill and local pa team.
 
 </footer>

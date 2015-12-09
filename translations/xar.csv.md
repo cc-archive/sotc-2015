@@ -424,6 +424,6 @@
 
 * HTML version: Matt Lee
 
-* Translation: <a href="mailto:psubhashish@gmail.com">subhashish panigrahi</a> and local or team.
+* Translation: subhashish panigrahi and local or team.
 
 </footer>

@@ -424,6 +424,6 @@ Mere åbent &mdash; Mere restriktivt. De mindre restriktive FRI KULTUR licenser 
 
 * HTML version: Matt Lee
 
-* Translation: <a href="mailto:villum@creativecommons.dk">Christian Villum</a> and local da team.
+* Translation: Christian Villum and local da team.
 
 </footer>

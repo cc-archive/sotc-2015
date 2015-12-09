@@ -423,6 +423,6 @@
 
 * HTML version: Matt Lee
 
-* Translation: <a href="mailto:{{4}}">{{3}}</a> and local {{5}} team.
+* Translation: {{3}} and local {{5}} team.
 
 </footer>

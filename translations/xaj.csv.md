@@ -424,6 +424,6 @@
 
 * HTML version: Matt Lee
 
-* Translation: <a href="mailto:tshrinivasan@gmail.com">shrini</a> and local ta team.
+* Translation: shrini and local ta team.
 
 </footer>

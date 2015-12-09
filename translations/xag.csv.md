@@ -424,6 +424,6 @@ Lebih terbuka &mdash; Lebih terbatas. Lisensi BUDAYA BEBAS yang lebih terbuka me
 
 * HTML version: Matt Lee
 
-* Translation: <a href="mailto:alifia.qonita@gmail.com">Nita Sudharto</a> and local id team.
+* Translation: Nita Sudharto and local id team.
 
 </footer>

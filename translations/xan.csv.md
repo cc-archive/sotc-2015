@@ -424,6 +424,6 @@ Offener &mdash; Einschränkender. Weniger einschränkende Free-Culture-Lizenzsen
 
 * HTML version: Matt Lee
 
-* Translation: <a href="mailto:john@creativecommons.de">John Weitzmann</a> and local de team.
+* Translation: John Weitzmann and local de team.
 
 </footer>

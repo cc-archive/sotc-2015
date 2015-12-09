@@ -424,6 +424,6 @@ LIBERÁLNĚJŠÍ &mdash; RESTRIKTIVNĚJŠÍ. Liberálnější licence SVOBODNÉ 
 
 * HTML version: Matt Lee
 
-* Translation: <a href="mailto:jkb.misek@mail.muni.cz">Jakub Míšek</a> and local cs team.
+* Translation: Jakub Míšek and local cs team.
 
 </footer>
