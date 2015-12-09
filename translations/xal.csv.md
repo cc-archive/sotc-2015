@@ -295,9 +295,9 @@
 
 -----
 
-## 2015 Impact:<br />CC + Cultural Heritage {.impact}
+## 2015 ਅਸਰ: ਸੀਸੀ + ਸਭਿਆਚਾਰਕ ਵਿਰਾਸਤ {.impact}
 
-#### Museums and cultural institutions are choosing to share every day. {.img-frame}
+#### ਅਜਾਇਬਘਰ ਅਤੇ ਸਭਿਆਚਾਰਕ ਸੰਸਥਾਵਾਂ ਹਰ ਰੋਜ਼ ਸਾਂਝਿਆਂ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰ ਰਹੇ ਹਨ। {.img-frame}
 
 <div id="foundations" class="clearfix">
 

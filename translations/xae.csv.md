@@ -295,9 +295,9 @@ Otvorenejšie &mdash; Prísnejšie. "Menej obmedzujúce licencie „FREE CULTURE
 
 -----
 
-## 2015 Impact:<br />CC + Cultural Heritage {.impact}
+## 2015 vplyv: CC + kultúrne dedičstvo {.impact}
 
-#### Museums and cultural institutions are choosing to share every day. {.img-frame}
+#### Múzeá a kultúrne inštitúcie sa rozhodli, že budú každý deň zdieľať. {.img-frame}
 
 <div id="foundations" class="clearfix">
 

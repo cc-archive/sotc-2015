@@ -295,9 +295,9 @@ Més obert &mdash; Més restrictiu. Les llicències de CULTURA LLIURE menys rest
 
 -----
 
-## 2015 Impact:<br />CC + Cultural Heritage {.impact}
+## Impacte el 2015: CC + Patrimoni Cultural {.impact}
 
-#### Museums and cultural institutions are choosing to share every day. {.img-frame}
+#### Cada dia, museus i institucions culturals trien compartir {.img-frame}
 
 <div id="foundations" class="clearfix">
 

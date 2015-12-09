@@ -295,9 +295,9 @@
 
 -----
 
-## 2015 Impact:<br />CC + Cultural Heritage {.impact}
+## 2015 的影響：CC 與文化遺產 {.impact}
 
-#### Museums and cultural institutions are choosing to share every day. {.img-frame}
+#### 博物館及文化機構每天持續分享。 {.img-frame}
 
 <div id="foundations" class="clearfix">
 

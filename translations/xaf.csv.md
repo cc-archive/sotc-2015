@@ -295,9 +295,9 @@ Mere åbent &mdash; Mere restriktivt. De mindre restriktive FRI KULTUR licenser 
 
 -----
 
-## 2015 Impact:<br />CC + Cultural Heritage {.impact}
+## 2015 indvirkning: CC + Kulturarv {.impact}
 
-#### Museums and cultural institutions are choosing to share every day. {.img-frame}
+#### Museer og kulturelle institutioner vælger at dele hver dag {.img-frame}
 
 <div id="foundations" class="clearfix">
 

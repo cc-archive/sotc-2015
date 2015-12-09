@@ -295,9 +295,9 @@ Offener &mdash; Einschränkender. Weniger einschränkende Free-Culture-Lizenzsen
 
 -----
 
-## 2015 Impact:<br />CC + Cultural Heritage {.impact}
+## Effekt 2015:  CC + Gedächtnisinstitutionen {.impact}
 
-#### Museums and cultural institutions are choosing to share every day. {.img-frame}
+#### Museen und andere Kultureinrichtungen machen täglich mehr Inhalte zugänglich. {.img-frame}
 
 <div id="foundations" class="clearfix">
 

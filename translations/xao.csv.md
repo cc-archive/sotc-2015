@@ -295,9 +295,9 @@ Bardziej otwarte &mdash; Bardziej restrykcyjnej. Mniej restrykcyjne licencje “
 
 -----
 
-## 2015 Impact:<br />CC + Cultural Heritage {.impact}
+## Osiągnięcia w 2015 roku: CC i instytucje dziedzictwa {.impact}
 
-#### Museums and cultural institutions are choosing to share every day. {.img-frame}
+#### muzea i instytucje kultury dzielą się swoimi zasobami każdego dnia {.img-frame}
 
 <div id="foundations" class="clearfix">
 

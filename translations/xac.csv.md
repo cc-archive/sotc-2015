@@ -295,9 +295,9 @@ Más abierto &mdash; Más restrictivo. Las licencias de CULTURA LIBRE menos rest
 
 -----
 
-## 2015 Impact:<br />CC + Cultural Heritage {.impact}
+## Impacto en 2015: CC+ Patrimonio Cultural {.impact}
 
-#### Museums and cultural institutions are choosing to share every day. {.img-frame}
+#### Cada dia, museos e instituciones culturales escogen compartir {.img-frame}
 
 <div id="foundations" class="clearfix">
 

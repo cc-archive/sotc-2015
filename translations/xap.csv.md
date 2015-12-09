@@ -295,9 +295,9 @@
 
 -----
 
-## 2015 Impact:<br />CC + Cultural Heritage {.impact}
+## 2015 ప్రతిఫలం : సీసీ + సాంస్కృతిక వారసత్వం {.impact}
 
-#### Museums and cultural institutions are choosing to share every day. {.img-frame}
+#### మ్యూజియంలు, సాంస్కృతిక సంస్థలు రోజురోజుకీ మరింత సమాచారం పంచుకుంటున్నాయి. {.img-frame}
 
 <div id="foundations" class="clearfix">
 

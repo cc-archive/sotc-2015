@@ -295,9 +295,9 @@ Avoimempi &mdash; Rajoittavampi. Vähemmän rajoittavat VAPAAN KULTTUURIN lisens
 
 -----
 
-## 2015 Impact:<br />CC + Cultural Heritage {.impact}
+## Vaikutus 2015: CC + Kulttuuriperintö {.impact}
 
-#### Museums and cultural institutions are choosing to share every day. {.img-frame}
+#### Museot ja kulttuuriorganisaatiot jakavat sisältöä päivittäin {.img-frame}
 
 <div id="foundations" class="clearfix">
 

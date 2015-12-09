@@ -295,9 +295,9 @@ LIBERÁLNĚJŠÍ &mdash; RESTRIKTIVNĚJŠÍ. Liberálnější licence SVOBODNÉ 
 
 -----
 
-## 2015 Impact:<br />CC + Cultural Heritage {.impact}
+## Vliv v roce 2015: CC + kulturní dědictví {.impact}
 
-#### Museums and cultural institutions are choosing to share every day. {.img-frame}
+#### Muzea a kulturní instituce sdílejí každý den. {.img-frame}
 
 <div id="foundations" class="clearfix">
 

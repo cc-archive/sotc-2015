@@ -294,9 +294,9 @@
 
 -----
 
-## 2015 Impact:<br />CC + Cultural Heritage {.impact}
+## {{87}} {.impact}
 
-#### Museums and cultural institutions are choosing to share every day. {.img-frame}
+#### {{88}} {.img-frame}
 
 <div id="foundations" class="clearfix">
 

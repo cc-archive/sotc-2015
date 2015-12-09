@@ -295,9 +295,9 @@
 
 -----
 
-## 2015 Impact:<br />CC + Cultural Heritage {.impact}
+## 2015 ல் நடந்தவை : CC + மரபு, பண்பாடு {.impact}
 
-#### Museums and cultural institutions are choosing to share every day. {.img-frame}
+#### தினமும் அருங்காட்சியகங்கள், கலாச்சார அமைப்புகள் தமது ஆக்கங்களைப் பகிர்கின்றன. {.img-frame}
 
 <div id="foundations" class="clearfix">
 

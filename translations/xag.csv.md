@@ -295,9 +295,9 @@ Lebih terbuka &mdash; Lebih terbatas. Lisensi BUDAYA BEBAS yang lebih terbuka me
 
 -----
 
-## 2015 Impact:<br />CC + Cultural Heritage {.impact}
+## Dampak pada tahun 2015: CC + Warisan Budaya {.impact}
 
-#### Museums and cultural institutions are choosing to share every day. {.img-frame}
+#### Museum dan lembaga kebudayaan memilih untuk berbagi setiap hari. {.img-frame}
 
 <div id="foundations" class="clearfix">
 

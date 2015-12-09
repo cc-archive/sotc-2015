@@ -295,9 +295,9 @@ Meer open &mdash; Meer restrictief. Minder restrictieve FREE CULTURE-licenties s
 
 -----
 
-## 2015 Impact:<br />CC + Cultural Heritage {.impact}
+## 2015 impact: CC + cultureel erfgoed {.impact}
 
-#### Museums and cultural institutions are choosing to share every day. {.img-frame}
+#### Musea en culturele instellingen kiezen er elke dag voor om te delen. {.img-frame}
 
 <div id="foundations" class="clearfix">
 

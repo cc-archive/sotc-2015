@@ -295,9 +295,9 @@
 
 -----
 
-## 2015 Impact:<br />CC + Cultural Heritage {.impact}
+## ୨୦୧୫ ପ୍ରଭାବ: ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼ CC + ସାଂସ୍କୃତିକ ଐତିହ୍ୟ {.impact}
 
-#### Museums and cultural institutions are choosing to share every day. {.img-frame}
+#### ସଂଗ୍ରହାଳୟ ଓ ବାକି ସାଂସ୍କୃତିକ ଅନୁଷ୍ଠାନମାନ {.img-frame}
 
 <div id="foundations" class="clearfix">
 

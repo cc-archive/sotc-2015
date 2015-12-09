@@ -295,9 +295,9 @@ Plus ouverte &mdash; Plus restrictive. es licences moins restrictives, compatibl
 
 -----
 
-## 2015 Impact:<br />CC + Cultural Heritage {.impact}
+## Impacts en 2015 : CC + Patrimoine culturel {.impact}
 
-#### Museums and cultural institutions are choosing to share every day. {.img-frame}
+#### Chaque jour, des musées ou des institutions font le choix de partager leurs ressources. {.img-frame}
 
 <div id="foundations" class="clearfix">
 

@@ -295,9 +295,9 @@ Mer öppen &mdash; Mer begränsad. Mindre begränsade FRI KULTUR licenser som ti
 
 -----
 
-## 2015 Impact:<br />CC + Cultural Heritage {.impact}
+## 2015 Påverkan: CC + Kulturarvet {.impact}
 
-#### Museums and cultural institutions are choosing to share every day. {.img-frame}
+#### Museer och kulturarvsinstitutioner väljer att dela varje dag. {.img-frame}
 
 <div id="foundations" class="clearfix">
 
