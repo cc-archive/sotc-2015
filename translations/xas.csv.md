@@ -46,7 +46,7 @@
 <!-- <thead>
 <tr class="header">
 <th style="text-align: left;">License/tool</th>
-<th style="text-align: left;">Percentage of works</th>
+<th style="text-align: left;">Total des œuvres sous licence</th>
 <th style="text-align: left;">Free Culture License?</th>
 </tr>
 </thead> -->
@@ -54,37 +54,30 @@
 <tr class="odd">
 <td style="text-align: left;">CC0, PDM  Anciens outils du DP (domaine public) </td>
 <td style="text-align: left;">3%</td>
-<td>Yes</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">CC BY</td>
 <td style="text-align: left;">24%</td>
-<td>Yes</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">CC BY SA</td>
 <td style="text-align: left;">37%</td>
-<td>Yes</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">CC BY ND</td>
 <td style="text-align: left;">2%</td>
-<td>No</style>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">CC BY NC</td>
 <td style="text-align: left;">6%</td>
-<td>No</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">CC BY-NC-SA</td>
 <td style="text-align: left;">14%</td>
-<td>No</style>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">CC BY NC ND</td>
 <td style="text-align: left;">14%</td>
-<td>No</td>
 </tr>
 </tbody>
 </table>
