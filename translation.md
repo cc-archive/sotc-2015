@@ -422,4 +422,8 @@
 
 * Translation: {{3}} and local {{5}} team.
 
+* Set in [Lato by Łukasz Dziedzic](http://www.latofonts.com/) SIL Open Font License
+
+* [Glyphicons by Jan Kovařík](http://glyphicons.com) CC BY 3.0
+
 </footer>
