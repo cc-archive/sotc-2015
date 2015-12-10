@@ -54,7 +54,7 @@ The data sources for the report are in the ``data.mdwn`` file which is once agai
 
 ## Images
 
-Images are edited in Inkscape and where appropriate, GIMP.
+Images are edited in Inkscape and where appropriate, GIMP. ``fixsvg.sh`` is a script which fixes the references to the various Lato fonts on GNU/Linux. Your mileage may vary.
 
 ## Fonts
 
