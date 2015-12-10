@@ -39,7 +39,7 @@ do
     echo "<li><a href='translation-$langfile.html'>$langfile</a></li>" >> ../translation-index.html
     
 done
-#rm *.md
+rm *.md
 cd ..
 
 
