@@ -23,8 +23,6 @@ done
 
 pandoc --smart "sotc.md" -T $PREFIX -V "pagetitle: $TITLE" -V "title: $TITLE" -w html5 -o "index.html" --template home.html
 
-pandoc --smart "mini.md" -T $PREFIX -V "pagetitle: $TITLE" -V "title: $TITLE" -w html5 -o "mini.html" --template template.html
-
 pandoc --smart "data.mdwn" --toc -V "pagetitle: Data" -V "title: Data" -w html5 -o "data.html" --template data-template.html
 
 echo "<ol>" > translation-index.html
@@ -35,8 +33,6 @@ do
     TITLE=$(echo $(head -n 2 $langfile.md) | perl -pe 's/## //g' | perl -pe 's/{.bb}//g' | perl -pe 's/{.impact}//g'|  perl -pe 's/{.by}//g' | perl -pe 's/{.bbs}//g' | sed -e 's/<[^>]*>//g')
 
     pandoc --smart "$langfile.md" -T $langfile -V "pagetitle: $TITLE" -V "title: $TITLE" -w html5 -o "../translation-$langfile.html" --template ../template-i18n.html
-
-    echo "<li><a href='translation-$langfile.html'>$langfile</a></li>" >> ../translation-index.html
     
 done
 rm *.md
