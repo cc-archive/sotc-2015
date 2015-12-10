@@ -790,6 +790,10 @@ valuable contributions. Thank you!
 * [Data, sources, scripts and editable images for the entire report can
 be downloaded at GitHub](<https://github.com/creativecommons/sotc-2015>)
 
+* Set in [Lato by Łukasz Dziedzic](http://www.latofonts.com/) SIL Open Font License
+
+* [Glyphicons by Jan Kovařík](http://glyphicons.com) CC BY 3.0
+
 * Media contact: <marci@zincstrategies.com>
 
 ##### Translations
