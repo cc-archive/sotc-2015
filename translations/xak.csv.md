@@ -3,7 +3,7 @@
 
 -----
 
-## Meer dan 1 miljard CC-gelicenseerde werken in de Commons in 2015 Wauw!
+## Wauw! Meer dan 1 miljard CC-gelicenseerde werken in de Commons in 2015
 
 > De hoeveelheid CC-gelicenseerde werken is bijna verdriedubbeld in de afgelopen 5 jaar
 
@@ -12,25 +12,25 @@
 <table class="table table-bordered table-striped">
 <thead>
 <tr>
-<th>_ miljard</th>
+<th>miljard</th>
 <th>&nbsp;</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">140 _ miljoen</td>
+<td style="text-align: left;">140 miljoen</td>
 <td style="text-align: left;">2006</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">400 _ miljoen</td>
+<td style="text-align: left;">400 miljoen</td>
 <td style="text-align: left;">2010</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">882 _ miljoen</td>
+<td style="text-align: left;">882 miljoen</td>
 <td style="text-align: left;">2014</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">1.1 _ miljard</td>
+<td style="text-align: left;">1.1 miljard</td>
 <td style="text-align: left;">2015</td>
 </tr>
 </tbody>
@@ -103,24 +103,24 @@ Meer open &mdash; Meer restrictief. Minder restrictieve FREE CULTURE-licenties s
 <tbody>
 <tr class="odd">
 <td style="text-align: left;">2006</td>
-<td style="text-align: left;">3.2 _ miljoen</td>
+<td style="text-align: left;">3.2 miljoen</td>
 <td style="text-align: left;">-</td>
 <td style="text-align: left;">-</td>
-<td style="text-align: left;">3.2 _ miljoen</td>
+<td style="text-align: left;">3.2 miljoen</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">2014</td>
-<td style="text-align: left;">5.7 _ miljoen</td>
-<td style="text-align: left;">1.5 _ miljoen</td>
-<td style="text-align: left;">10.3 _ miljoen</td>
-<td style="text-align: left;">17.5 _ miljoen</td>
+<td style="text-align: left;">5.7 miljoen</td>
+<td style="text-align: left;">1.5 miljoen</td>
+<td style="text-align: left;">10.3 miljoen</td>
+<td style="text-align: left;">17.5 miljoen</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">2015</td>
-<td style="text-align: left;">10 _ miljoen</td>
-<td style="text-align: left;">2.6 _ miljoen</td>
-<td style="text-align: left;">22.3 _ miljoen</td>
-<td style="text-align: left;">34.9 _ miljoen</td>
+<td style="text-align: left;">10 miljoen</td>
+<td style="text-align: left;">2.6 miljoen</td>
+<td style="text-align: left;">22.3 miljoen</td>
+<td style="text-align: left;">34.9 miljoen</td>
 </tr>
 </table>
 
@@ -130,13 +130,13 @@ Meer open &mdash; Meer restrictief. Minder restrictieve FREE CULTURE-licenties s
 
 <img src="img/hits.svg" alt="" style="width: 100%; overflow: hidden;" />
 
-<img src="img/bubble.png" alt="" /> = 1 _ miljard
+<img src="img/bubble.png" alt="" /> = 1 miljard
 
 -----
 
 ## Diversiteit en wereldwijde zichtbaarheid
 
-## Mensen delen met hulp van CC-licenties in 34 talen met meer dan 90 miljoen views van CC-licentiesamenvattingen in de afgelopen 10 jaar.
+## Mensen delen met hulp van CC-licenties in 34 talen met meer dan 90 miljoen views van CC-licentiesamenvattingen in de afgelopen 10 jaar
 
 <div class="col-md-6 col-sm-12">
 <table class="table table-bordered table-striped">
@@ -190,7 +190,7 @@ Meer open &mdash; Meer restrictief. Minder restrictieve FREE CULTURE-licenties s
 
 -----
 
-## De Commons biedt een schatkist aan content, van onderzoek tot schattige kattenplaatjes. 
+## De Commons biedt een schatkist aan content, van onderzoek tot schattige kattenplaatjes
 
 <img src="img/content-bubbles-translated.svg" class="sotc-image" />
 
@@ -204,7 +204,7 @@ Meer open &mdash; Meer restrictief. Minder restrictieve FREE CULTURE-licenties s
 
 -----
 
-## CC is overal:<br />Miljoenen websites gebruiken CC-licenties, inclusief grote platforms zoals Wikipedia, Flickr en kleinere websites zoals de blog van je oma.
+## CC is overal:<br />Miljoenen websites gebruiken CC-licenties, inclusief grote platforms zoals Wikipedia, Flickr en kleinere websites zoals de blog van je oma
 
 
 <img src="img/platforms-translated.png" class="sotc-image" />
@@ -220,14 +220,14 @@ Meer open &mdash; Meer restrictief. Minder restrictieve FREE CULTURE-licenties s
 <tr class="odd"><td>Flickr</td><td>356 miljoen foto’s</td></tr>
 <tr class="even"><td>Bandcamp</td><td>1,95 miljoen nummers</td></tr>
 <tr class="odd"><td>Wikipedia</td><td>35,9 miljoen artikelen</td></tr>
-<tr class="even"><td>YouTube</td><td>13 _ miljoen video’s</td></tr>
-<tr class="odd"><td>Jamendo</td><td>496,000 _ nummers</td></tr>
+<tr class="even"><td>YouTube</td><td>13 miljoen video’s</td></tr>
+<tr class="odd"><td>Jamendo</td><td>496,000 nummers</td></tr>
 <tr class="even"><td>500px</td><td>661,000 photos</td></tr>
-<tr class="odd"><td>Vimeo</td><td>5 _ miljoen video’s</td></tr>
-<tr class="even"><td>Internet Archive</td><td>2 _ miljoen video’s</td></tr>
-<tr class="odd"><td>FMA</td><td>86,000 _ nummers</td></tr>
+<tr class="odd"><td>Vimeo</td><td>5 miljoen video’s</td></tr>
+<tr class="even"><td>Internet Archive</td><td>2 miljoen video’s</td></tr>
+<tr class="odd"><td>FMA</td><td>86,000 nummers</td></tr>
 <tr class="even"><td>Wikimedia Commons</td><td>21.6 million media files</td></tr>
-<tr class="odd"><td>Tribe of Noise</td><td>29,000 _ nummers</td></tr>
+<tr class="odd"><td>Tribe of Noise</td><td>29,000 nummers</td></tr>
 <tr class="even"><td>PLOS</td><td>140.000 artikelen</td></tr>
 <tr class="odd"><td>Europeana</td><td>20,9 miljoen digitale objecten</td></tr>
 <tr class="even"><td>Skills Commons</td><td>24.000 trainingsmaterialen voor professionals</td></tr>
@@ -286,7 +286,7 @@ Meer open &mdash; Meer restrictief. Minder restrictieve FREE CULTURE-licenties s
 
 </div>
 
-## Voor deze fondsen is de standaard open geworden, collectief verlenen ze in 2015 ongeveer $ 1,9 miljard euro.
+## Voor deze fondsen is de standaard open geworden, collectief verlenen ze in 2015 ongeveer $ 1,9 miljard euro
 
 -----
 
@@ -344,7 +344,7 @@ Meer open &mdash; Meer restrictief. Minder restrictieve FREE CULTURE-licenties s
 
 ### EUROPA {#regional-europe}
 
-* CC Portugal
+* CC Portugal lanceert een “CC Toolkit for Business”
 
 * CC-affiliates werken in heel Europa samen met de nationale wetgevers om de Europese richtlijn over Collectief Rechtenbeheer te implementeren
 
@@ -411,7 +411,7 @@ Meer open &mdash; Meer restrictief. Minder restrictieve FREE CULTURE-licenties s
 
 <footer>
 
-* <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Dit report is met een ______ gelicenseerd door Creative Commons <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. 
+* <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Dit report is gelicenseerd onder een <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. 
 
 * [For the complete list of acknowledgments and data sources, see Data, Notes and Acknowledgments.]()
 
