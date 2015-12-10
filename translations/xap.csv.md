@@ -1,36 +1,36 @@
 
-## {{12}} {.bbs}
+## కామన్స్ స్థితిగతులు {.bbs}
 
 -----
 
-## {{6}} {{7}}
+## అద్భుతః! 2015 లో పది కోట్లకు పైగా సీసీ ల్లైసెన్స్ దస్త్రాలు విడుదలయ్యాయి
 
-> {{11}}
+> గత ఐదేళ్ళలో సీసీ లైసెన్స్ లో విడుదలైన దస్త్రాలు మూడింతలయ్యాయి
 
 <img src="img/total-licensed-works.svg" class="sotc-image" />
 
 <table class="table table-bordered table-striped">
 <thead>
 <tr>
-<th>{{8}}</th>
+<th> బిలియన్</th>
 <th>&nbsp;</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">140 {{9}}</td>
+<td style="text-align: left;">140  మిలియన్</td>
 <td style="text-align: left;">2006</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">400 {{9}}</td>
+<td style="text-align: left;">400  మిలియన్</td>
 <td style="text-align: left;">2010</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">882 {{9}}</td>
+<td style="text-align: left;">882  మిలియన్</td>
 <td style="text-align: left;">2014</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">1.1 {{8}}</td>
+<td style="text-align: left;">1.1  బిలియన్</td>
 <td style="text-align: left;">2015</td>
 </tr>
 </tbody>
@@ -38,7 +38,7 @@
 
 -----
 
-## {{13}}
+## "స్వేచ్ఛా" లైసెన్స్ లో తమ రచనలను మరింత మంది పంచుకుంటున్నారు
 
 <img src="img/free-culture-wins.svg" alt="" class="sotc-image" />
 
@@ -46,13 +46,13 @@
 <!-- <thead>
 <tr class="header">
 <th style="text-align: left;">License/tool</th>
-<th style="text-align: left;">{{10}}</th>
+<th style="text-align: left;">లైసెన్స్డ్ దస్త్రాలు మొత్తం</th>
 <th style="text-align: left;">Free Culture License?</th>
 </tr>
 </thead> -->
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">CC0, PDM {{16}}</td>
+<td style="text-align: left;">CC0, PDM + రిటైర్డ్ పీడీ టూల్</td>
 <td style="text-align: left;">3%</td>
 </tr>
 <tr class="even">
@@ -82,11 +82,11 @@
 </tbody>
 </table>
 
-{{14}} &mdash; {{15}}. {{17}}
+మరింత స్వేచ్ఛ &mdash; మరింత కట్టుబడి. తక్కువ కట్టుబడితో ఉన్న స్వేచ్ఛా లైసెన్సులు వాణిజ్యపరంగా, మార్పులు చేసుకునేందుకు - రెండిటినీ అనుమతిస్తాయి
 
 -----
 
-## {{19}}
+## గత 12 నెలలలో సీసీ గుర్తున్న జాతీయం కాబడిన దస్త్రాలు రెండింతలయ్యాయి
 
 <img src="img/pdm.svg" class="sotc-image" />
 
@@ -94,70 +94,70 @@
 <thead>
 <tr class="header">
 <th style="text-align: left;">Year</th>
-<th style="text-align: left;">{{16}}</th>
+<th style="text-align: left;">+ రిటైర్డ్ పీడీ టూల్</th>
 <th style="text-align: left;">PDM</th>
 <th style="text-align: left;">CC0</th>
-<th style="text-align: left;">{{10}}</th>
+<th style="text-align: left;">లైసెన్స్డ్ దస్త్రాలు మొత్తం</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td style="text-align: left;">2006</td>
-<td style="text-align: left;">3.2 {{22}}</td>
+<td style="text-align: left;">3.2  మిలియన్</td>
 <td style="text-align: left;">-</td>
 <td style="text-align: left;">-</td>
-<td style="text-align: left;">3.2 {{22}}</td>
+<td style="text-align: left;">3.2  మిలియన్</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">2014</td>
-<td style="text-align: left;">5.7 {{22}}</td>
-<td style="text-align: left;">1.5 {{22}}</td>
-<td style="text-align: left;">10.3 {{22}}</td>
-<td style="text-align: left;">17.5 {{22}}</td>
+<td style="text-align: left;">5.7  మిలియన్</td>
+<td style="text-align: left;">1.5  మిలియన్</td>
+<td style="text-align: left;">10.3  మిలియన్</td>
+<td style="text-align: left;">17.5  మిలియన్</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">2015</td>
-<td style="text-align: left;">10 {{22}}</td>
-<td style="text-align: left;">2.6 {{22}}</td>
-<td style="text-align: left;">22.3 {{22}}</td>
-<td style="text-align: left;">34.9 {{22}}</td>
+<td style="text-align: left;">10  మిలియన్</td>
+<td style="text-align: left;">2.6  మిలియన్</td>
+<td style="text-align: left;">22.3  మిలియన్</td>
+<td style="text-align: left;">34.9  మిలియన్</td>
 </tr>
 </table>
 
 -----
 
-## {{28}}
+## 2015లో, 1360 కోట్ల సార్లు సీసీ లైసెన్స్ దస్త్రాలు జనాలు అంతర్జాలంలో వీక్షించారు
 
 <img src="img/hits.svg" alt="" style="width: 100%; overflow: hidden;" />
 
-<img src="img/bubble.png" alt="" /> = 1 {{8}}
+<img src="img/bubble.png" alt="" /> = 1  బిలియన్
 
 -----
 
-## {{37}}
+## వివిధత, విశ్వగోచరత 
 
-## {{69}}
+## గత పదేళ్ళలో జనాలు సీసీ లైసెన్సులో  34 భాషలలో 9 కోట్ల సార్లు వీక్షించబడిన రచనలను పంచుకున్నారు.
 
 <div class="col-md-6 col-sm-12">
 <table class="table table-bordered table-striped">
 <tbody>
-<tr><td class="odd">**(العربية)** ({{107}})</td></tr>
-<tr><td class="even">**беларускі** ({{108}})</td></tr>
-<tr><td class="odd">**Català** ({{109}})</td></tr>
-<tr><td class="even">**中国** ({{110}}*)</td></tr>
-<tr><td class="odd">**hrvatski** ({{111}})</td></tr>
-<tr><td class="even">**čeština** ({{112}})</td></tr>
-<tr><td class="odd">**danske** ({{113}})</td></tr>
-<tr><td class="even">**Nederlands** ({{114}})</td></tr>
-<tr><td class="odd">**English** ({{115}}*)</td></tr>
-<tr><td class="even">**Esperanton** ({{116}})</td></tr>
-<tr><td class="odd">**suomi** ({{117}})</td></tr>
-<tr><td class="even">**français** ({{118}}*)</td></tr>
-<tr><td class="odd">**galego** ({{119}})</td></tr>
-<tr><td class="even">**Deutsche** ({{120}}*)</td></tr>
-<tr><td class="odd">**ελληνικά** ({{121}})</td></tr>
-<tr><td class="even">**Magyar** ({{122}})</td></tr>
-<tr><td class="odd">**bahasa Indones** ({{123}})</td></tr>
+<tr><td class="odd">**(العربية)** (అరబ్బీ)</td></tr>
+<tr><td class="even">**беларускі** (బెలారూషియన్)</td></tr>
+<tr><td class="odd">**Català** (కాటలాన్)</td></tr>
+<tr><td class="even">**中国** (చైనీస్*)</td></tr>
+<tr><td class="odd">**hrvatski** (క్రొఏష్యన్ )</td></tr>
+<tr><td class="even">**čeština** (జెక్)</td></tr>
+<tr><td class="odd">**danske** (డానిష్)</td></tr>
+<tr><td class="even">**Nederlands** (డచ్)</td></tr>
+<tr><td class="odd">**English** (ఆంగ్లం*)</td></tr>
+<tr><td class="even">**Esperanton** (ఎస్పెరాంటో)</td></tr>
+<tr><td class="odd">**suomi** (ఫిన్నిష్)</td></tr>
+<tr><td class="even">**français** (ఫ్రెంచ్*)</td></tr>
+<tr><td class="odd">**galego** (గలీషియన్)</td></tr>
+<tr><td class="even">**Deutsche** (జెర్మన్*)</td></tr>
+<tr><td class="odd">**ελληνικά** (గ్రీక్)</td></tr>
+<tr><td class="even">**Magyar** (హంగేరియన్)</td></tr>
+<tr><td class="odd">**bahasa Indones** (ఇండోనేషియన్)</td></tr>
 </tbody>
 </table>
 </div>
@@ -165,23 +165,23 @@
 <div class="col-md-6 col-sm-12">
 <table class="table table-bordered table-striped">
 <tbody>
-<tr><td class="even">**italiano** ({{124}})</td></tr>
-<tr><td class="odd">**日本語** ({{125}})</td></tr>
-<tr><td class="even">**한국어** ({{126}})</td></tr>
-<tr><td class="odd">**Latvijā** ({{127}})</td></tr>
-<tr><td class="even">**Lietuvos** ({{128}})</td></tr>
-<tr><td class="odd">**Melayu** ({{129}})</td></tr>
-<tr><td class="even">**te reo Maori** ({{130}})</td></tr>
-<tr><td class="odd">**norsk** ({{131}})</td></tr>
-<tr><td class="even">***فارسي** ({{132}})</td></tr>
-<tr><td class="odd">**polski** ({{133}})</td></tr>
-<tr><td class="even">**português** ({{134}})</td></tr>
-<tr><td class="odd">**Română** ({{135}})</td></tr>
-<tr><td class="even">**Русский** ({{136}})</td></tr>
-<tr><td class="odd">**Español** ({{137}}*)</td></tr>
-<tr><td class="even">**svenska** ({{138}})</td></tr>
-<tr><td class="odd">**Türk** ({{139}})</td></tr>
-<tr><td class="even">**Український** ({{140}})</td></tr>
+<tr><td class="even">**italiano** (ఇటాలియన్)</td></tr>
+<tr><td class="odd">**日本語** (జపానీస్ )</td></tr>
+<tr><td class="even">**한국어** (కొరియన్ )</td></tr>
+<tr><td class="odd">**Latvijā** (లాట్వియన్)</td></tr>
+<tr><td class="even">**Lietuvos** (లిథుయానియన్)</td></tr>
+<tr><td class="odd">**Melayu** (మలయ్)</td></tr>
+<tr><td class="even">**te reo Maori** (మవోరి)</td></tr>
+<tr><td class="odd">**norsk** (నోర్వేజియన్)</td></tr>
+<tr><td class="even">***فارسي** (పర్షియన్)</td></tr>
+<tr><td class="odd">**polski** (పాలిష్)</td></tr>
+<tr><td class="even">**português** (పోర్చుగీస్)</td></tr>
+<tr><td class="odd">**Română** (రొమానియన్)</td></tr>
+<tr><td class="even">**Русский** (రషియన్ )</td></tr>
+<tr><td class="odd">**Español** (స్పానిష్*)</td></tr>
+<tr><td class="even">**svenska** (స్వీడిష్)</td></tr>
+<tr><td class="odd">**Türk** (తుర్కిష్)</td></tr>
+<tr><td class="even">**Український** (ఉక్రేనియన్)</td></tr>
 </tbody>
 </table>
 </div>
@@ -190,21 +190,22 @@
 
 -----
 
-## {{29}}
+## చక్కని పిల్లిపిల్లల నుంచి పరిశోధనాంశాల దాకా, కామన్స్ సమాచారనిధి
 
 <img src="img/content-bubbles-translated.svg" class="sotc-image" />
 
-* {{30}}
-* {{31}}
-* {{32}}
-* {{33}}
-* {{34}}
-* {{35}}
-* {{36}}
+* బొమ్మలు (ఫోటోలు, కళారూపాలు) : 3910 లక్షలు
+* బహిరంగ విస్యా వనరులు : 76,000
+* పరిశోధన (జర్నల్ వ్యాసాలు) : 14 లక్షలు
+* వీడియోలు (దృశ్యకాలు) : 184 లక్షలు
+* ఆడియోలు (శ్రవ్యకాలు) : 40 లక్షలు
+* ఇతర దస్త్రాలు (మల్టిమీడియా, త్రీడీ, మొ॥) : 23,000
+* పాఠ్యాలు (వ్యాసాలు, కథనాలు, డాక్యుమెంటరీలు) : 4.69 కోట్లు 
 
 -----
 
-## {{38}}<br />{{157}}
+## సీసీ అంతటా ఉంది :<br />కోట్లాది జాలస్థలాలు సీసీ లైసెన్స్ ను వాడుతున్నాయి. ఇందులో వికీపీడియా, ఫ్లికర్, మీ అమ్మమ్మ వ్రాస్తున్న బ్లాగు ఉన్నాయి.
+
 
 <img src="img/platforms-translated.png" class="sotc-image" />
 
@@ -212,62 +213,62 @@
 <thead>
 <tr class="header">
 <th>-</th>
-<th>{{10}}</th>
+<th>లైసెన్స్డ్ దస్త్రాలు మొత్తం</th>
 </tr>
 </thead>
 <tbody>
-<tr class="odd"><td>Flickr</td><td>{{43}}</td></tr>
-<tr class="even"><td>Bandcamp</td><td>{{44}}</td></tr>
-<tr class="odd"><td>Wikipedia</td><td>{{46}}</td></tr>
-<tr class="even"><td>YouTube</td><td>13 {{51}}</td></tr>
-<tr class="odd"><td>Jamendo</td><td>496,000 {{41}}</td></tr>
+<tr class="odd"><td>Flickr</td><td>35.6 కోట్ల చిత్రాలు</td></tr>
+<tr class="even"><td>Bandcamp</td><td>19.5 లక్షల శ్రవ్యకాలు</td></tr>
+<tr class="odd"><td>Wikipedia</td><td>35.9 మిలియన్ వ్యాసాలు</td></tr>
+<tr class="even"><td>YouTube</td><td>13  మిలియన్ దృశ్యకాలు</td></tr>
+<tr class="odd"><td>Jamendo</td><td>496,000  శ్రవ్యకాలు</td></tr>
 <tr class="even"><td>500px</td><td>661,000 photos</td></tr>
-<tr class="odd"><td>Vimeo</td><td>5 {{51}}</td></tr>
-<tr class="even"><td>Internet Archive</td><td>2 {{51}}</td></tr>
-<tr class="odd"><td>FMA</td><td>86,000 {{41}}</td></tr>
+<tr class="odd"><td>Vimeo</td><td>5  మిలియన్ దృశ్యకాలు</td></tr>
+<tr class="even"><td>Internet Archive</td><td>2  మిలియన్ దృశ్యకాలు</td></tr>
+<tr class="odd"><td>FMA</td><td>86,000  శ్రవ్యకాలు</td></tr>
 <tr class="even"><td>Wikimedia Commons</td><td>21.6 million media files</td></tr>
-<tr class="odd"><td>Tribe of Noise</td><td>29,000 {{41}}</td></tr>
-<tr class="even"><td>PLOS</td><td>{{42}}</td></tr>
-<tr class="odd"><td>Europeana</td><td>{{40}}</td></tr>
-<tr class="even"><td>Skills Commons</td><td>{{53}}</td></tr>
+<tr class="odd"><td>Tribe of Noise</td><td>29,000  శ్రవ్యకాలు</td></tr>
+<tr class="even"><td>PLOS</td><td>140,000 వ్యాసాలు</td></tr>
+<tr class="odd"><td>Europeana</td><td>209 లక్షల డిజిటల్ వస్తువులు</td></tr>
+<tr class="even"><td>Skills Commons</td><td>24,000 వృత్తి విద్య తర్ఫీదు అంశాలు</td></tr>
 <tr class="odd"><td>Boundless</td><td>49,000 open educational resources</td></tr>
-<tr class="even"><td>MIT opencourseware</td><td>{{52}}</td></tr>
+<tr class="even"><td>MIT opencourseware</td><td>2,300 కోర్సులు</td></tr>
 </tbody>
 </table>
 
-* {{45}}
+* (మొత్తం బాహ్య ఆక్సెస్ గల వ్యాసాలు, జాలవ్యాప్తంగా సీసీబై కిందవి : 675,000, ఏదైనా సీసీ లైసెన్స్ కిందవి‌: 13 లక్షలు)
 
-> {{54}}
+> 2015లో, మరిన్ని జాలవేదికలు సీసీ లైసెన్సులను వారి వాడుకరులకు అందీంచాయి, మీడియం, ఎడెక్స్ తో సహా! ఫ్లికర్ సీసీ౦ ను మరియు పబ్లిక్ డొమెయిన్ ను చేర్చింది.
 
-## {{49}}
+## ... ఇంకా ఎన్నెన్నో!
 
 -----
 
-## {{50}}
+## 2015 ప్రతిఫలం : సీసీ + బహిరంగ విద్య
 
 <img src="img/oer-1.svg" class="sotc-image" />
 
-### {{59}} {.by}
+### బహిరంగ విద్యా విధానం కలిగిన దేశాలు {.by}
 
-<img src="img/oer-2-translated.svg" class="sotc-image" alt="{{61}} -- {{64}}, {{65}}, {{62}}, {{66}}, {{67}}, {{60}}, {{71}}, {{72}}, {{73}}, {{74}}, {{75}}, {{76}}, {{77}}, {{78}}, {{79}}, {{80}}, {{81}}, {{82}}, {{83}}." />
+<img src="img/oer-2-translated.svg" class="sotc-image" alt="బహిరంగ విద్య -- అర్జెంటీనా, ఆస్ట్రేలియా, కెనడా, ఐరోపా సంఘం, ఇండోనేషియా, భారతదేశం, నెదెర్లాండ్స్ , మారిషస్, న్యూజిలాండ్, పోలాండ్, రొమానియా, స్కాట్లాండ్, స్లొవేనియా, స్లొవాక్ రిపబ్లిక్, దక్షిణాఫ్రికా, యునైటెడ్ కింగ్డం, అమెరికా సంయుక్త రాష్ట్రాలు, ఉరుగ్వే, వేల్స్ ." />
 
-**{{61}}** -- {{64}}, {{65}}, {{62}}, {{66}}, {{67}}, {{60}}, {{71}}, {{72}}, {{73}}, {{74}}, {{75}}, {{76}}, {{77}}, {{78}}, {{79}}, {{80}}, {{81}}, {{82}}, {{83}}.
+**బహిరంగ విద్య** -- అర్జెంటీనా, ఆస్ట్రేలియా, కెనడా, ఐరోపా సంఘం, ఇండోనేషియా, భారతదేశం, నెదెర్లాండ్స్ , మారిషస్, న్యూజిలాండ్, పోలాండ్, రొమానియా, స్కాట్లాండ్, స్లొవేనియా, స్లొవాక్ రిపబ్లిక్, దక్షిణాఫ్రికా, యునైటెడ్ కింగ్డం, అమెరికా సంయుక్త రాష్ట్రాలు, ఉరుగ్వే, వేల్స్ .
 
-### {{63}} {.by}
+### బహిరంగ పాఠ్యపుస్తకాల వలన విద్యార్థులు లాభపడ్డారు {.by}
 
-<img src="img/oer-3-translation.svg" class="sotc-image" alt="${{84}} {{85}}" />
+<img src="img/oer-3-translation.svg" class="sotc-image" alt="$174 మిలియన్ డాలర్లు నేటికి" />
 
-**${{84}} {{85}}**
+**$174 మిలియన్ డాలర్లు నేటికి**
 
-### {{86}} {.by .by-r}
+### 53 మిలియన్ డాలర్ల అదనపు 2015/16 విద్యా సంవత్సర ప్రణాలికతో {.by .by-r}
 
 -----
 
-## {{56}} {.impact .img-policy}
+## 2015 ప్రతిఫలం : సీసీ+ఫౌండేషన్ బహిరంగ పాలిసీ {.impact .img-policy}
 
 <div class="clearfix"></div>
 
-### {{57}} {.by}
+### 2015లో ఎన్నో పెద్ద సంస్థలు బహిరంగ విధానాలను అనుసరించాయి. {.by}
 
 <div id="foundations" class="clearfix">
 
@@ -285,13 +286,13 @@
 
 </div>
 
-## {{58}}
+## 2015లో 1.9 బిలియన్ డాలర్ల్లు విడుదల చేస్తూ వాఅరి అప్రమేయ లైసెన్స్ ను గూఢం నుండి బహిర్గతం చేసాయి.
 
 -----
 
-## {{87}} {.impact}
+## 2015 ప్రతిఫలం : సీసీ + సాంస్కృతిక వారసత్వం {.impact}
 
-#### {{88}} {.img-frame}
+#### మ్యూజియంలు, సాంస్కృతిక సంస్థలు రోజురోజుకీ మరింత సమాచారం పంచుకుంటున్నాయి. {.img-frame}
 
 <div id="foundations" class="clearfix">
 
@@ -313,63 +314,63 @@
 
 </div>
 
-#### {{89}} {.img-pdmoon}
+#### సీసీ పబ్లిక్ డొమెయిన్ టూల్స్ కారణంగా బయటి అంతరిక్ష డిజిటల్ ఫోటోలు జనాలకి మునుపెన్నడూ లేని విధంగా మరింత విస్తృతంగా, మరింత సులువుగా అందుబాటులోకి వచ్చాయి. {.img-pdmoon}
 
 &nbsp;
 
-#### {{90}} {{141}} {{142}}. {.img-bk}
+#### #FREEBASSEL: సీసీ ద్వారా సిరియా దేశానికి సంబంధించిన బసెల్ ఖర్తబిల్ అనే వ్యక్తి సాంస్కృతిక వారసత్వ ప్రాజెక్టులను డిజిటైజ్ చేసి, భద్రపరిచి, పంచుకున్నాడు. మార్చ్ 2012 నుంచి అతన్ని అమానుషంగా జైల్లో ఉంచారు. సీసీ, సీసీ బోర్డులోని డైరెక్టర్లు అతను వెంటనే సురక్షితంగా విడుదల కావటానికి నిరంతర పిలుపునిస్తున్నారు.. {.img-bk}
 
 -----
 
-## {{91}} {.impact}
+## 2015 ప్రతిఫలం‌ :‌ ప్రాంతీయ విశేషాలు {.impact}
 
 <img src="img/map.svg" alt="" class="sotc-image" />
 
 <div id="regional-highlights">
 
-### {{92}} {#regional-mideast}
+### మిడిల్ ఈస్ట్, ఉత్తర ఆఫ్రికా {#regional-mideast}
 
-* {{143}}
+* రెండు చారిత్రక మీటింగుల్లో మిడిల్ ఈస్ట్, ఉత్తర ఆఫ్రికాలోని  సీసీ అనుబంధ సంస్థల సభ్యులంతా కలిసారు.
 
-* {{144}}
+* అల్ జజీరా లాబ్స్ లోని కొన్ని దస్త్రాలను అల్ జజీరా ఇంగ్లిష్ సీసీ లైసెన్సుతో కలిపింది
 
-### {{93}}  {#regional-africa}
+### ఆఫ్రికా  {#regional-africa}
 
-* {{145}}
+* దక్షిణాఫ్రికా 17 ఏళ్ళ పార్లమెంట్ దస్త్రాలను జాతీయం చేసింది
 
-* {{146}}
+* సీసీ ఆఫ్రికా అనుబంధ సంస్థ, వికీఆఫ్రికా సంయుక్తంగా ౨వ వార్షిక వికీ లవ్స్ ఆఫ్రికా పోటీని నిర్వహించాయి
 
-* {{147}}
+* అనుబంధ సంస్థలు ప్రాంతీయ సంస్థలతో కలిసి, ఆఫ్రికన్ స్టోరీబుక్ ప్రాజెక్టును, బుక్ డాష్ అనే సంస్థ పిల్లల పుస్తకాలను సీసీ లో విడుదల చేసారు
 
-### {{94}} {#regional-europe}
+### ఐరోపా {#regional-europe}
 
-* {{148}}
+* "సీసీ టూల్కిట్ ఫర్ బిజినెస్" (వాణిజ్యవేత్తలకు సీసీ పనిముట్లు) అనే వనరును సీసీ పోర్చుగల్ విడుదల చేసింది
 
-* {{149}}
+* ఐరోపా అంతటా సీసీ అనుబంధ సంస్థలు కలిసి సమిష్టిగా ఐరోపా సంఘ నియమాలలోని కలెక్టివ్ రైట్స్ మేనేజ్మెంట్ ను అమలు పరిచేలా చేసారు
 
-### {{95}} {#regional-asia}
+### ఆసియా-పసిఫిక్ {#regional-asia}
 
-* {{150}}
+* సీసీఎ కొరియా క్రియేటివ్ కామన్స్ 2015 గ్లోబల్ సమిట్ ను సియోల్ లో నిర్వహించింది
 
-* {{151}}
+* చైనీస్ మాట్లాడే అనుబంధ సంస్థలన్నీ కలిసి 4.0 లైసెన్స్ సూట్ లోని లైసెన్సులను దేశ-సాంస్కృతిక భేదాలు మరిచి అధికారికంగా అనువదించారు.
 
-### {{96}} {#regional-northamerica}
+### ఉత్తర అమెరికా {#regional-northamerica}
 
-* {{152}}
+* న్యూయార్క్ లోని మ్యూజియం ఆఫ్ మోడన్ ఆర్ట్ సీసీ లైసెన్స్ లోగోను తన శాశ్వత వస్తువులలో చేర్చింది
 
-* {{153}}
+* యూఎస్ డిపార్ట్మెంట్ ఆఫ్ లేబర్ నుండి రెండు బిలియన్ డాలర్ల కరీర్ ట్రెయినింగ్ ప్రోగ్రాం ద్వారా లబ్ధి పొందిన గ్రాంటీలు వారి మొదటి విడత ఓపెన్ ఎజ్యుకేషన్ రిసౌర్సెస్  ను అందించారు
 
-### {{97}} {#regional-latinamerica}
+### లాటిన్ అమెరికా {#regional-latinamerica}
 
-* {{154}}
+* సీసీ లాటిన్ అమెరికా మిని-గ్రాంట్స్ ప్రోగ్రాం ద్వారా, రెండవ సంవత్సరంలో, ఎల్ సాల్వడార్, కోస్టరిక, పరగ్వే లలో కొత్త అనుబంధ ప్రాజెక్టులు మొదలుపెట్టేందుకు బహుమతులు అందించింది.
 
-* {{98}}
+* సీసీ ఉరుగ్వే ఓపెన్ లైసెన్సింగ్ పాలిసీ టూల్కిట్ ను స్పానిష్ లోకి అనువదించింది
 
 </div>
 
 -----
 
-## {{99}} {.bbs}
+## పంచుకున్నందుకు నెనరులు! {.bbs}
 
 <div class="clearfix"></div>
 
@@ -379,7 +380,7 @@
 
 <div class="content">
 
-##### {{100}}
+##### 
 
 <img src="img/heart.png" alt="" />
 
@@ -393,7 +394,7 @@
 
 <div class="content">
 
-##### {{101}}
+##### అన్నీ - అంతా క్రియేటివ్ కామన్స్. మమ్మల్ని ట్విటర్ & ఫేస్బుక్ లో అనుసరించండి.
 
 * <a href="https://twitter.com/creativecommons"><img src="img/twitter.png" alt="Follow us on Twitter" /></a>
     - [twitter.com/creativecommons](https://twitter.com/creativecommons)
@@ -410,14 +411,14 @@
 
 <footer>
 
-* <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />{{103}} <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. 
+* <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />ఈ రిపోర్ట్ ____ క్రియేటివ్ కామన్స్ ద్వారా లైసెన్స్ చేయబడింది <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. 
 
-* [{{155}}](data.html)
+* [విషయ వనరుల పూర్తి వివరాల కోసం మూలాలు, గణాంకాలు, వ్యాఖ్యానం, నెనరులలు చూడండి](data.html)
 
-* {{104}}
+* డిజైన్ : ఈవా రాజర్స్
 
 * HTML version: Matt Lee
 
-* Translation: {{3}} and local {{5}} team.
+* Translation: Rahmanuddin Shaik and local te team.
 
 </footer>

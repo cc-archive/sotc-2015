@@ -1,36 +1,36 @@
 
-## {{12}} {.bbs}
+## State of the Commons {.bbs}
 
 -----
 
-## {{6}} {{7}}
+## Wauw! Meer dan 1 miljard CC-gelicenseerde werken in de Commons in 2015
 
-> {{11}}
+> De hoeveelheid CC-gelicenseerde werken is bijna verdriedubbeld in de afgelopen 5 jaar
 
 <img src="img/total-licensed-works.svg" class="sotc-image" />
 
 <table class="table table-bordered table-striped">
 <thead>
 <tr>
-<th>{{8}}</th>
+<th>miljard</th>
 <th>&nbsp;</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">140 {{9}}</td>
+<td style="text-align: left;">140 miljoen</td>
 <td style="text-align: left;">2006</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">400 {{9}}</td>
+<td style="text-align: left;">400 miljoen</td>
 <td style="text-align: left;">2010</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">882 {{9}}</td>
+<td style="text-align: left;">882 miljoen</td>
 <td style="text-align: left;">2014</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">1.1 {{8}}</td>
+<td style="text-align: left;">1.1 miljard</td>
 <td style="text-align: left;">2015</td>
 </tr>
 </tbody>
@@ -38,7 +38,7 @@
 
 -----
 
-## {{13}}
+## Meer mensen kiezen ervoor om te delen met “Free Culture”-licenties
 
 <img src="img/free-culture-wins.svg" alt="" class="sotc-image" />
 
@@ -46,13 +46,13 @@
 <!-- <thead>
 <tr class="header">
 <th style="text-align: left;">License/tool</th>
-<th style="text-align: left;">{{10}}</th>
+<th style="text-align: left;">Totaal aantal gelicenseerde werken</th>
 <th style="text-align: left;">Free Culture License?</th>
 </tr>
 </thead> -->
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">CC0, PDM {{16}}</td>
+<td style="text-align: left;">CC0, PDM + PD-tools die niet meer ondersteund worden</td>
 <td style="text-align: left;">3%</td>
 </tr>
 <tr class="even">
@@ -82,11 +82,11 @@
 </tbody>
 </table>
 
-{{14}} &mdash; {{15}}. {{17}}
+Meer open &mdash; Meer restrictief. Minder restrictieve FREE CULTURE-licenties staan commercieel gebruik en aanpassingen toe
 
 -----
 
-## {{19}}
+## Het materiaal dat gemarkeerd is met de CC publieke domein markering is bijna verdubbeld afgelopen 12 maanden
 
 <img src="img/pdm.svg" class="sotc-image" />
 
@@ -94,70 +94,70 @@
 <thead>
 <tr class="header">
 <th style="text-align: left;">Year</th>
-<th style="text-align: left;">{{16}}</th>
+<th style="text-align: left;">+ PD-tools die niet meer ondersteund worden</th>
 <th style="text-align: left;">PDM</th>
 <th style="text-align: left;">CC0</th>
-<th style="text-align: left;">{{10}}</th>
+<th style="text-align: left;">Totaal aantal gelicenseerde werken</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td style="text-align: left;">2006</td>
-<td style="text-align: left;">3.2 {{22}}</td>
+<td style="text-align: left;">3.2 miljoen</td>
 <td style="text-align: left;">-</td>
 <td style="text-align: left;">-</td>
-<td style="text-align: left;">3.2 {{22}}</td>
+<td style="text-align: left;">3.2 miljoen</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">2014</td>
-<td style="text-align: left;">5.7 {{22}}</td>
-<td style="text-align: left;">1.5 {{22}}</td>
-<td style="text-align: left;">10.3 {{22}}</td>
-<td style="text-align: left;">17.5 {{22}}</td>
+<td style="text-align: left;">5.7 miljoen</td>
+<td style="text-align: left;">1.5 miljoen</td>
+<td style="text-align: left;">10.3 miljoen</td>
+<td style="text-align: left;">17.5 miljoen</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">2015</td>
-<td style="text-align: left;">10 {{22}}</td>
-<td style="text-align: left;">2.6 {{22}}</td>
-<td style="text-align: left;">22.3 {{22}}</td>
-<td style="text-align: left;">34.9 {{22}}</td>
+<td style="text-align: left;">10 miljoen</td>
+<td style="text-align: left;">2.6 miljoen</td>
+<td style="text-align: left;">22.3 miljoen</td>
+<td style="text-align: left;">34.9 miljoen</td>
 </tr>
 </table>
 
 -----
 
-## {{28}}
+## In 2015 zijn CC-gelicenseerde werken 136 miljard keer bekeken
 
 <img src="img/hits.svg" alt="" style="width: 100%; overflow: hidden;" />
 
-<img src="img/bubble.png" alt="" /> = 1 {{8}}
+<img src="img/bubble.png" alt="" /> = 1 miljard
 
 -----
 
-## {{37}}
+## Diversiteit en wereldwijde zichtbaarheid
 
-## {{69}}
+## Mensen delen met hulp van CC-licenties in 34 talen met meer dan 90 miljoen views van CC-licentiesamenvattingen in de afgelopen 10 jaar
 
 <div class="col-md-6 col-sm-12">
 <table class="table table-bordered table-striped">
 <tbody>
-<tr><td class="odd">**(العربية)** ({{107}})</td></tr>
-<tr><td class="even">**беларускі** ({{108}})</td></tr>
-<tr><td class="odd">**Català** ({{109}})</td></tr>
-<tr><td class="even">**中国** ({{110}}*)</td></tr>
-<tr><td class="odd">**hrvatski** ({{111}})</td></tr>
-<tr><td class="even">**čeština** ({{112}})</td></tr>
-<tr><td class="odd">**danske** ({{113}})</td></tr>
-<tr><td class="even">**Nederlands** ({{114}})</td></tr>
-<tr><td class="odd">**English** ({{115}}*)</td></tr>
-<tr><td class="even">**Esperanton** ({{116}})</td></tr>
-<tr><td class="odd">**suomi** ({{117}})</td></tr>
-<tr><td class="even">**français** ({{118}}*)</td></tr>
-<tr><td class="odd">**galego** ({{119}})</td></tr>
-<tr><td class="even">**Deutsche** ({{120}}*)</td></tr>
-<tr><td class="odd">**ελληνικά** ({{121}})</td></tr>
-<tr><td class="even">**Magyar** ({{122}})</td></tr>
-<tr><td class="odd">**bahasa Indones** ({{123}})</td></tr>
+<tr><td class="odd">**(العربية)** (Arabisch)</td></tr>
+<tr><td class="even">**беларускі** (Wit-Russisch)</td></tr>
+<tr><td class="odd">**Català** (Catalaans)</td></tr>
+<tr><td class="even">**中国** (Chinees*)</td></tr>
+<tr><td class="odd">**hrvatski** (Croatisch)</td></tr>
+<tr><td class="even">**čeština** (Tsjechisch)</td></tr>
+<tr><td class="odd">**danske** (Deens)</td></tr>
+<tr><td class="even">**Nederlands** (Nederlands)</td></tr>
+<tr><td class="odd">**English** (Engels*)</td></tr>
+<tr><td class="even">**Esperanton** (Esperanto)</td></tr>
+<tr><td class="odd">**suomi** (Fins)</td></tr>
+<tr><td class="even">**français** (Frans*)</td></tr>
+<tr><td class="odd">**galego** (Galicisch)</td></tr>
+<tr><td class="even">**Deutsche** (Duits*)</td></tr>
+<tr><td class="odd">**ελληνικά** (Grieks)</td></tr>
+<tr><td class="even">**Magyar** (Hongaars)</td></tr>
+<tr><td class="odd">**bahasa Indones** (Indonesisch)</td></tr>
 </tbody>
 </table>
 </div>
@@ -165,23 +165,23 @@
 <div class="col-md-6 col-sm-12">
 <table class="table table-bordered table-striped">
 <tbody>
-<tr><td class="even">**italiano** ({{124}})</td></tr>
-<tr><td class="odd">**日本語** ({{125}})</td></tr>
-<tr><td class="even">**한국어** ({{126}})</td></tr>
-<tr><td class="odd">**Latvijā** ({{127}})</td></tr>
-<tr><td class="even">**Lietuvos** ({{128}})</td></tr>
-<tr><td class="odd">**Melayu** ({{129}})</td></tr>
-<tr><td class="even">**te reo Maori** ({{130}})</td></tr>
-<tr><td class="odd">**norsk** ({{131}})</td></tr>
-<tr><td class="even">***فارسي** ({{132}})</td></tr>
-<tr><td class="odd">**polski** ({{133}})</td></tr>
-<tr><td class="even">**português** ({{134}})</td></tr>
-<tr><td class="odd">**Română** ({{135}})</td></tr>
-<tr><td class="even">**Русский** ({{136}})</td></tr>
-<tr><td class="odd">**Español** ({{137}}*)</td></tr>
-<tr><td class="even">**svenska** ({{138}})</td></tr>
-<tr><td class="odd">**Türk** ({{139}})</td></tr>
-<tr><td class="even">**Український** ({{140}})</td></tr>
+<tr><td class="even">**italiano** (Italiaans)</td></tr>
+<tr><td class="odd">**日本語** (Japans)</td></tr>
+<tr><td class="even">**한국어** (Koreaans)</td></tr>
+<tr><td class="odd">**Latvijā** (Lets)</td></tr>
+<tr><td class="even">**Lietuvos** (Litouws)</td></tr>
+<tr><td class="odd">**Melayu** (Maleis)</td></tr>
+<tr><td class="even">**te reo Maori** (Maori)</td></tr>
+<tr><td class="odd">**norsk** (Noors)</td></tr>
+<tr><td class="even">***فارسي** (Farsi)</td></tr>
+<tr><td class="odd">**polski** (Pools)</td></tr>
+<tr><td class="even">**português** (Portugees)</td></tr>
+<tr><td class="odd">**Română** (Roemeens)</td></tr>
+<tr><td class="even">**Русский** (Russisch)</td></tr>
+<tr><td class="odd">**Español** (Spaans*)</td></tr>
+<tr><td class="even">**svenska** (Sweeds)</td></tr>
+<tr><td class="odd">**Türk** (Turks)</td></tr>
+<tr><td class="even">**Український** (Oekraïens)</td></tr>
 </tbody>
 </table>
 </div>
@@ -190,21 +190,22 @@
 
 -----
 
-## {{29}}
+## De Commons biedt een schatkist aan content, van onderzoek tot schattige kattenplaatjes
 
 <img src="img/content-bubbles-translated.svg" class="sotc-image" />
 
-* {{30}}
-* {{31}}
-* {{32}}
-* {{33}}
-* {{34}}
-* {{35}}
-* {{36}}
+* AFBEELDINGEN (FOTO’S, KUNSTWERKEN): 391 MILJOEN
+* OPEN LEERMIDDELEN: 76.000
+* ONDERZOEK (WETENSCHAPPELIJKE ARTIKELEN): 1,4 MILJOEN
+* VIDEO’S: 18,4 MILJOEN
+* AUDIO: 4 MILJOEN
+* OVERIGE (MULTIMEDIA, 3D): 23.000
+* TEKST (ARTIKELEN, VERHALEN, DOCUMENTEN): 46,9 MILJOEN
 
 -----
 
-## {{38}}<br />{{157}}
+## CC is overal:<br />Miljoenen websites gebruiken CC-licenties, inclusief grote platforms zoals Wikipedia, Flickr en kleinere websites zoals de blog van je oma
+
 
 <img src="img/platforms-translated.png" class="sotc-image" />
 
@@ -212,62 +213,62 @@
 <thead>
 <tr class="header">
 <th>-</th>
-<th>{{10}}</th>
+<th>Totaal aantal gelicenseerde werken</th>
 </tr>
 </thead>
 <tbody>
-<tr class="odd"><td>Flickr</td><td>{{43}}</td></tr>
-<tr class="even"><td>Bandcamp</td><td>{{44}}</td></tr>
-<tr class="odd"><td>Wikipedia</td><td>{{46}}</td></tr>
-<tr class="even"><td>YouTube</td><td>13 {{51}}</td></tr>
-<tr class="odd"><td>Jamendo</td><td>496,000 {{41}}</td></tr>
+<tr class="odd"><td>Flickr</td><td>356 miljoen foto’s</td></tr>
+<tr class="even"><td>Bandcamp</td><td>1,95 miljoen nummers</td></tr>
+<tr class="odd"><td>Wikipedia</td><td>35,9 miljoen artikelen</td></tr>
+<tr class="even"><td>YouTube</td><td>13 miljoen video’s</td></tr>
+<tr class="odd"><td>Jamendo</td><td>496,000 nummers</td></tr>
 <tr class="even"><td>500px</td><td>661,000 photos</td></tr>
-<tr class="odd"><td>Vimeo</td><td>5 {{51}}</td></tr>
-<tr class="even"><td>Internet Archive</td><td>2 {{51}}</td></tr>
-<tr class="odd"><td>FMA</td><td>86,000 {{41}}</td></tr>
+<tr class="odd"><td>Vimeo</td><td>5 miljoen video’s</td></tr>
+<tr class="even"><td>Internet Archive</td><td>2 miljoen video’s</td></tr>
+<tr class="odd"><td>FMA</td><td>86,000 nummers</td></tr>
 <tr class="even"><td>Wikimedia Commons</td><td>21.6 million media files</td></tr>
-<tr class="odd"><td>Tribe of Noise</td><td>29,000 {{41}}</td></tr>
-<tr class="even"><td>PLOS</td><td>{{42}}</td></tr>
-<tr class="odd"><td>Europeana</td><td>{{40}}</td></tr>
-<tr class="even"><td>Skills Commons</td><td>{{53}}</td></tr>
+<tr class="odd"><td>Tribe of Noise</td><td>29,000 nummers</td></tr>
+<tr class="even"><td>PLOS</td><td>140.000 artikelen</td></tr>
+<tr class="odd"><td>Europeana</td><td>20,9 miljoen digitale objecten</td></tr>
+<tr class="even"><td>Skills Commons</td><td>24.000 trainingsmaterialen voor professionals</td></tr>
 <tr class="odd"><td>Boundless</td><td>49,000 open educational resources</td></tr>
-<tr class="even"><td>MIT opencourseware</td><td>{{52}}</td></tr>
+<tr class="even"><td>MIT opencourseware</td><td>2.300 cursussen</td></tr>
 </tbody>
 </table>
 
-* {{45}}
+* (Totaal Open Acces-artikelen op het web onder CC BY: 675.000; onder alle CC-licenties: 1,3 miljoen)
 
-> {{54}}
+> In 2015 hebben meer platforms opties voor CC-licenties voor hun gebruikers toegevoegd, onder andere Medium en edX. Flickr biedt nu ondersteuning voor CC0 en de Publieke Domeinverklaring. 
 
-## {{49}}
+## ...en nog veel meer!
 
 -----
 
-## {{50}}
+## 2015 Impact: CC + Open Onderwijs
 
 <img src="img/oer-1.svg" class="sotc-image" />
 
-### {{59}} {.by}
+### Landen met Open Onderwijs-beleid {.by}
 
-<img src="img/oer-2-translated.svg" class="sotc-image" alt="{{61}} -- {{64}}, {{65}}, {{62}}, {{66}}, {{67}}, {{60}}, {{71}}, {{72}}, {{73}}, {{74}}, {{75}}, {{76}}, {{77}}, {{78}}, {{79}}, {{80}}, {{81}}, {{82}}, {{83}}." />
+<img src="img/oer-2-translated.svg" class="sotc-image" alt="Open Onderwijs -- Argentinië, Australië, Canada, Europese Unie, Indonesië, India, Nederland, Mauritanië, Nieuw-Zeeland, Polen, Roemenië, Schotland, Slovenië, Slowakije, Zuid-Afrika, Verenigd Koninkrijk, Verenigde staten, Uruguay, Wales." />
 
-**{{61}}** -- {{64}}, {{65}}, {{62}}, {{66}}, {{67}}, {{60}}, {{71}}, {{72}}, {{73}}, {{74}}, {{75}}, {{76}}, {{77}}, {{78}}, {{79}}, {{80}}, {{81}}, {{82}}, {{83}}.
+**Open Onderwijs** -- Argentinië, Australië, Canada, Europese Unie, Indonesië, India, Nederland, Mauritanië, Nieuw-Zeeland, Polen, Roemenië, Schotland, Slovenië, Slowakije, Zuid-Afrika, Verenigd Koninkrijk, Verenigde staten, Uruguay, Wales.
 
-### {{63}} {.by}
+### Open Leerboeken besparen studenten {.by}
 
-<img src="img/oer-3-translation.svg" class="sotc-image" alt="${{84}} {{85}}" />
+<img src="img/oer-3-translation.svg" class="sotc-image" alt="$$174 MILJOEN TOT OP HEDEN" />
 
-**${{84}} {{85}}**
+**$$174 MILJOEN TOT OP HEDEN**
 
-### {{86}} {.by .by-r}
+### met een extra $53 miljoen voorzien voor het studiejaar 2015/16 {.by .by-r}
 
 -----
 
-## {{56}} {.impact .img-policy}
+## Impact 2015: CC + Foundation Open Policy {.impact .img-policy}
 
 <div class="clearfix"></div>
 
-### {{57}} {.by}
+### In 2015 hebben de volgende grote instellingen open beleid geïmplementeerd: {.by}
 
 <div id="foundations" class="clearfix">
 
@@ -285,13 +286,13 @@
 
 </div>
 
-## {{58}}
+## Voor deze fondsen is de standaard open geworden, collectief verlenen ze in 2015 ongeveer $ 1,9 miljard euro
 
 -----
 
-## {{87}} {.impact}
+## 2015 impact: CC + cultureel erfgoed {.impact}
 
-#### {{88}} {.img-frame}
+#### Musea en culturele instellingen kiezen er elke dag voor om te delen. {.img-frame}
 
 <div id="foundations" class="clearfix">
 
@@ -313,63 +314,63 @@
 
 </div>
 
-#### {{89}} {.img-pdmoon}
+#### Dankzij de CC publieke domein tools zijn digitale beelden van het heelal vrij toegankelijk en meer beschikbaar gesteld aan het brede publiek dan ooit tevoren. {.img-pdmoon}
 
 &nbsp;
 
-#### {{90}} {{141}} {{142}}. {.img-bk}
+#### #FREEBASSEL: de Lead van Creative Commons Syrië, Bassel Khartabil is een belangrijke figuur bij projecten die digitaliseren, bewaren en delen van het cultureel erfgoed. Hij is sinds maart 2012 illegaal gevangengenomen in Syrië. CC en haar Board of Directors blijven vragen om Bassel’s onmiddellijke en veilige vrijlating.. {.img-bk}
 
 -----
 
-## {{91}} {.impact}
+## 2015 impact: regionale hoogtepunten {.impact}
 
 <img src="img/map.svg" alt="" class="sotc-image" />
 
 <div id="regional-highlights">
 
-### {{92}} {#regional-mideast}
+### MIDDEN-OOSTEN EN NOORD-AFRIKA {#regional-mideast}
 
-* {{143}}
+* CC-affiliates uit het Midden-Oosten en Noord-Afrika komen samen in twee historische bijeenkomsten
 
-* {{144}}
+* Al Jazeera English integreert CC gelicenseerd interactief materiaal en infographics van Al Jazeera Labs
 
-### {{93}}  {#regional-africa}
+### AFRIKA  {#regional-africa}
 
-* {{145}}
+* Zuid-Afrika publiceert parlementaire dossiers van de afgelopen 17 jaar onder CC BY
 
-* {{146}}
+* Affiliates van CC Afrika en WikiAfrica lanceren de 2de jaarlijkse Wiki Loves Africa campagne
 
-* {{147}}
+* Affiliates werken samen met lokale partners, de African Storybook Project en Book Dash bieden CC-gelicenseerde kinderboeken aan
 
-### {{94}} {#regional-europe}
+### EUROPA {#regional-europe}
 
-* {{148}}
+* CC Portugal lanceert een “CC Toolkit for Business”
 
-* {{149}}
+* CC-affiliates werken in heel Europa samen met de nationale wetgevers om de Europese richtlijn over Collectief Rechtenbeheer te implementeren
 
-### {{95}} {#regional-asia}
+### AZIË-OCEANIË {#regional-asia}
 
-* {{150}}
+* CC Korea host de Creative Commons 2015 Global Summit in Seoul
 
-* {{151}}
+* Chinees-sprekende affiliates in verschillende culturele- en tijdzones werken samen om de officiële vertaling van de 4.0 licenties voor te bereiden
 
-### {{96}} {#regional-northamerica}
+### NOORD-AMERIKA {#regional-northamerica}
 
-* {{152}}
+* Het Museum of Modern Art (MoMA) in New York verwelkomt het CC-logo in de permanente collectie
 
-* {{153}}
+* Begunstigden van het $2 miljard kostende United States Department of Labor (Amerikaanse ministerie van Arbeid) trainingsprogramma voor professionals publiceren hun eerste OER
 
-### {{97}} {#regional-latinamerica}
+### LATIJNS-AMERIKA {#regional-latinamerica}
 
-* {{154}}
+* Het mini-grant programma van CC Latijns-Amerika, nu voor het tweede jaar, geeft geld om nieuwe affiliates-projecten te starten in El Salvador, Costa Rica en Paraguay
 
-* {{98}}
+* CC Uruguay vertaalt de Open Licensing Policy Toolkit in het Spaans
 
 </div>
 
 -----
 
-## {{99}} {.bbs}
+## BEDANKT DAT JE DEELT! {.bbs}
 
 <div class="clearfix"></div>
 
@@ -379,7 +380,7 @@
 
 <div class="content">
 
-##### {{100}}
+##### 
 
 <img src="img/heart.png" alt="" />
 
@@ -393,7 +394,7 @@
 
 <div class="content">
 
-##### {{101}}
+##### Volg alles Creative Commons Volg ons op Twitter & Facebook.
 
 * <a href="https://twitter.com/creativecommons"><img src="img/twitter.png" alt="Follow us on Twitter" /></a>
     - [twitter.com/creativecommons](https://twitter.com/creativecommons)
@@ -410,14 +411,14 @@
 
 <footer>
 
-* <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />{{103}} <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. 
+* <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />State of the Commons 2015 is gelicenseerd onder een Creative Commons <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. 
 
-* [{{155}}](data.html)
+* [Voor de volledige lijst van dankbetuigingen en gegevensbronnen, zie Data, Notes en Dankwoord.](data.html)
 
-* {{104}}
+* Design: Eva Rogers
 
 * HTML version: Matt Lee
 
-* Translation: {{3}} and local {{5}} team.
+* Translation: Maarten Zeinstra and local nl team.
 
 </footer>

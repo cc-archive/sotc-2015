@@ -1,36 +1,36 @@
 
-## {{12}} {.bbs}
+## କମନ୍ସର ଅବସ୍ଥା {.bbs}
 
 -----
 
-## {{6}} {{7}}
+## ବାହାରେ! କମନ୍ସରେ ୨୦୧୫ ବେଳକୁ CC ଲାଇସେନ୍ସରେ ଥିବା ୧ ବିଲିଅନରୁ ଅଧିକ କାମ
 
-> {{11}}
+> ଗତ ୫ ବର୍ଷରେ ￼ CC ଲାଇସେନ୍ସ ଥିବା କାମ ପାଖାପାଖି ୩ ଗୁଣା ହୋଇଛି ￼
 
 <img src="img/total-licensed-works.svg" class="sotc-image" />
 
 <table class="table table-bordered table-striped">
 <thead>
 <tr>
-<th>{{8}}</th>
+<th>_ ବିଲିଅନ</th>
 <th>&nbsp;</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">140 {{9}}</td>
+<td style="text-align: left;">140 _ ମିଲିଅନ</td>
 <td style="text-align: left;">2006</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">400 {{9}}</td>
+<td style="text-align: left;">400 _ ମିଲିଅନ</td>
 <td style="text-align: left;">2010</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">882 {{9}}</td>
+<td style="text-align: left;">882 _ ମିଲିଅନ</td>
 <td style="text-align: left;">2014</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">1.1 {{8}}</td>
+<td style="text-align: left;">1.1 _ ବିଲିଅନ</td>
 <td style="text-align: left;">2015</td>
 </tr>
 </tbody>
@@ -38,7 +38,7 @@
 
 -----
 
-## {{13}}
+## ଅଧିକ ଲୋକ  “Free Culture” ଲାଇସେନ୍ସ ￼￼￼￼￼￼￼ ସହିତ ￼￼￼￼￼￼￼ ରେ ବିତରଣ କରିବା ବାଛୁଛନ୍ତି ।
 
 <img src="img/free-culture-wins.svg" alt="" class="sotc-image" />
 
@@ -46,13 +46,13 @@
 <!-- <thead>
 <tr class="header">
 <th style="text-align: left;">License/tool</th>
-<th style="text-align: left;">{{10}}</th>
+<th style="text-align: left;">ସମସ୍ତ ଲାଇନସେନ୍ସ ଥିବା କାମ</th>
 <th style="text-align: left;">Free Culture License?</th>
 </tr>
 </thead> -->
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">CC0, PDM {{16}}</td>
+<td style="text-align: left;">CC0, PDM + ସରିଥିବା PD ଟୁଲ</td>
 <td style="text-align: left;">3%</td>
 </tr>
 <tr class="even">
@@ -82,11 +82,11 @@
 </tbody>
 </table>
 
-{{14}} &mdash; {{15}}. {{17}}
+ଅଧିକ ଖୋଲା &mdash; ଅଧିକ ବନ୍ଦ. ଅଧିକ ବନ୍ଦ FREE CULTURE ଲାଇସେନ୍ସ ଉଭୟ ଲାଭକାରୀ ଓ ଅଣଲାଭକାରୀ ବ୍ୟବହାର ଓ ଗ୍ରହଣକୁ ଅନୁମତି ଦେଇଥାଏ
 
 -----
 
-## {{19}}
+## ବିଗତ ୧୨ ବର୍ଷ ଭିତରେ CC ଚିହ୍ନ ଥିବା ପବ୍ଲିକ ଡୋମେନ ￼￼￼￼￼￼￼ ନିଜ ଆକାରର ￼￼￼￼￼￼￼￼￼￼￼￼￼ ଦୁଇଗୁଣା ବଢ଼ିଛି
 
 <img src="img/pdm.svg" class="sotc-image" />
 
@@ -94,70 +94,70 @@
 <thead>
 <tr class="header">
 <th style="text-align: left;">Year</th>
-<th style="text-align: left;">{{16}}</th>
+<th style="text-align: left;">+ ସରିଥିବା PD ଟୁଲ</th>
 <th style="text-align: left;">PDM</th>
 <th style="text-align: left;">CC0</th>
-<th style="text-align: left;">{{10}}</th>
+<th style="text-align: left;">ସମସ୍ତ ଲାଇନସେନ୍ସ ଥିବା କାମ</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td style="text-align: left;">2006</td>
-<td style="text-align: left;">3.2 {{22}}</td>
+<td style="text-align: left;">3.2 _ ମିଲିଅନ</td>
 <td style="text-align: left;">-</td>
 <td style="text-align: left;">-</td>
-<td style="text-align: left;">3.2 {{22}}</td>
+<td style="text-align: left;">3.2 _ ମିଲିଅନ</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">2014</td>
-<td style="text-align: left;">5.7 {{22}}</td>
-<td style="text-align: left;">1.5 {{22}}</td>
-<td style="text-align: left;">10.3 {{22}}</td>
-<td style="text-align: left;">17.5 {{22}}</td>
+<td style="text-align: left;">5.7 _ ମିଲିଅନ</td>
+<td style="text-align: left;">1.5 _ ମିଲିଅନ</td>
+<td style="text-align: left;">10.3 _ ମିଲିଅନ</td>
+<td style="text-align: left;">17.5 _ ମିଲିଅନ</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">2015</td>
-<td style="text-align: left;">10 {{22}}</td>
-<td style="text-align: left;">2.6 {{22}}</td>
-<td style="text-align: left;">22.3 {{22}}</td>
-<td style="text-align: left;">34.9 {{22}}</td>
+<td style="text-align: left;">10 _ ମିଲିଅନ</td>
+<td style="text-align: left;">2.6 _ ମିଲିଅନ</td>
+<td style="text-align: left;">22.3 _ ମିଲିଅନ</td>
+<td style="text-align: left;">34.9 _ ମିଲିଅନ</td>
 </tr>
 </table>
 
 -----
 
-## {{28}}
+## ୨୦୧୫ରେ, CC ଲାଇସେନ୍ସ ଥିବା କାମ ୧୩୬ ବିଲିଅନ ଥର ବ୍ୟବହୃତ ହୋଇଥିଲା
 
 <img src="img/hits.svg" alt="" style="width: 100%; overflow: hidden;" />
 
-<img src="img/bubble.png" alt="" /> = 1 {{8}}
+<img src="img/bubble.png" alt="" /> = 1 _ ବିଲିଅନ
 
 -----
 
-## {{37}}
+## ବିଭିନ୍ନତା ଓ ଜାଗତିକ ଭାବେ ଜଣା
 
-## {{69}}
+## ଗତ ୧୦ ବର୍ଷ ଧରି ୯୦ ମିଲିଅନ ଥର ଦେଖା ସରିଥିବା CC ନିୟମାବଳୀ ଲୋକେ ୩୪ଟି ଭାଷାରେ CC ଲାଇସେନ୍ସରେ ￼￼￼  ବିତରଣ କରୁଛନ୍ତି ।
 
 <div class="col-md-6 col-sm-12">
 <table class="table table-bordered table-striped">
 <tbody>
-<tr><td class="odd">**(العربية)** ({{107}})</td></tr>
-<tr><td class="even">**беларускі** ({{108}})</td></tr>
-<tr><td class="odd">**Català** ({{109}})</td></tr>
-<tr><td class="even">**中国** ({{110}}*)</td></tr>
-<tr><td class="odd">**hrvatski** ({{111}})</td></tr>
-<tr><td class="even">**čeština** ({{112}})</td></tr>
-<tr><td class="odd">**danske** ({{113}})</td></tr>
-<tr><td class="even">**Nederlands** ({{114}})</td></tr>
-<tr><td class="odd">**English** ({{115}}*)</td></tr>
-<tr><td class="even">**Esperanton** ({{116}})</td></tr>
-<tr><td class="odd">**suomi** ({{117}})</td></tr>
-<tr><td class="even">**français** ({{118}}*)</td></tr>
-<tr><td class="odd">**galego** ({{119}})</td></tr>
-<tr><td class="even">**Deutsche** ({{120}}*)</td></tr>
-<tr><td class="odd">**ελληνικά** ({{121}})</td></tr>
-<tr><td class="even">**Magyar** ({{122}})</td></tr>
-<tr><td class="odd">**bahasa Indones** ({{123}})</td></tr>
+<tr><td class="odd">**(العربية)** (ଆରବିକ)</td></tr>
+<tr><td class="even">**беларускі** (ବେଲାରୁସିଆନ)</td></tr>
+<tr><td class="odd">**Català** (କାଟାଲାନ)</td></tr>
+<tr><td class="even">**中国** (ଚାଇନିଜ*)</td></tr>
+<tr><td class="odd">**hrvatski** (କ୍ରୋଏସିଆନ)</td></tr>
+<tr><td class="even">**čeština** (ଚେକ)</td></tr>
+<tr><td class="odd">**danske** (ଡାନିସ)</td></tr>
+<tr><td class="even">**Nederlands** (ଡଚ)</td></tr>
+<tr><td class="odd">**English** (ଇଂରାଜୀ*)</td></tr>
+<tr><td class="even">**Esperanton** (ଏସପେରାଣ୍ଟୋ)</td></tr>
+<tr><td class="odd">**suomi** (ଫିନିସ)</td></tr>
+<tr><td class="even">**français** (ଫରାସୀ*)</td></tr>
+<tr><td class="odd">**galego** (ଗାଲିସିଆନ)</td></tr>
+<tr><td class="even">**Deutsche** (ଜର୍ମାନ*)</td></tr>
+<tr><td class="odd">**ελληνικά** (ଗ୍ରୀକ)</td></tr>
+<tr><td class="even">**Magyar** (ହଙ୍ଗାରିଆନ)</td></tr>
+<tr><td class="odd">**bahasa Indones** (ଇଣ୍ଡୋସିଆନ)</td></tr>
 </tbody>
 </table>
 </div>
@@ -165,23 +165,23 @@
 <div class="col-md-6 col-sm-12">
 <table class="table table-bordered table-striped">
 <tbody>
-<tr><td class="even">**italiano** ({{124}})</td></tr>
-<tr><td class="odd">**日本語** ({{125}})</td></tr>
-<tr><td class="even">**한국어** ({{126}})</td></tr>
-<tr><td class="odd">**Latvijā** ({{127}})</td></tr>
-<tr><td class="even">**Lietuvos** ({{128}})</td></tr>
-<tr><td class="odd">**Melayu** ({{129}})</td></tr>
-<tr><td class="even">**te reo Maori** ({{130}})</td></tr>
-<tr><td class="odd">**norsk** ({{131}})</td></tr>
-<tr><td class="even">***فارسي** ({{132}})</td></tr>
-<tr><td class="odd">**polski** ({{133}})</td></tr>
-<tr><td class="even">**português** ({{134}})</td></tr>
-<tr><td class="odd">**Română** ({{135}})</td></tr>
-<tr><td class="even">**Русский** ({{136}})</td></tr>
-<tr><td class="odd">**Español** ({{137}}*)</td></tr>
-<tr><td class="even">**svenska** ({{138}})</td></tr>
-<tr><td class="odd">**Türk** ({{139}})</td></tr>
-<tr><td class="even">**Український** ({{140}})</td></tr>
+<tr><td class="even">**italiano** (ଇଟାଲିଆନ)</td></tr>
+<tr><td class="odd">**日本語** (ଜାପାନିଜ)</td></tr>
+<tr><td class="even">**한국어** (କୋରିଆନ)</td></tr>
+<tr><td class="odd">**Latvijā** (ଲାଟିଭିଆନ)</td></tr>
+<tr><td class="even">**Lietuvos** (ଲିଥୁଆନିଆନ)</td></tr>
+<tr><td class="odd">**Melayu** (ମାଳୟ)</td></tr>
+<tr><td class="even">**te reo Maori** (ମାଓରି)</td></tr>
+<tr><td class="odd">**norsk** (ନରଉଏଇଆନ)</td></tr>
+<tr><td class="even">***فارسي** (ପର୍ସିଆନ)</td></tr>
+<tr><td class="odd">**polski** (ପୋଲିସ)</td></tr>
+<tr><td class="even">**português** (ପର୍ତ୍ତୁଗିଜ)</td></tr>
+<tr><td class="odd">**Română** (ରୋମାନିଆନ)</td></tr>
+<tr><td class="even">**Русский** (ରୁଷିଆନ)</td></tr>
+<tr><td class="odd">**Español** (ସ୍ପାନିସ*)</td></tr>
+<tr><td class="even">**svenska** (ସ୍ୱେଡିସ)</td></tr>
+<tr><td class="odd">**Türk** (ତୁର୍କିସ)</td></tr>
+<tr><td class="even">**Український** (ଇଉକ୍ରେନିଆନ)</td></tr>
 </tbody>
 </table>
 </div>
@@ -190,21 +190,22 @@
 
 -----
 
-## {{29}}
+## ଗବେଷଣାରୁ ଆରମ୍ଭ କରି ବିରାଡ଼ି ଫଟୋ ଯାଏ କମନ୍ସ ଅନେକ କଣ୍ଟେଣ୍ଟ ଯୋଗାଇଥାଏ ।
 
 <img src="img/content-bubbles-translated.svg" class="sotc-image" />
 
-* {{30}}
-* {{31}}
-* {{32}}
-* {{33}}
-* {{34}}
-* {{35}}
-* {{36}}
+* ଛବି (ଫଟୋ, ଆର୍ଟୱାର୍କ): ୩୯୧ ମିଲିଅନ
+* ଓପନ ଏଜୁକେସନାଲ ରିସୋର୍ସ: ୭୬,୦୦୦
+* ଗବେଷଣା (ଜର୍ଣ୍ଣାଲ ଲେଖା): ୧.୪ ମିଲିଅନ
+* ଭିଡ଼ିଓ: ୧୮.୪ ମିଲିଅନ
+* ଅଡ଼ିଓ ଲେଖା: ୪ ମିଲିଅନ
+* ଅନ୍ୟାନ୍ୟ (ମଲ୍ଟିମିଡ଼ିଆ, 3D): ୨୩,୦୦୦
+* ଲେଖା (ପ୍ରସଙ୍ଗ, ଗପ, ଡକୁମେଣ୍ଟ): ୪୬.୯ ମିଲିଅନ
 
 -----
 
-## {{38}}<br />{{157}}
+## CC ସବୁଠି ।￼￼<br />ଉଇକିପିଡ଼ିଆ ଓ ଫ୍ଲିକର ଭଳି ବଡ଼ ସଂଗଠନରୁ ଆରମ୍ଭ କରି ଆପଣଙ୍କ ଜେଜେମାଙ୍କ ବ୍ଲଗ ଭଳି ଛୋଟ ୱେବସାଇଟ ଯାଏ ମିଲିଅନ ମିଲିଅନ ୱେବସାଇଟ CC ଲାଇସେନ୍ସ ବ୍ୟବହାର କରନ୍ତି ।
+
 
 <img src="img/platforms-translated.png" class="sotc-image" />
 
@@ -212,62 +213,62 @@
 <thead>
 <tr class="header">
 <th>-</th>
-<th>{{10}}</th>
+<th>ସମସ୍ତ ଲାଇନସେନ୍ସ ଥିବା କାମ</th>
 </tr>
 </thead>
 <tbody>
-<tr class="odd"><td>Flickr</td><td>{{43}}</td></tr>
-<tr class="even"><td>Bandcamp</td><td>{{44}}</td></tr>
-<tr class="odd"><td>Wikipedia</td><td>{{46}}</td></tr>
-<tr class="even"><td>YouTube</td><td>13 {{51}}</td></tr>
-<tr class="odd"><td>Jamendo</td><td>496,000 {{41}}</td></tr>
+<tr class="odd"><td>Flickr</td><td>୩୫୬ ମିଲିଅନ ଫଟୋ</td></tr>
+<tr class="even"><td>Bandcamp</td><td>୧.୯୬ ମିଲିଅନ ଗୀତ</td></tr>
+<tr class="odd"><td>Wikipedia</td><td>୩୫.୯ ମିଲିଅନ ପ୍ରସଙ୍ଗ</td></tr>
+<tr class="even"><td>YouTube</td><td>13 _ ମିଲିଅନ ଭିଡ଼ିଓ</td></tr>
+<tr class="odd"><td>Jamendo</td><td>496,000 _ ଗୀତ</td></tr>
 <tr class="even"><td>500px</td><td>661,000 photos</td></tr>
-<tr class="odd"><td>Vimeo</td><td>5 {{51}}</td></tr>
-<tr class="even"><td>Internet Archive</td><td>2 {{51}}</td></tr>
-<tr class="odd"><td>FMA</td><td>86,000 {{41}}</td></tr>
+<tr class="odd"><td>Vimeo</td><td>5 _ ମିଲିଅନ ଭିଡ଼ିଓ</td></tr>
+<tr class="even"><td>Internet Archive</td><td>2 _ ମିଲିଅନ ଭିଡ଼ିଓ</td></tr>
+<tr class="odd"><td>FMA</td><td>86,000 _ ଗୀତ</td></tr>
 <tr class="even"><td>Wikimedia Commons</td><td>21.6 million media files</td></tr>
-<tr class="odd"><td>Tribe of Noise</td><td>29,000 {{41}}</td></tr>
-<tr class="even"><td>PLOS</td><td>{{42}}</td></tr>
-<tr class="odd"><td>Europeana</td><td>{{40}}</td></tr>
-<tr class="even"><td>Skills Commons</td><td>{{53}}</td></tr>
+<tr class="odd"><td>Tribe of Noise</td><td>29,000 _ ଗୀତ</td></tr>
+<tr class="even"><td>PLOS</td><td>୧୪୦,୦୦୦ ପ୍ରସଙ୍ଗ</td></tr>
+<tr class="odd"><td>Europeana</td><td>୨୦.୯ ମିଲିଅନ ଡିଜିଟାଲ ବସ୍ତୁ</td></tr>
+<tr class="even"><td>Skills Commons</td><td>୨୪,୦୦୦୦ କ୍ୟାରିଅର ତାଲିମ ପୁସ୍ତିକା</td></tr>
 <tr class="odd"><td>Boundless</td><td>49,000 open educational resources</td></tr>
-<tr class="even"><td>MIT opencourseware</td><td>{{52}}</td></tr>
+<tr class="even"><td>MIT opencourseware</td><td>୨,୩୦୦ କୋର୍ସ</td></tr>
 </tbody>
 </table>
 
-* {{45}}
+* (ୱେବରେ CC BYରେ ଥିବା ମୋଟ ଓପନ ଆକ୍ସେସ ପ୍ରସଙ୍ଗ): ୬୭୫,୦୦୦; ଅନ୍ୟ CC ଲାଇସେନ୍ସରେ ଥିବା ପ୍ରସଙ୍ଗ: ୧.୩ ମିଲିଅନ
 
-> {{54}}
+> ୨୦୧୫ରେ Medium ଓ edX ଭଳି ବିଭିନ୍ନ ସାଇଟ ସେମାନଙ୍କ ବ୍ୟବହାରକାରୀଙ୍କ ଲାଗି CC ଲାଇସେନ୍ସ ଯୋଡ଼ିବାରେ ଲାଗିଲେ । ଏହା ଛଡ଼ା ଫ୍ଲିକର CC0 ଓ Public Domain ଚିହ୍ନ ମଧ୍ୟ ଯୋଡ଼ିଲା ।
 
-## {{49}}
+## ...ଆହୁରି ଆସୁଛି!
 
 -----
 
-## {{50}}
+## ୨୦୧୫ ପ୍ରଭାବ: ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼ ￼CC + ଓପନ ଏଜୁକେସନ
 
 <img src="img/oer-1.svg" class="sotc-image" />
 
-### {{59}} {.by}
+### ଓପନ ଏଜୁକେସନ ନୀତି ଥିବା ଦେଶସମୂହ {.by}
 
-<img src="img/oer-2-translated.svg" class="sotc-image" alt="{{61}} -- {{64}}, {{65}}, {{62}}, {{66}}, {{67}}, {{60}}, {{71}}, {{72}}, {{73}}, {{74}}, {{75}}, {{76}}, {{77}}, {{78}}, {{79}}, {{80}}, {{81}}, {{82}}, {{83}}." />
+<img src="img/oer-2-translated.svg" class="sotc-image" alt="ଓପନ ଏଜୁକେସନ -- ଆର୍ଜେଣ୍ଟିନା, ଅଷ୍ଟ୍ରେଲିଆ, କାନାଡ଼ା, ଇଉରୋପିଆନ ଇଉନିଅନ, ଇଣ୍ଡୋନେସିଆ, ଭାରତ, ନେଦରଲାଣ୍ଡ୍ସ, ମରିସସ, ନିଉଜିଲାଣ୍ଡ, ପୋଲାଣ୍ଡ, ରୋମାନିଆ, ସ୍କଟଲାଣ୍ଡ, ସ୍ଲୋଭେନିଆ, ସ୍ଲୋଭାକ୍କ ରିପବ୍ଲିକ, ଦକ୍ଷିଣ ଆଫ୍ରିକା, ଯୁକ୍ତରାଜ୍ୟ, ଯୁକ୍ତରାଷ୍ଟ୍ର ଆମେରିକା, ଉରୁଗୁଏ, ଉଏଲ୍ସ." />
 
-**{{61}}** -- {{64}}, {{65}}, {{62}}, {{66}}, {{67}}, {{60}}, {{71}}, {{72}}, {{73}}, {{74}}, {{75}}, {{76}}, {{77}}, {{78}}, {{79}}, {{80}}, {{81}}, {{82}}, {{83}}.
+**ଓପନ ଏଜୁକେସନ** -- ଆର୍ଜେଣ୍ଟିନା, ଅଷ୍ଟ୍ରେଲିଆ, କାନାଡ଼ା, ଇଉରୋପିଆନ ଇଉନିଅନ, ଇଣ୍ଡୋନେସିଆ, ଭାରତ, ନେଦରଲାଣ୍ଡ୍ସ, ମରିସସ, ନିଉଜିଲାଣ୍ଡ, ପୋଲାଣ୍ଡ, ରୋମାନିଆ, ସ୍କଟଲାଣ୍ଡ, ସ୍ଲୋଭେନିଆ, ସ୍ଲୋଭାକ୍କ ରିପବ୍ଲିକ, ଦକ୍ଷିଣ ଆଫ୍ରିକା, ଯୁକ୍ତରାଜ୍ୟ, ଯୁକ୍ତରାଷ୍ଟ୍ର ଆମେରିକା, ଉରୁଗୁଏ, ଉଏଲ୍ସ.
 
-### {{63}} {.by}
+### ଓପନ ଟେକ୍ସଟବୁକ ଛାତ୍ରମାନଙ୍କୁ ବଞ୍ଚାଇଦେଲା {.by}
 
-<img src="img/oer-3-translation.svg" class="sotc-image" alt="${{84}} {{85}}" />
+<img src="img/oer-3-translation.svg" class="sotc-image" alt="$$୧୭୪ ମିଲିଅନ ଆଜିଯାଏ" />
 
-**${{84}} {{85}}**
+**$$୧୭୪ ମିଲିଅନ ଆଜିଯାଏ**
 
-### {{86}} {.by .by-r}
+### ୨୦୧୫/୧୬ ଶିକ୍ଷା ବର୍ଷ ଭିତରେ ଆହୁରି $୫୩ ମିଲିଅନ {.by .by-r}
 
 -----
 
-## {{56}} {.impact .img-policy}
+## ୨୦୧୫ ପ୍ରଭାବଳ ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼ ￼CC + ଫାଉଣ୍ଡେସନ ଓପନ ପଲିସି {.impact .img-policy}
 
 <div class="clearfix"></div>
 
-### {{57}} {.by}
+### ୨୦୧୫ରେ ତଳଲିଖିତ ମୁଖ୍ୟ ସଙ୍ଗଠନସବୁ ଓପନ ପଲିସି ଆଦରିନେଇଥିଲେ: {.by}
 
 <div id="foundations" class="clearfix">
 
@@ -285,13 +286,13 @@
 
 </div>
 
-## {{58}}
+## ଏହିସବୁ ସଙ୍ଗଠନ ଆପେଆପେ ଆସୁଥିବା ବଛା ବନ୍ଦରୁ ଖୋଲା ରଖି ୨୦୧୫ ବେଳକୁ $୧.୯ ବିଲିଅନ ଦାନ ଦେଇଥିଲେ ।
 
 -----
 
-## {{87}} {.impact}
+## ୨୦୧୫ ପ୍ରଭାବ: ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼ CC + ସାଂସ୍କୃତିକ ଐତିହ୍ୟ {.impact}
 
-#### {{88}} {.img-frame}
+#### ସଂଗ୍ରହାଳୟ ଓ ବାକି ସାଂସ୍କୃତିକ ଅନୁଷ୍ଠାନମାନ {.img-frame}
 
 <div id="foundations" class="clearfix">
 
@@ -313,63 +314,63 @@
 
 </div>
 
-#### {{89}} {.img-pdmoon}
+####  CC ର ପବ୍ଲିକ ଡୋମେନ ଟୁଲକୁ ଭଲା କହିବ ଯେ ବାହାର ଜଗତର ଡିଜିଟାଲ ଫଟୋ ଖୋଲାରେ ତଥା ଆଗଠୁ ଆହୁରି ବ୍ୟାପକ ଭାବେ ଲୋକଙ୍କ ପାଇଁ ଉପଲବ୍ଧ । {.img-pdmoon}
 
 &nbsp;
 
-#### {{90}} {{141}} {{142}}. {.img-bk}
+#### #FREEBASSEL: Creative Commons ସିରିଆର ମୁଖ୍ୟ ବାସେଲ ଖାର୍ଟାବିଲ ସାଂସ୍କୃତିକ ଐତିହ୍ୟର ଡିଜିଟାଲକରଣ, ସଂରକ୍ଷଣ ଓ ବିତରଣ କରୁଥିବା ପ୍ରକଳ୍ପର ଜଣେ ମୁଖ୍ୟ ଯୋଗଦାନକାରୀ । ୨୦୧୨ ମାର୍ଚ୍ଚରୁ ସେ ସିରିଆରେ ଅନୀତିକ ଭାବେ ବନ୍ଦୀ ହୋଇଛନ୍ତି । CC ଓ ଏହାର ବୋର୍ଡ଼ ଅଫ ଡାଇରେକ୍ଟରମାନେ ବାସେଲଙ୍କ ତୁରନ୍ତ ଓ ନିରାପଦ ମୁକ୍ତି ଦାବିରେ ଲାଗିରହିଛନ୍ତି ।. {.img-bk}
 
 -----
 
-## {{91}} {.impact}
+## ୨୦୧୫ ପ୍ରଭାବ: ସ୍ଥାନୀୟ ମୁଖ୍ୟଖବର {.impact}
 
 <img src="img/map.svg" alt="" class="sotc-image" />
 
 <div id="regional-highlights">
 
-### {{92}} {#regional-mideast}
+### ମଧ୍ୟ ପୂର୍ବ ଓ ଉତ୍ତର ଆଫ୍ରିକା {#regional-mideast}
 
-* {{143}}
+* ମଧ୍ୟ ପୂର୍ବ ଓ ଉତ୍ତର ଆଫ୍ରିକା CC ସହଯୋଗୀଗଣ ଦୁଇଟି ଐତିହାସିକ ମେଳଣରେ ଭାଗ ନେଇଥିଲେ
 
-* {{144}}
+* Al Jazeera ଇଂରାଜୀ Al Jazeera ଲ୍ୟାବରୁ CC ଲାଇସେନ୍ସ ହୋଇଥିବା କାମ ଓ ଇନଫୋଗ୍ରାଫିକ୍ସ ଅନ୍ତର୍ଭୁକ୍ତ କରିଛି
 
-### {{93}}  {#regional-africa}
+### ଆଫ୍ରିକା  {#regional-africa}
 
-* {{145}}
+* ଦକ୍ଷିଣ ଆଫ୍ରିକା CC BY ଅଧୀନରେ ୧୭ବର୍ଷର ସଂସଦୀୟ ଫାଇଲ ଖୋଲାରେ ବିତରଣ କରିଛି
 
-* {{146}}
+* CC ଆଫ୍ରିକା ସହଯୋଗୀ ଓ WikiAfrica ୨ୟ ଉଇକି ଲଭ୍ସ ଆଫ୍ରିକା ଅଭିଯାନ ଆରମ୍ଭ କରିଛନ୍ତି
 
-* {{147}}
+* CC ଲାଇସେନ୍ସରେ ପିଲାଙ୍କ ବହି ଦାନ କରିବା ପାଇଁ ସହଯୋଗୀମାନେ ସ୍ଥାନୀୟ ସହଯୋଗୀ ଆଫ୍ରିକାନ ଷ୍ଟୋରିବୁକ ପ୍ରୋଜେକ୍ଟ ଓ ବୁକ ଡ୍ୟାସଙ୍କ ସଙ୍ଗେ ମିଶିଛନ୍ତି
 
-### {{94}} {#regional-europe}
+### ଇଉରୋପ {#regional-europe}
 
-* {{148}}
+* CC ପର୍ତ୍ତୁଗାଲ ଏକ "CC Toolkit for Business" ତିଆରିଛନ୍ତି
 
-* {{149}}
+* ସାରା ଇଉରୋପର CC ସହଯୋଗୀଗଣ ଜାତୀୟ ନିୟମକାରୀନଙ୍କ ସହ ମିଶି ଇଉରୋପିଆନ ଇଉନିଅନର କଲେକ୍ଟିଭ ରାଇଟ୍ସ ମ୍ୟାନେଜମେଣ୍ଟ ଉପରେ ଏକ ନିର୍ଦ୍ଦେଶିକା ତିଆରି କରିଛନ୍ତି
 
-### {{95}} {#regional-asia}
+### ଏସିଆ-ପାସିଫିକ {#regional-asia}
 
-* {{150}}
+* CC କୋରିଆ Creative Commonsର ସିଓଲରେ ୨୦୧୫ ଗ୍ଲୋବାଲ ସମିଟ ଆୟୋଜନ କରିଥିଲା
 
-* {{151}}
+* ବିଭିନ୍ନ ଚଳଣି ଓ ସମୟ ମଣ୍ଡଳବାସୀ ଚାଇନିଜ କହୁଥିବା ସହଯୋଗୀଗଣ ୪.୦ ଲାଇସେନ୍ସ ସୁଟର ଅନୁବାଦ ଆରମ୍ଭ କରିବେ
 
-### {{96}} {#regional-northamerica}
+### ଉତ୍ତର ଆମେରିକା {#regional-northamerica}
 
-* {{152}}
+* ନିଉଅର୍କର ମିଉଜିଅମ ଅଫ ମଡର୍ଣ୍ଣ ଆର୍ଟ (MoMA) ନିଜର ସ୍ଥାୟୀ ସଂଗ୍ରହରେ CC ଲୋଗୋକୁ ପାଛୋଟି ନେଇଛନ୍ତି
 
-* {{153}}
+* U.S. ଡିପାର୍ଟମେଣ୍ଟ ଅଫ ଲେବରର $୨ ବିଲିଅନ କ୍ୟାରିଅର ତାମିଲ କାର୍ଯ୍ୟକ୍ରମ ପାଇଁ ବିଭାଗର ଅନୁଦାନ ପାଉଥିବା ସଭିଏଁ ନିଜର ପ୍ରଥମ OER ପାଇଁ ଦାନ କରିଛନ୍ତି
 
-### {{97}} {#regional-latinamerica}
+### ଲାଟିନ ଆମେରିକା {#regional-latinamerica}
 
-* {{154}}
+* CC ଲାଟିନ ଆମେରିକାର ଛୋଟ-ଅନୁଦାନ କାର୍ଯ୍ୟକ୍ରମ ଏବେ ଦ୍ୱିତୀୟ ବର୍ଷରେ ଏଲ ସାଲଭାଡର, କୋଷ୍ଟାରିକା ଓ ପାରାଗୁଏରେ ଥିବା ସହଯୋଗୀମାନଙ୍କ ପାଇଁ ଅନୁଦାନ ଦେଉଛି
 
-* {{98}}
+* CC ଉରୁଗୁଏ ସ୍ପାନିସରେ ଓପନ ଲାଇସେନ୍ସିଂ ପଲିସି ଟୁଲକିଟ ଅନୁବାଦ କରିଛନ୍ତି
 
 </div>
 
 -----
 
-## {{99}} {.bbs}
+## ବିତରଣ ପାଇଁ ସାଧୁବାଦ {.bbs}
 
 <div class="clearfix"></div>
 
@@ -379,7 +380,7 @@
 
 <div class="content">
 
-##### {{100}}
+##### 
 
 <img src="img/heart.png" alt="" />
 
@@ -393,7 +394,7 @@
 
 <div class="content">
 
-##### {{101}}
+##### ସବୁ Creative Commons ଜିନିଷରେ ଯୋଗଦିଅନ୍ତୁ । ଆମ ସହ Twitter ଓ Facebookରେ ଭେଟନ୍ତୁ ।
 
 * <a href="https://twitter.com/creativecommons"><img src="img/twitter.png" alt="Follow us on Twitter" /></a>
     - [twitter.com/creativecommons](https://twitter.com/creativecommons)
@@ -410,14 +411,14 @@
 
 <footer>
 
-* <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />{{103}} <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. 
+* <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />ଏହି ରିପୋର୍ଟଟି Creative Commons ____ ଲାଇସେନ୍ସରେ ବିତରିତ <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. 
 
-* [{{155}}](data.html)
+* [ସମସ୍ତ ଶ୍ରେୟ ଓ ଡାଟା ଆଧାର ପାଇଁ Data, Notes and Acknowledgments ଦେଖନ୍ତୁ ।](data.html)
 
-* {{104}}
+* ଡିଜାଇନ: ଇଭା ରଜର୍ସ
 
 * HTML version: Matt Lee
 
-* Translation: {{3}} and local {{5}} team.
+* Translation: subhashish panigrahi and local or team.
 
 </footer>

@@ -1,36 +1,36 @@
 
-## {{12}} {.bbs}
+## Tillståndet för Commons {.bbs}
 
 -----
 
-## {{6}} {{7}}
+## Wow Över 1 miljard licensierade verk finns i Commons 2015
 
-> {{11}}
+> CC licensierade verk har nästan tredubblas under de senaste 5 åren
 
 <img src="img/total-licensed-works.svg" class="sotc-image" />
 
 <table class="table table-bordered table-striped">
 <thead>
 <tr>
-<th>{{8}}</th>
+<th>_miljard</th>
 <th>&nbsp;</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">140 {{9}}</td>
+<td style="text-align: left;">140 _miljon</td>
 <td style="text-align: left;">2006</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">400 {{9}}</td>
+<td style="text-align: left;">400 _miljon</td>
 <td style="text-align: left;">2010</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">882 {{9}}</td>
+<td style="text-align: left;">882 _miljon</td>
 <td style="text-align: left;">2014</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">1.1 {{8}}</td>
+<td style="text-align: left;">1.1 _miljard</td>
 <td style="text-align: left;">2015</td>
 </tr>
 </tbody>
@@ -38,7 +38,7 @@
 
 -----
 
-## {{13}}
+## Fler människor väljer att dela med en "fri kultur licens" 
 
 <img src="img/free-culture-wins.svg" alt="" class="sotc-image" />
 
@@ -46,13 +46,13 @@
 <!-- <thead>
 <tr class="header">
 <th style="text-align: left;">License/tool</th>
-<th style="text-align: left;">{{10}}</th>
+<th style="text-align: left;">Totalt antal licensierad verk</th>
 <th style="text-align: left;">Free Culture License?</th>
 </tr>
 </thead> -->
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">CC0, PDM {{16}}</td>
+<td style="text-align: left;">CC0, PDM + pensionerade PD verktyg</td>
 <td style="text-align: left;">3%</td>
 </tr>
 <tr class="even">
@@ -82,11 +82,11 @@
 </tbody>
 </table>
 
-{{14}} &mdash; {{15}}. {{17}}
+Mer öppen &mdash; Mer begränsad. Mindre begränsade FRI KULTUR licenser som tillåter både kommersiell användning och bearbetning
 
 -----
 
-## {{19}}
+## Användningen av CC märkningen för public domain har nästa fördubblas under de senaste 12 månaderna
 
 <img src="img/pdm.svg" class="sotc-image" />
 
@@ -94,70 +94,70 @@
 <thead>
 <tr class="header">
 <th style="text-align: left;">Year</th>
-<th style="text-align: left;">{{16}}</th>
+<th style="text-align: left;">+ pensionerade PD verktyg</th>
 <th style="text-align: left;">PDM</th>
 <th style="text-align: left;">CC0</th>
-<th style="text-align: left;">{{10}}</th>
+<th style="text-align: left;">Totalt antal licensierad verk</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td style="text-align: left;">2006</td>
-<td style="text-align: left;">3.2 {{22}}</td>
+<td style="text-align: left;">3.2 _miljon</td>
 <td style="text-align: left;">-</td>
 <td style="text-align: left;">-</td>
-<td style="text-align: left;">3.2 {{22}}</td>
+<td style="text-align: left;">3.2 _miljon</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">2014</td>
-<td style="text-align: left;">5.7 {{22}}</td>
-<td style="text-align: left;">1.5 {{22}}</td>
-<td style="text-align: left;">10.3 {{22}}</td>
-<td style="text-align: left;">17.5 {{22}}</td>
+<td style="text-align: left;">5.7 _miljon</td>
+<td style="text-align: left;">1.5 _miljon</td>
+<td style="text-align: left;">10.3 _miljon</td>
+<td style="text-align: left;">17.5 _miljon</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">2015</td>
-<td style="text-align: left;">10 {{22}}</td>
-<td style="text-align: left;">2.6 {{22}}</td>
-<td style="text-align: left;">22.3 {{22}}</td>
-<td style="text-align: left;">34.9 {{22}}</td>
+<td style="text-align: left;">10 _miljon</td>
+<td style="text-align: left;">2.6 _miljon</td>
+<td style="text-align: left;">22.3 _miljon</td>
+<td style="text-align: left;">34.9 _miljon</td>
 </tr>
 </table>
 
 -----
 
-## {{28}}
+## Under 2015 har verk som är CC licensierade setts 136 miljarder gånger på nätet
 
 <img src="img/hits.svg" alt="" style="width: 100%; overflow: hidden;" />
 
-<img src="img/bubble.png" alt="" /> = 1 {{8}}
+<img src="img/bubble.png" alt="" /> = 1 _miljard
 
 -----
 
-## {{37}}
+## Mångfald och global synlighet
 
-## {{69}}
+## Människor delar med CC licenser på 34 språk och CC deeds har visats mer 90 miljoner de senaste 10 åren
 
 <div class="col-md-6 col-sm-12">
 <table class="table table-bordered table-striped">
 <tbody>
-<tr><td class="odd">**(العربية)** ({{107}})</td></tr>
-<tr><td class="even">**беларускі** ({{108}})</td></tr>
-<tr><td class="odd">**Català** ({{109}})</td></tr>
-<tr><td class="even">**中国** ({{110}}*)</td></tr>
-<tr><td class="odd">**hrvatski** ({{111}})</td></tr>
-<tr><td class="even">**čeština** ({{112}})</td></tr>
-<tr><td class="odd">**danske** ({{113}})</td></tr>
-<tr><td class="even">**Nederlands** ({{114}})</td></tr>
-<tr><td class="odd">**English** ({{115}}*)</td></tr>
-<tr><td class="even">**Esperanton** ({{116}})</td></tr>
-<tr><td class="odd">**suomi** ({{117}})</td></tr>
-<tr><td class="even">**français** ({{118}}*)</td></tr>
-<tr><td class="odd">**galego** ({{119}})</td></tr>
-<tr><td class="even">**Deutsche** ({{120}}*)</td></tr>
-<tr><td class="odd">**ελληνικά** ({{121}})</td></tr>
-<tr><td class="even">**Magyar** ({{122}})</td></tr>
-<tr><td class="odd">**bahasa Indones** ({{123}})</td></tr>
+<tr><td class="odd">**(العربية)** (arabiska)</td></tr>
+<tr><td class="even">**беларускі** (vitryska)</td></tr>
+<tr><td class="odd">**Català** (katalanska)</td></tr>
+<tr><td class="even">**中国** (kinesiska*)</td></tr>
+<tr><td class="odd">**hrvatski** (kroatiska)</td></tr>
+<tr><td class="even">**čeština** (tjeckiska)</td></tr>
+<tr><td class="odd">**danske** (danska)</td></tr>
+<tr><td class="even">**Nederlands** (holländska)</td></tr>
+<tr><td class="odd">**English** (engelska*)</td></tr>
+<tr><td class="even">**Esperanton** (esperanto)</td></tr>
+<tr><td class="odd">**suomi** (finska)</td></tr>
+<tr><td class="even">**français** (franska*)</td></tr>
+<tr><td class="odd">**galego** (gaeliska)</td></tr>
+<tr><td class="even">**Deutsche** (tyska*)</td></tr>
+<tr><td class="odd">**ελληνικά** (grekiska)</td></tr>
+<tr><td class="even">**Magyar** (ungerska)</td></tr>
+<tr><td class="odd">**bahasa Indones** (indonesiska)</td></tr>
 </tbody>
 </table>
 </div>
@@ -165,23 +165,23 @@
 <div class="col-md-6 col-sm-12">
 <table class="table table-bordered table-striped">
 <tbody>
-<tr><td class="even">**italiano** ({{124}})</td></tr>
-<tr><td class="odd">**日本語** ({{125}})</td></tr>
-<tr><td class="even">**한국어** ({{126}})</td></tr>
-<tr><td class="odd">**Latvijā** ({{127}})</td></tr>
-<tr><td class="even">**Lietuvos** ({{128}})</td></tr>
-<tr><td class="odd">**Melayu** ({{129}})</td></tr>
-<tr><td class="even">**te reo Maori** ({{130}})</td></tr>
-<tr><td class="odd">**norsk** ({{131}})</td></tr>
-<tr><td class="even">***فارسي** ({{132}})</td></tr>
-<tr><td class="odd">**polski** ({{133}})</td></tr>
-<tr><td class="even">**português** ({{134}})</td></tr>
-<tr><td class="odd">**Română** ({{135}})</td></tr>
-<tr><td class="even">**Русский** ({{136}})</td></tr>
-<tr><td class="odd">**Español** ({{137}}*)</td></tr>
-<tr><td class="even">**svenska** ({{138}})</td></tr>
-<tr><td class="odd">**Türk** ({{139}})</td></tr>
-<tr><td class="even">**Український** ({{140}})</td></tr>
+<tr><td class="even">**italiano** (italienska)</td></tr>
+<tr><td class="odd">**日本語** (japanska)</td></tr>
+<tr><td class="even">**한국어** (koreanska)</td></tr>
+<tr><td class="odd">**Latvijā** (lettiska)</td></tr>
+<tr><td class="even">**Lietuvos** (litauiska)</td></tr>
+<tr><td class="odd">**Melayu** (malajiska)</td></tr>
+<tr><td class="even">**te reo Maori** (maori)</td></tr>
+<tr><td class="odd">**norsk** (norska)</td></tr>
+<tr><td class="even">***فارسي** (persiska (farsi))</td></tr>
+<tr><td class="odd">**polski** (polska)</td></tr>
+<tr><td class="even">**português** (portugisiska)</td></tr>
+<tr><td class="odd">**Română** (rumänska)</td></tr>
+<tr><td class="even">**Русский** (ryska)</td></tr>
+<tr><td class="odd">**Español** (spanska*)</td></tr>
+<tr><td class="even">**svenska** (svenska)</td></tr>
+<tr><td class="odd">**Türk** (turkiska)</td></tr>
+<tr><td class="even">**Український** (ukrainska)</td></tr>
 </tbody>
 </table>
 </div>
@@ -190,21 +190,22 @@
 
 -----
 
-## {{29}}
+## I sökandet efter söta kattbilder, erbjuder Commons ett smörgåsbord av innehåll
 
 <img src="img/content-bubbles-translated.svg" class="sotc-image" />
 
-* {{30}}
-* {{31}}
-* {{32}}
-* {{33}}
-* {{34}}
-* {{35}}
-* {{36}}
+* BILDER (FOTON, KONSTVERK): 391 miljoner
+* ÖPPNA LÄRRESURSER: 76 000
+* FORSKNING (VETENSKAPLIGA ARTIKLAR): 1,4 MILJONER
+* VIDEO: 18,4 MILJONER
+* LJUD FILER: 4 MILJONER
+* ANNAT (MULTIMEDIA 3D): 23 000
+* TEXT (ARTIKLAR; BERÄTTELSER, DOKUMENT): 46,9 MILJONER
 
 -----
 
-## {{38}}<br />{{157}}
+## CC är överallt<br />Miljoner webbplatser använder CC licenserna, alltifrån stora plattformar som Wikipedia och Flickr till mindre webbplatser som din mormors blogg.
+
 
 <img src="img/platforms-translated.png" class="sotc-image" />
 
@@ -212,62 +213,62 @@
 <thead>
 <tr class="header">
 <th>-</th>
-<th>{{10}}</th>
+<th>Totalt antal licensierad verk</th>
 </tr>
 </thead>
 <tbody>
-<tr class="odd"><td>Flickr</td><td>{{43}}</td></tr>
-<tr class="even"><td>Bandcamp</td><td>{{44}}</td></tr>
-<tr class="odd"><td>Wikipedia</td><td>{{46}}</td></tr>
-<tr class="even"><td>YouTube</td><td>13 {{51}}</td></tr>
-<tr class="odd"><td>Jamendo</td><td>496,000 {{41}}</td></tr>
+<tr class="odd"><td>Flickr</td><td>356 miljoner foton</td></tr>
+<tr class="even"><td>Bandcamp</td><td>1,95 miljoner spår</td></tr>
+<tr class="odd"><td>Wikipedia</td><td>35,9 miljoner artiklar</td></tr>
+<tr class="even"><td>YouTube</td><td>13 _miljoner videos</td></tr>
+<tr class="odd"><td>Jamendo</td><td>496,000 _spår</td></tr>
 <tr class="even"><td>500px</td><td>661,000 photos</td></tr>
-<tr class="odd"><td>Vimeo</td><td>5 {{51}}</td></tr>
-<tr class="even"><td>Internet Archive</td><td>2 {{51}}</td></tr>
-<tr class="odd"><td>FMA</td><td>86,000 {{41}}</td></tr>
+<tr class="odd"><td>Vimeo</td><td>5 _miljoner videos</td></tr>
+<tr class="even"><td>Internet Archive</td><td>2 _miljoner videos</td></tr>
+<tr class="odd"><td>FMA</td><td>86,000 _spår</td></tr>
 <tr class="even"><td>Wikimedia Commons</td><td>21.6 million media files</td></tr>
-<tr class="odd"><td>Tribe of Noise</td><td>29,000 {{41}}</td></tr>
-<tr class="even"><td>PLOS</td><td>{{42}}</td></tr>
-<tr class="odd"><td>Europeana</td><td>{{40}}</td></tr>
-<tr class="even"><td>Skills Commons</td><td>{{53}}</td></tr>
+<tr class="odd"><td>Tribe of Noise</td><td>29,000 _spår</td></tr>
+<tr class="even"><td>PLOS</td><td>140 000 artiklar</td></tr>
+<tr class="odd"><td>Europeana</td><td>20,9 miljoner digitala objekt</td></tr>
+<tr class="even"><td>Skills Commons</td><td>24 000 yrkesutbildnings material </td></tr>
 <tr class="odd"><td>Boundless</td><td>49,000 open educational resources</td></tr>
-<tr class="even"><td>MIT opencourseware</td><td>{{52}}</td></tr>
+<tr class="even"><td>MIT opencourseware</td><td>2300 kurser</td></tr>
 </tbody>
 </table>
 
-* {{45}}
+* (Det totala antalet av Open Access artiklar som finns på webben under CC BY: 675 000; under någon CC-licens 1,3 miljoner)
 
-> {{54}}
+> Under 2015 har flera plattformar lagt till CC-licensiering som ett alternativ för sina användare, det gäller bland annat Medium och edX, Flickr har dessutom lag till stöd för både CC0 ch Public Domain märkning
 
-## {{49}}
+## ... och många fler!
 
 -----
 
-## {{50}}
+## 2015 Påverkan: CC+ Open Education
 
 <img src="img/oer-1.svg" class="sotc-image" />
 
-### {{59}} {.by}
+### Länder med Policies för Open Education Policies  {.by}
 
-<img src="img/oer-2-translated.svg" class="sotc-image" alt="{{61}} -- {{64}}, {{65}}, {{62}}, {{66}}, {{67}}, {{60}}, {{71}}, {{72}}, {{73}}, {{74}}, {{75}}, {{76}}, {{77}}, {{78}}, {{79}}, {{80}}, {{81}}, {{82}}, {{83}}." />
+<img src="img/oer-2-translated.svg" class="sotc-image" alt="Open Education (Öppen utbildning) -- Argentina, Australien, Kanada, Europeiska unionen, Indonesien, Indien, Nederländerna, Mauritius , Nya Zeeland, Polen, Rumänien, Skottland, Slovenien, Slovakien, Sydafrika, Storbritannien, USA, Uruguay, Wales." />
 
-**{{61}}** -- {{64}}, {{65}}, {{62}}, {{66}}, {{67}}, {{60}}, {{71}}, {{72}}, {{73}}, {{74}}, {{75}}, {{76}}, {{77}}, {{78}}, {{79}}, {{80}}, {{81}}, {{82}}, {{83}}.
+**Open Education (Öppen utbildning)** -- Argentina, Australien, Kanada, Europeiska unionen, Indonesien, Indien, Nederländerna, Mauritius , Nya Zeeland, Polen, Rumänien, Skottland, Slovenien, Slovakien, Sydafrika, Storbritannien, USA, Uruguay, Wales.
 
-### {{63}} {.by}
+### Öppna textböcker gör att studenter sparar {.by}
 
-<img src="img/oer-3-translation.svg" class="sotc-image" alt="${{84}} {{85}}" />
+<img src="img/oer-3-translation.svg" class="sotc-image" alt="$174 MILJONER DOLLAR TILL IDAG" />
 
-**${{84}} {{85}}**
+**$174 MILJONER DOLLAR TILL IDAG**
 
-### {{86}} {.by .by-r}
+### och ytterligare 53 miljoner dollar är projekterade för läsåret 2015/16 {.by .by-r}
 
 -----
 
-## {{56}} {.impact .img-policy}
+## 2015 Påverkan: CC + Öppna policys för stiftelser {.impact .img-policy}
 
 <div class="clearfix"></div>
 
-### {{57}} {.by}
+### Under 2015, har följande stora stiftelser anammat öppna policys {.by}
 
 <div id="foundations" class="clearfix">
 
@@ -285,13 +286,13 @@
 
 </div>
 
-## {{58}}
+## Dessa stiftelser har ändrat sitt utgångsläge från stängt till öppet och gemensamt skänkt ungefär 1,9 miljarder dollar under 2015.
 
 -----
 
-## {{87}} {.impact}
+## 2015 Påverkan: CC + Kulturarvet {.impact}
 
-#### {{88}} {.img-frame}
+#### Museer och kulturarvsinstitutioner väljer att dela varje dag. {.img-frame}
 
 <div id="foundations" class="clearfix">
 
@@ -313,63 +314,63 @@
 
 </div>
 
-#### {{89}} {.img-pdmoon}
+#### Tack vare CC:s public domain verktyg, blir digitala bilder från yttre rymden fritt tillgängliga och än mer tillgängliga för allmänheten än de någonsin varit förut.  {.img-pdmoon}
 
 &nbsp;
 
-#### {{90}} {{141}} {{142}}. {.img-bk}
+#### #FREEBASSEL: ledaren för Creative Commons i Syrien, Bassel Khartabil är en nyckelperson för projekt som digitaliserar, bevarar och sprider kulturarvet. Han är olagligt fängslad i Syrien, sedan mars 2012. CC och vår styrelse kräver att Bassel ska friges omedelbart.. {.img-bk}
 
 -----
 
-## {{91}} {.impact}
+## 2015 Påverkan: Regionala höjdpunkter {.impact}
 
 <img src="img/map.svg" alt="" class="sotc-image" />
 
 <div id="regional-highlights">
 
-### {{92}} {#regional-mideast}
+### Mellanöstern och Nordafrika {#regional-mideast}
 
-* {{143}}
+* CC förbund från hela mellanöstern och Nordafrika har träffats i två historiska möten
 
-* {{144}}
+* Engelsktalande Al Jazeera integrerar CC licensierat interaktivt material och infografiker från Al Jazeera
 
-### {{93}}  {#regional-africa}
+### Afrika  {#regional-africa}
 
-* {{145}}
+* Sydafrika har offentliggjort parlaments dokument från 17 års under CC BY
 
-* {{146}}
+* De afrikanska CC förbunden och WikiAfrika startade den andra årliga Wiki Loves Afrika kampanj
 
-* {{147}}
+* Förbund har tillsammans med lokala partners, the African Storybook Project och Book Dash för att erbjuda CC licensierad barnböcker
 
-### {{94}} {#regional-europe}
+### EUROPA {#regional-europe}
 
-* {{148}}
+* CC Portugal lanserade ett "CC Toolkit for Business"
 
-* {{149}}
+* CC förbund över hela Europa samarbetar med nationella lagstiftare för att implementera Europeiska Unionens direktiv för förvaltning av kollektiva rättigheter 
 
-### {{95}} {#regional-asia}
+### ASIEN-STILLAHAVSOMRÅDET {#regional-asia}
 
-* {{150}}
+* CC Korea var värd för Creative Commons 2015 Global Summit in Seoul
 
-* {{151}}
+* Kinesisktalande förbund samarbetar för att förbereda sig för den officiella översättningen av 4.0 licenserna
 
-### {{96}} {#regional-northamerica}
+### Nordamerika {#regional-northamerica}
 
-* {{152}}
+* Museet för modern konst (MoMA) i New York välkomna CC logon i deras permanenta samling
 
-* {{153}}
+* U.S. Department of Labor erbjuder ett stöd på 2 miljarder för ett program som ska bidra till skapandet av deras första OER.
 
-### {{97}} {#regional-latinamerica}
+### Latinamerika {#regional-latinamerica}
 
-* {{154}}
+* CC i Latinamerika ger mini-stipendier, för andra året i rad, för att starta förbundsprojekt i El Salvador, Costa Rica och Paraguay
 
-* {{98}}
+* CC Uruguay översatte "the Open Licensing Policy Toolkit" till spanska
 
 </div>
 
 -----
 
-## {{99}} {.bbs}
+## Tack för att du delar! {.bbs}
 
 <div class="clearfix"></div>
 
@@ -379,7 +380,7 @@
 
 <div class="content">
 
-##### {{100}}
+##### 
 
 <img src="img/heart.png" alt="" />
 
@@ -393,7 +394,7 @@
 
 <div class="content">
 
-##### {{101}}
+##### Missa inget som kommer från Creative Commons. Följ oss på Twitter & Facebook.
 
 * <a href="https://twitter.com/creativecommons"><img src="img/twitter.png" alt="Follow us on Twitter" /></a>
     - [twitter.com/creativecommons](https://twitter.com/creativecommons)
@@ -410,14 +411,14 @@
 
 <footer>
 
-* <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />{{103}} <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. 
+* <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Denna rapport är licensierad ___ av Creative Commons <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. 
 
-* [{{155}}](data.html)
+* [För en fullständig lista på erkännande och data källor, se Data, noter och erkännanden.](data.html)
 
-* {{104}}
+* Design Eva Rogers
 
 * HTML version: Matt Lee
 
-* Translation: {{3}} and local {{5}} team.
+* Translation: Kristina Alexanderson and local sv team.
 
 </footer>

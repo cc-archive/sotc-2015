@@ -1,36 +1,36 @@
 
-## {{12}} {.bbs}
+## State of the Commons {.bbs}
 
 -----
 
-## {{6}} {{7}}
+## Wow! Over 1 billion CC licensed ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼works in the Commons in 2015
 
-> {{11}}
+> CC licensed works have ￼nearly tripled in the last 5 years ￼
 
 <img src="img/total-licensed-works.svg" class="sotc-image" />
 
 <table class="table table-bordered table-striped">
 <thead>
 <tr>
-<th>{{8}}</th>
+<th>_ billion</th>
 <th>&nbsp;</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">140 {{9}}</td>
+<td style="text-align: left;">140 _ million</td>
 <td style="text-align: left;">2006</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">400 {{9}}</td>
+<td style="text-align: left;">400 _ million</td>
 <td style="text-align: left;">2010</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">882 {{9}}</td>
+<td style="text-align: left;">882 _ million</td>
 <td style="text-align: left;">2014</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">1.1 {{8}}</td>
+<td style="text-align: left;">1.1 _ billion</td>
 <td style="text-align: left;">2015</td>
 </tr>
 </tbody>
@@ -38,7 +38,7 @@
 
 -----
 
-## {{13}}
+## More people are choosing to share ￼￼￼￼￼￼￼with “Free Culture” licenses ￼￼￼￼￼￼￼
 
 <img src="img/free-culture-wins.svg" alt="" class="sotc-image" />
 
@@ -46,13 +46,13 @@
 <!-- <thead>
 <tr class="header">
 <th style="text-align: left;">License/tool</th>
-<th style="text-align: left;">{{10}}</th>
+<th style="text-align: left;">Total licensed works</th>
 <th style="text-align: left;">Free Culture License?</th>
 </tr>
 </thead> -->
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">CC0, PDM {{16}}</td>
+<td style="text-align: left;">CC0, PDM + Retired PD tool</td>
 <td style="text-align: left;">3%</td>
 </tr>
 <tr class="even">
@@ -82,11 +82,11 @@
 </tbody>
 </table>
 
-{{14}} &mdash; {{15}}. {{17}}
+More open &mdash; More restrictive. Less restrictive FREE CULTURE licenses allow for both commercial use and adaptations
 
 -----
 
-## {{19}}
+## The CC marked public domain ￼￼￼￼￼￼￼ has nearly doubled in size ￼￼￼￼￼￼￼￼￼￼￼￼￼over the last 12 months
 
 <img src="img/pdm.svg" class="sotc-image" />
 
@@ -94,70 +94,70 @@
 <thead>
 <tr class="header">
 <th style="text-align: left;">Year</th>
-<th style="text-align: left;">{{16}}</th>
+<th style="text-align: left;">+ Retired PD tool</th>
 <th style="text-align: left;">PDM</th>
 <th style="text-align: left;">CC0</th>
-<th style="text-align: left;">{{10}}</th>
+<th style="text-align: left;">Total licensed works</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td style="text-align: left;">2006</td>
-<td style="text-align: left;">3.2 {{22}}</td>
+<td style="text-align: left;">3.2 _ million</td>
 <td style="text-align: left;">-</td>
 <td style="text-align: left;">-</td>
-<td style="text-align: left;">3.2 {{22}}</td>
+<td style="text-align: left;">3.2 _ million</td>
 </tr>
 <tr class="even">
 <td style="text-align: left;">2014</td>
-<td style="text-align: left;">5.7 {{22}}</td>
-<td style="text-align: left;">1.5 {{22}}</td>
-<td style="text-align: left;">10.3 {{22}}</td>
-<td style="text-align: left;">17.5 {{22}}</td>
+<td style="text-align: left;">5.7 _ million</td>
+<td style="text-align: left;">1.5 _ million</td>
+<td style="text-align: left;">10.3 _ million</td>
+<td style="text-align: left;">17.5 _ million</td>
 </tr>
 <tr class="odd">
 <td style="text-align: left;">2015</td>
-<td style="text-align: left;">10 {{22}}</td>
-<td style="text-align: left;">2.6 {{22}}</td>
-<td style="text-align: left;">22.3 {{22}}</td>
-<td style="text-align: left;">34.9 {{22}}</td>
+<td style="text-align: left;">10 _ million</td>
+<td style="text-align: left;">2.6 _ million</td>
+<td style="text-align: left;">22.3 _ million</td>
+<td style="text-align: left;">34.9 _ million</td>
 </tr>
 </table>
 
 -----
 
-## {{28}}
+## In 2015, CC licensed works were viewed online 136 billion times
 
 <img src="img/hits.svg" alt="" style="width: 100%; overflow: hidden;" />
 
-<img src="img/bubble.png" alt="" /> = 1 {{8}}
+<img src="img/bubble.png" alt="" /> = 1 _ billion
 
 -----
 
-## {{37}}
+## Diversity and global visibility
 
-## {{69}}
+## People are sharing with CC licenses in ￼￼￼ 34 languages with more than 90 million views of CC’s deeds in the last 10 years.
 
 <div class="col-md-6 col-sm-12">
 <table class="table table-bordered table-striped">
 <tbody>
-<tr><td class="odd">**(العربية)** ({{107}})</td></tr>
-<tr><td class="even">**беларускі** ({{108}})</td></tr>
-<tr><td class="odd">**Català** ({{109}})</td></tr>
-<tr><td class="even">**中国** ({{110}}*)</td></tr>
-<tr><td class="odd">**hrvatski** ({{111}})</td></tr>
-<tr><td class="even">**čeština** ({{112}})</td></tr>
-<tr><td class="odd">**danske** ({{113}})</td></tr>
-<tr><td class="even">**Nederlands** ({{114}})</td></tr>
-<tr><td class="odd">**English** ({{115}}*)</td></tr>
-<tr><td class="even">**Esperanton** ({{116}})</td></tr>
-<tr><td class="odd">**suomi** ({{117}})</td></tr>
-<tr><td class="even">**français** ({{118}}*)</td></tr>
-<tr><td class="odd">**galego** ({{119}})</td></tr>
-<tr><td class="even">**Deutsche** ({{120}}*)</td></tr>
-<tr><td class="odd">**ελληνικά** ({{121}})</td></tr>
-<tr><td class="even">**Magyar** ({{122}})</td></tr>
-<tr><td class="odd">**bahasa Indones** ({{123}})</td></tr>
+<tr><td class="odd">**(العربية)** (Arabic)</td></tr>
+<tr><td class="even">**беларускі** (Belarusian)</td></tr>
+<tr><td class="odd">**Català** (Catalan)</td></tr>
+<tr><td class="even">**中国** (Chinese*)</td></tr>
+<tr><td class="odd">**hrvatski** (Croatian)</td></tr>
+<tr><td class="even">**čeština** (Czech)</td></tr>
+<tr><td class="odd">**danske** (Danish)</td></tr>
+<tr><td class="even">**Nederlands** (Dutch)</td></tr>
+<tr><td class="odd">**English** (English*)</td></tr>
+<tr><td class="even">**Esperanton** (Esperanto)</td></tr>
+<tr><td class="odd">**suomi** (Finnish)</td></tr>
+<tr><td class="even">**français** (French*)</td></tr>
+<tr><td class="odd">**galego** (Galician)</td></tr>
+<tr><td class="even">**Deutsche** (German*)</td></tr>
+<tr><td class="odd">**ελληνικά** (Greek)</td></tr>
+<tr><td class="even">**Magyar** (Hungarian)</td></tr>
+<tr><td class="odd">**bahasa Indones** (Indonesian)</td></tr>
 </tbody>
 </table>
 </div>
@@ -165,23 +165,23 @@
 <div class="col-md-6 col-sm-12">
 <table class="table table-bordered table-striped">
 <tbody>
-<tr><td class="even">**italiano** ({{124}})</td></tr>
-<tr><td class="odd">**日本語** ({{125}})</td></tr>
-<tr><td class="even">**한국어** ({{126}})</td></tr>
-<tr><td class="odd">**Latvijā** ({{127}})</td></tr>
-<tr><td class="even">**Lietuvos** ({{128}})</td></tr>
-<tr><td class="odd">**Melayu** ({{129}})</td></tr>
-<tr><td class="even">**te reo Maori** ({{130}})</td></tr>
-<tr><td class="odd">**norsk** ({{131}})</td></tr>
-<tr><td class="even">***فارسي** ({{132}})</td></tr>
-<tr><td class="odd">**polski** ({{133}})</td></tr>
-<tr><td class="even">**português** ({{134}})</td></tr>
-<tr><td class="odd">**Română** ({{135}})</td></tr>
-<tr><td class="even">**Русский** ({{136}})</td></tr>
-<tr><td class="odd">**Español** ({{137}}*)</td></tr>
-<tr><td class="even">**svenska** ({{138}})</td></tr>
-<tr><td class="odd">**Türk** ({{139}})</td></tr>
-<tr><td class="even">**Український** ({{140}})</td></tr>
+<tr><td class="even">**italiano** (Italian)</td></tr>
+<tr><td class="odd">**日本語** (Japanese)</td></tr>
+<tr><td class="even">**한국어** (Korean)</td></tr>
+<tr><td class="odd">**Latvijā** (Latvian)</td></tr>
+<tr><td class="even">**Lietuvos** (Lithuanian)</td></tr>
+<tr><td class="odd">**Melayu** (Malay)</td></tr>
+<tr><td class="even">**te reo Maori** (Maori)</td></tr>
+<tr><td class="odd">**norsk** (Norwegian)</td></tr>
+<tr><td class="even">***فارسي** (Persian (Farsi))</td></tr>
+<tr><td class="odd">**polski** (Polish)</td></tr>
+<tr><td class="even">**português** (Portuguese)</td></tr>
+<tr><td class="odd">**Română** (Romanian)</td></tr>
+<tr><td class="even">**Русский** (Russian)</td></tr>
+<tr><td class="odd">**Español** (Spanish*)</td></tr>
+<tr><td class="even">**svenska** (Swedish)</td></tr>
+<tr><td class="odd">**Türk** (Turkish)</td></tr>
+<tr><td class="even">**Український** (Ukrainian)</td></tr>
 </tbody>
 </table>
 </div>
@@ -190,21 +190,22 @@
 
 -----
 
-## {{29}}
+## From research to cute cat photos, the Commons offers a treasure trove of content.
 
 <img src="img/content-bubbles-translated.svg" class="sotc-image" />
 
-* {{30}}
-* {{31}}
-* {{32}}
-* {{33}}
-* {{34}}
-* {{35}}
-* {{36}}
+* IMAGES (PHOTOS, ARTWORKS): 391 MILLION
+* OPEN EDUCATIONAL RESOURCES: 76,000
+* RESEARCH (JOURNAL ARTICLES): 1.4 MILLION
+* VIDEOS: 18.4 MILLION
+* AUDIO TRACKS: 4 MILLION
+* OTHER (MULTIMEDIA, 3D): 23,000
+* TEXTS (ARTICLES, STORIES, DOCUMENTS): 46.9 MILLION
 
 -----
 
-## {{38}}<br />{{157}}
+## CC is everywhere: ￼￼<br />Millions of websites use CC licenses,￼￼￼￼￼￼￼ including major platforms like ￼￼￼￼Wikipedia and Flickr and smaller ￼￼￼￼￼websites like your grandma’s blog.
+
 
 <img src="img/platforms-translated.png" class="sotc-image" />
 
@@ -212,62 +213,62 @@
 <thead>
 <tr class="header">
 <th>-</th>
-<th>{{10}}</th>
+<th>Total licensed works</th>
 </tr>
 </thead>
 <tbody>
-<tr class="odd"><td>Flickr</td><td>{{43}}</td></tr>
-<tr class="even"><td>Bandcamp</td><td>{{44}}</td></tr>
-<tr class="odd"><td>Wikipedia</td><td>{{46}}</td></tr>
-<tr class="even"><td>YouTube</td><td>13 {{51}}</td></tr>
-<tr class="odd"><td>Jamendo</td><td>496,000 {{41}}</td></tr>
+<tr class="odd"><td>Flickr</td><td>356 million photos</td></tr>
+<tr class="even"><td>Bandcamp</td><td>1.95 million tracks</td></tr>
+<tr class="odd"><td>Wikipedia</td><td>35.9 million articles</td></tr>
+<tr class="even"><td>YouTube</td><td>13 _ million videos</td></tr>
+<tr class="odd"><td>Jamendo</td><td>496,000 _ tracks</td></tr>
 <tr class="even"><td>500px</td><td>661,000 photos</td></tr>
-<tr class="odd"><td>Vimeo</td><td>5 {{51}}</td></tr>
-<tr class="even"><td>Internet Archive</td><td>2 {{51}}</td></tr>
-<tr class="odd"><td>FMA</td><td>86,000 {{41}}</td></tr>
+<tr class="odd"><td>Vimeo</td><td>5 _ million videos</td></tr>
+<tr class="even"><td>Internet Archive</td><td>2 _ million videos</td></tr>
+<tr class="odd"><td>FMA</td><td>86,000 _ tracks</td></tr>
 <tr class="even"><td>Wikimedia Commons</td><td>21.6 million media files</td></tr>
-<tr class="odd"><td>Tribe of Noise</td><td>29,000 {{41}}</td></tr>
-<tr class="even"><td>PLOS</td><td>{{42}}</td></tr>
-<tr class="odd"><td>Europeana</td><td>{{40}}</td></tr>
-<tr class="even"><td>Skills Commons</td><td>{{53}}</td></tr>
+<tr class="odd"><td>Tribe of Noise</td><td>29,000 _ tracks</td></tr>
+<tr class="even"><td>PLOS</td><td>140,000 articles</td></tr>
+<tr class="odd"><td>Europeana</td><td>20.9 million digital objects</td></tr>
+<tr class="even"><td>Skills Commons</td><td>24,000 career training materials</td></tr>
 <tr class="odd"><td>Boundless</td><td>49,000 open educational resources</td></tr>
-<tr class="even"><td>MIT opencourseware</td><td>{{52}}</td></tr>
+<tr class="even"><td>MIT opencourseware</td><td>2,300 courses</td></tr>
 </tbody>
 </table>
 
-* {{45}}
+* (Total Open Access articles across the web under CC BY: 675,000; under any CC license: 1.3 million)
 
-> {{54}}
+> In 2015, more platforms added CC license options for their users, including Medium and edX, with Flickr adding support for CC0 and the Public Domain Mark. 
 
-## {{49}}
+## ...and many more!
 
 -----
 
-## {{50}}
+## 2015 Impact: ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼ ￼CC + Open Education
 
 <img src="img/oer-1.svg" class="sotc-image" />
 
-### {{59}} {.by}
+### ￼Countries with Open Education Policies {.by}
 
-<img src="img/oer-2-translated.svg" class="sotc-image" alt="{{61}} -- {{64}}, {{65}}, {{62}}, {{66}}, {{67}}, {{60}}, {{71}}, {{72}}, {{73}}, {{74}}, {{75}}, {{76}}, {{77}}, {{78}}, {{79}}, {{80}}, {{81}}, {{82}}, {{83}}." />
+<img src="img/oer-2-translated.svg" class="sotc-image" alt="Open Education -- Argentina, Australia, Canada, European Union, Indonesia, India, Netherlands, Mauritius, New Zealand, Poland, Romania, Scotland, Slovenia, Slovak Republic, South Africa, United Kingdom, United States, Uruguay, Wales." />
 
-**{{61}}** -- {{64}}, {{65}}, {{62}}, {{66}}, {{67}}, {{60}}, {{71}}, {{72}}, {{73}}, {{74}}, {{75}}, {{76}}, {{77}}, {{78}}, {{79}}, {{80}}, {{81}}, {{82}}, {{83}}.
+**Open Education** -- Argentina, Australia, Canada, European Union, Indonesia, India, Netherlands, Mauritius, New Zealand, Poland, Romania, Scotland, Slovenia, Slovak Republic, South Africa, United Kingdom, United States, Uruguay, Wales.
 
-### {{63}} {.by}
+### ￼Open Textbooks have saved students {.by}
 
-<img src="img/oer-3-translation.svg" class="sotc-image" alt="${{84}} {{85}}" />
+<img src="img/oer-3-translation.svg" class="sotc-image" alt="$$174 MILLION TO DATE" />
 
-**${{84}} {{85}}**
+**$$174 MILLION TO DATE**
 
-### {{86}} {.by .by-r}
+### with an additional $53 million projected through academic year 2015/16 {.by .by-r}
 
 -----
 
-## {{56}} {.impact .img-policy}
+## 2015 Impact: ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼ ￼CC + Foundation Open Policy {.impact .img-policy}
 
 <div class="clearfix"></div>
 
-### {{57}} {.by}
+### In 2015, the following major foundations adopted open policies: {.by}
 
 <div id="foundations" class="clearfix">
 
@@ -285,13 +286,13 @@
 
 </div>
 
-## {{58}}
+## These foundations set their default to open from closed, collectively granting approximately $1.9 billion in 2015.
 
 -----
 
-## {{87}} {.impact}
+## 2015 Impact: ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼ CC + Cultural Heritage {.impact}
 
-#### {{88}} {.img-frame}
+#### Museums and cultural institutions are choosing to share every day. {.img-frame}
 
 <div id="foundations" class="clearfix">
 
@@ -313,63 +314,63 @@
 
 </div>
 
-#### {{89}} {.img-pdmoon}
+#### Thanks to CC’s public domain tools, digital images of outer space are made freely accessible and more broadly available to the public than ever before. {.img-pdmoon}
 
 &nbsp;
 
-#### {{90}} {{141}} {{142}}. {.img-bk}
+#### #FREEBASSEL: Lead of Creative Commons Syria, Bassel Khartabil is a key contributor to projects that digitize, preserve, and share cultural heritage. He has been illegally imprisoned in Syria since March 2012.  CC and its Board of Directors continue to call for Bassel’s immediate and safe release.. {.img-bk}
 
 -----
 
-## {{91}} {.impact}
+## 2015 Impact: Regional Highlights {.impact}
 
 <img src="img/map.svg" alt="" class="sotc-image" />
 
 <div id="regional-highlights">
 
-### {{92}} {#regional-mideast}
+### MIDDLE EAST AND NORTH AFRICA {#regional-mideast}
 
-* {{143}}
+* CC affiliates from across the Middle East and North Africa gather in two historic meetings
 
-* {{144}}
+* Al Jazeera English integrates CC licensed interactive material and infographics from Al Jazeera Labs
 
-### {{93}}  {#regional-africa}
+### AFRICA  {#regional-africa}
 
-* {{145}}
+* South Africa publicly releases 17 years of parliamentary files under CC BY
 
-* {{146}}
+* CC African Affiliates and WikiAfrica launch the 2nd annual Wiki Loves Africa campaign
 
-* {{147}}
+* Affiliates team up with local partners, the African Storybook Project and Book Dash to provide CC licensed children’s books
 
-### {{94}} {#regional-europe}
+### EUROPE {#regional-europe}
 
-* {{148}}
+* CC Portugal launches a “CC Toolkit for Business”
 
-* {{149}}
+* CC affiliates across Europe collaborate with national lawmakers to implement the European Union’s Directive on Collective Rights Management
 
-### {{95}} {#regional-asia}
+### ASIA-PACIFIC {#regional-asia}
 
-* {{150}}
+* CC Korea hosts Creative Commons’ 2015 Global Summit in Seoul
 
-* {{151}}
+* Chinese speaking affiliates collaborate across cultures and time zones to prepare for the official translation of the 4.0 license suite
 
-### {{96}} {#regional-northamerica}
+### NORTH AMERICA {#regional-northamerica}
 
-* {{152}}
+* The Museum of Modern Art (MoMA) in New York welcomes the CC logo into its permanent collection
 
-* {{153}}
+* Grantees of U.S. Department of Labor’s $2 billion career training program contribute their first round of OER
 
-### {{97}} {#regional-latinamerica}
+### LATIN AMERICA {#regional-latinamerica}
 
-* {{154}}
+* CC Latin America’s mini-grants program, now in its second year, awards funds to kick off new affiliate projects in El Salvador, Costa Rica, and Paraguay
 
-* {{98}}
+* CC Uruguay translates the Open Licensing Policy Toolkit into Spanish
 
 </div>
 
 -----
 
-## {{99}} {.bbs}
+## THANK YOU FOR SHARING! {.bbs}
 
 <div class="clearfix"></div>
 
@@ -379,7 +380,7 @@
 
 <div class="content">
 
-##### {{100}}
+##### Invest in a creative, free, and open Internet: Support Creative Commons today.
 
 <img src="img/heart.png" alt="" />
 
@@ -393,7 +394,7 @@
 
 <div class="content">
 
-##### {{101}}
+##### Tune in to all things Creative Commons. Follow us on Twitter & Facebook.
 
 * <a href="https://twitter.com/creativecommons"><img src="img/twitter.png" alt="Follow us on Twitter" /></a>
     - [twitter.com/creativecommons](https://twitter.com/creativecommons)
@@ -410,14 +411,14 @@
 
 <footer>
 
-* <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />{{103}} <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. 
+* <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This report is licensed ____ by Creative Commons <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. 
 
-* [{{155}}](data.html)
+* [For the complete list of acknowledgments and data sources, see Data, Notes and Acknowledgments.](data.html)
 
-* {{104}}
+* Design: Eva Rogers
 
 * HTML version: Matt Lee
 
-* Translation: {{3}} and local {{5}} team.
+* Translation: Your name and local Which language is this? (Language name in English) team.
 
 </footer>
