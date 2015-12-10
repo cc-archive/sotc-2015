@@ -12,7 +12,7 @@
 <table class="table table-bordered table-striped">
 <thead>
 <tr>
-<th>{{8}}</th>
+<th>{{10}}</th>
 <th>&nbsp;</th>
 </tr>
 </thead>
