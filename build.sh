@@ -5,9 +5,6 @@
 # Thanks to the creators of git, perl, GNU csplit, pandoc, markdown,
 # perl, coreutils, fileutils, Inkscape, GIMP and of course, GNU Emacs
 
-git clone https://github.com/creativecommons/sotc-215.git
-mv sotc-215/data.mdwn .
-rm -rf sotc-215
 rm xx*
 rm cc*.html
 rm translat*.html
@@ -42,7 +39,7 @@ do
     echo "<li><a href='translation-$langfile.html'>$langfile</a></li>" >> ../translation-index.html
     
 done
-
+rm *.md
 cd ..
 
 
