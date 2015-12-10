@@ -82,6 +82,8 @@
 </tbody>
 </table>
 
+<img src="img/free-scale-translated" alt="{{14}} &mdash; {{15}}" />
+
 {{14}} &mdash; {{15}}. {{17}}
 
 -----
