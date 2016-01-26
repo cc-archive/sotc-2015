@@ -815,5 +815,7 @@ be downloaded at GitHub](<https://github.com/creativecommons/sotc-2015>)
 * [Swedish](translation-xaq.csv.html)
 * [Oriya](translation-xar.csv.html)
 * [French](translation-xas.csv.html)
+* [Arabic](translation-xat.csv.html)
+* [Korean](translation-xau.csv.html)
 
 </footer>
