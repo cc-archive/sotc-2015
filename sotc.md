@@ -102,12 +102,12 @@ count. [Dig into our data sources](data.html#more-than-1-billion-cc-licensed-wor
 
 -----
 
-<nav class="social-share">
-<ul class="nav nav-pills">
-<li><a href="https://www.facebook.com/sharer/sharer.php?u=https://stateof.creativecommons.org/2015/cc-sotc-2015-xx02.html?foo=bar"><img src="https://licensebuttons.net/gi/social-31-facebook.png" alt="">&nbsp; Share on Facebook</a></li>
-<li><a href="https://twitter.com/intent/tweet?source=webclient&amp;text=More+people+are+choosing+to+share+with+free+culture+licenses+stateof.creativecommons.org%2F2015%2Fcc-sotc-2015-xx02.html&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="">&nbsp; Share on Twitter</a></li>
-</ul>
-</nav>
+<!-- <nav class="social-share"> -->
+<!-- <ul class="nav nav-pills"> -->
+<!-- <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://stateof.creativecommons.org/2015/cc-sotc-2015-xx02.html?foo=bar"><img src="https://licensebuttons.net/gi/social-31-facebook.png" alt="">&nbsp; Share on Facebook</a></li> -->
+<!-- <li><a href="https://twitter.com/intent/tweet?source=webclient&amp;text=More+people+are+choosing+to+share+with+free+culture+licenses+stateof.creativecommons.org%2F2015%2Fcc-sotc-2015-xx02.html&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="">&nbsp; Share on Twitter</a></li> -->
+<!-- </ul> -->
+<!-- </nav> -->
 
 <div id="b03" class="bubbles"></div>
 
@@ -229,16 +229,14 @@ Note: Data includes content under the CC0 public domain dedication and
 Public Domain Mark, but not unmarked material in the public
 domain. [Dig into our data sources](data.html#the-public-domain-is-growing).
 
-<div class="fundie"><a target="_blank" href="https://donate.creativecommons.org/?utm_campaign=2015sotc&utm_source=sotc_slide2015">Creative Commons helps to build a more creative, free, and open commons. Please make your donation now to help us meet our year-end goal before our December 31 deadline.</a></div>
-
 -----
 
-<nav class="social-share">
-<ul class="nav nav-pills">
-<li><a href="https://www.facebook.com/sharer/sharer.php?u=https://stateof.creativecommons.org/2015/cc-sotc-2015-xx04.html?foo=bar"><img src="https://licensebuttons.net/gi/social-31-facebook.png" alt="">&nbsp; Share on Facebook</a></li>
-<li><a href="https://twitter.com/intent/tweet?source=webclient&amp;text=In+2015,+CC+licensed+works+were+viewed+online+136+billion+times+stateof.creativecommons.org%2F2015%2Fcc-sotc-2015-xx04.html&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="">&nbsp; Share on Twitter</a></li>
-</ul>
-</nav>
+<!-- <nav class="social-share"> -->
+<!-- <ul class="nav nav-pills"> -->
+<!-- <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://stateof.creativecommons.org/2015/cc-sotc-2015-xx04.html?foo=bar"><img src="https://licensebuttons.net/gi/social-31-facebook.png" alt="">&nbsp; Share on Facebook</a></li> -->
+<!-- <li><a href="https://twitter.com/intent/tweet?source=webclient&amp;text=In+2015,+CC+licensed+works+were+viewed+online+136+billion+times+stateof.creativecommons.org%2F2015%2Fcc-sotc-2015-xx04.html&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="">&nbsp; Share on Twitter</a></li> -->
+<!-- </ul> -->
+<!-- </nav> -->
 
 <div id="b05" class="bubbles"></div>
 
@@ -451,16 +449,14 @@ web. [Dig into our data sources](data.html#from-research-to-cute-cat-photos-the-
 
 Note: Data reflects total CC licensed works on each platform, only 16 websites out of millions. [Dig into our data sources](data.html#cc-is-everywhere-millions-of-websites-use-cc-licenses-including-major-platforms-like-wikipedia-and-flickr-and-smaller-websites-like-your-grandmas-blog.).
 
-<div class="fundie"><a target="_blank" href="https://donate.creativecommons.org/?utm_campaign=2015sotc&utm_source=sotc_slide2015">Creative Commons helps to build a more creative, free, and open commons. Please make your donation now to help us meet our year-end goal before our December 31 deadline.</a></div>
-
 -----
 
-<nav class="social-share">
-<ul class="nav nav-pills">
-<li><a href="https://www.facebook.com/sharer/sharer.php?u=https://stateof.creativecommons.org/2015/cc-sotc-2015-xx08.html?foo=bar"><img src="https://licensebuttons.net/gi/social-31-facebook.png" alt="">&nbsp; Share on Facebook</a></li>
-<li><a href="https://twitter.com/intent/tweet?source=webclient&amp;text=2015+impact+CC+open+education+stateof.creativecommons.org%2F2015%2Fcc-sotc-2015-xx08.html&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="">&nbsp; Share on Twitter</a></li>
-</ul>
-</nav>
+<!-- <nav class="social-share"> -->
+<!-- <ul class="nav nav-pills"> -->
+<!-- <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://stateof.creativecommons.org/2015/cc-sotc-2015-xx08.html?foo=bar"><img src="https://licensebuttons.net/gi/social-31-facebook.png" alt="">&nbsp; Share on Facebook</a></li> -->
+<!-- <li><a href="https://twitter.com/intent/tweet?source=webclient&amp;text=2015+impact+CC+open+education+stateof.creativecommons.org%2F2015%2Fcc-sotc-2015-xx08.html&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="">&nbsp; Share on Twitter</a></li> -->
+<!-- </ul> -->
+<!-- </nav> -->
 
 <div id="b09" class="bubbles"></div>
 
@@ -598,16 +594,14 @@ come.
 
 ###### Building on his invaluable contributions to the commons, Bassel's #NEWPALMYRA project features the 3D models of the ancient ruins of Palmyra, one of Syria's greatest archaeological treasures. The online community platform and data repository is dedicated to the preservation and creative reuse of data about Palmyra. {.by}
 
-<div class="fundie"><a target="_blank" href="https://donate.creativecommons.org/?utm_campaign=2015sotc&utm_source=sotc_slide2015">Creative Commons helps to build a more creative, free, and open commons. Please make your donation now to help us meet our year-end goal before our December 31 deadline.</a></div>
-
 -----
 
-<nav class="social-share">
-<ul class="nav nav-pills">
-<li><a href="https://www.facebook.com/sharer/sharer.php?u=https://stateof.creativecommons.org/2015/cc-sotc-2015-xx11.html?foo=bar"><img src="https://licensebuttons.net/gi/social-31-facebook.png" alt="">&nbsp; Share on Facebook</a></li>
-<li><a href="https://twitter.com/intent/tweet?source=webclient&amp;text=2015+Impact:+Regional+Highlights+stateof.creativecommons.org%2F2015%2Fcc-sotc-2015-xx11.html&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="">&nbsp; Share on Twitter</a></li>
-</ul>
-</nav>
+<!-- <nav class="social-share"> -->
+<!-- <ul class="nav nav-pills"> -->
+<!-- <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://stateof.creativecommons.org/2015/cc-sotc-2015-xx11.html?foo=bar"><img src="https://licensebuttons.net/gi/social-31-facebook.png" alt="">&nbsp; Share on Facebook</a></li> -->
+<!-- <li><a href="https://twitter.com/intent/tweet?source=webclient&amp;text=2015+Impact:+Regional+Highlights+stateof.creativecommons.org%2F2015%2Fcc-sotc-2015-xx11.html&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="">&nbsp; Share on Twitter</a></li> -->
+<!-- </ul> -->
+<!-- </nav> -->
 
 <div id="b12" class="bubbles"></div>
 
@@ -700,12 +694,12 @@ implement open policies.
 
 -----
 
-<nav class="social-share">
-<ul class="nav nav-pills">
-<li><a href="https://www.facebook.com/sharer/sharer.php?u=https://stateof.creativecommons.org/2015/cc-sotc-2015-xx12.html?foo=bar"><img src="https://licensebuttons.net/gi/social-31-facebook.png" alt="">&nbsp; Share on Facebook</a></li>
-<li><a href="https://twitter.com/intent/tweet?source=webclient&amp;text=Thank+You+For+Sharing+stateof.creativecommons.org%2F2015%2Fcc-sotc-2015-xx12.html&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="">&nbsp; Share on Twitter</a></li>
-</ul>
-</nav>
+<!-- <nav class="social-share"> -->
+<!-- <ul class="nav nav-pills"> -->
+<!-- <li><a href="https://www.facebook.com/sharer/sharer.php?u=https://stateof.creativecommons.org/2015/cc-sotc-2015-xx12.html?foo=bar"><img src="https://licensebuttons.net/gi/social-31-facebook.png" alt="">&nbsp; Share on Facebook</a></li> -->
+<!-- <li><a href="https://twitter.com/intent/tweet?source=webclient&amp;text=Thank+You+For+Sharing+stateof.creativecommons.org%2F2015%2Fcc-sotc-2015-xx12.html&via=creativecommons"><img src="https://licensebuttons.net/gi/social-32-twitter.png" alt="">&nbsp; Share on Twitter</a></li> -->
+<!-- </ul> -->
+<!-- </nav> -->
 
 ## Thank You For Sharing! {.bb}
 <div><img src="img/sotc-footer.png" alt="Thank You For Sharing" class="sotc-image sotc-fakeheader" /></div>
